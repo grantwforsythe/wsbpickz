@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <!-- Additional meta tags -->
+    <meta name="description" content="Top stocks currently on WSB">
+    <meta name="keywords" content="Stocks, Memes, Flask, Python">
+    <meta name="author" content="Grant Forsythe">
+    
+    <!-- Bootstrap and DataTables CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/dataTables.bootstrap4.min.css">
+    
+    <!-- Additional style sheets -->
+    <link rel="shortcut icon" href="{{ url_for('static', filename='images/favicon.ico') }}" type="image/x-icon">
+    
+    <title>{% block title %}{% endblock title %}</title>
+  </head>
+  <body>
+
+    <h1 class="display-1 text-center">Most Mentioned Stocks</h1>
+    {% block subheading %}{% endblock subheading %}
+
+    {% block content%}{% endblock content %}
+
+    <footer class="bg-dark text-center text-lg-start text-white">
+      <!-- Copyright -->
+       <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+          View the source code on 
+          <a class="btn-link" href="https://github.com/grantwforsythe/wsbpickz">GitHub</a>.
+       </div>
+    </footer>
+
+    <!-- jQuery, Popper.js, DataTables, and Bootstrap JS -->
+     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
+     <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+     <script src="https://cdn.datatables.net/1.11.3/js/dataTables.bootstrap4.min.js"></script>
+
+     {% block scripts %}{% endblock scripts%}
+  </body>
+</html>

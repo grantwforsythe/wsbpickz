@@ -3,6 +3,7 @@ name: parse-subreddits
 on:
   schedule:
     - cron: '0 * * * *' # runs every hour 
+  workflow_dispatch:
 
 jobs:
   build:

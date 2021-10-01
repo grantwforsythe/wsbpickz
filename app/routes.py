@@ -12,7 +12,7 @@ SUBREDDITS = (
 
 @app.route("/")
 def index():
-    with open('stocks.json', 'r') as f:
+    with open('data/stocks.json', 'r') as f:
         stocks = json.load(f)
 
     return render_template(

@@ -22,7 +22,7 @@ SUBREDDITS = (
 LIMIT = 40
 
 # a text file containing all of the current tickers on the NYSE
-with open('curated_stock_tickers.txt', 'r') as file:
+with open('data/curated_stock_tickers.txt', 'r') as file:
     TICKERS = {line.strip() for line in file.readlines()}
 
 
@@ -60,7 +60,7 @@ def main():
     stocks = sorted(list_of_stock, key=lambda item: item['count'], reverse=True)
 
     obj = {"stocks": stocks, "num_posts": num_posts, "num_comments": num_comments, "datetime": datetime.now().strftime('%B %d %Y at %H:%M EST')}
-    with open('stocks.json', 'w') as file:
+    with open('data/stocks.json', 'w') as file:
         json.dump(obj, file, indent=4)
 
 if __name__ == '__main__':

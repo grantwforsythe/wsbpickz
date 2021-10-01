@@ -1,26 +1,119 @@
 {
-    "stocks": {
-        " GME": 6,
-        " MSFT": 4,
-        " FAMI": 4,
-        " DTE": 3,
-        " AMC": 3,
-        " TSLA": 2,
-        " AMD": 2,
-        " AAPL": 2,
-        " NYC": 2,
-        " DLTR": 2,
-        " PSTH": 2,
-        " MTD": 2,
-        " NVDA": 2,
-        " CRSR": 2,
-        " CRT": 2,
-        " INSI": 2,
-        " TIGR": 2,
-        " KOSS": 2,
-        " CLOV": 2
-    },
+    "stocks": [
+        {
+            "ticker": " GME",
+            "count": 8
+        },
+        {
+            "ticker": " AMC",
+            "count": 8
+        },
+        {
+            "ticker": " MSFT",
+            "count": 6
+        },
+        {
+            "ticker": " AMD",
+            "count": 4
+        },
+        {
+            "ticker": " CLF",
+            "count": 4
+        },
+        {
+            "ticker": " FAMI",
+            "count": 4
+        },
+        {
+            "ticker": " AAPL",
+            "count": 3
+        },
+        {
+            "ticker": " ALIT",
+            "count": 2
+        },
+        {
+            "ticker": " PRPL",
+            "count": 2
+        },
+        {
+            "ticker": " DTE",
+            "count": 2
+        },
+        {
+            "ticker": " ABBV",
+            "count": 2
+        },
+        {
+            "ticker": " ACI",
+            "count": 2
+        },
+        {
+            "ticker": " BNTX",
+            "count": 2
+        },
+        {
+            "ticker": " CCXI",
+            "count": 2
+        },
+        {
+            "ticker": " MRNA",
+            "count": 2
+        },
+        {
+            "ticker": " PFE",
+            "count": 2
+        },
+        {
+            "ticker": " RVNC",
+            "count": 2
+        },
+        {
+            "ticker": " NYC",
+            "count": 2
+        },
+        {
+            "ticker": " DLTR",
+            "count": 2
+        },
+        {
+            "ticker": " PSTH",
+            "count": 2
+        },
+        {
+            "ticker": " DPZ",
+            "count": 2
+        },
+        {
+            "ticker": " VIAC",
+            "count": 2
+        },
+        {
+            "ticker": " CVS",
+            "count": 2
+        },
+        {
+            "ticker": " MTD",
+            "count": 2
+        },
+        {
+            "ticker": " IPA",
+            "count": 2
+        },
+        {
+            "ticker": " NVDA",
+            "count": 2
+        },
+        {
+            "ticker": " PDT",
+            "count": 2
+        },
+        {
+            "ticker": " KOSS",
+            "count": 2
+        }
+    ],
     "num_posts": 20,
-    "num_comments": 528,
-    "datetime": "September 30 2021 at 17:48 EST"
+    "num_comments": 757,
+    "datetime": "September 30 2021 at 23:25 EST"
 }

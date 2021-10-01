@@ -16,9 +16,10 @@
 
 {% block content %}
 <div class="container">
-  <table class="table table-fluid" id="table-stocks">
+  <table class="table table-fluid table-hover table-sm table-bordered" id="table-stocks">
+    <caption>List of Most Mentioned Stocks</caption>
     <thead class="thead-dark">
-      <tr>
+      <tr class="text-center">
         <th scope="col">Index</th>
         <th scope="col">Stock</th>
         <th scope="col">Count</th>
@@ -26,7 +27,7 @@
     </thead>
     <tbody>
       {% for stock in stocks %}
-      <tr>
+      <tr class="text-center">
         <th scope="row">{{ loop.index }}</th>
         <td><a href="https://finance.yahoo.com/quote/{{ stock['ticker'] }}" class="btn btn-link">{{ stock["ticker"] }}</a></td>
         <td>{{ stock["count"] }}</td>

@@ -19,7 +19,7 @@ SUBREDDITS = (
     'wallstreetbetsELITE'
 )
 
-LIMIT = 5
+LIMIT = 40
 
 # a text file containing all of the current tickers on the NYSE
 with open('curated_stock_tickers.txt', 'r') as file:

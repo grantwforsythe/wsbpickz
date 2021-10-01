@@ -25,11 +25,11 @@
       </tr>
     </thead>
     <tbody>
-      {% for stock, count in stocks.items() %}
+      {% for stock in stocks %}
       <tr>
         <th scope="row">{{ loop.index }}</th>
-        <td><a href="https://finance.yahoo.com/quote/{{ stock }}" class="btn btn-link">{{ stock }}</a></td>
-        <td>{{ count }}</td>
+        <td><a href="https://finance.yahoo.com/quote/{{ stock['ticker'] }}" class="btn btn-link">{{ stock["ticker"] }}</a></td>
+        <td>{{ stock["count"] }}</td>
       </tr>
       {% endfor %}
     </tbody>

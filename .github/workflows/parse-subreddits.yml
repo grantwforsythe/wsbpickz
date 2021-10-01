@@ -23,11 +23,11 @@ jobs:
           pip install -r requirements.txt
 
       - name: execute py script # run parse_tickets.py to get the latest data
-        env: 
-          CLIENT_ID: ${{ secrets.CLIENT_ID }}
-          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
-          USER_AGENT: ${{ secrets.USER_AGENT }}
-        run: python parse_tickers.py
+        run: |
+          export CLIENT_ID="${{ secrets.CLIENT_ID }}"
+          export CLIENT_SECRET="${{ secrets.CLIENT_SECRET }}"
+          export USER_AGENT="${{ secrets.USER_AGENT }}"
+          python parse_tickers.py
           
       - name: commit files
         run: |

@@ -2,46 +2,50 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 75
+            "count": 77
         },
         {
             "ticker": " AMC",
-            "count": 47
+            "count": 51
         },
         {
             "ticker": " MRK",
-            "count": 26
+            "count": 25
         },
         {
             "ticker": " AMD",
-            "count": 26
+            "count": 25
         },
         {
             "ticker": " BBBY",
-            "count": 19
+            "count": 20
         },
         {
             "ticker": " AAPL",
-            "count": 19
+            "count": 20
         },
         {
             "ticker": " MSFT",
             "count": 18
         },
         {
-            "ticker": " TSLA",
-            "count": 14
+            "ticker": " SDC",
+            "count": 17
         },
         {
-            "ticker": " SDC",
-            "count": 12
+            "ticker": " TSLA",
+            "count": 16
+        },
+        {
+            "ticker": " SAVA",
+            "count": 14
         },
         {
             "ticker": " MGM",
             "count": 12
         },
         {
-            "ticker": " BABA",
+            "ticker": " PLTR",
             "count": 11
         },
         {
@@ -49,35 +53,23 @@
             "count": 11
         },
         {
-            "ticker": " SAVA",
-            "count": 10
+            "ticker": " UPST",
+            "count": 11
         },
         {
             "ticker": " GOGO",
             "count": 10
         },
         {
-            "ticker": " UPST",
-            "count": 10
-        },
-        {
-            "ticker": " PLTR",
-            "count": 9
-        },
-        {
             "ticker": " CLF",
             "count": 9
         },
         {
-            "ticker": " SKLZ",
-            "count": 8
-        },
-        {
             "ticker": " DTE",
-            "count": 8
+            "count": 9
         },
         {
-            "ticker": " NVDA",
+            "ticker": " SKLZ",
             "count": 8
         },
         {
@@ -86,6 +78,10 @@
         },
         {
             "ticker": " SOFI",
+            "count": 7
+        },
+        {
+            "ticker": " NVDA",
             "count": 7
         },
         {
@@ -99,6 +95,14 @@
         {
             "ticker": " DKNG",
             "count": 6
+        },
+        {
+            "ticker": " GOOG",
+            "count": 5
+        },
+        {
+            "ticker": " BABA",
+            "count": 5
         },
         {
             "ticker": " PFE",
@@ -121,11 +125,15 @@
             "count": 5
         },
         {
-            "ticker": " AMZN",
+            "ticker": " CRTX",
             "count": 4
         },
         {
-            "ticker": " LMFA",
+            "ticker": " VIAC",
+            "count": 4
+        },
+        {
+            "ticker": " AMZN",
             "count": 4
         },
         {
@@ -134,10 +142,6 @@
         },
         {
             "ticker": " BNTX",
-            "count": 4
-        },
-        {
-            "ticker": " CEI",
             "count": 4
         },
         {
@@ -157,12 +161,16 @@
             "count": 4
         },
         {
-            "ticker": " GOOG",
+            "ticker": " WPG",
             "count": 4
         },
         {
-            "ticker": " WPG",
-            "count": 4
+            "ticker": " CTB",
+            "count": 3
+        },
+        {
+            "ticker": " MVIS",
+            "count": 3
         },
         {
             "ticker": " PDT",
@@ -181,15 +189,15 @@
             "count": 3
         },
         {
+            "ticker": " LMFA",
+            "count": 3
+        },
+        {
             "ticker": " ASML",
             "count": 3
         },
         {
             "ticker": " DPZ",
-            "count": 3
-        },
-        {
-            "ticker": " VIAC",
             "count": 3
         },
         {
@@ -206,6 +214,10 @@
         },
         {
             "ticker": " CLOV",
+            "count": 3
+        },
+        {
+            "ticker": " CEI",
             "count": 3
         },
         {
@@ -245,6 +257,10 @@
             "count": 3
         },
         {
+            "ticker": " HOOD",
+            "count": 2
+        },
+        {
             "ticker": " API",
             "count": 2
         },
@@ -254,6 +270,14 @@
         },
         {
             "ticker": " PBTS",
+            "count": 2
+        },
+        {
+            "ticker": " CRIS",
+            "count": 2
+        },
+        {
+            "ticker": " NNDM",
             "count": 2
         },
         {
@@ -269,10 +293,6 @@
             "count": 2
         },
         {
-            "ticker": " CTB",
-            "count": 2
-        },
-        {
             "ticker": " BIDU",
             "count": 2
         },
@@ -285,6 +305,10 @@
             "count": 2
         },
         {
+            "ticker": " YELP",
+            "count": 2
+        },
+        {
             "ticker": " SAIL",
             "count": 2
         },
@@ -293,19 +317,11 @@
             "count": 2
         },
         {
-            "ticker": " ETH",
-            "count": 2
-        },
-        {
-            "ticker": " VIR",
-            "count": 2
-        },
-        {
             "ticker": " NGL",
             "count": 2
         },
         {
-            "ticker": " NVAX",
+            "ticker": " SNAP",
             "count": 2
         },
         {
@@ -350,10 +366,6 @@
         },
         {
             "ticker": " IBKR",
-            "count": 2
-        },
-        {
-            "ticker": " CRTX",
             "count": 2
         },
         {
@@ -557,10 +569,6 @@
             "count": 2
         },
         {
-            "ticker": " MVIS",
-            "count": 2
-        },
-        {
             "ticker": " GWRS",
             "count": 2
         },
@@ -578,6 +586,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7176,
-    "datetime": "October 01 2021 at 16:27 EST"
+    "num_comments": 7377,
+    "datetime": "October 01 2021 at 17:18 EST"
 }

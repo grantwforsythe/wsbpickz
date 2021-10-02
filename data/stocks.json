@@ -2,14 +2,10 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 66
+            "count": 61
         },
         {
             "ticker": " AMC",
-            "count": 31
-        },
-        {
-            "ticker": " AMD",
             "count": 28
         },
         {
@@ -17,31 +13,35 @@
             "count": 27
         },
         {
-            "ticker": " MSFT",
-            "count": 17
+            "ticker": " AMD",
+            "count": 26
         },
         {
-            "ticker": " CLOV",
-            "count": 16
+            "ticker": " SDC",
+            "count": 19
+        },
+        {
+            "ticker": " MSFT",
+            "count": 17
         },
         {
             "ticker": " BBBY",
             "count": 15
         },
         {
-            "ticker": " TSLA",
-            "count": 12
-        },
-        {
-            "ticker": " AAPL",
-            "count": 12
+            "ticker": " CLOV",
+            "count": 13
         },
         {
             "ticker": " MGM",
             "count": 12
         },
         {
-            "ticker": " SDC",
+            "ticker": " AAPL",
+            "count": 11
+        },
+        {
+            "ticker": " TSLA",
             "count": 10
         },
         {
@@ -63,14 +63,6 @@
         {
             "ticker": " NKE",
             "count": 8
-        },
-        {
-            "ticker": " SNDL",
-            "count": 7
-        },
-        {
-            "ticker": " CRSR",
-            "count": 7
         },
         {
             "ticker": " PFE",
@@ -109,14 +101,6 @@
             "count": 6
         },
         {
-            "ticker": " BTU",
-            "count": 5
-        },
-        {
-            "ticker": " BABA",
-            "count": 5
-        },
-        {
             "ticker": " AMZN",
             "count": 5
         },
@@ -141,11 +125,7 @@
             "count": 5
         },
         {
-            "ticker": " NAKD",
-            "count": 4
-        },
-        {
-            "ticker": " OCGN",
+            "ticker": " BABA",
             "count": 4
         },
         {
@@ -189,23 +169,15 @@
             "count": 3
         },
         {
+            "ticker": " BTU",
+            "count": 3
+        },
+        {
             "ticker": " LMFA",
             "count": 3
         },
         {
-            "ticker": " SOS",
-            "count": 3
-        },
-        {
-            "ticker": " WKHS",
-            "count": 3
-        },
-        {
-            "ticker": " RIOT",
-            "count": 3
-        },
-        {
-            "ticker": " INVE",
+            "ticker": " SAVA",
             "count": 3
         },
         {
@@ -269,6 +241,10 @@
             "count": 3
         },
         {
+            "ticker": " NAKD",
+            "count": 3
+        },
+        {
             "ticker": " BAC",
             "count": 3
         },
@@ -298,30 +274,6 @@
         },
         {
             "ticker": " NVAX",
-            "count": 2
-        },
-        {
-            "ticker": " ROOT",
-            "count": 2
-        },
-        {
-            "ticker": " GMED",
-            "count": 2
-        },
-        {
-            "ticker": " SOL",
-            "count": 2
-        },
-        {
-            "ticker": " STON",
-            "count": 2
-        },
-        {
-            "ticker": " EXPE",
-            "count": 2
-        },
-        {
-            "ticker": " MIST",
             "count": 2
         },
         {
@@ -501,10 +453,6 @@
             "count": 2
         },
         {
-            "ticker": " SAVA",
-            "count": 2
-        },
-        {
             "ticker": " PROV",
             "count": 2
         },
@@ -581,6 +529,10 @@
             "count": 2
         },
         {
+            "ticker": " INVE",
+            "count": 2
+        },
+        {
             "ticker": " POSH",
             "count": 2
         },
@@ -646,6 +598,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7343,
-    "datetime": "October 02 2021 at 08:17 EST"
+    "num_comments": 7093,
+    "datetime": "October 02 2021 at 09:17 EST"
 }

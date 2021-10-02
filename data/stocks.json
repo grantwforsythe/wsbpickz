@@ -2,19 +2,19 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 61
+            "count": 58
+        },
+        {
+            "ticker": " AMD",
+            "count": 27
         },
         {
             "ticker": " AMC",
-            "count": 28
+            "count": 27
         },
         {
             "ticker": " MRK",
             "count": 27
-        },
-        {
-            "ticker": " AMD",
-            "count": 26
         },
         {
             "ticker": " SDC",
@@ -30,7 +30,7 @@
         },
         {
             "ticker": " CLOV",
-            "count": 13
+            "count": 12
         },
         {
             "ticker": " MGM",
@@ -257,6 +257,10 @@
             "count": 3
         },
         {
+            "ticker": " NIO",
+            "count": 2
+        },
+        {
             "ticker": " AQMS",
             "count": 2
         },
@@ -270,10 +274,6 @@
         },
         {
             "ticker": " BIDU",
-            "count": 2
-        },
-        {
-            "ticker": " NVAX",
             "count": 2
         },
         {
@@ -598,6 +598,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7093,
-    "datetime": "October 02 2021 at 09:17 EST"
+    "num_comments": 6994,
+    "datetime": "October 02 2021 at 10:17 EST"
 }

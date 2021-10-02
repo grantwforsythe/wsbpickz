@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 70
+            "count": 75
         },
         {
             "ticker": " AMC",
-            "count": 34
+            "count": 38
         },
         {
             "ticker": " MRK",
@@ -18,7 +18,7 @@
         },
         {
             "ticker": " SDC",
-            "count": 19
+            "count": 20
         },
         {
             "ticker": " CLOV",
@@ -39,6 +39,10 @@
         {
             "ticker": " AAPL",
             "count": 10
+        },
+        {
+            "ticker": " PLTR",
+            "count": 8
         },
         {
             "ticker": " CRSR",
@@ -69,10 +73,6 @@
             "count": 7
         },
         {
-            "ticker": " PLTR",
-            "count": 7
-        },
-        {
             "ticker": " CLF",
             "count": 7
         },
@@ -86,6 +86,10 @@
         },
         {
             "ticker": " GOOG",
+            "count": 6
+        },
+        {
+            "ticker": " ROKU",
             "count": 6
         },
         {
@@ -109,10 +113,6 @@
             "count": 5
         },
         {
-            "ticker": " ROKU",
-            "count": 5
-        },
-        {
             "ticker": " NVDA",
             "count": 5
         },
@@ -126,6 +126,10 @@
         },
         {
             "ticker": " FAMI",
+            "count": 5
+        },
+        {
+            "ticker": " CIA",
             "count": 5
         },
         {
@@ -161,11 +165,7 @@
             "count": 4
         },
         {
-            "ticker": " CIA",
-            "count": 4
-        },
-        {
-            "ticker": " GOEV",
+            "ticker": " PDAC",
             "count": 3
         },
         {
@@ -253,6 +253,10 @@
             "count": 3
         },
         {
+            "ticker": " PLT",
+            "count": 2
+        },
+        {
             "ticker": " AQMS",
             "count": 2
         },
@@ -274,6 +278,10 @@
         },
         {
             "ticker": " BIDU",
+            "count": 2
+        },
+        {
+            "ticker": " ALGN",
             "count": 2
         },
         {
@@ -317,11 +325,15 @@
             "count": 2
         },
         {
+            "ticker": " NHS",
+            "count": 2
+        },
+        {
             "ticker": " TSM",
             "count": 2
         },
         {
-            "ticker": " NHS",
+            "ticker": " PACB",
             "count": 2
         },
         {
@@ -333,7 +345,23 @@
             "count": 2
         },
         {
-            "ticker": " PACB",
+            "ticker": " AMG",
+            "count": 2
+        },
+        {
+            "ticker": " API",
+            "count": 2
+        },
+        {
+            "ticker": " FCX",
+            "count": 2
+        },
+        {
+            "ticker": " REG",
+            "count": 2
+        },
+        {
+            "ticker": " TRGP",
             "count": 2
         },
         {
@@ -362,10 +390,6 @@
         },
         {
             "ticker": " SNAP",
-            "count": 2
-        },
-        {
-            "ticker": " PDAC",
             "count": 2
         },
         {
@@ -521,6 +545,10 @@
             "count": 2
         },
         {
+            "ticker": " GOEV",
+            "count": 2
+        },
+        {
             "ticker": " OXY",
             "count": 2
         },
@@ -602,6 +630,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7265,
-    "datetime": "October 02 2021 at 13:17 EST"
+    "num_comments": 7387,
+    "datetime": "October 02 2021 at 14:16 EST"
 }

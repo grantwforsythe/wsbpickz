@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 59
+            "count": 68
         },
         {
             "ticker": " AMC",
-            "count": 31
+            "count": 33
         },
         {
             "ticker": " MRK",
@@ -18,11 +18,15 @@
         },
         {
             "ticker": " AMD",
-            "count": 18
+            "count": 23
         },
         {
             "ticker": " CLOV",
-            "count": 17
+            "count": 18
+        },
+        {
+            "ticker": " TSLA",
+            "count": 12
         },
         {
             "ticker": " MSFT",
@@ -33,16 +37,8 @@
             "count": 12
         },
         {
-            "ticker": " TSLA",
-            "count": 10
-        },
-        {
-            "ticker": " AAPL",
-            "count": 9
-        },
-        {
             "ticker": " GDP",
-            "count": 8
+            "count": 9
         },
         {
             "ticker": " PLTR",
@@ -53,11 +49,23 @@
             "count": 8
         },
         {
+            "ticker": " AAPL",
+            "count": 8
+        },
+        {
             "ticker": " MSM",
             "count": 8
         },
         {
+            "ticker": " GOOG",
+            "count": 7
+        },
+        {
             "ticker": " PFE",
+            "count": 7
+        },
+        {
+            "ticker": " NVDA",
             "count": 7
         },
         {
@@ -77,7 +85,7 @@
             "count": 7
         },
         {
-            "ticker": " GOOG",
+            "ticker": " BABA",
             "count": 6
         },
         {
@@ -93,15 +101,11 @@
             "count": 6
         },
         {
-            "ticker": " BABA",
-            "count": 5
-        },
-        {
             "ticker": " AMZN",
             "count": 5
         },
         {
-            "ticker": " NVDA",
+            "ticker": " PEG",
             "count": 5
         },
         {
@@ -149,7 +153,15 @@
             "count": 3
         },
         {
+            "ticker": " NVAX",
+            "count": 3
+        },
+        {
             "ticker": " LMFA",
+            "count": 3
+        },
+        {
+            "ticker": " SAVA",
             "count": 3
         },
         {
@@ -245,10 +257,6 @@
             "count": 2
         },
         {
-            "ticker": " NVAX",
-            "count": 2
-        },
-        {
             "ticker": " BMI",
             "count": 2
         },
@@ -270,6 +278,10 @@
         },
         {
             "ticker": " ALGN",
+            "count": 2
+        },
+        {
+            "ticker": " BYND",
             "count": 2
         },
         {
@@ -453,10 +465,6 @@
             "count": 2
         },
         {
-            "ticker": " SAVA",
-            "count": 2
-        },
-        {
             "ticker": " PROV",
             "count": 2
         },
@@ -533,11 +541,15 @@
             "count": 2
         },
         {
+            "ticker": " BMRA",
+            "count": 2
+        },
+        {
             "ticker": " ABC",
             "count": 2
         }
     ],
     "num_posts": 160,
-    "num_comments": 6540,
-    "datetime": "October 02 2021 at 18:17 EST"
+    "num_comments": 7057,
+    "datetime": "October 02 2021 at 19:09 EST"
 }

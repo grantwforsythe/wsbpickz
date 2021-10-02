@@ -2,15 +2,11 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 77
+            "count": 79
         },
         {
             "ticker": " AMC",
-            "count": 31
-        },
-        {
-            "ticker": " AMD",
-            "count": 28
+            "count": 32
         },
         {
             "ticker": " MRK",
@@ -18,7 +14,15 @@
         },
         {
             "ticker": " SDC",
+            "count": 24
+        },
+        {
+            "ticker": " AMD",
             "count": 22
+        },
+        {
+            "ticker": " CLOV",
+            "count": 18
         },
         {
             "ticker": " MSFT",
@@ -37,15 +41,15 @@
             "count": 10
         },
         {
-            "ticker": " NVDA",
+            "ticker": " BABA",
+            "count": 10
+        },
+        {
+            "ticker": " SOFI",
             "count": 10
         },
         {
             "ticker": " WTI",
-            "count": 9
-        },
-        {
-            "ticker": " BABA",
             "count": 9
         },
         {
@@ -54,10 +58,6 @@
         },
         {
             "ticker": " CIA",
-            "count": 8
-        },
-        {
-            "ticker": " CLOV",
             "count": 8
         },
         {
@@ -79,6 +79,10 @@
         {
             "ticker": " MSM",
             "count": 8
+        },
+        {
+            "ticker": " ROKU",
+            "count": 7
         },
         {
             "ticker": " GOOG",
@@ -105,7 +109,11 @@
             "count": 7
         },
         {
-            "ticker": " ROKU",
+            "ticker": " AMZN",
+            "count": 6
+        },
+        {
+            "ticker": " NVDA",
             "count": 6
         },
         {
@@ -113,15 +121,7 @@
             "count": 6
         },
         {
-            "ticker": " AMZN",
-            "count": 5
-        },
-        {
-            "ticker": " PEG",
-            "count": 5
-        },
-        {
-            "ticker": " SOFI",
+            "ticker": " IPA",
             "count": 5
         },
         {
@@ -177,7 +177,15 @@
             "count": 3
         },
         {
+            "ticker": " BASI",
+            "count": 3
+        },
+        {
             "ticker": " WMT",
+            "count": 3
+        },
+        {
+            "ticker": " OLED",
             "count": 3
         },
         {
@@ -281,6 +289,10 @@
             "count": 2
         },
         {
+            "ticker": " VIE",
+            "count": 2
+        },
+        {
             "ticker": " NYT",
             "count": 2
         },
@@ -337,7 +349,19 @@
             "count": 2
         },
         {
+            "ticker": " SNDL",
+            "count": 2
+        },
+        {
             "ticker": " ALGN",
+            "count": 2
+        },
+        {
+            "ticker": " UNH",
+            "count": 2
+        },
+        {
+            "ticker": " HUM",
             "count": 2
         },
         {
@@ -346,6 +370,10 @@
         },
         {
             "ticker": " CCJ",
+            "count": 2
+        },
+        {
+            "ticker": " PROF",
             "count": 2
         },
         {
@@ -381,7 +409,11 @@
             "count": 2
         },
         {
-            "ticker": " OLED",
+            "ticker": " FUTU",
+            "count": 2
+        },
+        {
+            "ticker": " COMM",
             "count": 2
         },
         {
@@ -398,10 +430,6 @@
         },
         {
             "ticker": " NSA",
-            "count": 2
-        },
-        {
-            "ticker": " BASI",
             "count": 2
         },
         {
@@ -442,10 +470,6 @@
         },
         {
             "ticker": " MTD",
-            "count": 2
-        },
-        {
-            "ticker": " IPA",
             "count": 2
         },
         {
@@ -505,11 +529,11 @@
             "count": 2
         },
         {
-            "ticker": " SSD",
+            "ticker": " TWLO",
             "count": 2
         },
         {
-            "ticker": " TWLO",
+            "ticker": " SSD",
             "count": 2
         },
         {
@@ -654,6 +678,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7904,
-    "datetime": "October 02 2021 at 22:17 EST"
+    "num_comments": 8187,
+    "datetime": "October 02 2021 at 23:17 EST"
 }

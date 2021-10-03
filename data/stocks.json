@@ -2,34 +2,34 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 85
+            "count": 90
         },
         {
             "ticker": " AMC",
-            "count": 34
+            "count": 36
         },
         {
             "ticker": " MRK",
             "count": 27
         },
         {
+            "ticker": " TSLA",
+            "count": 25
+        },
+        {
             "ticker": " AMD",
             "count": 22
         },
         {
-            "ticker": " TSLA",
-            "count": 15
+            "ticker": " BBBY",
+            "count": 14
         },
         {
             "ticker": " MSFT",
             "count": 14
         },
         {
-            "ticker": " BBBY",
-            "count": 13
-        },
-        {
-            "ticker": " GDP",
+            "ticker": " AAPL",
             "count": 10
         },
         {
@@ -37,27 +37,23 @@
             "count": 9
         },
         {
-            "ticker": " BABA",
+            "ticker": " GDP",
             "count": 9
         },
         {
-            "ticker": " AAPL",
+            "ticker": " CLOV",
             "count": 9
         },
         {
-            "ticker": " SOFI",
-            "count": 9
+            "ticker": " PFE",
+            "count": 8
         },
         {
             "ticker": " ROKU",
             "count": 8
         },
         {
-            "ticker": " CLOV",
-            "count": 8
-        },
-        {
-            "ticker": " SDC",
+            "ticker": " BABA",
             "count": 8
         },
         {
@@ -77,15 +73,7 @@
             "count": 8
         },
         {
-            "ticker": " GOOG",
-            "count": 7
-        },
-        {
             "ticker": " MRNA",
-            "count": 7
-        },
-        {
-            "ticker": " PFE",
             "count": 7
         },
         {
@@ -101,11 +89,19 @@
             "count": 7
         },
         {
+            "ticker": " SOFI",
+            "count": 6
+        },
+        {
             "ticker": " CIA",
             "count": 6
         },
         {
             "ticker": " NVDA",
+            "count": 6
+        },
+        {
+            "ticker": " GOOG",
             "count": 6
         },
         {
@@ -123,6 +119,10 @@
         {
             "ticker": " THC",
             "count": 5
+        },
+        {
+            "ticker": " BAC",
+            "count": 4
         },
         {
             "ticker": " TDA",
@@ -145,6 +145,10 @@
             "count": 4
         },
         {
+            "ticker": " SDC",
+            "count": 4
+        },
+        {
             "ticker": " FAMI",
             "count": 4
         },
@@ -153,7 +157,7 @@
             "count": 4
         },
         {
-            "ticker": " BAC",
+            "ticker": " TTM",
             "count": 3
         },
         {
@@ -162,6 +166,10 @@
         },
         {
             "ticker": " NIO",
+            "count": 3
+        },
+        {
+            "ticker": " MOMO",
             "count": 3
         },
         {
@@ -178,6 +186,10 @@
         },
         {
             "ticker": " PDAC",
+            "count": 3
+        },
+        {
+            "ticker": " BYND",
             "count": 3
         },
         {
@@ -285,15 +297,19 @@
             "count": 2
         },
         {
+            "ticker": " NOK",
+            "count": 2
+        },
+        {
             "ticker": " UPS",
             "count": 2
         },
         {
-            "ticker": " VIE",
+            "ticker": " RETA",
             "count": 2
         },
         {
-            "ticker": " MOMO",
+            "ticker": " VIE",
             "count": 2
         },
         {
@@ -330,26 +346,6 @@
         },
         {
             "ticker": " JMIA",
-            "count": 2
-        },
-        {
-            "ticker": " NVAX",
-            "count": 2
-        },
-        {
-            "ticker": " BMI",
-            "count": 2
-        },
-        {
-            "ticker": " TEVA",
-            "count": 2
-        },
-        {
-            "ticker": " RETA",
-            "count": 2
-        },
-        {
-            "ticker": " BYND",
             "count": 2
         },
         {
@@ -654,6 +650,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8250,
-    "datetime": "October 03 2021 at 00:47 EST"
+    "num_comments": 8314,
+    "datetime": "October 03 2021 at 01:59 EST"
 }

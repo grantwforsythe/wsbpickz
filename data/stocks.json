@@ -2,19 +2,19 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 90
+            "count": 91
         },
         {
             "ticker": " AMC",
-            "count": 36
+            "count": 37
+        },
+        {
+            "ticker": " TSLA",
+            "count": 31
         },
         {
             "ticker": " MRK",
             "count": 27
-        },
-        {
-            "ticker": " TSLA",
-            "count": 25
         },
         {
             "ticker": " AMD",
@@ -22,31 +22,31 @@
         },
         {
             "ticker": " BBBY",
-            "count": 14
+            "count": 15
         },
         {
             "ticker": " MSFT",
             "count": 14
         },
         {
+            "ticker": " GDP",
+            "count": 10
+        },
+        {
             "ticker": " AAPL",
             "count": 10
+        },
+        {
+            "ticker": " PFE",
+            "count": 9
         },
         {
             "ticker": " WTI",
             "count": 9
         },
         {
-            "ticker": " GDP",
-            "count": 9
-        },
-        {
             "ticker": " CLOV",
             "count": 9
-        },
-        {
-            "ticker": " PFE",
-            "count": 8
         },
         {
             "ticker": " ROKU",
@@ -129,10 +129,6 @@
             "count": 4
         },
         {
-            "ticker": " BTU",
-            "count": 4
-        },
-        {
             "ticker": " SKLZ",
             "count": 4
         },
@@ -182,10 +178,6 @@
         },
         {
             "ticker": " ACB",
-            "count": 3
-        },
-        {
-            "ticker": " PDAC",
             "count": 3
         },
         {
@@ -317,6 +309,10 @@
             "count": 2
         },
         {
+            "ticker": " ETO",
+            "count": 2
+        },
+        {
             "ticker": " KOR",
             "count": 2
         },
@@ -334,18 +330,6 @@
         },
         {
             "ticker": " MANU",
-            "count": 2
-        },
-        {
-            "ticker": " AQMS",
-            "count": 2
-        },
-        {
-            "ticker": " CPA",
-            "count": 2
-        },
-        {
-            "ticker": " JMIA",
             "count": 2
         },
         {
@@ -382,6 +366,10 @@
         },
         {
             "ticker": " ARCH",
+            "count": 2
+        },
+        {
+            "ticker": " BTU",
             "count": 2
         },
         {
@@ -426,6 +414,10 @@
         },
         {
             "ticker": " SNAP",
+            "count": 2
+        },
+        {
+            "ticker": " PDAC",
             "count": 2
         },
         {
@@ -650,6 +642,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8314,
-    "datetime": "October 03 2021 at 01:59 EST"
+    "num_comments": 8445,
+    "datetime": "October 03 2021 at 02:36 EST"
 }

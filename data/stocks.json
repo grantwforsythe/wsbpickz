@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 94
+            "count": 98
         },
         {
             "ticker": " AMC",
-            "count": 44
+            "count": 47
         },
         {
             "ticker": " TSLA",
-            "count": 37
+            "count": 43
         },
         {
             "ticker": " MRK",
@@ -22,14 +22,18 @@
         },
         {
             "ticker": " BBBY",
-            "count": 13
+            "count": 14
+        },
+        {
+            "ticker": " BABA",
+            "count": 12
         },
         {
             "ticker": " MSFT",
             "count": 12
         },
         {
-            "ticker": " BABA",
+            "ticker": " GDP",
             "count": 11
         },
         {
@@ -45,8 +49,8 @@
             "count": 9
         },
         {
-            "ticker": " DTE",
-            "count": 8
+            "ticker": " CLOV",
+            "count": 9
         },
         {
             "ticker": " PLTR",
@@ -61,11 +65,15 @@
             "count": 8
         },
         {
-            "ticker": " NYC",
-            "count": 8
+            "ticker": " MRNA",
+            "count": 7
         },
         {
-            "ticker": " MRNA",
+            "ticker": " DTE",
+            "count": 7
+        },
+        {
+            "ticker": " NYC",
             "count": 7
         },
         {
@@ -101,20 +109,12 @@
             "count": 6
         },
         {
-            "ticker": " GDP",
-            "count": 5
-        },
-        {
-            "ticker": " CLOV",
+            "ticker": " AMZN",
             "count": 5
         },
         {
             "ticker": " NKE",
             "count": 5
-        },
-        {
-            "ticker": " NIO",
-            "count": 4
         },
         {
             "ticker": " BAC",
@@ -125,7 +125,7 @@
             "count": 4
         },
         {
-            "ticker": " AMZN",
+            "ticker": " NIO",
             "count": 4
         },
         {
@@ -157,7 +157,23 @@
             "count": 3
         },
         {
+            "ticker": " NFLX",
+            "count": 3
+        },
+        {
             "ticker": " MOMO",
+            "count": 3
+        },
+        {
+            "ticker": " JPM",
+            "count": 3
+        },
+        {
+            "ticker": " GPS",
+            "count": 3
+        },
+        {
+            "ticker": " ACB",
             "count": 3
         },
         {
@@ -269,18 +285,6 @@
             "count": 2
         },
         {
-            "ticker": " GENE",
-            "count": 2
-        },
-        {
-            "ticker": " TDOC",
-            "count": 2
-        },
-        {
-            "ticker": " FUNC",
-            "count": 2
-        },
-        {
             "ticker": " IBM",
             "count": 2
         },
@@ -305,7 +309,7 @@
             "count": 2
         },
         {
-            "ticker": " NFLX",
+            "ticker": " BMRN",
             "count": 2
         },
         {
@@ -326,6 +330,26 @@
         },
         {
             "ticker": " ETO",
+            "count": 2
+        },
+        {
+            "ticker": " KOR",
+            "count": 2
+        },
+        {
+            "ticker": " UBS",
+            "count": 2
+        },
+        {
+            "ticker": " CME",
+            "count": 2
+        },
+        {
+            "ticker": " HSBC",
+            "count": 2
+        },
+        {
+            "ticker": " MANU",
             "count": 2
         },
         {
@@ -449,10 +473,6 @@
             "count": 2
         },
         {
-            "ticker": " JPM",
-            "count": 2
-        },
-        {
             "ticker": " IBKR",
             "count": 2
         },
@@ -470,10 +490,6 @@
         },
         {
             "ticker": " GOGO",
-            "count": 2
-        },
-        {
-            "ticker": " GPS",
             "count": 2
         },
         {
@@ -585,10 +601,6 @@
             "count": 2
         },
         {
-            "ticker": " ACB",
-            "count": 2
-        },
-        {
             "ticker": " RIO",
             "count": 2
         },
@@ -618,6 +630,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7727,
-    "datetime": "October 03 2021 at 05:16 EST"
+    "num_comments": 8779,
+    "datetime": "October 03 2021 at 06:17 EST"
 }

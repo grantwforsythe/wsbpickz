@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 101
+            "count": 105
         },
         {
             "ticker": " AMC",
@@ -10,7 +10,7 @@
         },
         {
             "ticker": " TSLA",
-            "count": 41
+            "count": 45
         },
         {
             "ticker": " MRK",
@@ -23,10 +23,6 @@
         {
             "ticker": " BBBY",
             "count": 13
-        },
-        {
-            "ticker": " BABA",
-            "count": 12
         },
         {
             "ticker": " MSFT",
@@ -73,15 +69,7 @@
             "count": 7
         },
         {
-            "ticker": " GDP",
-            "count": 6
-        },
-        {
             "ticker": " IPA",
-            "count": 6
-        },
-        {
-            "ticker": " CIA",
             "count": 6
         },
         {
@@ -105,6 +93,14 @@
             "count": 6
         },
         {
+            "ticker": " GDP",
+            "count": 5
+        },
+        {
+            "ticker": " CIA",
+            "count": 5
+        },
+        {
             "ticker": " CLOV",
             "count": 5
         },
@@ -115,6 +111,10 @@
         {
             "ticker": " SOFI",
             "count": 5
+        },
+        {
+            "ticker": " FSD",
+            "count": 4
         },
         {
             "ticker": " BAC",
@@ -153,7 +153,7 @@
             "count": 4
         },
         {
-            "ticker": " FSD",
+            "ticker": " GOEV",
             "count": 3
         },
         {
@@ -170,14 +170,6 @@
         },
         {
             "ticker": " BMRN",
-            "count": 3
-        },
-        {
-            "ticker": " NIO",
-            "count": 3
-        },
-        {
-            "ticker": " MOMO",
             "count": 3
         },
         {
@@ -281,6 +273,10 @@
             "count": 3
         },
         {
+            "ticker": " RTX",
+            "count": 2
+        },
+        {
             "ticker": " SNDL",
             "count": 2
         },
@@ -293,7 +289,15 @@
             "count": 2
         },
         {
+            "ticker": " ACH",
+            "count": 2
+        },
+        {
             "ticker": " FCF",
+            "count": 2
+        },
+        {
+            "ticker": " CFR",
             "count": 2
         },
         {
@@ -333,15 +337,11 @@
             "count": 2
         },
         {
+            "ticker": " NIO",
+            "count": 2
+        },
+        {
             "ticker": " UPS",
-            "count": 2
-        },
-        {
-            "ticker": " RETA",
-            "count": 2
-        },
-        {
-            "ticker": " VIE",
             "count": 2
         },
         {
@@ -410,6 +410,10 @@
         },
         {
             "ticker": " NSA",
+            "count": 2
+        },
+        {
+            "ticker": " BABA",
             "count": 2
         },
         {
@@ -625,15 +629,11 @@
             "count": 2
         },
         {
-            "ticker": " GOEV",
-            "count": 2
-        },
-        {
             "ticker": " BMRA",
             "count": 2
         }
     ],
     "num_posts": 160,
-    "num_comments": 8329,
-    "datetime": "October 03 2021 at 12:17 EST"
+    "num_comments": 8186,
+    "datetime": "October 03 2021 at 13:17 EST"
 }

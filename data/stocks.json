@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 105
+            "count": 104
         },
         {
             "ticker": " AMC",
-            "count": 52
+            "count": 53
         },
         {
             "ticker": " TSLA",
-            "count": 45
+            "count": 42
         },
         {
             "ticker": " MRK",
@@ -33,6 +33,10 @@
             "count": 11
         },
         {
+            "ticker": " PLTR",
+            "count": 10
+        },
+        {
             "ticker": " LNG",
             "count": 10
         },
@@ -43,10 +47,6 @@
         {
             "ticker": " WTI",
             "count": 9
-        },
-        {
-            "ticker": " PLTR",
-            "count": 8
         },
         {
             "ticker": " BNTX",
@@ -67,6 +67,10 @@
         {
             "ticker": " NYC",
             "count": 7
+        },
+        {
+            "ticker": " NKE",
+            "count": 6
         },
         {
             "ticker": " IPA",
@@ -93,11 +97,15 @@
             "count": 6
         },
         {
+            "ticker": " FSD",
+            "count": 5
+        },
+        {
             "ticker": " GDP",
             "count": 5
         },
         {
-            "ticker": " CIA",
+            "ticker": " BAC",
             "count": 5
         },
         {
@@ -105,23 +113,27 @@
             "count": 5
         },
         {
-            "ticker": " NKE",
-            "count": 5
-        },
-        {
             "ticker": " SOFI",
             "count": 5
         },
         {
-            "ticker": " FSD",
+            "ticker": " JPM",
             "count": 4
         },
         {
-            "ticker": " BAC",
+            "ticker": " WMT",
+            "count": 4
+        },
+        {
+            "ticker": " XOM",
             "count": 4
         },
         {
             "ticker": " TDA",
+            "count": 4
+        },
+        {
+            "ticker": " CIA",
             "count": 4
         },
         {
@@ -153,6 +165,10 @@
             "count": 4
         },
         {
+            "ticker": " TGT",
+            "count": 3
+        },
+        {
             "ticker": " GOEV",
             "count": 3
         },
@@ -173,19 +189,11 @@
             "count": 3
         },
         {
-            "ticker": " JPM",
-            "count": 3
-        },
-        {
             "ticker": " BYND",
             "count": 3
         },
         {
             "ticker": " BASI",
-            "count": 3
-        },
-        {
-            "ticker": " WMT",
             "count": 3
         },
         {
@@ -210,10 +218,6 @@
         },
         {
             "ticker": " INTC",
-            "count": 3
-        },
-        {
-            "ticker": " XOM",
             "count": 3
         },
         {
@@ -273,6 +277,14 @@
             "count": 3
         },
         {
+            "ticker": " CERT",
+            "count": 2
+        },
+        {
+            "ticker": " ARGO",
+            "count": 2
+        },
+        {
             "ticker": " RTX",
             "count": 2
         },
@@ -309,6 +321,10 @@
             "count": 2
         },
         {
+            "ticker": " VERI",
+            "count": 2
+        },
+        {
             "ticker": " IBM",
             "count": 2
         },
@@ -334,14 +350,6 @@
         },
         {
             "ticker": " NFLX",
-            "count": 2
-        },
-        {
-            "ticker": " NIO",
-            "count": 2
-        },
-        {
-            "ticker": " UPS",
             "count": 2
         },
         {
@@ -501,10 +509,6 @@
             "count": 2
         },
         {
-            "ticker": " TGT",
-            "count": 2
-        },
-        {
             "ticker": " IRBT",
             "count": 2
         },
@@ -634,6 +638,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8186,
-    "datetime": "October 03 2021 at 13:17 EST"
+    "num_comments": 7908,
+    "datetime": "October 03 2021 at 14:16 EST"
 }

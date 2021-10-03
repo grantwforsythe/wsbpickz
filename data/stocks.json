@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 91
+            "count": 93
         },
         {
             "ticker": " AMC",
-            "count": 37
+            "count": 40
         },
         {
             "ticker": " TSLA",
-            "count": 31
+            "count": 34
         },
         {
             "ticker": " MRK",
@@ -61,6 +61,10 @@
             "count": 8
         },
         {
+            "ticker": " MRNA",
+            "count": 8
+        },
+        {
             "ticker": " BNTX",
             "count": 8
         },
@@ -71,10 +75,6 @@
         {
             "ticker": " NKE",
             "count": 8
-        },
-        {
-            "ticker": " MRNA",
-            "count": 7
         },
         {
             "ticker": " UPST",
@@ -158,6 +158,10 @@
         },
         {
             "ticker": " CTB",
+            "count": 3
+        },
+        {
+            "ticker": " NFLX",
             "count": 3
         },
         {
@@ -281,6 +285,22 @@
             "count": 3
         },
         {
+            "ticker": " GENE",
+            "count": 2
+        },
+        {
+            "ticker": " TDOC",
+            "count": 2
+        },
+        {
+            "ticker": " FUNC",
+            "count": 2
+        },
+        {
+            "ticker": " IBM",
+            "count": 2
+        },
+        {
             "ticker": " LYFT",
             "count": 2
         },
@@ -314,10 +334,6 @@
         },
         {
             "ticker": " KOR",
-            "count": 2
-        },
-        {
-            "ticker": " NFLX",
             "count": 2
         },
         {
@@ -642,6 +658,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8445,
-    "datetime": "October 03 2021 at 02:36 EST"
+    "num_comments": 8698,
+    "datetime": "October 03 2021 at 03:17 EST"
 }

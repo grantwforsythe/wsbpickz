@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 118
+            "count": 121
         },
         {
             "ticker": " AMC",
@@ -13,11 +13,19 @@
             "count": 24
         },
         {
+            "ticker": " TSLA",
+            "count": 16
+        },
+        {
+            "ticker": " MSFT",
+            "count": 16
+        },
+        {
             "ticker": " AMD",
             "count": 16
         },
         {
-            "ticker": " TSLA",
+            "ticker": " BABA",
             "count": 14
         },
         {
@@ -29,20 +37,16 @@
             "count": 13
         },
         {
-            "ticker": " MSFT",
-            "count": 12
-        },
-        {
             "ticker": " AAPL",
             "count": 11
         },
         {
-            "ticker": " NYC",
+            "ticker": " SOFI",
             "count": 10
         },
         {
-            "ticker": " SOFI",
-            "count": 9
+            "ticker": " NYC",
+            "count": 10
         },
         {
             "ticker": " CLOV",
@@ -57,15 +61,11 @@
             "count": 9
         },
         {
-            "ticker": " BABA",
-            "count": 7
-        },
-        {
-            "ticker": " BAC",
-            "count": 7
-        },
-        {
             "ticker": " BNTX",
+            "count": 8
+        },
+        {
+            "ticker": " TLRY",
             "count": 7
         },
         {
@@ -81,6 +81,10 @@
             "count": 6
         },
         {
+            "ticker": " BAC",
+            "count": 6
+        },
+        {
             "ticker": " GOOG",
             "count": 6
         },
@@ -93,7 +97,7 @@
             "count": 6
         },
         {
-            "ticker": " TLRY",
+            "ticker": " SDC",
             "count": 5
         },
         {
@@ -133,12 +137,12 @@
             "count": 4
         },
         {
-            "ticker": " SDC",
+            "ticker": " FAMI",
             "count": 4
         },
         {
-            "ticker": " FAMI",
-            "count": 4
+            "ticker": " AIRC",
+            "count": 3
         },
         {
             "ticker": " CCJ",
@@ -249,6 +253,10 @@
             "count": 3
         },
         {
+            "ticker": " CGC",
+            "count": 2
+        },
+        {
             "ticker": " VIR",
             "count": 2
         },
@@ -261,19 +269,19 @@
             "count": 2
         },
         {
+            "ticker": " STMP",
+            "count": 2
+        },
+        {
+            "ticker": " TIMB",
+            "count": 2
+        },
+        {
             "ticker": " RIOT",
             "count": 2
         },
         {
             "ticker": " MSTR",
-            "count": 2
-        },
-        {
-            "ticker": " GRUB",
-            "count": 2
-        },
-        {
-            "ticker": " GSK",
             "count": 2
         },
         {
@@ -317,11 +325,11 @@
             "count": 2
         },
         {
-            "ticker": " BBQ",
+            "ticker": " DOCT",
             "count": 2
         },
         {
-            "ticker": " DOCT",
+            "ticker": " BBQ",
             "count": 2
         },
         {
@@ -610,6 +618,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7467,
-    "datetime": "October 04 2021 at 11:15 EST"
+    "num_comments": 7705,
+    "datetime": "October 04 2021 at 12:18 EST"
 }

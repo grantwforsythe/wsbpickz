@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 108
+            "count": 114
         },
         {
             "ticker": " AMC",
-            "count": 56
+            "count": 57
         },
         {
             "ticker": " MRK",
@@ -14,19 +14,19 @@
         },
         {
             "ticker": " AMD",
-            "count": 20
+            "count": 21
         },
         {
             "ticker": " MSFT",
             "count": 15
         },
         {
-            "ticker": " BBBY",
-            "count": 13
+            "ticker": " TSLA",
+            "count": 14
         },
         {
-            "ticker": " TSLA",
-            "count": 12
+            "ticker": " BBBY",
+            "count": 13
         },
         {
             "ticker": " AAPL",
@@ -41,6 +41,10 @@
             "count": 10
         },
         {
+            "ticker": " CLOV",
+            "count": 9
+        },
+        {
             "ticker": " DLTR",
             "count": 9
         },
@@ -53,7 +57,7 @@
             "count": 8
         },
         {
-            "ticker": " CLOV",
+            "ticker": " DTE",
             "count": 8
         },
         {
@@ -73,10 +77,6 @@
             "count": 7
         },
         {
-            "ticker": " DTE",
-            "count": 7
-        },
-        {
             "ticker": " BAC",
             "count": 6
         },
@@ -87,6 +87,10 @@
         {
             "ticker": " UPST",
             "count": 6
+        },
+        {
+            "ticker": " GDP",
+            "count": 5
         },
         {
             "ticker": " RKT",
@@ -129,10 +133,6 @@
             "count": 4
         },
         {
-            "ticker": " GDP",
-            "count": 4
-        },
-        {
             "ticker": " SDC",
             "count": 4
         },
@@ -142,10 +142,6 @@
         },
         {
             "ticker": " FAMI",
-            "count": 4
-        },
-        {
-            "ticker": " BDC",
             "count": 4
         },
         {
@@ -265,6 +261,10 @@
             "count": 3
         },
         {
+            "ticker": " USFD",
+            "count": 2
+        },
+        {
             "ticker": " SHEN",
             "count": 2
         },
@@ -282,6 +282,18 @@
         },
         {
             "ticker": " APHA",
+            "count": 2
+        },
+        {
+            "ticker": " CASI",
+            "count": 2
+        },
+        {
+            "ticker": " VIE",
+            "count": 2
+        },
+        {
+            "ticker": " NIO",
             "count": 2
         },
         {
@@ -585,14 +597,6 @@
             "count": 2
         },
         {
-            "ticker": " CSWC",
-            "count": 2
-        },
-        {
-            "ticker": " NEWT",
-            "count": 2
-        },
-        {
             "ticker": " MSM",
             "count": 2
         },
@@ -602,6 +606,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7313,
-    "datetime": "October 04 2021 at 06:17 EST"
+    "num_comments": 7912,
+    "datetime": "October 04 2021 at 07:17 EST"
 }

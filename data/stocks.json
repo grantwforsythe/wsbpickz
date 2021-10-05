@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 87
+            "count": 89
         },
         {
             "ticker": " AMC",
-            "count": 41
+            "count": 37
         },
         {
             "ticker": " AAPL",
-            "count": 27
+            "count": 26
         },
         {
             "ticker": " MRK",
@@ -21,16 +21,16 @@
             "count": 15
         },
         {
+            "ticker": " BABA",
+            "count": 14
+        },
+        {
             "ticker": " CLOV",
             "count": 13
         },
         {
             "ticker": " MSFT",
             "count": 13
-        },
-        {
-            "ticker": " BABA",
-            "count": 12
         },
         {
             "ticker": " TSLA",
@@ -53,15 +53,19 @@
             "count": 9
         },
         {
-            "ticker": " TLRY",
+            "ticker": " AMZN",
             "count": 8
         },
         {
-            "ticker": " AMZN",
+            "ticker": " NVDA",
+            "count": 8
+        },
+        {
+            "ticker": " TLRY",
             "count": 7
         },
         {
-            "ticker": " NVDA",
+            "ticker": " GOOG",
             "count": 7
         },
         {
@@ -86,10 +90,6 @@
         },
         {
             "ticker": " DTE",
-            "count": 6
-        },
-        {
-            "ticker": " GOOG",
             "count": 6
         },
         {
@@ -145,6 +145,10 @@
             "count": 4
         },
         {
+            "ticker": " CPA",
+            "count": 4
+        },
+        {
             "ticker": " IBKR",
             "count": 4
         },
@@ -178,10 +182,6 @@
         },
         {
             "ticker": " TWTR",
-            "count": 3
-        },
-        {
-            "ticker": " CPA",
             "count": 3
         },
         {
@@ -269,7 +269,7 @@
             "count": 3
         },
         {
-            "ticker": " TTM",
+            "ticker": " STMP",
             "count": 2
         },
         {
@@ -614,6 +614,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7916,
-    "datetime": "October 05 2021 at 01:57 EST"
+    "num_comments": 7705,
+    "datetime": "October 05 2021 at 02:27 EST"
 }

@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 93
+            "count": 94
         },
         {
             "ticker": " AMC",
-            "count": 37
+            "count": 38
         },
         {
             "ticker": " AAPL",
@@ -17,16 +17,16 @@
             "count": 17
         },
         {
-            "ticker": " TSLA",
-            "count": 14
+            "ticker": " BABA",
+            "count": 15
         },
         {
-            "ticker": " BABA",
-            "count": 13
+            "ticker": " TSLA",
+            "count": 15
         },
         {
             "ticker": " AMD",
-            "count": 13
+            "count": 14
         },
         {
             "ticker": " PLTR",
@@ -34,15 +34,19 @@
         },
         {
             "ticker": " MSFT",
-            "count": 11
+            "count": 12
         },
         {
             "ticker": " NIO",
-            "count": 10
+            "count": 11
         },
         {
             "ticker": " BBBY",
             "count": 10
+        },
+        {
+            "ticker": " NYC",
+            "count": 9
         },
         {
             "ticker": " CLOV",
@@ -54,10 +58,6 @@
         },
         {
             "ticker": " GDP",
-            "count": 8
-        },
-        {
-            "ticker": " NYC",
             "count": 8
         },
         {
@@ -81,11 +81,15 @@
             "count": 7
         },
         {
+            "ticker": " XOM",
+            "count": 6
+        },
+        {
             "ticker": " TLRY",
             "count": 6
         },
         {
-            "ticker": " SOFI",
+            "ticker": " BAC",
             "count": 6
         },
         {
@@ -117,10 +121,6 @@
             "count": 5
         },
         {
-            "ticker": " BAC",
-            "count": 5
-        },
-        {
             "ticker": " IPA",
             "count": 5
         },
@@ -129,7 +129,7 @@
             "count": 4
         },
         {
-            "ticker": " STMP",
+            "ticker": " TDA",
             "count": 4
         },
         {
@@ -137,7 +137,7 @@
             "count": 4
         },
         {
-            "ticker": " XOM",
+            "ticker": " CIA",
             "count": 4
         },
         {
@@ -177,19 +177,23 @@
             "count": 4
         },
         {
+            "ticker": " SOFI",
+            "count": 3
+        },
+        {
+            "ticker": " RKT",
+            "count": 3
+        },
+        {
             "ticker": " MRO",
             "count": 3
         },
         {
-            "ticker": " MARA",
-            "count": 3
-        },
-        {
-            "ticker": " ROOT",
-            "count": 3
-        },
-        {
             "ticker": " LNG",
+            "count": 3
+        },
+        {
+            "ticker": " CMG",
             "count": 3
         },
         {
@@ -245,16 +249,24 @@
             "count": 3
         },
         {
-            "ticker": " TDA",
-            "count": 3
-        },
-        {
             "ticker": " ATNF",
             "count": 3
         },
         {
-            "ticker": " CIA",
-            "count": 3
+            "ticker": " RIOT",
+            "count": 2
+        },
+        {
+            "ticker": " CRIS",
+            "count": 2
+        },
+        {
+            "ticker": " OCGN",
+            "count": 2
+        },
+        {
+            "ticker": " DIS",
+            "count": 2
         },
         {
             "ticker": " HAPP",
@@ -265,7 +277,19 @@
             "count": 2
         },
         {
+            "ticker": " COMM",
+            "count": 2
+        },
+        {
+            "ticker": " III",
+            "count": 2
+        },
+        {
             "ticker": " CME",
+            "count": 2
+        },
+        {
+            "ticker": " EXPE",
             "count": 2
         },
         {
@@ -274,6 +298,10 @@
         },
         {
             "ticker": " HOV",
+            "count": 2
+        },
+        {
+            "ticker": " STMP",
             "count": 2
         },
         {
@@ -286,6 +314,10 @@
         },
         {
             "ticker": " XPEV",
+            "count": 2
+        },
+        {
+            "ticker": " ESP",
             "count": 2
         },
         {
@@ -398,10 +430,6 @@
         },
         {
             "ticker": " LULU",
-            "count": 2
-        },
-        {
-            "ticker": " CMG",
             "count": 2
         },
         {
@@ -590,6 +618,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7458,
-    "datetime": "October 05 2021 at 11:15 EST"
+    "num_comments": 7784,
+    "datetime": "October 05 2021 at 12:17 EST"
 }

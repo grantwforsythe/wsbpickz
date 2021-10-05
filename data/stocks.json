@@ -2,43 +2,47 @@
     "stocks": [
         {
             "ticker": " PLTR",
-            "count": 140
+            "count": 138
         },
         {
             "ticker": " GME",
-            "count": 85
+            "count": 90
         },
         {
             "ticker": " AAPL",
-            "count": 32
+            "count": 33
         },
         {
             "ticker": " AMC",
-            "count": 32
+            "count": 33
         },
         {
             "ticker": " MSFT",
-            "count": 15
+            "count": 16
         },
         {
             "ticker": " MRK",
             "count": 14
         },
         {
-            "ticker": " SDC",
-            "count": 12
+            "ticker": " TSLA",
+            "count": 13
         },
         {
             "ticker": " TLRY",
             "count": 12
         },
         {
-            "ticker": " TSLA",
+            "ticker": " AMD",
             "count": 12
         },
         {
-            "ticker": " AMD",
-            "count": 12
+            "ticker": " SDC",
+            "count": 9
+        },
+        {
+            "ticker": " CLOV",
+            "count": 9
         },
         {
             "ticker": " NVDA",
@@ -47,6 +51,10 @@
         {
             "ticker": " RSI",
             "count": 9
+        },
+        {
+            "ticker": " NKE",
+            "count": 8
         },
         {
             "ticker": " GOOG",
@@ -65,10 +73,6 @@
             "count": 8
         },
         {
-            "ticker": " CLOV",
-            "count": 8
-        },
-        {
             "ticker": " NOK",
             "count": 7
         },
@@ -79,10 +83,6 @@
         {
             "ticker": " CLF",
             "count": 7
-        },
-        {
-            "ticker": " NKE",
-            "count": 6
         },
         {
             "ticker": " SPCE",
@@ -133,11 +133,19 @@
             "count": 5
         },
         {
+            "ticker": " NVAX",
+            "count": 4
+        },
+        {
             "ticker": " RIOT",
             "count": 4
         },
         {
             "ticker": " MARA",
+            "count": 4
+        },
+        {
+            "ticker": " NFLX",
             "count": 4
         },
         {
@@ -181,7 +189,7 @@
             "count": 4
         },
         {
-            "ticker": " HAPP",
+            "ticker": " CASI",
             "count": 3
         },
         {
@@ -218,10 +226,6 @@
         },
         {
             "ticker": " IRL",
-            "count": 3
-        },
-        {
-            "ticker": " NFLX",
             "count": 3
         },
         {
@@ -265,7 +269,23 @@
             "count": 3
         },
         {
-            "ticker": " NVAX",
+            "ticker": " LEVI",
+            "count": 2
+        },
+        {
+            "ticker": " SAVA",
+            "count": 2
+        },
+        {
+            "ticker": " RKT",
+            "count": 2
+        },
+        {
+            "ticker": " HAPP",
+            "count": 2
+        },
+        {
+            "ticker": " SPOK",
             "count": 2
         },
         {
@@ -281,15 +301,15 @@
             "count": 2
         },
         {
-            "ticker": " CASI",
-            "count": 2
-        },
-        {
             "ticker": " MSM",
             "count": 2
         },
         {
             "ticker": " MPC",
+            "count": 2
+        },
+        {
+            "ticker": " VLT",
             "count": 2
         },
         {
@@ -322,6 +342,10 @@
         },
         {
             "ticker": " SIMO",
+            "count": 2
+        },
+        {
+            "ticker": " STMP",
             "count": 2
         },
         {
@@ -362,6 +386,10 @@
         },
         {
             "ticker": " ISEE",
+            "count": 2
+        },
+        {
+            "ticker": " KMI",
             "count": 2
         },
         {
@@ -630,6 +658,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7407,
-    "datetime": "October 05 2021 at 22:17 EST"
+    "num_comments": 7739,
+    "datetime": "October 05 2021 at 23:17 EST"
 }

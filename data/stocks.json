@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 89
+            "count": 91
         },
         {
             "ticker": " AMC",
@@ -21,20 +21,20 @@
             "count": 16
         },
         {
-            "ticker": " MSFT",
+            "ticker": " BABA",
             "count": 13
         },
         {
             "ticker": " TSLA",
-            "count": 12
+            "count": 13
+        },
+        {
+            "ticker": " MSFT",
+            "count": 13
         },
         {
             "ticker": " CLOV",
-            "count": 12
-        },
-        {
-            "ticker": " BABA",
-            "count": 10
+            "count": 11
         },
         {
             "ticker": " PLTR",
@@ -54,11 +54,7 @@
         },
         {
             "ticker": " AMZN",
-            "count": 8
-        },
-        {
-            "ticker": " NVDA",
-            "count": 8
+            "count": 7
         },
         {
             "ticker": " TLRY",
@@ -66,6 +62,10 @@
         },
         {
             "ticker": " GOOG",
+            "count": 7
+        },
+        {
+            "ticker": " NVDA",
             "count": 7
         },
         {
@@ -129,10 +129,6 @@
             "count": 4
         },
         {
-            "ticker": " GOOS",
-            "count": 4
-        },
-        {
             "ticker": " IRL",
             "count": 4
         },
@@ -185,7 +181,7 @@
             "count": 3
         },
         {
-            "ticker": " TWTR",
+            "ticker": " GOOS",
             "count": 3
         },
         {
@@ -305,15 +301,7 @@
             "count": 2
         },
         {
-            "ticker": " ROOT",
-            "count": 2
-        },
-        {
-            "ticker": " RKT",
-            "count": 2
-        },
-        {
-            "ticker": " MGNI",
+            "ticker": " HOL",
             "count": 2
         },
         {
@@ -334,6 +322,10 @@
         },
         {
             "ticker": " MTCH",
+            "count": 2
+        },
+        {
+            "ticker": " TWTR",
             "count": 2
         },
         {
@@ -626,6 +618,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7888,
-    "datetime": "October 05 2021 at 03:17 EST"
+    "num_comments": 8009,
+    "datetime": "October 05 2021 at 04:17 EST"
 }

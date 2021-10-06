@@ -2,19 +2,19 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 159
-        },
-        {
-            "ticker": " PLTR",
-            "count": 125
+            "count": 160
         },
         {
             "ticker": " AMC",
-            "count": 87
+            "count": 89
+        },
+        {
+            "ticker": " PLTR",
+            "count": 69
         },
         {
             "ticker": " SDC",
-            "count": 60
+            "count": 57
         },
         {
             "ticker": " AAPL",
@@ -22,7 +22,7 @@
         },
         {
             "ticker": " MSFT",
-            "count": 20
+            "count": 17
         },
         {
             "ticker": " AMD",
@@ -46,18 +46,14 @@
         },
         {
             "ticker": " TLRY",
-            "count": 10
+            "count": 11
         },
         {
             "ticker": " BABA",
-            "count": 8
+            "count": 9
         },
         {
             "ticker": " NKE",
-            "count": 8
-        },
-        {
-            "ticker": " GOOG",
             "count": 8
         },
         {
@@ -70,6 +66,10 @@
         },
         {
             "ticker": " JPM",
+            "count": 7
+        },
+        {
+            "ticker": " GOOG",
             "count": 7
         },
         {
@@ -89,10 +89,6 @@
             "count": 6
         },
         {
-            "ticker": " XOM",
-            "count": 6
-        },
-        {
             "ticker": " DLTR",
             "count": 6
         },
@@ -109,7 +105,7 @@
             "count": 6
         },
         {
-            "ticker": " NFLX",
+            "ticker": " SKLZ",
             "count": 5
         },
         {
@@ -125,11 +121,7 @@
             "count": 5
         },
         {
-            "ticker": " GDP",
-            "count": 5
-        },
-        {
-            "ticker": " CIA",
+            "ticker": " XOM",
             "count": 5
         },
         {
@@ -149,6 +141,14 @@
             "count": 5
         },
         {
+            "ticker": " IBM",
+            "count": 4
+        },
+        {
+            "ticker": " NFLX",
+            "count": 4
+        },
+        {
             "ticker": " IRL",
             "count": 4
         },
@@ -165,11 +165,15 @@
             "count": 4
         },
         {
-            "ticker": " PROF",
+            "ticker": " UPST",
             "count": 4
         },
         {
-            "ticker": " UPST",
+            "ticker": " CIA",
+            "count": 4
+        },
+        {
+            "ticker": " GDP",
             "count": 4
         },
         {
@@ -197,12 +201,12 @@
             "count": 4
         },
         {
-            "ticker": " SKLZ",
+            "ticker": " FAMI",
             "count": 4
         },
         {
-            "ticker": " FAMI",
-            "count": 4
+            "ticker": " HSBC",
+            "count": 3
         },
         {
             "ticker": " SPCE",
@@ -241,10 +245,6 @@
             "count": 3
         },
         {
-            "ticker": " TWTR",
-            "count": 3
-        },
-        {
             "ticker": " ACB",
             "count": 3
         },
@@ -265,15 +265,15 @@
             "count": 3
         },
         {
-            "ticker": " IBM",
-            "count": 3
-        },
-        {
             "ticker": " CRSR",
             "count": 3
         },
         {
             "ticker": " BYND",
+            "count": 3
+        },
+        {
+            "ticker": " PROF",
             "count": 3
         },
         {
@@ -309,6 +309,14 @@
             "count": 3
         },
         {
+            "ticker": " ALLO",
+            "count": 2
+        },
+        {
+            "ticker": " CGC",
+            "count": 2
+        },
+        {
             "ticker": " LSPD",
             "count": 2
         },
@@ -342,30 +350,6 @@
         },
         {
             "ticker": " SAVA",
-            "count": 2
-        },
-        {
-            "ticker": " HAPP",
-            "count": 2
-        },
-        {
-            "ticker": " SPOK",
-            "count": 2
-        },
-        {
-            "ticker": " PLT",
-            "count": 2
-        },
-        {
-            "ticker": " GSAT",
-            "count": 2
-        },
-        {
-            "ticker": " DOOO",
-            "count": 2
-        },
-        {
-            "ticker": " MSM",
             "count": 2
         },
         {
@@ -449,11 +433,11 @@
             "count": 2
         },
         {
-            "ticker": " HSBC",
+            "ticker": " MTCH",
             "count": 2
         },
         {
-            "ticker": " MTCH",
+            "ticker": " TWTR",
             "count": 2
         },
         {
@@ -662,6 +646,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 9054,
-    "datetime": "October 06 2021 at 09:17 EST"
+    "num_comments": 8704,
+    "datetime": "October 06 2021 at 10:17 EST"
 }

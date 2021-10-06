@@ -1,0 +1,23 @@
+{% extends "layout.html" %}
+
+{% block title %}Page Not Found{% endblock title %}
+
+{% block content %}
+  <h1 class="display-1 text-center">Not Found</h1>
+  <div class="container justify-content-between" style="height: 100px;">
+    <!-- Each row has 12 units of space -->
+    <div class="row justify-content-between">
+      <!-- Auto adjusts the width -->
+      <div class="col-4">
+        <img class="img-fluid" src="{{ url_for('static', filename='images/wsb_logo.png') }}" alt="WSB Logo">
+      </div>
+      <div class="col-4 text-center align-self-center">
+        <p>The requested page could not be found.</p>
+        <a class="btn btn-link" href="{{ url_for('index') }}">Go to Home</a>
+      </div>
+      <div class="col-4">
+        <img class="rotate img-fluid" src="{{ url_for('static', filename='images/wsb_logo.png') }}" alt="WSB Logo">
+      </div>
+    </div>
+  </div>
+{% endblock content %}

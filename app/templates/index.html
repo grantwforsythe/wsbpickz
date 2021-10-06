@@ -1,47 +1,59 @@
 {% extends "layout.html" %}
 
-{% block title %}{{ title }}{% endblock title %}
+{% block header %}
+  <!-- Set the title block and then output the value of it into the header block  -->
+  <h1 class="display-1 text-center">{% block title %}WSBPickz{% endblock title %}</h1>
+{% endblock header %}
 
 {% block subheading %}
-<p class="lead text-center text-secondary">
-  Parsed <span class="text-primary">{{ num_comments }}</span> comments across <span class="text-primary">{{ num_posts }}</span> posts on {{ date_time }}. This list is updated every hour.
-</p>
-<p class="text-center">
-  Subreddits parsed:
-  {% for subreddit in subreddits %}
-    <a href="https://reddit.com/r/{{ subreddit }}" class="btn btn-link">r\{{ subreddit }}</a>
-  {% endfor %}
-</p>
+  <p class="lead text-center text-secondary">
+    Parsed <span class="text-primary">{{ num_comments }}</span> comments across <span class="text-primary">{{ num_posts }}</span> posts on {{ date_time }}. This list is updated every hour.
+  </p>
+  <p class="text-center">
+    Subreddits parsed:
+    {% for subreddit in subreddits %}
+      <a href="https://reddit.com/r/{{ subreddit }}" class="btn btn-link">r\{{ subreddit }}</a>
+    {% endfor %}
+  </p>
 {% endblock subheading %}
 
 {% block content %}
-<div class="container">
-  <table class="table table-fluid table-hover table-sm table-bordered" id="table-stocks">
-    <caption>List of Most Mentioned Stocks</caption>
-    <thead class="thead-dark">
-      <tr class="text-center">
-        <th scope="col">Index</th>
-        <th scope="col">Stock</th>
-        <th scope="col">Count</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% for stock in stocks %}
-      <tr class="text-center">
-        <th scope="row">{{ loop.index }}</th>
-        <td><a href="https://finance.yahoo.com/quote/{{ stock['ticker'] }}" class="btn btn-link">{{ stock["ticker"] }}</a></td>
-        <td>{{ stock["count"] }}</td>
-      </tr>
-      {% endfor %}
-    </tbody>
-  </table>
-</div>
+  <div class="container">
+    <table class="table table-fluid table-hover table-sm table-bordered" id="table-stocks">
+      <caption>List of Most Mentioned Stocks</caption>
+      <thead class="thead-dark">
+        <tr class="text-center">
+          <th scope="col">Index</th>
+          <th scope="col">Stock</th>
+          <th scope="col">Count</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for stock in stocks %}
+        <tr class="text-center">
+          <th scope="row">{{ loop.index }}</th>
+          <td><a href="https://finance.yahoo.com/quote/{{ stock['ticker'] }}" class="btn btn-link">{{ stock["ticker"] }}</a></td>
+          <td>{{ stock["count"] }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
 {% endblock content%}
 
+{% block footer %}
+  <footer class="bg-dark text-center text-lg-start text-white">
+      <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+        View the source code on 
+        <a class="btn-link" href="https://github.com/grantwforsythe/wsbpickz">GitHub</a>.
+      </div>
+  </footer>
+{% endblock footer %}
+
 {% block scripts %}
-<script>
-  $(document).ready( function () {
-    $('#table-stocks').DataTable()
-  });
-</script>
+  <script>
+    $(document).ready( function () {
+      $('#table-stocks').DataTable()
+    });
+  </script>
 {% endblock scripts %}

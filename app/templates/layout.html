@@ -7,7 +7,7 @@
     
     <!-- Additional meta tags -->
     <meta name="description" content="Top stocks currently on WSB">
-    <meta name="keywords" content="Stocks, Memes, Flask, Python">
+    <meta name="keywords" content="Stocks, Stonks, Memes, Flask, Python, WSB">
     <meta name="author" content="Grant Forsythe">
     
     <!-- Bootstrap and DataTables CSS -->
@@ -16,23 +16,21 @@
     
     <!-- Additional style sheets -->
     <link rel="shortcut icon" href="{{ url_for('static', filename='images/favicon.ico') }}" type="image/x-icon">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
     
     <title>{% block title %}{% endblock title %}</title>
   </head>
   <body>
+    <header>
+      {% block header %}{% endblock header %}
+      {% block subheading %}{% endblock subheading %}
+    </header>
 
-    <h1 class="display-1 text-center">Most Memed Stocks</h1>
-    {% block subheading %}{% endblock subheading %}
+    <main>
+      {% block content%}{% endblock content %}
+    </main>
 
-    {% block content%}{% endblock content %}
-
-    <footer class="bg-dark text-center text-lg-start text-white">
-      <!-- Copyright -->
-       <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-          View the source code on 
-          <a class="btn-link" href="https://github.com/grantwforsythe/wsbpickz">GitHub</a>.
-       </div>
-    </footer>
+    {% block footer %}{% endblock footer %}
 
     <!-- jQuery, Popper.js, DataTables, and Bootstrap JS -->
      <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

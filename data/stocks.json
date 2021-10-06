@@ -2,19 +2,19 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 157
+            "count": 159
         },
         {
             "ticker": " PLTR",
-            "count": 123
+            "count": 125
         },
         {
             "ticker": " AMC",
-            "count": 85
+            "count": 87
         },
         {
             "ticker": " SDC",
-            "count": 52
+            "count": 60
         },
         {
             "ticker": " AAPL",
@@ -38,7 +38,7 @@
         },
         {
             "ticker": " CLOV",
-            "count": 12
+            "count": 13
         },
         {
             "ticker": " RSI",
@@ -46,7 +46,11 @@
         },
         {
             "ticker": " TLRY",
-            "count": 9
+            "count": 10
+        },
+        {
+            "ticker": " BABA",
+            "count": 8
         },
         {
             "ticker": " NKE",
@@ -77,6 +81,10 @@
             "count": 7
         },
         {
+            "ticker": " ALGN",
+            "count": 6
+        },
+        {
             "ticker": " SOFI",
             "count": 6
         },
@@ -101,19 +109,11 @@
             "count": 6
         },
         {
-            "ticker": " BABA",
-            "count": 5
-        },
-        {
             "ticker": " NFLX",
             "count": 5
         },
         {
             "ticker": " CTB",
-            "count": 5
-        },
-        {
-            "ticker": " ALGN",
             "count": 5
         },
         {
@@ -203,6 +203,10 @@
         {
             "ticker": " FAMI",
             "count": 4
+        },
+        {
+            "ticker": " SPCE",
+            "count": 3
         },
         {
             "ticker": " MVIS",
@@ -333,10 +337,6 @@
             "count": 2
         },
         {
-            "ticker": " SPCE",
-            "count": 2
-        },
-        {
             "ticker": " OCGN",
             "count": 2
         },
@@ -358,10 +358,6 @@
         },
         {
             "ticker": " GSAT",
-            "count": 2
-        },
-        {
-            "ticker": " NEV",
             "count": 2
         },
         {
@@ -666,6 +662,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8951,
-    "datetime": "October 06 2021 at 08:17 EST"
+    "num_comments": 9054,
+    "datetime": "October 06 2021 at 09:17 EST"
 }

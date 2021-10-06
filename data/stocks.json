@@ -2,55 +2,59 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 157
+            "count": 173
         },
         {
             "ticker": " AMC",
-            "count": 99
+            "count": 107
         },
         {
             "ticker": " SDC",
-            "count": 70
+            "count": 91
         },
         {
             "ticker": " PLTR",
-            "count": 47
+            "count": 49
         },
         {
             "ticker": " AAPL",
-            "count": 33
+            "count": 32
         },
         {
             "ticker": " MRK",
             "count": 19
         },
         {
-            "ticker": " AMD",
-            "count": 17
-        },
-        {
             "ticker": " MSFT",
             "count": 17
         },
         {
+            "ticker": " AMD",
+            "count": 16
+        },
+        {
             "ticker": " TSLA",
-            "count": 15
+            "count": 14
         },
         {
             "ticker": " TLRY",
-            "count": 12
+            "count": 13
         },
         {
             "ticker": " RSI",
             "count": 12
         },
         {
-            "ticker": " CLF",
-            "count": 11
-        },
-        {
             "ticker": " CLOV",
             "count": 10
+        },
+        {
+            "ticker": " NVDA",
+            "count": 9
+        },
+        {
+            "ticker": " CLF",
+            "count": 8
         },
         {
             "ticker": " SNAP",
@@ -61,7 +65,7 @@
             "count": 7
         },
         {
-            "ticker": " NVDA",
+            "ticker": " AFRM",
             "count": 7
         },
         {
@@ -71,10 +75,6 @@
         {
             "ticker": " NYC",
             "count": 7
-        },
-        {
-            "ticker": " NFLX",
-            "count": 6
         },
         {
             "ticker": " JPM",
@@ -97,11 +97,11 @@
             "count": 6
         },
         {
-            "ticker": " VIAC",
+            "ticker": " BABA",
             "count": 5
         },
         {
-            "ticker": " AFRM",
+            "ticker": " NFLX",
             "count": 5
         },
         {
@@ -129,7 +129,7 @@
             "count": 5
         },
         {
-            "ticker": " ROOT",
+            "ticker": " NIO",
             "count": 4
         },
         {
@@ -142,6 +142,10 @@
         },
         {
             "ticker": " BDC",
+            "count": 4
+        },
+        {
+            "ticker": " BYND",
             "count": 4
         },
         {
@@ -205,11 +209,11 @@
             "count": 3
         },
         {
-            "ticker": " ADP",
+            "ticker": " INVE",
             "count": 3
         },
         {
-            "ticker": " INVE",
+            "ticker": " ADP",
             "count": 3
         },
         {
@@ -261,14 +265,6 @@
             "count": 3
         },
         {
-            "ticker": " BABA",
-            "count": 3
-        },
-        {
-            "ticker": " BYND",
-            "count": 3
-        },
-        {
             "ticker": " ABBV",
             "count": 3
         },
@@ -301,10 +297,6 @@
             "count": 3
         },
         {
-            "ticker": " CVNA",
-            "count": 2
-        },
-        {
             "ticker": " MORN",
             "count": 2
         },
@@ -321,7 +313,15 @@
             "count": 2
         },
         {
+            "ticker": " ASAN",
+            "count": 2
+        },
+        {
             "ticker": " PYPL",
+            "count": 2
+        },
+        {
+            "ticker": " UUUU",
             "count": 2
         },
         {
@@ -330,10 +330,6 @@
         },
         {
             "ticker": " FCF",
-            "count": 2
-        },
-        {
-            "ticker": " UUUU",
             "count": 2
         },
         {
@@ -573,6 +569,10 @@
             "count": 2
         },
         {
+            "ticker": " VIAC",
+            "count": 2
+        },
+        {
             "ticker": " MTD",
             "count": 2
         },
@@ -625,6 +625,10 @@
             "count": 2
         },
         {
+            "ticker": " SNDL",
+            "count": 2
+        },
+        {
             "ticker": " COLL",
             "count": 2
         },
@@ -646,6 +650,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8776,
-    "datetime": "October 06 2021 at 16:17 EST"
+    "num_comments": 8881,
+    "datetime": "October 06 2021 at 17:17 EST"
 }

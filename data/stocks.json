@@ -2,19 +2,19 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 149
+            "count": 157
         },
         {
             "ticker": " AMC",
-            "count": 88
+            "count": 91
         },
         {
             "ticker": " SDC",
-            "count": 56
+            "count": 67
         },
         {
             "ticker": " PLTR",
-            "count": 40
+            "count": 45
         },
         {
             "ticker": " AAPL",
@@ -22,6 +22,10 @@
         },
         {
             "ticker": " AMD",
+            "count": 19
+        },
+        {
+            "ticker": " TSLA",
             "count": 18
         },
         {
@@ -29,27 +33,19 @@
             "count": 17
         },
         {
-            "ticker": " TSLA",
-            "count": 16
-        },
-        {
             "ticker": " MRK",
             "count": 15
-        },
-        {
-            "ticker": " CLOV",
-            "count": 12
         },
         {
             "ticker": " RSI",
             "count": 12
         },
         {
-            "ticker": " BABA",
+            "ticker": " TLRY",
             "count": 10
         },
         {
-            "ticker": " TLRY",
+            "ticker": " CLOV",
             "count": 10
         },
         {
@@ -101,15 +97,11 @@
             "count": 6
         },
         {
-            "ticker": " SOFI",
-            "count": 5
-        },
-        {
-            "ticker": " SKLZ",
-            "count": 5
-        },
-        {
             "ticker": " CTB",
+            "count": 5
+        },
+        {
+            "ticker": " AMZN",
             "count": 5
         },
         {
@@ -133,6 +125,10 @@
             "count": 5
         },
         {
+            "ticker": " BABA",
+            "count": 4
+        },
+        {
             "ticker": " IBM",
             "count": 4
         },
@@ -149,11 +145,11 @@
             "count": 4
         },
         {
-            "ticker": " AMZN",
+            "ticker": " UPST",
             "count": 4
         },
         {
-            "ticker": " UPST",
+            "ticker": " SOFI",
             "count": 4
         },
         {
@@ -185,16 +181,12 @@
             "count": 4
         },
         {
-            "ticker": " FAMI",
+            "ticker": " SKLZ",
             "count": 4
         },
         {
-            "ticker": " HSBC",
-            "count": 3
-        },
-        {
-            "ticker": " RKT",
-            "count": 3
+            "ticker": " FAMI",
+            "count": 4
         },
         {
             "ticker": " MVIS",
@@ -210,6 +202,14 @@
         },
         {
             "ticker": " BASI",
+            "count": 3
+        },
+        {
+            "ticker": " NVAX",
+            "count": 3
+        },
+        {
+            "ticker": " SILV",
             "count": 3
         },
         {
@@ -269,10 +269,6 @@
             "count": 3
         },
         {
-            "ticker": " INSI",
-            "count": 3
-        },
-        {
             "ticker": " AEZS",
             "count": 3
         },
@@ -289,15 +285,27 @@
             "count": 3
         },
         {
+            "ticker": " MATX",
+            "count": 2
+        },
+        {
             "ticker": " HAPP",
             "count": 2
         },
         {
-            "ticker": " ALLO",
+            "ticker": " EMP",
             "count": 2
         },
         {
-            "ticker": " PROG",
+            "ticker": " ADP",
+            "count": 2
+        },
+        {
+            "ticker": " AMER",
+            "count": 2
+        },
+        {
+            "ticker": " OCGN",
             "count": 2
         },
         {
@@ -313,7 +321,15 @@
             "count": 2
         },
         {
+            "ticker": " RKT",
+            "count": 2
+        },
+        {
             "ticker": " CLB",
+            "count": 2
+        },
+        {
+            "ticker": " STIC",
             "count": 2
         },
         {
@@ -334,6 +350,10 @@
         },
         {
             "ticker": " TTM",
+            "count": 2
+        },
+        {
+            "ticker": " ROP",
             "count": 2
         },
         {
@@ -422,6 +442,10 @@
         },
         {
             "ticker": " DKNG",
+            "count": 2
+        },
+        {
+            "ticker": " HSBC",
             "count": 2
         },
         {
@@ -561,7 +585,7 @@
             "count": 2
         },
         {
-            "ticker": " TIGR",
+            "ticker": " ACCO",
             "count": 2
         },
         {
@@ -585,7 +609,7 @@
             "count": 2
         },
         {
-            "ticker": " SILV",
+            "ticker": " INSI",
             "count": 2
         },
         {
@@ -630,6 +654,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8472,
-    "datetime": "October 06 2021 at 11:15 EST"
+    "num_comments": 8778,
+    "datetime": "October 06 2021 at 12:18 EST"
 }

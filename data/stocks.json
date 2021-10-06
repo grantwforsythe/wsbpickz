@@ -2,23 +2,23 @@
     "stocks": [
         {
             "ticker": " PLTR",
-            "count": 126
+            "count": 130
         },
         {
             "ticker": " GME",
-            "count": 108
+            "count": 118
         },
         {
             "ticker": " AMC",
             "count": 45
         },
         {
-            "ticker": " AAPL",
-            "count": 33
+            "ticker": " SDC",
+            "count": 36
         },
         {
-            "ticker": " SDC",
-            "count": 25
+            "ticker": " AAPL",
+            "count": 31
         },
         {
             "ticker": " MSFT",
@@ -29,11 +29,11 @@
             "count": 19
         },
         {
-            "ticker": " TSLA",
-            "count": 14
+            "ticker": " AMD",
+            "count": 16
         },
         {
-            "ticker": " AMD",
+            "ticker": " TSLA",
             "count": 14
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "ticker": " TLRY",
-            "count": 8
+            "count": 9
         },
         {
             "ticker": " GOOG",
@@ -105,6 +105,14 @@
             "count": 6
         },
         {
+            "ticker": " ALGN",
+            "count": 5
+        },
+        {
+            "ticker": " TDA",
+            "count": 5
+        },
+        {
             "ticker": " MARA",
             "count": 5
         },
@@ -141,7 +149,11 @@
             "count": 4
         },
         {
-            "ticker": " TDA",
+            "ticker": " AAWW",
+            "count": 4
+        },
+        {
+            "ticker": " INTC",
             "count": 4
         },
         {
@@ -193,7 +205,7 @@
             "count": 4
         },
         {
-            "ticker": " AAWW",
+            "ticker": " MVIS",
             "count": 3
         },
         {
@@ -218,6 +230,14 @@
         },
         {
             "ticker": " CCJ",
+            "count": 3
+        },
+        {
+            "ticker": " TDOC",
+            "count": 3
+        },
+        {
+            "ticker": " THC",
             "count": 3
         },
         {
@@ -250,10 +270,6 @@
         },
         {
             "ticker": " STRO",
-            "count": 3
-        },
-        {
-            "ticker": " INTC",
             "count": 3
         },
         {
@@ -366,10 +382,6 @@
         },
         {
             "ticker": " SIMO",
-            "count": 2
-        },
-        {
-            "ticker": " TDOC",
             "count": 2
         },
         {
@@ -657,15 +669,7 @@
             "count": 2
         },
         {
-            "ticker": " THC",
-            "count": 2
-        },
-        {
             "ticker": " CBD",
-            "count": 2
-        },
-        {
-            "ticker": " MVIS",
             "count": 2
         },
         {
@@ -674,6 +678,10 @@
         },
         {
             "ticker": " CORR",
+            "count": 2
+        },
+        {
+            "ticker": " GTE",
             "count": 2
         },
         {
@@ -698,6 +706,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8763,
-    "datetime": "October 06 2021 at 03:17 EST"
+    "num_comments": 8987,
+    "datetime": "October 06 2021 at 04:17 EST"
 }

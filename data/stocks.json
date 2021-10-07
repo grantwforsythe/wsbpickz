@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 216
+            "count": 221
         },
         {
             "ticker": " AMC",
-            "count": 164
+            "count": 169
         },
         {
             "ticker": " AAPL",
@@ -14,15 +14,19 @@
         },
         {
             "ticker": " PLTR",
-            "count": 22
+            "count": 23
         },
         {
             "ticker": " SDC",
-            "count": 21
+            "count": 22
         },
         {
             "ticker": " TLRY",
             "count": 20
+        },
+        {
+            "ticker": " TSLA",
+            "count": 19
         },
         {
             "ticker": " MRK",
@@ -34,19 +38,15 @@
         },
         {
             "ticker": " MSFT",
-            "count": 13
+            "count": 15
         },
         {
             "ticker": " RSI",
-            "count": 12
-        },
-        {
-            "ticker": " TSLA",
-            "count": 12
+            "count": 13
         },
         {
             "ticker": " CLOV",
-            "count": 10
+            "count": 12
         },
         {
             "ticker": " SNAP",
@@ -58,7 +58,7 @@
         },
         {
             "ticker": " NYC",
-            "count": 7
+            "count": 8
         },
         {
             "ticker": " WFC",
@@ -93,6 +93,10 @@
             "count": 6
         },
         {
+            "ticker": " UPST",
+            "count": 6
+        },
+        {
             "ticker": " BAC",
             "count": 6
         },
@@ -113,7 +117,7 @@
             "count": 5
         },
         {
-            "ticker": " UPST",
+            "ticker": " IPA",
             "count": 5
         },
         {
@@ -161,11 +165,11 @@
             "count": 4
         },
         {
-            "ticker": " DTE",
+            "ticker": " CCJ",
             "count": 4
         },
         {
-            "ticker": " CCJ",
+            "ticker": " DTE",
             "count": 4
         },
         {
@@ -209,10 +213,6 @@
             "count": 4
         },
         {
-            "ticker": " IPA",
-            "count": 4
-        },
-        {
             "ticker": " SKLZ",
             "count": 4
         },
@@ -226,6 +226,10 @@
         },
         {
             "ticker": " SNDL",
+            "count": 3
+        },
+        {
+            "ticker": " CRWD",
             "count": 3
         },
         {
@@ -361,6 +365,10 @@
             "count": 2
         },
         {
+            "ticker": " TATT",
+            "count": 2
+        },
+        {
             "ticker": " COMM",
             "count": 2
         },
@@ -369,7 +377,7 @@
             "count": 2
         },
         {
-            "ticker": " TATT",
+            "ticker": " HOOD",
             "count": 2
         },
         {
@@ -703,13 +711,9 @@
         {
             "ticker": " LMFA",
             "count": 2
-        },
-        {
-            "ticker": " HGH",
-            "count": 2
         }
     ],
     "num_posts": 160,
-    "num_comments": 8302,
-    "datetime": "October 07 2021 at 03:17 EST"
+    "num_comments": 8451,
+    "datetime": "October 07 2021 at 04:17 EST"
 }

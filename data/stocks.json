@@ -2,23 +2,23 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 213
+            "count": 216
         },
         {
             "ticker": " AMC",
-            "count": 162
+            "count": 164
         },
         {
             "ticker": " AAPL",
             "count": 29
         },
         {
-            "ticker": " SDC",
-            "count": 23
-        },
-        {
             "ticker": " PLTR",
             "count": 22
+        },
+        {
+            "ticker": " SDC",
+            "count": 21
         },
         {
             "ticker": " TLRY",
@@ -30,7 +30,7 @@
         },
         {
             "ticker": " AMD",
-            "count": 14
+            "count": 15
         },
         {
             "ticker": " MSFT",
@@ -58,7 +58,7 @@
         },
         {
             "ticker": " NYC",
-            "count": 8
+            "count": 7
         },
         {
             "ticker": " WFC",
@@ -66,6 +66,10 @@
         },
         {
             "ticker": " PFE",
+            "count": 7
+        },
+        {
+            "ticker": " IBM",
             "count": 7
         },
         {
@@ -145,10 +149,6 @@
             "count": 5
         },
         {
-            "ticker": " AFRM",
-            "count": 4
-        },
-        {
             "ticker": " ACB",
             "count": 4
         },
@@ -170,10 +170,6 @@
         },
         {
             "ticker": " AAL",
-            "count": 4
-        },
-        {
-            "ticker": " NFLX",
             "count": 4
         },
         {
@@ -253,6 +249,10 @@
             "count": 3
         },
         {
+            "ticker": " AFRM",
+            "count": 3
+        },
+        {
             "ticker": " THC",
             "count": 3
         },
@@ -261,15 +261,15 @@
             "count": 3
         },
         {
-            "ticker": " IBM",
-            "count": 3
-        },
-        {
             "ticker": " IBKR",
             "count": 3
         },
         {
             "ticker": " IRL",
+            "count": 3
+        },
+        {
+            "ticker": " NFLX",
             "count": 3
         },
         {
@@ -318,10 +318,6 @@
         },
         {
             "ticker": " EPC",
-            "count": 2
-        },
-        {
-            "ticker": " FUTU",
             "count": 2
         },
         {
@@ -629,6 +625,10 @@
             "count": 2
         },
         {
+            "ticker": " OCGN",
+            "count": 2
+        },
+        {
             "ticker": " SPRT",
             "count": 2
         },
@@ -703,9 +703,13 @@
         {
             "ticker": " LMFA",
             "count": 2
+        },
+        {
+            "ticker": " HGH",
+            "count": 2
         }
     ],
     "num_posts": 160,
-    "num_comments": 8199,
-    "datetime": "October 07 2021 at 02:37 EST"
+    "num_comments": 8302,
+    "datetime": "October 07 2021 at 03:17 EST"
 }

@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 223
+            "count": 232
         },
         {
             "ticker": " AMC",
-            "count": 171
+            "count": 176
         },
         {
             "ticker": " AAPL",
@@ -21,10 +21,6 @@
             "count": 22
         },
         {
-            "ticker": " TSLA",
-            "count": 20
-        },
-        {
             "ticker": " TLRY",
             "count": 20
         },
@@ -33,8 +29,16 @@
             "count": 17
         },
         {
+            "ticker": " TSLA",
+            "count": 16
+        },
+        {
             "ticker": " AMD",
             "count": 15
+        },
+        {
+            "ticker": " CLOV",
+            "count": 13
         },
         {
             "ticker": " RSI",
@@ -43,10 +47,6 @@
         {
             "ticker": " MSFT",
             "count": 13
-        },
-        {
-            "ticker": " CLOV",
-            "count": 12
         },
         {
             "ticker": " NYC",
@@ -61,11 +61,15 @@
             "count": 9
         },
         {
-            "ticker": " WFC",
-            "count": 7
+            "ticker": " GOOG",
+            "count": 8
         },
         {
             "ticker": " PFE",
+            "count": 8
+        },
+        {
+            "ticker": " WFC",
             "count": 7
         },
         {
@@ -74,10 +78,6 @@
         },
         {
             "ticker": " JPM",
-            "count": 7
-        },
-        {
-            "ticker": " GOOG",
             "count": 7
         },
         {
@@ -107,6 +107,10 @@
         {
             "ticker": " CEI",
             "count": 6
+        },
+        {
+            "ticker": " SKLZ",
+            "count": 5
         },
         {
             "ticker": " SOFI",
@@ -213,10 +217,6 @@
             "count": 4
         },
         {
-            "ticker": " SKLZ",
-            "count": 4
-        },
-        {
             "ticker": " FAMI",
             "count": 4
         },
@@ -230,10 +230,6 @@
         },
         {
             "ticker": " SNDL",
-            "count": 3
-        },
-        {
-            "ticker": " CRWD",
             "count": 3
         },
         {
@@ -366,6 +362,10 @@
         },
         {
             "ticker": " UPWK",
+            "count": 2
+        },
+        {
+            "ticker": " WRLD",
             "count": 2
         },
         {
@@ -689,11 +689,11 @@
             "count": 2
         },
         {
-            "ticker": " WKHS",
+            "ticker": " REED",
             "count": 2
         },
         {
-            "ticker": " REED",
+            "ticker": " WKHS",
             "count": 2
         },
         {
@@ -714,6 +714,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8587,
-    "datetime": "October 07 2021 at 05:16 EST"
+    "num_comments": 8675,
+    "datetime": "October 07 2021 at 06:17 EST"
 }

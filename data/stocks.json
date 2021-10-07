@@ -2,19 +2,15 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 232
+            "count": 235
         },
         {
             "ticker": " AMC",
-            "count": 176
+            "count": 177
         },
         {
             "ticker": " AAPL",
             "count": 29
-        },
-        {
-            "ticker": " SDC",
-            "count": 22
         },
         {
             "ticker": " PLTR",
@@ -33,12 +29,20 @@
             "count": 16
         },
         {
+            "ticker": " SDC",
+            "count": 16
+        },
+        {
+            "ticker": " CLOV",
+            "count": 15
+        },
+        {
             "ticker": " AMD",
             "count": 15
         },
         {
-            "ticker": " CLOV",
-            "count": 13
+            "ticker": " NYC",
+            "count": 14
         },
         {
             "ticker": " RSI",
@@ -47,10 +51,6 @@
         {
             "ticker": " MSFT",
             "count": 13
-        },
-        {
-            "ticker": " NYC",
-            "count": 12
         },
         {
             "ticker": " SNAP",
@@ -334,6 +334,10 @@
         },
         {
             "ticker": " UTZ",
+            "count": 2
+        },
+        {
+            "ticker": " NAV",
             "count": 2
         },
         {
@@ -714,6 +718,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8675,
-    "datetime": "October 07 2021 at 06:17 EST"
+    "num_comments": 8789,
+    "datetime": "October 07 2021 at 07:17 EST"
 }

@@ -2,31 +2,31 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 221
+            "count": 223
         },
         {
             "ticker": " AMC",
-            "count": 169
+            "count": 171
         },
         {
             "ticker": " AAPL",
             "count": 29
         },
         {
-            "ticker": " PLTR",
-            "count": 23
-        },
-        {
             "ticker": " SDC",
             "count": 22
         },
         {
-            "ticker": " TLRY",
-            "count": 20
+            "ticker": " PLTR",
+            "count": 22
         },
         {
             "ticker": " TSLA",
-            "count": 19
+            "count": 20
+        },
+        {
+            "ticker": " TLRY",
+            "count": 20
         },
         {
             "ticker": " MRK",
@@ -37,15 +37,19 @@
             "count": 15
         },
         {
-            "ticker": " MSFT",
-            "count": 15
-        },
-        {
             "ticker": " RSI",
             "count": 13
         },
         {
+            "ticker": " MSFT",
+            "count": 13
+        },
+        {
             "ticker": " CLOV",
+            "count": 12
+        },
+        {
+            "ticker": " NYC",
             "count": 12
         },
         {
@@ -55,10 +59,6 @@
         {
             "ticker": " XOM",
             "count": 9
-        },
-        {
-            "ticker": " NYC",
-            "count": 8
         },
         {
             "ticker": " WFC",
@@ -101,6 +101,10 @@
             "count": 6
         },
         {
+            "ticker": " CMG",
+            "count": 6
+        },
+        {
             "ticker": " CEI",
             "count": 6
         },
@@ -130,10 +134,6 @@
         },
         {
             "ticker": " NVDA",
-            "count": 5
-        },
-        {
-            "ticker": " CMG",
             "count": 5
         },
         {
@@ -219,6 +219,10 @@
         {
             "ticker": " FAMI",
             "count": 4
+        },
+        {
+            "ticker": " MGM",
+            "count": 3
         },
         {
             "ticker": " SPR",
@@ -378,10 +382,6 @@
         },
         {
             "ticker": " HOOD",
-            "count": 2
-        },
-        {
-            "ticker": " MGM",
             "count": 2
         },
         {
@@ -714,6 +714,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8451,
-    "datetime": "October 07 2021 at 04:17 EST"
+    "num_comments": 8587,
+    "datetime": "October 07 2021 at 05:16 EST"
 }

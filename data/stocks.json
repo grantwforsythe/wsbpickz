@@ -2,23 +2,23 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 210
+            "count": 213
         },
         {
             "ticker": " AMC",
-            "count": 161
+            "count": 162
         },
         {
             "ticker": " AAPL",
             "count": 29
         },
         {
-            "ticker": " PLTR",
-            "count": 22
+            "ticker": " SDC",
+            "count": 23
         },
         {
-            "ticker": " SDC",
-            "count": 21
+            "ticker": " PLTR",
+            "count": 22
         },
         {
             "ticker": " TLRY",
@@ -29,19 +29,19 @@
             "count": 17
         },
         {
-            "ticker": " TSLA",
-            "count": 17
-        },
-        {
             "ticker": " AMD",
-            "count": 13
+            "count": 14
         },
         {
             "ticker": " MSFT",
-            "count": 12
+            "count": 13
         },
         {
             "ticker": " RSI",
+            "count": 12
+        },
+        {
+            "ticker": " TSLA",
             "count": 12
         },
         {
@@ -145,6 +145,10 @@
             "count": 5
         },
         {
+            "ticker": " AFRM",
+            "count": 4
+        },
+        {
             "ticker": " ACB",
             "count": 4
         },
@@ -158,6 +162,10 @@
         },
         {
             "ticker": " DTE",
+            "count": 4
+        },
+        {
+            "ticker": " CCJ",
             "count": 4
         },
         {
@@ -225,10 +233,6 @@
             "count": 3
         },
         {
-            "ticker": " CRWD",
-            "count": 3
-        },
-        {
             "ticker": " ARCH",
             "count": 3
         },
@@ -241,23 +245,11 @@
             "count": 3
         },
         {
-            "ticker": " ADP",
-            "count": 3
-        },
-        {
             "ticker": " CTB",
             "count": 3
         },
         {
             "ticker": " DVD",
-            "count": 3
-        },
-        {
-            "ticker": " AFRM",
-            "count": 3
-        },
-        {
-            "ticker": " CCJ",
             "count": 3
         },
         {
@@ -325,6 +317,14 @@
             "count": 3
         },
         {
+            "ticker": " EPC",
+            "count": 2
+        },
+        {
+            "ticker": " FUTU",
+            "count": 2
+        },
+        {
             "ticker": " WTI",
             "count": 2
         },
@@ -373,7 +373,15 @@
             "count": 2
         },
         {
+            "ticker": " TATT",
+            "count": 2
+        },
+        {
             "ticker": " MGM",
+            "count": 2
+        },
+        {
+            "ticker": " ADP",
             "count": 2
         },
         {
@@ -698,6 +706,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8071,
-    "datetime": "October 07 2021 at 02:07 EST"
+    "num_comments": 8199,
+    "datetime": "October 07 2021 at 02:37 EST"
 }

@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 241
+            "count": 243
         },
         {
             "ticker": " AMC",
-            "count": 183
+            "count": 182
         },
         {
             "ticker": " AAPL",
@@ -14,23 +14,27 @@
         },
         {
             "ticker": " PLTR",
-            "count": 22
+            "count": 26
+        },
+        {
+            "ticker": " CLOV",
+            "count": 20
         },
         {
             "ticker": " TLRY",
             "count": 20
         },
         {
-            "ticker": " CLOV",
+            "ticker": " SDC",
             "count": 19
+        },
+        {
+            "ticker": " TSLA",
+            "count": 18
         },
         {
             "ticker": " MRK",
             "count": 17
-        },
-        {
-            "ticker": " TSLA",
-            "count": 16
         },
         {
             "ticker": " MSFT",
@@ -49,8 +53,8 @@
             "count": 13
         },
         {
-            "ticker": " SDC",
-            "count": 13
+            "ticker": " CRSR",
+            "count": 12
         },
         {
             "ticker": " PFE",
@@ -69,8 +73,12 @@
             "count": 8
         },
         {
-            "ticker": " CRSR",
-            "count": 8
+            "ticker": " NVDA",
+            "count": 7
+        },
+        {
+            "ticker": " UPST",
+            "count": 7
         },
         {
             "ticker": " WFC",
@@ -89,15 +97,15 @@
             "count": 7
         },
         {
+            "ticker": " BABA",
+            "count": 6
+        },
+        {
             "ticker": " MRO",
             "count": 6
         },
         {
             "ticker": " MRNA",
-            "count": 6
-        },
-        {
-            "ticker": " UPST",
             "count": 6
         },
         {
@@ -117,15 +125,15 @@
             "count": 5
         },
         {
+            "ticker": " LOGI",
+            "count": 5
+        },
+        {
             "ticker": " AVIR",
             "count": 5
         },
         {
             "ticker": " DTE",
-            "count": 5
-        },
-        {
-            "ticker": " BABA",
             "count": 5
         },
         {
@@ -138,10 +146,6 @@
         },
         {
             "ticker": " TDA",
-            "count": 5
-        },
-        {
-            "ticker": " NVDA",
             "count": 5
         },
         {
@@ -166,6 +170,10 @@
         },
         {
             "ticker": " ACB",
+            "count": 4
+        },
+        {
+            "ticker": " THC",
             "count": 4
         },
         {
@@ -229,6 +237,10 @@
             "count": 3
         },
         {
+            "ticker": " HSBC",
+            "count": 3
+        },
+        {
             "ticker": " SPR",
             "count": 3
         },
@@ -258,10 +270,6 @@
         },
         {
             "ticker": " AFRM",
-            "count": 3
-        },
-        {
-            "ticker": " THC",
             "count": 3
         },
         {
@@ -325,15 +333,27 @@
             "count": 3
         },
         {
+            "ticker": " AMER",
+            "count": 2
+        },
+        {
+            "ticker": " EXPR",
+            "count": 2
+        },
+        {
             "ticker": " CMS",
             "count": 2
         },
         {
-            "ticker": " WTI",
+            "ticker": " UBS",
             "count": 2
         },
         {
-            "ticker": " LOGI",
+            "ticker": " NIO",
+            "count": 2
+        },
+        {
+            "ticker": " WTI",
             "count": 2
         },
         {
@@ -342,14 +362,6 @@
         },
         {
             "ticker": " NAV",
-            "count": 2
-        },
-        {
-            "ticker": " JMIA",
-            "count": 2
-        },
-        {
-            "ticker": " NIO",
             "count": 2
         },
         {
@@ -518,10 +530,6 @@
         },
         {
             "ticker": " DKNG",
-            "count": 2
-        },
-        {
-            "ticker": " HSBC",
             "count": 2
         },
         {
@@ -722,6 +730,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8883,
-    "datetime": "October 07 2021 at 09:16 EST"
+    "num_comments": 8857,
+    "datetime": "October 07 2021 at 10:17 EST"
 }

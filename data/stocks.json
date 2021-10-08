@@ -2,27 +2,19 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 266
+            "count": 271
         },
         {
             "ticker": " AMC",
-            "count": 225
+            "count": 230
         },
         {
             "ticker": " TLRY",
             "count": 48
         },
         {
-            "ticker": " SDC",
-            "count": 27
-        },
-        {
             "ticker": " AAPL",
-            "count": 26
-        },
-        {
-            "ticker": " TSLA",
-            "count": 25
+            "count": 27
         },
         {
             "ticker": " PLTR",
@@ -30,35 +22,43 @@
         },
         {
             "ticker": " SNDL",
-            "count": 18
+            "count": 23
+        },
+        {
+            "ticker": " TSLA",
+            "count": 22
         },
         {
             "ticker": " BABA",
-            "count": 18
+            "count": 21
+        },
+        {
+            "ticker": " SDC",
+            "count": 20
         },
         {
             "ticker": " MSFT",
-            "count": 18
+            "count": 17
         },
         {
             "ticker": " AMD",
-            "count": 16
+            "count": 14
         },
         {
             "ticker": " RSI",
             "count": 14
         },
         {
-            "ticker": " DTE",
-            "count": 10
-        },
-        {
             "ticker": " JPM",
-            "count": 10
+            "count": 11
         },
         {
             "ticker": " SNAP",
             "count": 10
+        },
+        {
+            "ticker": " DTE",
+            "count": 9
         },
         {
             "ticker": " SOFI",
@@ -73,6 +73,10 @@
             "count": 7
         },
         {
+            "ticker": " XOM",
+            "count": 7
+        },
+        {
             "ticker": " CLF",
             "count": 7
         },
@@ -82,6 +86,10 @@
         },
         {
             "ticker": " LEVI",
+            "count": 6
+        },
+        {
+            "ticker": " NIO",
             "count": 6
         },
         {
@@ -113,14 +121,6 @@
             "count": 6
         },
         {
-            "ticker": " XOM",
-            "count": 6
-        },
-        {
-            "ticker": " RKT",
-            "count": 5
-        },
-        {
             "ticker": " NYC",
             "count": 5
         },
@@ -137,15 +137,23 @@
             "count": 5
         },
         {
+            "ticker": " FUTU",
+            "count": 4
+        },
+        {
             "ticker": " HOOD",
             "count": 4
         },
         {
-            "ticker": " NIO",
+            "ticker": " CRSR",
             "count": 4
         },
         {
-            "ticker": " CRSR",
+            "ticker": " CCXI",
+            "count": 4
+        },
+        {
+            "ticker": " TSM",
             "count": 4
         },
         {
@@ -205,14 +213,6 @@
             "count": 3
         },
         {
-            "ticker": " FUTU",
-            "count": 3
-        },
-        {
-            "ticker": " MVIS",
-            "count": 3
-        },
-        {
             "ticker": " AMRS",
             "count": 3
         },
@@ -221,11 +221,11 @@
             "count": 3
         },
         {
-            "ticker": " CNA",
+            "ticker": " KMI",
             "count": 3
         },
         {
-            "ticker": " TSM",
+            "ticker": " CNA",
             "count": 3
         },
         {
@@ -246,6 +246,10 @@
         },
         {
             "ticker": " DVN",
+            "count": 3
+        },
+        {
+            "ticker": " RKT",
             "count": 3
         },
         {
@@ -329,14 +333,6 @@
             "count": 3
         },
         {
-            "ticker": " ABC",
-            "count": 2
-        },
-        {
-            "ticker": " PBR",
-            "count": 2
-        },
-        {
             "ticker": " IIPR",
             "count": 2
         },
@@ -361,7 +357,7 @@
             "count": 2
         },
         {
-            "ticker": " CCXI",
+            "ticker": " FORD",
             "count": 2
         },
         {
@@ -557,10 +553,6 @@
             "count": 2
         },
         {
-            "ticker": " KMI",
-            "count": 2
-        },
-        {
             "ticker": " WMG",
             "count": 2
         },
@@ -697,6 +689,10 @@
             "count": 2
         },
         {
+            "ticker": " MVIS",
+            "count": 2
+        },
+        {
             "ticker": " NAKD",
             "count": 2
         },
@@ -706,6 +702,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 9547,
-    "datetime": "October 08 2021 at 13:18 EST"
+    "num_comments": 9629,
+    "datetime": "October 08 2021 at 14:17 EST"
 }

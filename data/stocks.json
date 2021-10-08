@@ -2,15 +2,19 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 233
+            "count": 241
         },
         {
             "ticker": " AMC",
-            "count": 194
+            "count": 201
+        },
+        {
+            "ticker": " TLRY",
+            "count": 35
         },
         {
             "ticker": " TSLA",
-            "count": 33
+            "count": 34
         },
         {
             "ticker": " AAPL",
@@ -21,16 +25,12 @@
             "count": 25
         },
         {
-            "ticker": " TLRY",
-            "count": 25
-        },
-        {
             "ticker": " AMD",
             "count": 24
         },
         {
             "ticker": " SDC",
-            "count": 22
+            "count": 23
         },
         {
             "ticker": " MSFT",
@@ -65,6 +65,10 @@
             "count": 9
         },
         {
+            "ticker": " SNDL",
+            "count": 8
+        },
+        {
             "ticker": " NVDA",
             "count": 8
         },
@@ -87,10 +91,6 @@
         {
             "ticker": " GOOG",
             "count": 7
-        },
-        {
-            "ticker": " SNDL",
-            "count": 6
         },
         {
             "ticker": " UPST",
@@ -173,11 +173,7 @@
             "count": 4
         },
         {
-            "ticker": " API",
-            "count": 4
-        },
-        {
-            "ticker": " GKOS",
+            "ticker": " MARA",
             "count": 4
         },
         {
@@ -273,10 +269,6 @@
             "count": 3
         },
         {
-            "ticker": " MARA",
-            "count": 3
-        },
-        {
             "ticker": " DVN",
             "count": 3
         },
@@ -361,6 +353,10 @@
             "count": 3
         },
         {
+            "ticker": " CLNE",
+            "count": 3
+        },
+        {
             "ticker": " CCO",
             "count": 2
         },
@@ -381,11 +377,7 @@
             "count": 2
         },
         {
-            "ticker": " CMS",
-            "count": 2
-        },
-        {
-            "ticker": " MCR",
+            "ticker": " MSTR",
             "count": 2
         },
         {
@@ -653,6 +645,10 @@
             "count": 2
         },
         {
+            "ticker": " API",
+            "count": 2
+        },
+        {
             "ticker": " NSA",
             "count": 2
         },
@@ -742,6 +738,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 9854,
-    "datetime": "October 08 2021 at 04:17 EST"
+    "num_comments": 9984,
+    "datetime": "October 08 2021 at 05:17 EST"
 }

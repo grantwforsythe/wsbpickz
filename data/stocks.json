@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 259
+            "count": 175
         },
         {
             "ticker": " AMC",
-            "count": 218
+            "count": 140
         },
         {
             "ticker": " TLRY",
-            "count": 39
+            "count": 34
         },
         {
             "ticker": " AAPL",
@@ -21,16 +21,16 @@
             "count": 27
         },
         {
-            "ticker": " TSLA",
-            "count": 27
-        },
-        {
             "ticker": " PLTR",
             "count": 25
         },
         {
+            "ticker": " TSLA",
+            "count": 24
+        },
+        {
             "ticker": " AMD",
-            "count": 23
+            "count": 19
         },
         {
             "ticker": " MSFT",
@@ -57,6 +57,10 @@
             "count": 10
         },
         {
+            "ticker": " SNDL",
+            "count": 9
+        },
+        {
             "ticker": " JPM",
             "count": 9
         },
@@ -67,10 +71,6 @@
         {
             "ticker": " SOFI",
             "count": 9
-        },
-        {
-            "ticker": " SNDL",
-            "count": 8
         },
         {
             "ticker": " AMZN",
@@ -117,14 +117,6 @@
             "count": 6
         },
         {
-            "ticker": " RKT",
-            "count": 5
-        },
-        {
-            "ticker": " NUE",
-            "count": 5
-        },
-        {
             "ticker": " TSM",
             "count": 5
         },
@@ -161,11 +153,7 @@
             "count": 4
         },
         {
-            "ticker": " HOOD",
-            "count": 4
-        },
-        {
-            "ticker": " CEI",
+            "ticker": " RKT",
             "count": 4
         },
         {
@@ -218,6 +206,10 @@
         },
         {
             "ticker": " NIO",
+            "count": 3
+        },
+        {
+            "ticker": " HOOD",
             "count": 3
         },
         {
@@ -298,6 +290,10 @@
         },
         {
             "ticker": " IRL",
+            "count": 3
+        },
+        {
+            "ticker": " CEI",
             "count": 3
         },
         {
@@ -597,6 +593,10 @@
             "count": 2
         },
         {
+            "ticker": " NUE",
+            "count": 2
+        },
+        {
             "ticker": " STLD",
             "count": 2
         },
@@ -707,17 +707,9 @@
         {
             "ticker": " HEXO",
             "count": 2
-        },
-        {
-            "ticker": " OSTK",
-            "count": 2
-        },
-        {
-            "ticker": " ETH",
-            "count": 2
         }
     ],
     "num_posts": 160,
-    "num_comments": 9524,
-    "datetime": "October 08 2021 at 07:17 EST"
+    "num_comments": 8931,
+    "datetime": "October 08 2021 at 08:17 EST"
 }

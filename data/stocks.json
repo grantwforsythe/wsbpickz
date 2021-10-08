@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 227
+            "count": 224
         },
         {
             "ticker": " AMC",
-            "count": 184
+            "count": 183
         },
         {
             "ticker": " TSLA",
-            "count": 35
+            "count": 33
         },
         {
             "ticker": " AAPL",
@@ -18,35 +18,31 @@
         },
         {
             "ticker": " TLRY",
-            "count": 25
+            "count": 26
         },
         {
             "ticker": " PLTR",
-            "count": 24
+            "count": 25
         },
         {
             "ticker": " AMD",
-            "count": 20
+            "count": 22
+        },
+        {
+            "ticker": " SDC",
+            "count": 19
         },
         {
             "ticker": " MSFT",
             "count": 19
         },
         {
-            "ticker": " CRSR",
-            "count": 15
-        },
-        {
             "ticker": " RSI",
             "count": 15
         },
         {
-            "ticker": " SDC",
-            "count": 14
-        },
-        {
             "ticker": " BABA",
-            "count": 10
+            "count": 12
         },
         {
             "ticker": " CLOV",
@@ -54,6 +50,10 @@
         },
         {
             "ticker": " SOFI",
+            "count": 10
+        },
+        {
+            "ticker": " CLF",
             "count": 10
         },
         {
@@ -65,19 +65,15 @@
             "count": 10
         },
         {
-            "ticker": " NVDA",
-            "count": 9
-        },
-        {
             "ticker": " JPM",
             "count": 9
         },
         {
-            "ticker": " AMZN",
+            "ticker": " NVDA",
             "count": 8
         },
         {
-            "ticker": " CLF",
+            "ticker": " AMZN",
             "count": 7
         },
         {
@@ -93,7 +89,7 @@
             "count": 7
         },
         {
-            "ticker": " GKOS",
+            "ticker": " UPST",
             "count": 6
         },
         {
@@ -121,6 +117,10 @@
             "count": 6
         },
         {
+            "ticker": " RKT",
+            "count": 5
+        },
+        {
             "ticker": " CEI",
             "count": 5
         },
@@ -145,10 +145,6 @@
             "count": 5
         },
         {
-            "ticker": " UPST",
-            "count": 5
-        },
-        {
             "ticker": " IPA",
             "count": 5
         },
@@ -157,7 +153,15 @@
             "count": 5
         },
         {
+            "ticker": " NUE",
+            "count": 4
+        },
+        {
             "ticker": " HOOD",
+            "count": 4
+        },
+        {
+            "ticker": " SNDL",
             "count": 4
         },
         {
@@ -165,23 +169,11 @@
             "count": 4
         },
         {
-            "ticker": " RKT",
-            "count": 4
-        },
-        {
-            "ticker": " CLNE",
-            "count": 4
-        },
-        {
-            "ticker": " RNG",
+            "ticker": " GKOS",
             "count": 4
         },
         {
             "ticker": " MRNA",
-            "count": 4
-        },
-        {
-            "ticker": " DVN",
             "count": 4
         },
         {
@@ -237,7 +229,7 @@
             "count": 4
         },
         {
-            "ticker": " NUE",
+            "ticker": " AMRS",
             "count": 3
         },
         {
@@ -245,7 +237,11 @@
             "count": 3
         },
         {
-            "ticker": " SNDL",
+            "ticker": " QCOM",
+            "count": 3
+        },
+        {
+            "ticker": " RIOT",
             "count": 3
         },
         {
@@ -253,7 +249,7 @@
             "count": 3
         },
         {
-            "ticker": " MGM",
+            "ticker": " ROOT",
             "count": 3
         },
         {
@@ -262,6 +258,10 @@
         },
         {
             "ticker": " MARA",
+            "count": 3
+        },
+        {
+            "ticker": " DVN",
             "count": 3
         },
         {
@@ -305,6 +305,10 @@
             "count": 3
         },
         {
+            "ticker": " CRSR",
+            "count": 3
+        },
+        {
             "ticker": " IBKR",
             "count": 3
         },
@@ -322,10 +326,6 @@
         },
         {
             "ticker": " LGL",
-            "count": 3
-        },
-        {
-            "ticker": " GTE",
             "count": 3
         },
         {
@@ -349,6 +349,10 @@
             "count": 3
         },
         {
+            "ticker": " LMFA",
+            "count": 2
+        },
+        {
             "ticker": " MMP",
             "count": 2
         },
@@ -357,11 +361,15 @@
             "count": 2
         },
         {
-            "ticker": " UNIT",
+            "ticker": " BLIN",
             "count": 2
         },
         {
             "ticker": " LXU",
+            "count": 2
+        },
+        {
+            "ticker": " UNIT",
             "count": 2
         },
         {
@@ -377,10 +385,6 @@
             "count": 2
         },
         {
-            "ticker": " LAUR",
-            "count": 2
-        },
-        {
             "ticker": " MCR",
             "count": 2
         },
@@ -389,15 +393,15 @@
             "count": 2
         },
         {
-            "ticker": " SLQT",
-            "count": 2
-        },
-        {
             "ticker": " ATVI",
             "count": 2
         },
         {
             "ticker": " CME",
+            "count": 2
+        },
+        {
+            "ticker": " CRL",
             "count": 2
         },
         {
@@ -437,14 +441,6 @@
             "count": 2
         },
         {
-            "ticker": " ROOT",
-            "count": 2
-        },
-        {
-            "ticker": " TGT",
-            "count": 2
-        },
-        {
             "ticker": " PTR",
             "count": 2
         },
@@ -477,6 +473,10 @@
             "count": 2
         },
         {
+            "ticker": " MGM",
+            "count": 2
+        },
+        {
             "ticker": " ADP",
             "count": 2
         },
@@ -502,10 +502,6 @@
         },
         {
             "ticker": " MLM",
-            "count": 2
-        },
-        {
-            "ticker": " RIOT",
             "count": 2
         },
         {
@@ -669,6 +665,10 @@
             "count": 2
         },
         {
+            "ticker": " GTE",
+            "count": 2
+        },
+        {
             "ticker": " AMPY",
             "count": 2
         },
@@ -758,6 +758,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 9046,
-    "datetime": "October 07 2021 at 23:17 EST"
+    "num_comments": 9077,
+    "datetime": "October 08 2021 at 00:47 EST"
 }

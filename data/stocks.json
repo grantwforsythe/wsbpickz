@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 187
+            "count": 188
         },
         {
             "ticker": " GME",
@@ -10,7 +10,7 @@
         },
         {
             "ticker": " SDC",
-            "count": 37
+            "count": 36
         },
         {
             "ticker": " AAPL",
@@ -25,11 +25,15 @@
             "count": 21
         },
         {
+            "ticker": " BABA",
+            "count": 18
+        },
+        {
             "ticker": " JPM",
             "count": 18
         },
         {
-            "ticker": " BABA",
+            "ticker": " TSLA",
             "count": 17
         },
         {
@@ -41,32 +45,24 @@
             "count": 16
         },
         {
-            "ticker": " TSLA",
-            "count": 16
-        },
-        {
             "ticker": " CLOV",
             "count": 15
         },
         {
             "ticker": " AMD",
-            "count": 13
+            "count": 14
+        },
+        {
+            "ticker": " XOM",
+            "count": 12
         },
         {
             "ticker": " SOFI",
             "count": 12
         },
         {
-            "ticker": " SKLZ",
-            "count": 11
-        },
-        {
             "ticker": " SNAP",
             "count": 11
-        },
-        {
-            "ticker": " XOM",
-            "count": 10
         },
         {
             "ticker": " SNDL",
@@ -85,16 +81,16 @@
             "count": 9
         },
         {
+            "ticker": " RKT",
+            "count": 8
+        },
+        {
             "ticker": " CRSR",
             "count": 8
         },
         {
             "ticker": " CCXI",
             "count": 8
-        },
-        {
-            "ticker": " RKT",
-            "count": 7
         },
         {
             "ticker": " MRK",
@@ -130,6 +126,10 @@
         },
         {
             "ticker": " MARA",
+            "count": 5
+        },
+        {
+            "ticker": " SKLZ",
             "count": 5
         },
         {
@@ -170,6 +170,10 @@
         },
         {
             "ticker": " THC",
+            "count": 4
+        },
+        {
+            "ticker": " HOOD",
             "count": 4
         },
         {
@@ -217,6 +221,10 @@
             "count": 3
         },
         {
+            "ticker": " COMM",
+            "count": 3
+        },
+        {
             "ticker": " FANG",
             "count": 3
         },
@@ -229,7 +237,19 @@
             "count": 3
         },
         {
+            "ticker": " OCGN",
+            "count": 3
+        },
+        {
             "ticker": " RETA",
+            "count": 3
+        },
+        {
+            "ticker": " ALCO",
+            "count": 3
+        },
+        {
+            "ticker": " DKNG",
             "count": 3
         },
         {
@@ -250,10 +270,6 @@
         },
         {
             "ticker": " ARCH",
-            "count": 3
-        },
-        {
-            "ticker": " HOOD",
             "count": 3
         },
         {
@@ -354,6 +370,10 @@
         },
         {
             "ticker": " PXD",
+            "count": 2
+        },
+        {
+            "ticker": " WTI",
             "count": 2
         },
         {
@@ -533,10 +553,6 @@
             "count": 2
         },
         {
-            "ticker": " COMM",
-            "count": 2
-        },
-        {
             "ticker": " THCB",
             "count": 2
         },
@@ -669,10 +685,6 @@
             "count": 2
         },
         {
-            "ticker": " DKNG",
-            "count": 2
-        },
-        {
             "ticker": " HSBC",
             "count": 2
         },
@@ -745,10 +757,6 @@
             "count": 2
         },
         {
-            "ticker": " OCGN",
-            "count": 2
-        },
-        {
             "ticker": " SPRT",
             "count": 2
         },
@@ -798,6 +806,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 9702,
-    "datetime": "October 09 2021 at 04:17 EST"
+    "num_comments": 9672,
+    "datetime": "October 09 2021 at 05:16 EST"
 }

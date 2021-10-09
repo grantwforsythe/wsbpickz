@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 201
+            "count": 209
         },
         {
             "ticker": " GME",
-            "count": 198
+            "count": 207
         },
         {
             "ticker": " SDC",
-            "count": 30
+            "count": 31
         },
         {
             "ticker": " AAPL",
@@ -26,7 +26,7 @@
         },
         {
             "ticker": " BABA",
-            "count": 19
+            "count": 18
         },
         {
             "ticker": " TSLA",
@@ -50,15 +50,19 @@
         },
         {
             "ticker": " CLOV",
-            "count": 16
+            "count": 15
         },
         {
             "ticker": " XOM",
-            "count": 12
+            "count": 13
         },
         {
             "ticker": " SOFI",
             "count": 12
+        },
+        {
+            "ticker": " SNDL",
+            "count": 11
         },
         {
             "ticker": " SNAP",
@@ -66,10 +70,6 @@
         },
         {
             "ticker": " DTE",
-            "count": 10
-        },
-        {
-            "ticker": " SNDL",
             "count": 10
         },
         {
@@ -81,16 +81,16 @@
             "count": 9
         },
         {
-            "ticker": " CRSR",
-            "count": 9
-        },
-        {
             "ticker": " AFRM",
             "count": 9
         },
         {
             "ticker": " CCXI",
             "count": 8
+        },
+        {
+            "ticker": " TSM",
+            "count": 7
         },
         {
             "ticker": " MRK",
@@ -107,10 +107,6 @@
         {
             "ticker": " TDA",
             "count": 7
-        },
-        {
-            "ticker": " TSM",
-            "count": 6
         },
         {
             "ticker": " CMG",
@@ -163,6 +159,10 @@
         {
             "ticker": " NKE",
             "count": 5
+        },
+        {
+            "ticker": " GDP",
+            "count": 4
         },
         {
             "ticker": " RIOT",
@@ -221,15 +221,15 @@
             "count": 3
         },
         {
-            "ticker": " GDP",
-            "count": 3
-        },
-        {
             "ticker": " AIG",
             "count": 3
         },
         {
             "ticker": " COMM",
+            "count": 3
+        },
+        {
+            "ticker": " WTI",
             "count": 3
         },
         {
@@ -365,6 +365,18 @@
             "count": 3
         },
         {
+            "ticker": " AZZ",
+            "count": 2
+        },
+        {
+            "ticker": " APA",
+            "count": 2
+        },
+        {
+            "ticker": " UPS",
+            "count": 2
+        },
+        {
             "ticker": " RTX",
             "count": 2
         },
@@ -390,10 +402,6 @@
         },
         {
             "ticker": " PXD",
-            "count": 2
-        },
-        {
-            "ticker": " WTI",
             "count": 2
         },
         {
@@ -693,6 +701,10 @@
             "count": 2
         },
         {
+            "ticker": " CRSR",
+            "count": 2
+        },
+        {
             "ticker": " MUH",
             "count": 2
         },
@@ -822,6 +834,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 9994,
-    "datetime": "October 09 2021 at 10:17 EST"
+    "num_comments": 9995,
+    "datetime": "October 09 2021 at 11:09 EST"
 }

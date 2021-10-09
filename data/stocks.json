@@ -1,12 +1,12 @@
 {
     "stocks": [
         {
-            "ticker": " AMC",
-            "count": 209
+            "ticker": " GME",
+            "count": 211
         },
         {
-            "ticker": " GME",
-            "count": 206
+            "ticker": " AMC",
+            "count": 209
         },
         {
             "ticker": " SDC",
@@ -21,15 +21,15 @@
             "count": 21
         },
         {
+            "ticker": " CLOV",
+            "count": 20
+        },
+        {
             "ticker": " MSFT",
             "count": 20
         },
         {
             "ticker": " TSLA",
-            "count": 19
-        },
-        {
-            "ticker": " CLOV",
             "count": 19
         },
         {
@@ -57,12 +57,12 @@
             "count": 13
         },
         {
-            "ticker": " SOFI",
+            "ticker": " CLF",
             "count": 12
         },
         {
-            "ticker": " CLF",
-            "count": 11
+            "ticker": " SOFI",
+            "count": 12
         },
         {
             "ticker": " SNDL",
@@ -265,6 +265,10 @@
             "count": 3
         },
         {
+            "ticker": " CCS",
+            "count": 3
+        },
+        {
             "ticker": " API",
             "count": 3
         },
@@ -369,11 +373,19 @@
             "count": 2
         },
         {
+            "ticker": " BHP",
+            "count": 2
+        },
+        {
             "ticker": " APA",
             "count": 2
         },
         {
             "ticker": " UPS",
+            "count": 2
+        },
+        {
+            "ticker": " WFC",
             "count": 2
         },
         {
@@ -434,6 +446,10 @@
         },
         {
             "ticker": " NVAX",
+            "count": 2
+        },
+        {
+            "ticker": " CRS",
             "count": 2
         },
         {
@@ -830,6 +846,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 9925,
-    "datetime": "October 09 2021 at 12:17 EST"
+    "num_comments": 10107,
+    "datetime": "October 09 2021 at 13:17 EST"
 }

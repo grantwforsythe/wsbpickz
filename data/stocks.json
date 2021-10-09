@@ -1,16 +1,16 @@
 {
     "stocks": [
         {
-            "ticker": " GME",
-            "count": 184
+            "ticker": " AMC",
+            "count": 186
         },
         {
-            "ticker": " AMC",
-            "count": 184
+            "ticker": " GME",
+            "count": 185
         },
         {
             "ticker": " SDC",
-            "count": 35
+            "count": 36
         },
         {
             "ticker": " AAPL",
@@ -33,16 +33,16 @@
             "count": 18
         },
         {
-            "ticker": " TSLA",
-            "count": 16
-        },
-        {
             "ticker": " BABA",
-            "count": 16
+            "count": 17
         },
         {
             "ticker": " RSI",
-            "count": 15
+            "count": 16
+        },
+        {
+            "ticker": " TSLA",
+            "count": 16
         },
         {
             "ticker": " CLOV",
@@ -57,10 +57,6 @@
             "count": 12
         },
         {
-            "ticker": " XOM",
-            "count": 11
-        },
-        {
             "ticker": " SNAP",
             "count": 11
         },
@@ -69,7 +65,15 @@
             "count": 10
         },
         {
+            "ticker": " XOM",
+            "count": 10
+        },
+        {
             "ticker": " CLF",
+            "count": 9
+        },
+        {
+            "ticker": " SNDL",
             "count": 9
         },
         {
@@ -79,10 +83,6 @@
         {
             "ticker": " DTE",
             "count": 9
-        },
-        {
-            "ticker": " SNDL",
-            "count": 8
         },
         {
             "ticker": " CRSR",
@@ -113,10 +113,6 @@
             "count": 7
         },
         {
-            "ticker": " MRO",
-            "count": 6
-        },
-        {
             "ticker": " CMG",
             "count": 6
         },
@@ -125,11 +121,15 @@
             "count": 6
         },
         {
-            "ticker": " MARA",
+            "ticker": " MRO",
             "count": 5
         },
         {
-            "ticker": " HOOD",
+            "ticker": " OXY",
+            "count": 5
+        },
+        {
+            "ticker": " MARA",
             "count": 5
         },
         {
@@ -193,10 +193,6 @@
             "count": 4
         },
         {
-            "ticker": " OXY",
-            "count": 4
-        },
-        {
             "ticker": " CPA",
             "count": 4
         },
@@ -221,11 +217,19 @@
             "count": 3
         },
         {
+            "ticker": " FANG",
+            "count": 3
+        },
+        {
             "ticker": " PROF",
             "count": 3
         },
         {
             "ticker": " UBER",
+            "count": 3
+        },
+        {
+            "ticker": " RETA",
             "count": 3
         },
         {
@@ -242,6 +246,10 @@
         },
         {
             "ticker": " ARCH",
+            "count": 3
+        },
+        {
+            "ticker": " HOOD",
             "count": 3
         },
         {
@@ -329,19 +337,19 @@
             "count": 2
         },
         {
-            "ticker": " RIG",
-            "count": 2
-        },
-        {
             "ticker": " EPD",
             "count": 2
         },
         {
-            "ticker": " FANG",
+            "ticker": " CTRA",
             "count": 2
         },
         {
-            "ticker": " CTRA",
+            "ticker": " RIG",
+            "count": 2
+        },
+        {
+            "ticker": " PXD",
             "count": 2
         },
         {
@@ -354,6 +362,10 @@
         },
         {
             "ticker": " SURF",
+            "count": 2
+        },
+        {
+            "ticker": " FCF",
             "count": 2
         },
         {
@@ -697,6 +709,10 @@
             "count": 2
         },
         {
+            "ticker": " PCM",
+            "count": 2
+        },
+        {
             "ticker": " ACM",
             "count": 2
         },
@@ -782,6 +798,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 9413,
-    "datetime": "October 09 2021 at 02:27 EST"
+    "num_comments": 9547,
+    "datetime": "October 09 2021 at 03:17 EST"
 }

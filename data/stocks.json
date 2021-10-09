@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 219
+            "count": 217
         },
         {
             "ticker": " GME",
-            "count": 216
+            "count": 217
         },
         {
             "ticker": " AAPL",
@@ -14,10 +14,6 @@
         },
         {
             "ticker": " PLTR",
-            "count": 24
-        },
-        {
-            "ticker": " SDC",
             "count": 24
         },
         {
@@ -34,11 +30,11 @@
         },
         {
             "ticker": " BABA",
-            "count": 17
+            "count": 18
         },
         {
             "ticker": " RSI",
-            "count": 17
+            "count": 16
         },
         {
             "ticker": " TLRY",
@@ -46,23 +42,23 @@
         },
         {
             "ticker": " TSLA",
-            "count": 14
+            "count": 15
         },
         {
-            "ticker": " CLF",
-            "count": 14
+            "ticker": " SDC",
+            "count": 15
         },
         {
             "ticker": " XOM",
             "count": 14
         },
         {
-            "ticker": " SOFI",
-            "count": 12
+            "ticker": " CLF",
+            "count": 13
         },
         {
-            "ticker": " RKT",
-            "count": 11
+            "ticker": " SOFI",
+            "count": 12
         },
         {
             "ticker": " SNAP",
@@ -85,7 +81,7 @@
             "count": 9
         },
         {
-            "ticker": " SNDL",
+            "ticker": " NYC",
             "count": 8
         },
         {
@@ -101,7 +97,11 @@
             "count": 8
         },
         {
-            "ticker": " NYC",
+            "ticker": " SNDL",
+            "count": 7
+        },
+        {
+            "ticker": " AZZ",
             "count": 7
         },
         {
@@ -121,7 +121,11 @@
             "count": 7
         },
         {
-            "ticker": " AZZ",
+            "ticker": " SENS",
+            "count": 6
+        },
+        {
+            "ticker": " GDP",
             "count": 6
         },
         {
@@ -133,19 +137,11 @@
             "count": 6
         },
         {
-            "ticker": " SENS",
-            "count": 5
-        },
-        {
             "ticker": " DKNG",
             "count": 5
         },
         {
             "ticker": " RIG",
-            "count": 5
-        },
-        {
-            "ticker": " GDP",
             "count": 5
         },
         {
@@ -206,6 +202,10 @@
         },
         {
             "ticker": " IBKR",
+            "count": 4
+        },
+        {
+            "ticker": " RKT",
             "count": 4
         },
         {
@@ -274,6 +274,10 @@
         },
         {
             "ticker": " SSL",
+            "count": 3
+        },
+        {
+            "ticker": " PSX",
             "count": 3
         },
         {
@@ -462,18 +466,6 @@
         },
         {
             "ticker": " PXD",
-            "count": 2
-        },
-        {
-            "ticker": " PSX",
-            "count": 2
-        },
-        {
-            "ticker": " TNDM",
-            "count": 2
-        },
-        {
-            "ticker": " ADC",
             "count": 2
         },
         {
@@ -841,6 +833,10 @@
             "count": 2
         },
         {
+            "ticker": " PATI",
+            "count": 2
+        },
+        {
             "ticker": " CORR",
             "count": 2
         },
@@ -862,6 +858,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 10834,
-    "datetime": "October 09 2021 at 22:17 EST"
+    "num_comments": 10825,
+    "datetime": "October 09 2021 at 23:17 EST"
 }

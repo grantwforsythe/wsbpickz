@@ -2,23 +2,27 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 216
+            "count": 219
         },
         {
             "ticker": " GME",
-            "count": 214
+            "count": 216
         },
         {
             "ticker": " AAPL",
             "count": 25
         },
         {
-            "ticker": " CLOV",
-            "count": 23
+            "ticker": " PLTR",
+            "count": 24
         },
         {
-            "ticker": " PLTR",
-            "count": 22
+            "ticker": " SDC",
+            "count": 24
+        },
+        {
+            "ticker": " CLOV",
+            "count": 23
         },
         {
             "ticker": " MSFT",
@@ -34,11 +38,7 @@
         },
         {
             "ticker": " RSI",
-            "count": 16
-        },
-        {
-            "ticker": " SDC",
-            "count": 16
+            "count": 17
         },
         {
             "ticker": " TLRY",
@@ -131,6 +131,10 @@
         {
             "ticker": " UPST",
             "count": 6
+        },
+        {
+            "ticker": " SENS",
+            "count": 5
         },
         {
             "ticker": " DKNG",
@@ -242,6 +246,10 @@
         },
         {
             "ticker": " RAVE",
+            "count": 3
+        },
+        {
+            "ticker": " CIA",
             "count": 3
         },
         {
@@ -377,11 +385,11 @@
             "count": 3
         },
         {
-            "ticker": " SENS",
+            "ticker": " III",
             "count": 2
         },
         {
-            "ticker": " III",
+            "ticker": " LPX",
             "count": 2
         },
         {
@@ -465,6 +473,10 @@
             "count": 2
         },
         {
+            "ticker": " ADC",
+            "count": 2
+        },
+        {
             "ticker": " CPS",
             "count": 2
         },
@@ -510,6 +522,10 @@
         },
         {
             "ticker": " SLS",
+            "count": 2
+        },
+        {
+            "ticker": " HGEN",
             "count": 2
         },
         {
@@ -689,10 +705,6 @@
             "count": 2
         },
         {
-            "ticker": " CIA",
-            "count": 2
-        },
-        {
             "ticker": " IRTC",
             "count": 2
         },
@@ -850,6 +862,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 10557,
-    "datetime": "October 09 2021 at 21:15 EST"
+    "num_comments": 10834,
+    "datetime": "October 09 2021 at 22:17 EST"
 }

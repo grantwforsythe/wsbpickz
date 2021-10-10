@@ -1,32 +1,32 @@
 {
     "stocks": [
         {
-            "ticker": " AMC",
-            "count": 216
+            "ticker": " GME",
+            "count": 219
         },
         {
-            "ticker": " GME",
-            "count": 216
+            "ticker": " AMC",
+            "count": 218
         },
         {
             "ticker": " AAPL",
             "count": 25
         },
         {
+            "ticker": " CLOV",
+            "count": 24
+        },
+        {
             "ticker": " PLTR",
             "count": 24
         },
         {
-            "ticker": " CLOV",
-            "count": 23
+            "ticker": " TSLA",
+            "count": 20
         },
         {
             "ticker": " MSFT",
             "count": 20
-        },
-        {
-            "ticker": " TSLA",
-            "count": 19
         },
         {
             "ticker": " AMD",
@@ -57,6 +57,10 @@
             "count": 12
         },
         {
+            "ticker": " RKT",
+            "count": 12
+        },
+        {
             "ticker": " SOFI",
             "count": 12
         },
@@ -67,6 +71,10 @@
         {
             "ticker": " DTE",
             "count": 10
+        },
+        {
+            "ticker": " SENS",
+            "count": 9
         },
         {
             "ticker": " TSM",
@@ -81,7 +89,11 @@
             "count": 9
         },
         {
-            "ticker": " SENS",
+            "ticker": " SNDL",
+            "count": 8
+        },
+        {
+            "ticker": " AZZ",
             "count": 8
         },
         {
@@ -101,14 +113,6 @@
             "count": 8
         },
         {
-            "ticker": " SNDL",
-            "count": 7
-        },
-        {
-            "ticker": " AZZ",
-            "count": 7
-        },
-        {
             "ticker": " OXY",
             "count": 7
         },
@@ -125,6 +129,10 @@
             "count": 7
         },
         {
+            "ticker": " DKNG",
+            "count": 6
+        },
+        {
             "ticker": " GDP",
             "count": 6
         },
@@ -137,19 +145,11 @@
             "count": 6
         },
         {
-            "ticker": " DKNG",
-            "count": 5
-        },
-        {
             "ticker": " RIG",
             "count": 5
         },
         {
             "ticker": " MRO",
-            "count": 5
-        },
-        {
-            "ticker": " RKT",
             "count": 5
         },
         {
@@ -201,11 +201,11 @@
             "count": 4
         },
         {
-            "ticker": " BTO",
+            "ticker": " IBKR",
             "count": 4
         },
         {
-            "ticker": " IBKR",
+            "ticker": " BTO",
             "count": 4
         },
         {
@@ -858,6 +858,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 11064,
-    "datetime": "October 10 2021 at 00:46 EST"
+    "num_comments": 11271,
+    "datetime": "October 10 2021 at 01:57 EST"
 }

@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 220
+            "count": 219
         },
         {
             "ticker": " GME",
-            "count": 213
+            "count": 210
         },
         {
             "ticker": " PLTR",
@@ -17,16 +17,12 @@
             "count": 25
         },
         {
-            "ticker": " CLOV",
-            "count": 24
-        },
-        {
             "ticker": " TSLA",
             "count": 24
         },
         {
-            "ticker": " AMD",
-            "count": 20
+            "ticker": " CLOV",
+            "count": 21
         },
         {
             "ticker": " MSFT",
@@ -38,7 +34,7 @@
         },
         {
             "ticker": " BABA",
-            "count": 17
+            "count": 16
         },
         {
             "ticker": " RSI",
@@ -47,6 +43,10 @@
         {
             "ticker": " TLRY",
             "count": 16
+        },
+        {
+            "ticker": " AMD",
+            "count": 14
         },
         {
             "ticker": " SOFI",
@@ -65,14 +65,6 @@
             "count": 11
         },
         {
-            "ticker": " TSM",
-            "count": 10
-        },
-        {
-            "ticker": " DTE",
-            "count": 10
-        },
-        {
             "ticker": " AFRM",
             "count": 9
         },
@@ -83,6 +75,18 @@
         {
             "ticker": " JPM",
             "count": 9
+        },
+        {
+            "ticker": " DTE",
+            "count": 9
+        },
+        {
+            "ticker": " AZZ",
+            "count": 8
+        },
+        {
+            "ticker": " TSM",
+            "count": 8
         },
         {
             "ticker": " NYC",
@@ -102,10 +106,6 @@
         },
         {
             "ticker": " SNDL",
-            "count": 7
-        },
-        {
-            "ticker": " AZZ",
             "count": 7
         },
         {
@@ -134,10 +134,6 @@
         },
         {
             "ticker": " WRAP",
-            "count": 5
-        },
-        {
-            "ticker": " WFC",
             "count": 5
         },
         {
@@ -174,6 +170,10 @@
         },
         {
             "ticker": " ROOT",
+            "count": 4
+        },
+        {
+            "ticker": " WFC",
             "count": 4
         },
         {
@@ -361,6 +361,10 @@
             "count": 3
         },
         {
+            "ticker": " SSYS",
+            "count": 2
+        },
+        {
             "ticker": " GSM",
             "count": 2
         },
@@ -422,18 +426,6 @@
         },
         {
             "ticker": " PENN",
-            "count": 2
-        },
-        {
-            "ticker": " UPS",
-            "count": 2
-        },
-        {
-            "ticker": " RIG",
-            "count": 2
-        },
-        {
-            "ticker": " RTX",
             "count": 2
         },
         {
@@ -838,6 +830,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 10877,
-    "datetime": "October 10 2021 at 05:16 EST"
+    "num_comments": 10698,
+    "datetime": "October 10 2021 at 06:17 EST"
 }

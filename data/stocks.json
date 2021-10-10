@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 226
+            "count": 212
         },
         {
             "ticker": " GME",
-            "count": 212
+            "count": 206
         },
         {
             "ticker": " PLTR",
@@ -14,7 +14,7 @@
         },
         {
             "ticker": " TSLA",
-            "count": 27
+            "count": 26
         },
         {
             "ticker": " AAPL",
@@ -25,16 +25,16 @@
             "count": 23
         },
         {
-            "ticker": " CLOV",
-            "count": 23
-        },
-        {
             "ticker": " MSFT",
             "count": 19
         },
         {
             "ticker": " BABA",
-            "count": 17
+            "count": 18
+        },
+        {
+            "ticker": " CLOV",
+            "count": 18
         },
         {
             "ticker": " RSI",
@@ -57,19 +57,19 @@
             "count": 11
         },
         {
-            "ticker": " CLF",
+            "ticker": " SNAP",
             "count": 11
         },
         {
-            "ticker": " SNAP",
-            "count": 11
+            "ticker": " XOM",
+            "count": 10
         },
         {
             "ticker": " AFRM",
             "count": 9
         },
         {
-            "ticker": " XOM",
+            "ticker": " CLF",
             "count": 9
         },
         {
@@ -147,10 +147,6 @@
         {
             "ticker": " NKE",
             "count": 5
-        },
-        {
-            "ticker": " ROOT",
-            "count": 4
         },
         {
             "ticker": " IBKR",
@@ -233,14 +229,6 @@
             "count": 3
         },
         {
-            "ticker": " MLM",
-            "count": 3
-        },
-        {
-            "ticker": " NIO",
-            "count": 3
-        },
-        {
             "ticker": " SPCE",
             "count": 3
         },
@@ -258,6 +246,10 @@
         },
         {
             "ticker": " CNA",
+            "count": 3
+        },
+        {
+            "ticker": " ROOT",
             "count": 3
         },
         {
@@ -397,14 +389,6 @@
             "count": 2
         },
         {
-            "ticker": " GLOB",
-            "count": 2
-        },
-        {
-            "ticker": " CMS",
-            "count": 2
-        },
-        {
             "ticker": " WFC",
             "count": 2
         },
@@ -517,6 +501,10 @@
             "count": 2
         },
         {
+            "ticker": " NIO",
+            "count": 2
+        },
+        {
             "ticker": " BBIG",
             "count": 2
         },
@@ -590,6 +578,10 @@
         },
         {
             "ticker": " PFE",
+            "count": 2
+        },
+        {
+            "ticker": " MLM",
             "count": 2
         },
         {
@@ -814,6 +806,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 10578,
-    "datetime": "October 10 2021 at 11:11 EST"
+    "num_comments": 10336,
+    "datetime": "October 10 2021 at 12:17 EST"
 }

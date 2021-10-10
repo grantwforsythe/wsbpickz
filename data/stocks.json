@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 207
+            "count": 206
         },
         {
             "ticker": " GME",
-            "count": 198
+            "count": 199
         },
         {
             "ticker": " PLTR",
-            "count": 29
+            "count": 32
         },
         {
             "ticker": " TSLA",
@@ -30,7 +30,11 @@
         },
         {
             "ticker": " CLOV",
-            "count": 17
+            "count": 18
+        },
+        {
+            "ticker": " RSI",
+            "count": 16
         },
         {
             "ticker": " BABA",
@@ -45,16 +49,8 @@
             "count": 15
         },
         {
-            "ticker": " RSI",
-            "count": 15
-        },
-        {
             "ticker": " SOFI",
             "count": 14
-        },
-        {
-            "ticker": " SENS",
-            "count": 11
         },
         {
             "ticker": " SNAP",
@@ -121,6 +117,10 @@
             "count": 6
         },
         {
+            "ticker": " ROOT",
+            "count": 5
+        },
+        {
             "ticker": " IBKR",
             "count": 5
         },
@@ -161,7 +161,7 @@
             "count": 5
         },
         {
-            "ticker": " ROOT",
+            "ticker": " LUV",
             "count": 4
         },
         {
@@ -794,6 +794,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 10037,
-    "datetime": "October 10 2021 at 18:17 EST"
+    "num_comments": 10033,
+    "datetime": "October 10 2021 at 19:11 EST"
 }

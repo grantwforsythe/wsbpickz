@@ -1,44 +1,40 @@
 {
     "stocks": [
         {
-            "ticker": " AMC",
-            "count": 204
-        },
-        {
             "ticker": " GME",
-            "count": 204
+            "count": 203
         },
         {
-            "ticker": " CLOV",
-            "count": 37
+            "ticker": " AMC",
+            "count": 203
         },
         {
             "ticker": " TSLA",
-            "count": 32
+            "count": 42
         },
         {
-            "ticker": " SDC",
-            "count": 32
+            "ticker": " CLOV",
+            "count": 38
         },
         {
             "ticker": " PLTR",
-            "count": 28
+            "count": 29
         },
         {
             "ticker": " AAPL",
             "count": 27
         },
         {
-            "ticker": " MSFT",
-            "count": 19
+            "ticker": " SDC",
+            "count": 27
         },
         {
             "ticker": " AMD",
-            "count": 18
+            "count": 21
         },
         {
-            "ticker": " SOFI",
-            "count": 18
+            "ticker": " MSFT",
+            "count": 20
         },
         {
             "ticker": " BABA",
@@ -53,6 +49,10 @@
             "count": 16
         },
         {
+            "ticker": " SOFI",
+            "count": 14
+        },
+        {
             "ticker": " DTE",
             "count": 11
         },
@@ -62,7 +62,7 @@
         },
         {
             "ticker": " API",
-            "count": 9
+            "count": 10
         },
         {
             "ticker": " AFRM",
@@ -75,6 +75,10 @@
         {
             "ticker": " JPM",
             "count": 9
+        },
+        {
+            "ticker": " LUV",
+            "count": 8
         },
         {
             "ticker": " BAC",
@@ -109,11 +113,7 @@
             "count": 7
         },
         {
-            "ticker": " NIO",
-            "count": 6
-        },
-        {
-            "ticker": " LUV",
+            "ticker": " AAL",
             "count": 6
         },
         {
@@ -141,11 +141,23 @@
             "count": 5
         },
         {
+            "ticker": " OXY",
+            "count": 5
+        },
+        {
+            "ticker": " CRSR",
+            "count": 5
+        },
+        {
             "ticker": " ROOT",
             "count": 5
         },
         {
             "ticker": " IBKR",
+            "count": 5
+        },
+        {
+            "ticker": " NIO",
             "count": 5
         },
         {
@@ -181,15 +193,7 @@
             "count": 4
         },
         {
-            "ticker": " CRSR",
-            "count": 4
-        },
-        {
-            "ticker": " CASI",
-            "count": 4
-        },
-        {
-            "ticker": " LULU",
+            "ticker": " PNC",
             "count": 4
         },
         {
@@ -213,23 +217,11 @@
             "count": 4
         },
         {
-            "ticker": " AAL",
-            "count": 4
-        },
-        {
-            "ticker": " OXY",
-            "count": 4
-        },
-        {
             "ticker": " MRO",
             "count": 4
         },
         {
             "ticker": " CPA",
-            "count": 4
-        },
-        {
-            "ticker": " MOS",
             "count": 4
         },
         {
@@ -245,19 +237,11 @@
             "count": 4
         },
         {
-            "ticker": " OCGN",
-            "count": 3
-        },
-        {
             "ticker": " GOOG",
             "count": 3
         },
         {
-            "ticker": " PNC",
-            "count": 3
-        },
-        {
-            "ticker": " SSYS",
+            "ticker": " ROG",
             "count": 3
         },
         {
@@ -270,6 +254,10 @@
         },
         {
             "ticker": " ARCH",
+            "count": 3
+        },
+        {
+            "ticker": " CASI",
             "count": 3
         },
         {
@@ -298,6 +286,10 @@
         },
         {
             "ticker": " JNJ",
+            "count": 3
+        },
+        {
+            "ticker": " LULU",
             "count": 3
         },
         {
@@ -361,11 +353,11 @@
             "count": 2
         },
         {
-            "ticker": " MELI",
+            "ticker": " FSD",
             "count": 2
         },
         {
-            "ticker": " FSD",
+            "ticker": " MELI",
             "count": 2
         },
         {
@@ -373,7 +365,15 @@
             "count": 2
         },
         {
+            "ticker": " FUTU",
+            "count": 2
+        },
+        {
             "ticker": " ADSK",
+            "count": 2
+        },
+        {
+            "ticker": " DOOO",
             "count": 2
         },
         {
@@ -381,19 +381,11 @@
             "count": 2
         },
         {
-            "ticker": " FANG",
+            "ticker": " DAL",
             "count": 2
         },
         {
-            "ticker": " CRWD",
-            "count": 2
-        },
-        {
-            "ticker": " SDGR",
-            "count": 2
-        },
-        {
-            "ticker": " FUTU",
+            "ticker": " SID",
             "count": 2
         },
         {
@@ -414,10 +406,6 @@
         },
         {
             "ticker": " CRIS",
-            "count": 2
-        },
-        {
-            "ticker": " PROG",
             "count": 2
         },
         {
@@ -685,6 +673,10 @@
             "count": 2
         },
         {
+            "ticker": " MOS",
+            "count": 2
+        },
+        {
             "ticker": " DKNG",
             "count": 2
         },
@@ -725,10 +717,6 @@
             "count": 2
         },
         {
-            "ticker": " NTR",
-            "count": 2
-        },
-        {
             "ticker": " PCM",
             "count": 2
         },
@@ -758,6 +746,10 @@
         },
         {
             "ticker": " ROKU",
+            "count": 2
+        },
+        {
+            "ticker": " OCGN",
             "count": 2
         },
         {
@@ -818,6 +810,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 10387,
-    "datetime": "October 10 2021 at 22:17 EST"
+    "num_comments": 10522,
+    "datetime": "October 10 2021 at 23:17 EST"
 }

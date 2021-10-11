@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 218
+            "count": 216
         },
         {
             "ticker": " AMC",
-            "count": 207
+            "count": 208
         },
         {
             "ticker": " CLOV",
-            "count": 49
+            "count": 50
         },
         {
             "ticker": " TSLA",
@@ -18,7 +18,7 @@
         },
         {
             "ticker": " SDC",
-            "count": 36
+            "count": 39
         },
         {
             "ticker": " PLTR",
@@ -26,7 +26,7 @@
         },
         {
             "ticker": " AAPL",
-            "count": 27
+            "count": 28
         },
         {
             "ticker": " AMD",
@@ -38,7 +38,7 @@
         },
         {
             "ticker": " BABA",
-            "count": 16
+            "count": 19
         },
         {
             "ticker": " RSI",
@@ -51,6 +51,14 @@
         {
             "ticker": " SOFI",
             "count": 14
+        },
+        {
+            "ticker": " UPST",
+            "count": 11
+        },
+        {
+            "ticker": " AFRM",
+            "count": 11
         },
         {
             "ticker": " DTE",
@@ -69,10 +77,6 @@
             "count": 10
         },
         {
-            "ticker": " AFRM",
-            "count": 10
-        },
-        {
             "ticker": " TDA",
             "count": 9
         },
@@ -81,15 +85,7 @@
             "count": 9
         },
         {
-            "ticker": " CCXI",
-            "count": 9
-        },
-        {
             "ticker": " MRNA",
-            "count": 9
-        },
-        {
-            "ticker": " UPST",
             "count": 9
         },
         {
@@ -102,6 +98,10 @@
         },
         {
             "ticker": " BAC",
+            "count": 8
+        },
+        {
+            "ticker": " CCXI",
             "count": 8
         },
         {
@@ -257,11 +257,11 @@
             "count": 3
         },
         {
-            "ticker": " DAL",
+            "ticker": " FUTU",
             "count": 3
         },
         {
-            "ticker": " FUTU",
+            "ticker": " WTI",
             "count": 3
         },
         {
@@ -393,11 +393,19 @@
             "count": 2
         },
         {
+            "ticker": " EMP",
+            "count": 2
+        },
+        {
             "ticker": " ADSK",
             "count": 2
         },
         {
             "ticker": " DOOO",
+            "count": 2
+        },
+        {
+            "ticker": " DAL",
             "count": 2
         },
         {
@@ -409,11 +417,7 @@
             "count": 2
         },
         {
-            "ticker": " GRWG",
-            "count": 2
-        },
-        {
-            "ticker": " CHWY",
+            "ticker": " XPEV",
             "count": 2
         },
         {
@@ -442,10 +446,6 @@
         },
         {
             "ticker": " BBVA",
-            "count": 2
-        },
-        {
-            "ticker": " WTI",
             "count": 2
         },
         {
@@ -850,6 +850,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 11406,
-    "datetime": "October 11 2021 at 02:07 EST"
+    "num_comments": 11574,
+    "datetime": "October 11 2021 at 02:37 EST"
 }

@@ -1,20 +1,20 @@
 {
     "stocks": [
         {
+            "ticker": " GME",
+            "count": 153
+        },
+        {
             "ticker": " AMC",
             "count": 152
         },
         {
-            "ticker": " GME",
-            "count": 149
-        },
-        {
             "ticker": " CLOV",
-            "count": 38
+            "count": 39
         },
         {
             "ticker": " SDC",
-            "count": 38
+            "count": 39
         },
         {
             "ticker": " SOFI",
@@ -81,10 +81,6 @@
             "count": 10
         },
         {
-            "ticker": " CCXI",
-            "count": 9
-        },
-        {
             "ticker": " JPM",
             "count": 9
         },
@@ -114,6 +110,10 @@
         },
         {
             "ticker": " TDA",
+            "count": 8
+        },
+        {
+            "ticker": " CCXI",
             "count": 8
         },
         {
@@ -425,6 +425,10 @@
             "count": 2
         },
         {
+            "ticker": " FDX",
+            "count": 2
+        },
+        {
             "ticker": " EXPE",
             "count": 2
         },
@@ -433,15 +437,7 @@
             "count": 2
         },
         {
-            "ticker": " FDX",
-            "count": 2
-        },
-        {
             "ticker": " SECO",
-            "count": 2
-        },
-        {
-            "ticker": " BODY",
             "count": 2
         },
         {
@@ -462,10 +458,6 @@
         },
         {
             "ticker": " CLNE",
-            "count": 2
-        },
-        {
-            "ticker": " ADV",
             "count": 2
         },
         {
@@ -890,6 +882,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 10811,
-    "datetime": "October 12 2021 at 06:17 EST"
+    "num_comments": 10865,
+    "datetime": "October 12 2021 at 07:17 EST"
 }

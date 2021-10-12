@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 152
+            "count": 154
         },
         {
             "ticker": " AMC",
-            "count": 150
+            "count": 153
         },
         {
             "ticker": " CLOV",
-            "count": 40
+            "count": 41
         },
         {
             "ticker": " SDC",
@@ -18,15 +18,15 @@
         },
         {
             "ticker": " SOFI",
-            "count": 28
+            "count": 30
         },
         {
             "ticker": " BABA",
-            "count": 27
+            "count": 28
         },
         {
             "ticker": " TSLA",
-            "count": 25
+            "count": 24
         },
         {
             "ticker": " AMD",
@@ -34,7 +34,7 @@
         },
         {
             "ticker": " PLTR",
-            "count": 20
+            "count": 22
         },
         {
             "ticker": " MSFT",
@@ -43,10 +43,6 @@
         {
             "ticker": " RSI",
             "count": 15
-        },
-        {
-            "ticker": " CLF",
-            "count": 13
         },
         {
             "ticker": " AAPL",
@@ -61,6 +57,10 @@
             "count": 12
         },
         {
+            "ticker": " OCGN",
+            "count": 11
+        },
+        {
             "ticker": " SNAP",
             "count": 11
         },
@@ -73,16 +73,12 @@
             "count": 10
         },
         {
-            "ticker": " XOM",
+            "ticker": " CLF",
             "count": 10
         },
         {
-            "ticker": " OCGN",
-            "count": 9
-        },
-        {
-            "ticker": " AMZN",
-            "count": 9
+            "ticker": " XOM",
+            "count": 10
         },
         {
             "ticker": " JPM",
@@ -121,12 +117,24 @@
             "count": 8
         },
         {
+            "ticker": " AMZN",
+            "count": 7
+        },
+        {
             "ticker": " PCG",
             "count": 7
         },
         {
             "ticker": " MRK",
             "count": 7
+        },
+        {
+            "ticker": " PROG",
+            "count": 6
+        },
+        {
+            "ticker": " PDT",
+            "count": 6
         },
         {
             "ticker": " LUV",
@@ -165,14 +173,6 @@
             "count": 5
         },
         {
-            "ticker": " PDT",
-            "count": 5
-        },
-        {
-            "ticker": " PROG",
-            "count": 5
-        },
-        {
             "ticker": " NOK",
             "count": 4
         },
@@ -198,10 +198,6 @@
         },
         {
             "ticker": " TWNK",
-            "count": 4
-        },
-        {
-            "ticker": " GOOG",
             "count": 4
         },
         {
@@ -401,6 +397,18 @@
             "count": 3
         },
         {
+            "ticker": " ALLO",
+            "count": 2
+        },
+        {
+            "ticker": " CAPA",
+            "count": 2
+        },
+        {
+            "ticker": " POLA",
+            "count": 2
+        },
+        {
             "ticker": " BYND",
             "count": 2
         },
@@ -454,6 +462,10 @@
         },
         {
             "ticker": " TSE",
+            "count": 2
+        },
+        {
+            "ticker": " TRT",
             "count": 2
         },
         {
@@ -773,6 +785,10 @@
             "count": 2
         },
         {
+            "ticker": " GOOG",
+            "count": 2
+        },
+        {
             "ticker": " MUH",
             "count": 2
         },
@@ -849,6 +865,10 @@
             "count": 2
         },
         {
+            "ticker": " STRO",
+            "count": 2
+        },
+        {
             "ticker": " BEEM",
             "count": 2
         },
@@ -878,6 +898,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 10911,
-    "datetime": "October 12 2021 at 10:17 EST"
+    "num_comments": 11097,
+    "datetime": "October 12 2021 at 11:10 EST"
 }

@@ -1,16 +1,16 @@
 {
     "stocks": [
         {
-            "ticker": " GME",
-            "count": 134
+            "ticker": " AMC",
+            "count": 138
         },
         {
-            "ticker": " AMC",
-            "count": 133
+            "ticker": " GME",
+            "count": 138
         },
         {
             "ticker": " CLOV",
-            "count": 32
+            "count": 33
         },
         {
             "ticker": " SDC",
@@ -21,16 +21,16 @@
             "count": 26
         },
         {
+            "ticker": " SOFI",
+            "count": 25
+        },
+        {
             "ticker": " TSLA",
             "count": 25
         },
         {
-            "ticker": " SOFI",
-            "count": 24
-        },
-        {
             "ticker": " PLTR",
-            "count": 22
+            "count": 23
         },
         {
             "ticker": " AMD",
@@ -39,10 +39,6 @@
         {
             "ticker": " MSFT",
             "count": 19
-        },
-        {
-            "ticker": " MRO",
-            "count": 17
         },
         {
             "ticker": " RSI",
@@ -54,10 +50,6 @@
         },
         {
             "ticker": " TSM",
-            "count": 13
-        },
-        {
-            "ticker": " XOM",
             "count": 13
         },
         {
@@ -78,6 +70,10 @@
         },
         {
             "ticker": " RKT",
+            "count": 10
+        },
+        {
+            "ticker": " XOM",
             "count": 10
         },
         {
@@ -121,10 +117,6 @@
             "count": 8
         },
         {
-            "ticker": " FRO",
-            "count": 7
-        },
-        {
             "ticker": " PCG",
             "count": 7
         },
@@ -143,6 +135,10 @@
         {
             "ticker": " BAC",
             "count": 6
+        },
+        {
+            "ticker": " CRWD",
+            "count": 5
         },
         {
             "ticker": " GOOG",
@@ -213,6 +209,10 @@
             "count": 4
         },
         {
+            "ticker": " MRO",
+            "count": 4
+        },
+        {
             "ticker": " CPA",
             "count": 4
         },
@@ -225,7 +225,15 @@
             "count": 4
         },
         {
+            "ticker": " LUV",
+            "count": 3
+        },
+        {
             "ticker": " OCGN",
+            "count": 3
+        },
+        {
+            "ticker": " RETA",
             "count": 3
         },
         {
@@ -237,11 +245,11 @@
             "count": 3
         },
         {
-            "ticker": " MLM",
+            "ticker": " PRLB",
             "count": 3
         },
         {
-            "ticker": " LUV",
+            "ticker": " MLM",
             "count": 3
         },
         {
@@ -397,15 +405,7 @@
             "count": 2
         },
         {
-            "ticker": " RETA",
-            "count": 2
-        },
-        {
             "ticker": " ALGN",
-            "count": 2
-        },
-        {
-            "ticker": " CRWD",
             "count": 2
         },
         {
@@ -842,6 +842,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 10172,
-    "datetime": "October 12 2021 at 02:06 EST"
+    "num_comments": 10320,
+    "datetime": "October 12 2021 at 02:37 EST"
 }

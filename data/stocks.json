@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 154
+            "count": 152
         },
         {
             "ticker": " AMC",
-            "count": 152
+            "count": 150
         },
         {
             "ticker": " CLOV",
@@ -14,15 +14,15 @@
         },
         {
             "ticker": " SDC",
-            "count": 40
+            "count": 36
         },
         {
             "ticker": " SOFI",
-            "count": 29
+            "count": 28
         },
         {
             "ticker": " BABA",
-            "count": 28
+            "count": 27
         },
         {
             "ticker": " TSLA",
@@ -69,16 +69,20 @@
             "count": 11
         },
         {
-            "ticker": " AMZN",
-            "count": 10
-        },
-        {
             "ticker": " RKT",
             "count": 10
         },
         {
             "ticker": " XOM",
             "count": 10
+        },
+        {
+            "ticker": " OCGN",
+            "count": 9
+        },
+        {
+            "ticker": " AMZN",
+            "count": 9
         },
         {
             "ticker": " JPM",
@@ -137,16 +141,8 @@
             "count": 6
         },
         {
-            "ticker": " PDT",
-            "count": 6
-        },
-        {
             "ticker": " BAC",
             "count": 6
-        },
-        {
-            "ticker": " OCGN",
-            "count": 5
         },
         {
             "ticker": " NVDA",
@@ -166,6 +162,14 @@
         },
         {
             "ticker": " LEVI",
+            "count": 5
+        },
+        {
+            "ticker": " PDT",
+            "count": 5
+        },
+        {
+            "ticker": " PROG",
             "count": 5
         },
         {
@@ -246,10 +250,6 @@
         },
         {
             "ticker": " GSAT",
-            "count": 4
-        },
-        {
-            "ticker": " PROG",
             "count": 4
         },
         {
@@ -401,6 +401,10 @@
             "count": 3
         },
         {
+            "ticker": " BYND",
+            "count": 2
+        },
+        {
             "ticker": " VERB",
             "count": 2
         },
@@ -410,10 +414,6 @@
         },
         {
             "ticker": " WBS",
-            "count": 2
-        },
-        {
-            "ticker": " SHOP",
             "count": 2
         },
         {
@@ -878,6 +878,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 10915,
-    "datetime": "October 12 2021 at 09:17 EST"
+    "num_comments": 10911,
+    "datetime": "October 12 2021 at 10:17 EST"
 }

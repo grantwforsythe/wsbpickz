@@ -2,31 +2,31 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 149
+            "count": 152
         },
         {
             "ticker": " GME",
-            "count": 147
+            "count": 149
+        },
+        {
+            "ticker": " CLOV",
+            "count": 38
         },
         {
             "ticker": " SDC",
             "count": 38
         },
         {
-            "ticker": " CLOV",
-            "count": 37
+            "ticker": " SOFI",
+            "count": 28
         },
         {
-            "ticker": " SOFI",
-            "count": 26
+            "ticker": " BABA",
+            "count": 28
         },
         {
             "ticker": " TSLA",
             "count": 26
-        },
-        {
-            "ticker": " BABA",
-            "count": 25
         },
         {
             "ticker": " AMD",
@@ -125,6 +125,10 @@
             "count": 7
         },
         {
+            "ticker": " LUV",
+            "count": 6
+        },
+        {
             "ticker": " SAP",
             "count": 6
         },
@@ -139,10 +143,6 @@
         {
             "ticker": " BAC",
             "count": 6
-        },
-        {
-            "ticker": " LUV",
-            "count": 5
         },
         {
             "ticker": " NVDA",
@@ -169,7 +169,19 @@
             "count": 4
         },
         {
+            "ticker": " OCGN",
+            "count": 4
+        },
+        {
             "ticker": " NFLX",
+            "count": 4
+        },
+        {
+            "ticker": " UPS",
+            "count": 4
+        },
+        {
+            "ticker": " HAPP",
             "count": 4
         },
         {
@@ -245,7 +257,7 @@
             "count": 4
         },
         {
-            "ticker": " OCGN",
+            "ticker": " DAL",
             "count": 3
         },
         {
@@ -257,11 +269,11 @@
             "count": 3
         },
         {
-            "ticker": " UPS",
+            "ticker": " SPOT",
             "count": 3
         },
         {
-            "ticker": " SPOT",
+            "ticker": " MGM",
             "count": 3
         },
         {
@@ -329,10 +341,6 @@
             "count": 3
         },
         {
-            "ticker": " HAPP",
-            "count": 3
-        },
-        {
             "ticker": " DVN",
             "count": 3
         },
@@ -393,10 +401,6 @@
             "count": 3
         },
         {
-            "ticker": " DAL",
-            "count": 2
-        },
-        {
             "ticker": " VERB",
             "count": 2
         },
@@ -429,7 +433,23 @@
             "count": 2
         },
         {
+            "ticker": " FDX",
+            "count": 2
+        },
+        {
+            "ticker": " SECO",
+            "count": 2
+        },
+        {
+            "ticker": " BODY",
+            "count": 2
+        },
+        {
             "ticker": " ALGN",
+            "count": 2
+        },
+        {
+            "ticker": " PRPL",
             "count": 2
         },
         {
@@ -661,10 +681,6 @@
             "count": 2
         },
         {
-            "ticker": " MGM",
-            "count": 2
-        },
-        {
             "ticker": " IPA",
             "count": 2
         },
@@ -874,6 +890,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 10707,
-    "datetime": "October 12 2021 at 05:16 EST"
+    "num_comments": 10811,
+    "datetime": "October 12 2021 at 06:17 EST"
 }

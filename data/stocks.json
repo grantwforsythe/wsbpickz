@@ -2,27 +2,27 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 123
+            "count": 122
         },
         {
             "ticker": " GME",
-            "count": 119
+            "count": 120
         },
         {
             "ticker": " SDC",
-            "count": 48
+            "count": 49
         },
         {
             "ticker": " CLOV",
-            "count": 31
-        },
-        {
-            "ticker": " BABA",
-            "count": 26
+            "count": 28
         },
         {
             "ticker": " AAPL",
-            "count": 25
+            "count": 26
+        },
+        {
+            "ticker": " BABA",
+            "count": 23
         },
         {
             "ticker": " MSFT",
@@ -33,12 +33,12 @@
             "count": 23
         },
         {
-            "ticker": " SOFI",
+            "ticker": " TSLA",
             "count": 22
         },
         {
-            "ticker": " TSLA",
-            "count": 19
+            "ticker": " SOFI",
+            "count": 21
         },
         {
             "ticker": " AMD",
@@ -85,10 +85,6 @@
             "count": 10
         },
         {
-            "ticker": " NIO",
-            "count": 9
-        },
-        {
             "ticker": " TDA",
             "count": 9
         },
@@ -101,7 +97,7 @@
             "count": 8
         },
         {
-            "ticker": " PROG",
+            "ticker": " NIO",
             "count": 7
         },
         {
@@ -122,6 +118,14 @@
         },
         {
             "ticker": " OCGN",
+            "count": 6
+        },
+        {
+            "ticker": " GDP",
+            "count": 6
+        },
+        {
+            "ticker": " ALGN",
             "count": 6
         },
         {
@@ -146,10 +150,6 @@
         },
         {
             "ticker": " THG",
-            "count": 5
-        },
-        {
-            "ticker": " ALGN",
             "count": 5
         },
         {
@@ -181,11 +181,11 @@
             "count": 5
         },
         {
-            "ticker": " ROKU",
-            "count": 4
+            "ticker": " PROG",
+            "count": 5
         },
         {
-            "ticker": " GDP",
+            "ticker": " ROKU",
             "count": 4
         },
         {
@@ -270,10 +270,6 @@
         },
         {
             "ticker": " DDD",
-            "count": 3
-        },
-        {
-            "ticker": " CPA",
             "count": 3
         },
         {
@@ -421,6 +417,10 @@
             "count": 3
         },
         {
+            "ticker": " CGC",
+            "count": 2
+        },
+        {
             "ticker": " LMND",
             "count": 2
         },
@@ -458,10 +458,6 @@
         },
         {
             "ticker": " LMFA",
-            "count": 2
-        },
-        {
-            "ticker": " GASS",
             "count": 2
         },
         {
@@ -903,9 +899,13 @@
         {
             "ticker": " DAO",
             "count": 2
+        },
+        {
+            "ticker": " LEGO",
+            "count": 2
         }
     ],
     "num_posts": 160,
-    "num_comments": 10213,
-    "datetime": "October 13 2021 at 09:17 EST"
+    "num_comments": 10206,
+    "datetime": "October 13 2021 at 10:17 EST"
 }

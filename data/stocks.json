@@ -2,30 +2,30 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 121
+            "count": 123
         },
         {
             "ticker": " GME",
-            "count": 115
+            "count": 114
         },
         {
             "ticker": " AAPL",
-            "count": 37
+            "count": 38
         },
         {
             "ticker": " SDC",
-            "count": 35
+            "count": 37
         },
         {
             "ticker": " CLOV",
             "count": 31
         },
         {
-            "ticker": " BABA",
-            "count": 30
+            "ticker": " SOFI",
+            "count": 27
         },
         {
-            "ticker": " SOFI",
+            "ticker": " BABA",
             "count": 27
         },
         {
@@ -46,11 +46,11 @@
         },
         {
             "ticker": " RKT",
-            "count": 16
+            "count": 17
         },
         {
             "ticker": " TLRY",
-            "count": 13
+            "count": 14
         },
         {
             "ticker": " TWNK",
@@ -69,11 +69,11 @@
             "count": 13
         },
         {
-            "ticker": " JPM",
-            "count": 11
+            "ticker": " DTE",
+            "count": 12
         },
         {
-            "ticker": " DTE",
+            "ticker": " JPM",
             "count": 11
         },
         {
@@ -101,11 +101,15 @@
             "count": 9
         },
         {
+            "ticker": " NIO",
+            "count": 8
+        },
+        {
             "ticker": " IBM",
             "count": 8
         },
         {
-            "ticker": " NIO",
+            "ticker": " PROG",
             "count": 7
         },
         {
@@ -137,16 +141,20 @@
             "count": 6
         },
         {
-            "ticker": " CRSR",
-            "count": 6
-        },
-        {
             "ticker": " VIAC",
             "count": 6
         },
         {
             "ticker": " MRK",
             "count": 6
+        },
+        {
+            "ticker": " THG",
+            "count": 5
+        },
+        {
+            "ticker": " ALGN",
+            "count": 5
         },
         {
             "ticker": " TDOC",
@@ -165,6 +173,10 @@
             "count": 5
         },
         {
+            "ticker": " CRSR",
+            "count": 5
+        },
+        {
             "ticker": " MVIS",
             "count": 5
         },
@@ -177,8 +189,8 @@
             "count": 5
         },
         {
-            "ticker": " PROG",
-            "count": 5
+            "ticker": " LUV",
+            "count": 4
         },
         {
             "ticker": " NYC",
@@ -251,14 +263,6 @@
         {
             "ticker": " GSAT",
             "count": 4
-        },
-        {
-            "ticker": " ALGN",
-            "count": 3
-        },
-        {
-            "ticker": " LUV",
-            "count": 3
         },
         {
             "ticker": " GDP",
@@ -430,10 +434,6 @@
         },
         {
             "ticker": " RBC",
-            "count": 2
-        },
-        {
-            "ticker": " SAH",
             "count": 2
         },
         {
@@ -886,6 +886,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 10353,
-    "datetime": "October 13 2021 at 02:37 EST"
+    "num_comments": 10383,
+    "datetime": "October 13 2021 at 03:17 EST"
 }

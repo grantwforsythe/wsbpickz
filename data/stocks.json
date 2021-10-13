@@ -2,23 +2,27 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 120
+            "count": 121
         },
         {
             "ticker": " GME",
-            "count": 110
+            "count": 115
         },
         {
             "ticker": " AAPL",
             "count": 37
         },
         {
+            "ticker": " SDC",
+            "count": 35
+        },
+        {
             "ticker": " CLOV",
-            "count": 29
+            "count": 31
         },
         {
             "ticker": " BABA",
-            "count": 28
+            "count": 30
         },
         {
             "ticker": " SOFI",
@@ -27,10 +31,6 @@
         {
             "ticker": " PLTR",
             "count": 25
-        },
-        {
-            "ticker": " SDC",
-            "count": 24
         },
         {
             "ticker": " MSFT",
@@ -42,11 +42,15 @@
         },
         {
             "ticker": " TSLA",
-            "count": 17
+            "count": 18
         },
         {
             "ticker": " RKT",
-            "count": 15
+            "count": 16
+        },
+        {
+            "ticker": " TLRY",
+            "count": 13
         },
         {
             "ticker": " TWNK",
@@ -65,8 +69,12 @@
             "count": 13
         },
         {
-            "ticker": " TLRY",
-            "count": 12
+            "ticker": " JPM",
+            "count": 11
+        },
+        {
+            "ticker": " DTE",
+            "count": 11
         },
         {
             "ticker": " CCXI",
@@ -81,19 +89,11 @@
             "count": 10
         },
         {
-            "ticker": " JPM",
-            "count": 10
-        },
-        {
             "ticker": " MRNA",
             "count": 10
         },
         {
             "ticker": " BNTX",
-            "count": 10
-        },
-        {
-            "ticker": " DTE",
             "count": 10
         },
         {
@@ -103,6 +103,10 @@
         {
             "ticker": " IBM",
             "count": 8
+        },
+        {
+            "ticker": " NIO",
+            "count": 7
         },
         {
             "ticker": " SNAP",
@@ -125,15 +129,15 @@
             "count": 7
         },
         {
-            "ticker": " NIO",
-            "count": 6
-        },
-        {
             "ticker": " OCGN",
             "count": 6
         },
         {
             "ticker": " RIOT",
+            "count": 6
+        },
+        {
+            "ticker": " CRSR",
             "count": 6
         },
         {
@@ -143,10 +147,6 @@
         {
             "ticker": " MRK",
             "count": 6
-        },
-        {
-            "ticker": " HOOD",
-            "count": 5
         },
         {
             "ticker": " TDOC",
@@ -162,10 +162,6 @@
         },
         {
             "ticker": " IBKR",
-            "count": 5
-        },
-        {
-            "ticker": " CRSR",
             "count": 5
         },
         {
@@ -190,10 +186,6 @@
         },
         {
             "ticker": " MARA",
-            "count": 4
-        },
-        {
-            "ticker": " CRSP",
             "count": 4
         },
         {
@@ -222,6 +214,10 @@
         },
         {
             "ticker": " PFE",
+            "count": 4
+        },
+        {
+            "ticker": " HOOD",
             "count": 4
         },
         {
@@ -257,6 +253,10 @@
             "count": 4
         },
         {
+            "ticker": " ALGN",
+            "count": 3
+        },
+        {
             "ticker": " LUV",
             "count": 3
         },
@@ -286,6 +286,10 @@
         },
         {
             "ticker": " CRIS",
+            "count": 3
+        },
+        {
+            "ticker": " BLK",
             "count": 3
         },
         {
@@ -421,11 +425,15 @@
             "count": 3
         },
         {
-            "ticker": " ALGN",
+            "ticker": " CXW",
             "count": 2
         },
         {
             "ticker": " RBC",
+            "count": 2
+        },
+        {
+            "ticker": " SAH",
             "count": 2
         },
         {
@@ -613,15 +621,15 @@
             "count": 2
         },
         {
-            "ticker": " BLK",
-            "count": 2
-        },
-        {
             "ticker": " AMAT",
             "count": 2
         },
         {
             "ticker": " SWN",
+            "count": 2
+        },
+        {
+            "ticker": " CRSP",
             "count": 2
         },
         {
@@ -878,6 +886,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 10125,
-    "datetime": "October 13 2021 at 02:07 EST"
+    "num_comments": 10353,
+    "datetime": "October 13 2021 at 02:37 EST"
 }

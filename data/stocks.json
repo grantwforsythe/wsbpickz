@@ -2,35 +2,35 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 130
+            "count": 138
         },
         {
             "ticker": " GME",
-            "count": 121
+            "count": 126
         },
         {
             "ticker": " AAPL",
-            "count": 37
+            "count": 38
         },
         {
             "ticker": " SOFI",
-            "count": 33
-        },
-        {
-            "ticker": " AMD",
-            "count": 31
+            "count": 32
         },
         {
             "ticker": " TSLA",
-            "count": 27
+            "count": 29
         },
         {
-            "ticker": " BABA",
-            "count": 27
+            "ticker": " AMD",
+            "count": 29
         },
         {
             "ticker": " CLOV",
             "count": 27
+        },
+        {
+            "ticker": " BABA",
+            "count": 26
         },
         {
             "ticker": " TSM",
@@ -41,24 +41,24 @@
             "count": 22
         },
         {
-            "ticker": " SDC",
-            "count": 18
+            "ticker": " PLTR",
+            "count": 19
         },
         {
-            "ticker": " PLTR",
-            "count": 15
+            "ticker": " SDC",
+            "count": 18
         },
         {
             "ticker": " AFRM",
             "count": 15
         },
         {
-            "ticker": " AMZN",
+            "ticker": " TWNK",
             "count": 13
         },
         {
-            "ticker": " TWNK",
-            "count": 13
+            "ticker": " RKT",
+            "count": 12
         },
         {
             "ticker": " DTE",
@@ -66,6 +66,10 @@
         },
         {
             "ticker": " CLF",
+            "count": 12
+        },
+        {
+            "ticker": " AMZN",
             "count": 12
         },
         {
@@ -77,15 +81,11 @@
             "count": 12
         },
         {
-            "ticker": " RKT",
+            "ticker": " TLRY",
             "count": 11
         },
         {
             "ticker": " TDA",
-            "count": 10
-        },
-        {
-            "ticker": " TLRY",
             "count": 10
         },
         {
@@ -125,11 +125,11 @@
             "count": 7
         },
         {
-            "ticker": " XOM",
+            "ticker": " SAVA",
             "count": 6
         },
         {
-            "ticker": " ETH",
+            "ticker": " XOM",
             "count": 6
         },
         {
@@ -150,10 +150,6 @@
         },
         {
             "ticker": " WMT",
-            "count": 5
-        },
-        {
-            "ticker": " RIOT",
             "count": 5
         },
         {
@@ -257,6 +253,10 @@
             "count": 4
         },
         {
+            "ticker": " ETH",
+            "count": 4
+        },
+        {
             "ticker": " FAMI",
             "count": 4
         },
@@ -265,15 +265,15 @@
             "count": 4
         },
         {
-            "ticker": " SAVA",
-            "count": 3
-        },
-        {
             "ticker": " FSLY",
             "count": 3
         },
         {
             "ticker": " ADP",
+            "count": 3
+        },
+        {
+            "ticker": " PACE",
             "count": 3
         },
         {
@@ -294,6 +294,10 @@
         },
         {
             "ticker": " TGT",
+            "count": 3
+        },
+        {
+            "ticker": " RIOT",
             "count": 3
         },
         {
@@ -449,7 +453,7 @@
             "count": 2
         },
         {
-            "ticker": " PACE",
+            "ticker": " FUTU",
             "count": 2
         },
         {
@@ -469,11 +473,11 @@
             "count": 2
         },
         {
-            "ticker": " XLNX",
+            "ticker": " QCOM",
             "count": 2
         },
         {
-            "ticker": " HSY",
+            "ticker": " XLNX",
             "count": 2
         },
         {
@@ -489,11 +493,15 @@
             "count": 2
         },
         {
-            "ticker": " VST",
+            "ticker": " ASH",
             "count": 2
         },
         {
             "ticker": " CMPS",
+            "count": 2
+        },
+        {
+            "ticker": " VST",
             "count": 2
         },
         {
@@ -942,6 +950,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 10815,
-    "datetime": "October 14 2021 at 00:37 EST"
+    "num_comments": 11130,
+    "datetime": "October 14 2021 at 01:58 EST"
 }

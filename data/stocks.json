@@ -1,12 +1,12 @@
 {
     "stocks": [
         {
-            "ticker": " GME",
-            "count": 166
+            "ticker": " AMC",
+            "count": 151
         },
         {
-            "ticker": " AMC",
-            "count": 148
+            "ticker": " GME",
+            "count": 147
         },
         {
             "ticker": " CRSR",
@@ -21,7 +21,7 @@
             "count": 34
         },
         {
-            "ticker": " TSLA",
+            "ticker": " UPST",
             "count": 33
         },
         {
@@ -29,8 +29,8 @@
             "count": 33
         },
         {
-            "ticker": " UPST",
-            "count": 31
+            "ticker": " TSLA",
+            "count": 32
         },
         {
             "ticker": " CLOV",
@@ -69,12 +69,12 @@
             "count": 15
         },
         {
-            "ticker": " TWNK",
+            "ticker": " NVDA",
             "count": 13
         },
         {
-            "ticker": " NVDA",
-            "count": 12
+            "ticker": " TWNK",
+            "count": 13
         },
         {
             "ticker": " CCXI",
@@ -153,10 +153,6 @@
             "count": 7
         },
         {
-            "ticker": " HSBC",
-            "count": 6
-        },
-        {
             "ticker": " IBKR",
             "count": 6
         },
@@ -185,11 +181,19 @@
             "count": 6
         },
         {
+            "ticker": " CRTX",
+            "count": 5
+        },
+        {
             "ticker": " CRM",
             "count": 5
         },
         {
             "ticker": " NIO",
+            "count": 5
+        },
+        {
+            "ticker": " HSBC",
             "count": 5
         },
         {
@@ -233,10 +237,6 @@
             "count": 4
         },
         {
-            "ticker": " CRTX",
-            "count": 4
-        },
-        {
             "ticker": " ROKU",
             "count": 4
         },
@@ -245,7 +245,7 @@
             "count": 4
         },
         {
-            "ticker": " TGT",
+            "ticker": " BBQ",
             "count": 4
         },
         {
@@ -317,7 +317,7 @@
             "count": 3
         },
         {
-            "ticker": " BBQ",
+            "ticker": " IRL",
             "count": 3
         },
         {
@@ -374,6 +374,10 @@
         },
         {
             "ticker": " CRSP",
+            "count": 3
+        },
+        {
+            "ticker": " TGT",
             "count": 3
         },
         {
@@ -491,6 +495,10 @@
         {
             "ticker": " UNIT",
             "count": 3
+        },
+        {
+            "ticker": " SKLZ",
+            "count": 2
         },
         {
             "ticker": " SMAR",
@@ -998,6 +1006,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 11933,
-    "datetime": "October 15 2021 at 05:17 EST"
+    "num_comments": 11847,
+    "datetime": "October 15 2021 at 06:17 EST"
 }

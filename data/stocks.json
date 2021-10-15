@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 154
+            "count": 149
         },
         {
             "ticker": " GME",
-            "count": 147
+            "count": 136
         },
         {
             "ticker": " CRSR",
-            "count": 64
+            "count": 62
         },
         {
             "ticker": " AAPL",
@@ -18,15 +18,15 @@
         },
         {
             "ticker": " AMD",
-            "count": 37
-        },
-        {
-            "ticker": " UPST",
-            "count": 33
+            "count": 35
         },
         {
             "ticker": " BABA",
-            "count": 33
+            "count": 34
+        },
+        {
+            "ticker": " UPST",
+            "count": 32
         },
         {
             "ticker": " TSLA",
@@ -153,10 +153,6 @@
             "count": 7
         },
         {
-            "ticker": " IBKR",
-            "count": 6
-        },
-        {
             "ticker": " ROOT",
             "count": 6
         },
@@ -221,10 +217,6 @@
             "count": 5
         },
         {
-            "ticker": " OCGN",
-            "count": 5
-        },
-        {
             "ticker": " LEVI",
             "count": 5
         },
@@ -253,6 +245,10 @@
             "count": 4
         },
         {
+            "ticker": " IBKR",
+            "count": 4
+        },
+        {
             "ticker": " CLNE",
             "count": 4
         },
@@ -274,6 +270,10 @@
         },
         {
             "ticker": " BNTX",
+            "count": 4
+        },
+        {
+            "ticker": " OCGN",
             "count": 4
         },
         {
@@ -309,10 +309,6 @@
             "count": 3
         },
         {
-            "ticker": " RETA",
-            "count": 3
-        },
-        {
             "ticker": " SOL",
             "count": 3
         },
@@ -329,11 +325,11 @@
             "count": 3
         },
         {
-            "ticker": " WFC",
+            "ticker": " LUV",
             "count": 3
         },
         {
-            "ticker": " LUV",
+            "ticker": " WFC",
             "count": 3
         },
         {
@@ -561,6 +557,10 @@
             "count": 2
         },
         {
+            "ticker": " RETA",
+            "count": 2
+        },
+        {
             "ticker": " AIG",
             "count": 2
         },
@@ -638,6 +638,14 @@
         },
         {
             "ticker": " INMD",
+            "count": 2
+        },
+        {
+            "ticker": " API",
+            "count": 2
+        },
+        {
+            "ticker": " CSV",
             "count": 2
         },
         {
@@ -1010,6 +1018,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 11940,
-    "datetime": "October 15 2021 at 07:17 EST"
+    "num_comments": 11854,
+    "datetime": "October 15 2021 at 08:17 EST"
 }

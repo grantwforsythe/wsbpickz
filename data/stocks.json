@@ -1,35 +1,35 @@
 {
     "stocks": [
         {
-            "ticker": " GME",
-            "count": 158
+            "ticker": " AMC",
+            "count": 153
         },
         {
-            "ticker": " AMC",
-            "count": 152
+            "ticker": " GME",
+            "count": 138
         },
         {
             "ticker": " CRSR",
-            "count": 62
+            "count": 63
         },
         {
             "ticker": " AAPL",
-            "count": 41
+            "count": 42
         },
         {
             "ticker": " AMD",
             "count": 35
         },
         {
-            "ticker": " BABA",
+            "ticker": " TSLA",
             "count": 34
         },
         {
-            "ticker": " UPST",
-            "count": 32
+            "ticker": " BABA",
+            "count": 33
         },
         {
-            "ticker": " TSLA",
+            "ticker": " UPST",
             "count": 32
         },
         {
@@ -70,11 +70,15 @@
         },
         {
             "ticker": " NVDA",
-            "count": 13
+            "count": 14
         },
         {
             "ticker": " TWNK",
             "count": 13
+        },
+        {
+            "ticker": " AMZN",
+            "count": 12
         },
         {
             "ticker": " CCXI",
@@ -83,14 +87,6 @@
         {
             "ticker": " DTE",
             "count": 11
-        },
-        {
-            "ticker": " AMZN",
-            "count": 11
-        },
-        {
-            "ticker": " MRNA",
-            "count": 10
         },
         {
             "ticker": " TLRY",
@@ -102,6 +98,10 @@
         },
         {
             "ticker": " DPZ",
+            "count": 9
+        },
+        {
+            "ticker": " MRNA",
             "count": 9
         },
         {
@@ -130,6 +130,10 @@
         },
         {
             "ticker": " JPM",
+            "count": 8
+        },
+        {
+            "ticker": " AMRS",
             "count": 8
         },
         {
@@ -162,10 +166,6 @@
         },
         {
             "ticker": " DDOG",
-            "count": 6
-        },
-        {
-            "ticker": " AMRS",
             "count": 6
         },
         {
@@ -223,6 +223,10 @@
         {
             "ticker": " IBM",
             "count": 5
+        },
+        {
+            "ticker": " GOOG",
+            "count": 4
         },
         {
             "ticker": " UPS",
@@ -285,6 +289,10 @@
             "count": 4
         },
         {
+            "ticker": " BBIG",
+            "count": 4
+        },
+        {
             "ticker": " ETH",
             "count": 4
         },
@@ -293,15 +301,19 @@
             "count": 4
         },
         {
+            "ticker": " BASI",
+            "count": 3
+        },
+        {
+            "ticker": " BODY",
+            "count": 3
+        },
+        {
             "ticker": " STRO",
             "count": 3
         },
         {
             "ticker": " TIGR",
-            "count": 3
-        },
-        {
-            "ticker": " GOOG",
             "count": 3
         },
         {
@@ -465,10 +477,6 @@
             "count": 3
         },
         {
-            "ticker": " BBIG",
-            "count": 3
-        },
-        {
             "ticker": " APRN",
             "count": 3
         },
@@ -501,6 +509,14 @@
             "count": 3
         },
         {
+            "ticker": " PYPL",
+            "count": 2
+        },
+        {
+            "ticker": " LRCX",
+            "count": 2
+        },
+        {
             "ticker": " SKLZ",
             "count": 2
         },
@@ -526,10 +542,6 @@
         },
         {
             "ticker": " TPIC",
-            "count": 2
-        },
-        {
-            "ticker": " BODY",
             "count": 2
         },
         {
@@ -566,10 +578,6 @@
         },
         {
             "ticker": " AIG",
-            "count": 2
-        },
-        {
-            "ticker": " RDFN",
             "count": 2
         },
         {
@@ -853,10 +861,6 @@
             "count": 2
         },
         {
-            "ticker": " BASI",
-            "count": 2
-        },
-        {
             "ticker": " FORD",
             "count": 2
         },
@@ -1022,6 +1026,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 12093,
-    "datetime": "October 15 2021 at 09:17 EST"
+    "num_comments": 11977,
+    "datetime": "October 15 2021 at 10:17 EST"
 }

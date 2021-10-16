@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 147
+            "count": 145
         },
         {
             "ticker": " GME",
-            "count": 129
+            "count": 132
         },
         {
             "ticker": " TSLA",
-            "count": 48
+            "count": 49
         },
         {
             "ticker": " AAPL",
@@ -69,20 +69,16 @@
             "count": 14
         },
         {
+            "ticker": " SDC",
+            "count": 13
+        },
+        {
             "ticker": " AFRM",
             "count": 13
         },
         {
             "ticker": " CCXI",
             "count": 12
-        },
-        {
-            "ticker": " SDC",
-            "count": 10
-        },
-        {
-            "ticker": " MRNA",
-            "count": 9
         },
         {
             "ticker": " NVDA",
@@ -102,6 +98,10 @@
         },
         {
             "ticker": " DIS",
+            "count": 8
+        },
+        {
+            "ticker": " MRNA",
             "count": 8
         },
         {
@@ -134,6 +134,10 @@
         },
         {
             "ticker": " NIO",
+            "count": 6
+        },
+        {
+            "ticker": " INTC",
             "count": 6
         },
         {
@@ -189,7 +193,7 @@
             "count": 5
         },
         {
-            "ticker": " INTC",
+            "ticker": " NFLX",
             "count": 5
         },
         {
@@ -238,10 +242,6 @@
         },
         {
             "ticker": " FCEL",
-            "count": 4
-        },
-        {
-            "ticker": " NFLX",
             "count": 4
         },
         {
@@ -309,11 +309,19 @@
             "count": 4
         },
         {
+            "ticker": " UAL",
+            "count": 3
+        },
+        {
             "ticker": " ISRG",
             "count": 3
         },
         {
-            "ticker": " HCA",
+            "ticker": " AAL",
+            "count": 3
+        },
+        {
+            "ticker": " DAL",
             "count": 3
         },
         {
@@ -497,14 +505,6 @@
             "count": 2
         },
         {
-            "ticker": " UAL",
-            "count": 2
-        },
-        {
-            "ticker": " DAL",
-            "count": 2
-        },
-        {
             "ticker": " MGM",
             "count": 2
         },
@@ -546,6 +546,10 @@
         },
         {
             "ticker": " DHR",
+            "count": 2
+        },
+        {
+            "ticker": " HCA",
             "count": 2
         },
         {
@@ -777,10 +781,6 @@
             "count": 2
         },
         {
-            "ticker": " AAL",
-            "count": 2
-        },
-        {
             "ticker": " NKE",
             "count": 2
         },
@@ -1002,6 +1002,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 10709,
-    "datetime": "October 16 2021 at 17:17 EST"
+    "num_comments": 10664,
+    "datetime": "October 16 2021 at 18:17 EST"
 }

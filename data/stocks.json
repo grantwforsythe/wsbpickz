@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 170
+            "count": 154
         },
         {
             "ticker": " GME",
-            "count": 136
+            "count": 123
         },
         {
             "ticker": " TSLA",
-            "count": 62
+            "count": 64
         },
         {
             "ticker": " AAPL",
@@ -22,11 +22,7 @@
         },
         {
             "ticker": " AMZN",
-            "count": 31
-        },
-        {
-            "ticker": " CLOV",
-            "count": 29
+            "count": 30
         },
         {
             "ticker": " SOFI",
@@ -37,6 +33,10 @@
             "count": 28
         },
         {
+            "ticker": " CLOV",
+            "count": 27
+        },
+        {
             "ticker": " TSM",
             "count": 26
         },
@@ -45,20 +45,20 @@
             "count": 23
         },
         {
-            "ticker": " MSFT",
-            "count": 20
-        },
-        {
             "ticker": " PLTR",
             "count": 19
         },
         {
-            "ticker": " RKT",
-            "count": 16
+            "ticker": " MSFT",
+            "count": 19
         },
         {
             "ticker": " BABA",
             "count": 16
+        },
+        {
+            "ticker": " RKT",
+            "count": 15
         },
         {
             "ticker": " TWNK",
@@ -73,6 +73,10 @@
             "count": 12
         },
         {
+            "ticker": " CRSP",
+            "count": 11
+        },
+        {
             "ticker": " SDC",
             "count": 11
         },
@@ -85,7 +89,7 @@
             "count": 11
         },
         {
-            "ticker": " CRSP",
+            "ticker": " DTE",
             "count": 9
         },
         {
@@ -101,7 +105,11 @@
             "count": 9
         },
         {
-            "ticker": " DTE",
+            "ticker": " HOOD",
+            "count": 8
+        },
+        {
+            "ticker": " JPM",
             "count": 8
         },
         {
@@ -119,14 +127,6 @@
         {
             "ticker": " AMRS",
             "count": 8
-        },
-        {
-            "ticker": " HOOD",
-            "count": 7
-        },
-        {
-            "ticker": " JPM",
-            "count": 7
         },
         {
             "ticker": " PDT",
@@ -485,6 +485,10 @@
             "count": 2
         },
         {
+            "ticker": " NOK",
+            "count": 2
+        },
+        {
             "ticker": " HOLI",
             "count": 2
         },
@@ -514,6 +518,10 @@
         },
         {
             "ticker": " FATE",
+            "count": 2
+        },
+        {
+            "ticker": " VET",
             "count": 2
         },
         {
@@ -930,6 +938,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 10635,
-    "datetime": "October 16 2021 at 02:07 EST"
+    "num_comments": 10710,
+    "datetime": "October 16 2021 at 03:17 EST"
 }

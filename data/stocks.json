@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 154
+            "count": 146
         },
         {
             "ticker": " GME",
-            "count": 123
+            "count": 124
         },
         {
             "ticker": " TSLA",
-            "count": 64
+            "count": 68
         },
         {
             "ticker": " AAPL",
@@ -21,12 +21,12 @@
             "count": 38
         },
         {
-            "ticker": " AMZN",
-            "count": 30
-        },
-        {
             "ticker": " SOFI",
             "count": 29
+        },
+        {
+            "ticker": " AMZN",
+            "count": 28
         },
         {
             "ticker": " CRSR",
@@ -54,7 +54,7 @@
         },
         {
             "ticker": " BABA",
-            "count": 16
+            "count": 17
         },
         {
             "ticker": " RKT",
@@ -69,15 +69,15 @@
             "count": 13
         },
         {
+            "ticker": " SDC",
+            "count": 12
+        },
+        {
             "ticker": " CCXI",
             "count": 12
         },
         {
             "ticker": " CRSP",
-            "count": 11
-        },
-        {
-            "ticker": " SDC",
             "count": 11
         },
         {
@@ -477,6 +477,10 @@
             "count": 3
         },
         {
+            "ticker": " HCA",
+            "count": 2
+        },
+        {
             "ticker": " LITE",
             "count": 2
         },
@@ -505,15 +509,11 @@
             "count": 2
         },
         {
-            "ticker": " TRIL",
+            "ticker": " OGS",
             "count": 2
         },
         {
             "ticker": " ABT",
-            "count": 2
-        },
-        {
-            "ticker": " OGS",
             "count": 2
         },
         {
@@ -938,6 +938,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 10710,
-    "datetime": "October 16 2021 at 03:17 EST"
+    "num_comments": 10840,
+    "datetime": "October 16 2021 at 04:17 EST"
 }

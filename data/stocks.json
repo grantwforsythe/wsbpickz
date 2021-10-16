@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 147
+            "count": 150
         },
         {
             "ticker": " GME",
-            "count": 127
+            "count": 128
         },
         {
             "ticker": " TSLA",
-            "count": 56
+            "count": 60
         },
         {
             "ticker": " AAPL",
@@ -18,11 +18,11 @@
         },
         {
             "ticker": " UPST",
-            "count": 42
+            "count": 43
         },
         {
             "ticker": " CLOV",
-            "count": 28
+            "count": 29
         },
         {
             "ticker": " CRSR",
@@ -69,16 +69,16 @@
             "count": 13
         },
         {
+            "ticker": " CRSP",
+            "count": 12
+        },
+        {
             "ticker": " RKT",
             "count": 12
         },
         {
             "ticker": " CCXI",
             "count": 12
-        },
-        {
-            "ticker": " CRSP",
-            "count": 11
         },
         {
             "ticker": " SDC",
@@ -145,7 +145,15 @@
             "count": 6
         },
         {
+            "ticker": " CRIS",
+            "count": 6
+        },
+        {
             "ticker": " ETH",
+            "count": 6
+        },
+        {
+            "ticker": " FCEL",
             "count": 6
         },
         {
@@ -177,19 +185,11 @@
             "count": 5
         },
         {
-            "ticker": " CRIS",
-            "count": 5
-        },
-        {
             "ticker": " PAGS",
             "count": 5
         },
         {
             "ticker": " CRTX",
-            "count": 5
-        },
-        {
-            "ticker": " FCEL",
             "count": 5
         },
         {
@@ -213,7 +213,23 @@
             "count": 5
         },
         {
+            "ticker": " BEAM",
+            "count": 4
+        },
+        {
             "ticker": " NTLA",
+            "count": 4
+        },
+        {
+            "ticker": " CLF",
+            "count": 4
+        },
+        {
+            "ticker": " ABT",
+            "count": 4
+        },
+        {
+            "ticker": " ACI",
             "count": 4
         },
         {
@@ -297,11 +313,7 @@
             "count": 4
         },
         {
-            "ticker": " BEAM",
-            "count": 3
-        },
-        {
-            "ticker": " ACI",
+            "ticker": " ASML",
             "count": 3
         },
         {
@@ -425,10 +437,6 @@
             "count": 3
         },
         {
-            "ticker": " CLF",
-            "count": 3
-        },
-        {
             "ticker": " ENPH",
             "count": 3
         },
@@ -501,11 +509,23 @@
             "count": 2
         },
         {
-            "ticker": " OGS",
+            "ticker": " CAC",
             "count": 2
         },
         {
-            "ticker": " ABT",
+            "ticker": " NOK",
+            "count": 2
+        },
+        {
+            "ticker": " HOLI",
+            "count": 2
+        },
+        {
+            "ticker": " STLD",
+            "count": 2
+        },
+        {
+            "ticker": " OGS",
             "count": 2
         },
         {
@@ -714,10 +734,6 @@
         },
         {
             "ticker": " IEX",
-            "count": 2
-        },
-        {
-            "ticker": " ASML",
             "count": 2
         },
         {
@@ -950,6 +966,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 10458,
-    "datetime": "October 16 2021 at 12:17 EST"
+    "num_comments": 10754,
+    "datetime": "October 16 2021 at 13:17 EST"
 }

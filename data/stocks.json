@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 149
+            "count": 151
         },
         {
             "ticker": " GME",
-            "count": 124
+            "count": 129
         },
         {
             "ticker": " TSLA",
-            "count": 59
+            "count": 60
         },
         {
             "ticker": " AAPL",
@@ -21,12 +21,12 @@
             "count": 41
         },
         {
-            "ticker": " CRSR",
+            "ticker": " CLOV",
             "count": 28
         },
         {
-            "ticker": " CLOV",
-            "count": 27
+            "ticker": " CRSR",
+            "count": 28
         },
         {
             "ticker": " TSM",
@@ -42,7 +42,7 @@
         },
         {
             "ticker": " AMZN",
-            "count": 21
+            "count": 22
         },
         {
             "ticker": " MSFT",
@@ -177,11 +177,19 @@
             "count": 5
         },
         {
+            "ticker": " IBKR",
+            "count": 5
+        },
+        {
             "ticker": " CRTX",
             "count": 5
         },
         {
             "ticker": " CLNE",
+            "count": 5
+        },
+        {
+            "ticker": " PAGS",
             "count": 5
         },
         {
@@ -237,10 +245,6 @@
             "count": 4
         },
         {
-            "ticker": " PAGS",
-            "count": 4
-        },
-        {
             "ticker": " DKNG",
             "count": 4
         },
@@ -258,10 +262,6 @@
         },
         {
             "ticker": " FUBO",
-            "count": 4
-        },
-        {
-            "ticker": " IBKR",
             "count": 4
         },
         {
@@ -954,6 +954,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 10512,
-    "datetime": "October 16 2021 at 09:17 EST"
+    "num_comments": 10831,
+    "datetime": "October 16 2021 at 10:17 EST"
 }

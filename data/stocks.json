@@ -2,14 +2,18 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 148
+            "count": 151
         },
         {
             "ticker": " GME",
-            "count": 139
+            "count": 147
         },
         {
             "ticker": " TSLA",
+            "count": 45
+        },
+        {
+            "ticker": " UPST",
             "count": 44
         },
         {
@@ -17,19 +21,15 @@
             "count": 44
         },
         {
-            "ticker": " UPST",
-            "count": 43
-        },
-        {
             "ticker": " CRSR",
             "count": 30
         },
         {
-            "ticker": " TSM",
-            "count": 27
+            "ticker": " CLOV",
+            "count": 28
         },
         {
-            "ticker": " CLOV",
+            "ticker": " TSM",
             "count": 26
         },
         {
@@ -173,6 +173,14 @@
             "count": 6
         },
         {
+            "ticker": " JPM",
+            "count": 6
+        },
+        {
+            "ticker": " BAC",
+            "count": 6
+        },
+        {
             "ticker": " BBIG",
             "count": 6
         },
@@ -182,6 +190,10 @@
         },
         {
             "ticker": " GDP",
+            "count": 5
+        },
+        {
+            "ticker": " ROOT",
             "count": 5
         },
         {
@@ -201,6 +213,10 @@
             "count": 5
         },
         {
+            "ticker": " PROG",
+            "count": 5
+        },
+        {
             "ticker": " BNTX",
             "count": 5
         },
@@ -210,14 +226,6 @@
         },
         {
             "ticker": " CVS",
-            "count": 5
-        },
-        {
-            "ticker": " JPM",
-            "count": 5
-        },
-        {
-            "ticker": " BAC",
             "count": 5
         },
         {
@@ -261,10 +269,6 @@
             "count": 4
         },
         {
-            "ticker": " PROG",
-            "count": 4
-        },
-        {
             "ticker": " BTO",
             "count": 4
         },
@@ -285,15 +289,15 @@
             "count": 4
         },
         {
+            "ticker": " WFC",
+            "count": 4
+        },
+        {
             "ticker": " FUBO",
             "count": 4
         },
         {
             "ticker": " CLNE",
-            "count": 4
-        },
-        {
-            "ticker": " ROOT",
             "count": 4
         },
         {
@@ -398,10 +402,6 @@
         },
         {
             "ticker": " UPS",
-            "count": 3
-        },
-        {
-            "ticker": " WFC",
             "count": 3
         },
         {
@@ -586,6 +586,10 @@
         },
         {
             "ticker": " COLL",
+            "count": 2
+        },
+        {
+            "ticker": " GIS",
             "count": 2
         },
         {
@@ -1041,6 +1045,10 @@
             "count": 2
         },
         {
+            "ticker": " ZKIN",
+            "count": 2
+        },
+        {
             "ticker": " BOH",
             "count": 2
         },
@@ -1054,6 +1062,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 10507,
-    "datetime": "October 17 2021 at 16:17 EST"
+    "num_comments": 10651,
+    "datetime": "October 17 2021 at 17:17 EST"
 }

@@ -2,23 +2,23 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 140
+            "count": 141
         },
         {
             "ticker": " GME",
             "count": 133
         },
         {
-            "ticker": " TSLA",
+            "ticker": " AAPL",
             "count": 47
         },
         {
-            "ticker": " AAPL",
+            "ticker": " TSLA",
             "count": 46
         },
         {
             "ticker": " UPST",
-            "count": 38
+            "count": 43
         },
         {
             "ticker": " CLOV",
@@ -57,12 +57,16 @@
             "count": 16
         },
         {
-            "ticker": " TDA",
+            "ticker": " TWNK",
             "count": 15
         },
         {
-            "ticker": " TWNK",
-            "count": 15
+            "ticker": " MARA",
+            "count": 14
+        },
+        {
+            "ticker": " TDA",
+            "count": 14
         },
         {
             "ticker": " RKT",
@@ -73,27 +77,27 @@
             "count": 14
         },
         {
-            "ticker": " MARA",
-            "count": 13
-        },
-        {
             "ticker": " AFRM",
             "count": 13
         },
         {
             "ticker": " CCXI",
-            "count": 12
+            "count": 13
         },
         {
             "ticker": " NVDA",
             "count": 10
         },
         {
+            "ticker": " RIOT",
+            "count": 9
+        },
+        {
             "ticker": " TLRY",
             "count": 9
         },
         {
-            "ticker": " NIO",
+            "ticker": " VIAC",
             "count": 9
         },
         {
@@ -103,14 +107,6 @@
         {
             "ticker": " DPZ",
             "count": 9
-        },
-        {
-            "ticker": " RIOT",
-            "count": 8
-        },
-        {
-            "ticker": " VIAC",
-            "count": 8
         },
         {
             "ticker": " DTE",
@@ -129,10 +125,6 @@
             "count": 8
         },
         {
-            "ticker": " MRNA",
-            "count": 8
-        },
-        {
             "ticker": " AMRS",
             "count": 8
         },
@@ -142,10 +134,6 @@
         },
         {
             "ticker": " CLF",
-            "count": 7
-        },
-        {
-            "ticker": " INTC",
             "count": 7
         },
         {
@@ -165,7 +153,15 @@
             "count": 7
         },
         {
+            "ticker": " MRNA",
+            "count": 7
+        },
+        {
             "ticker": " IBKR",
+            "count": 6
+        },
+        {
+            "ticker": " INTC",
             "count": 6
         },
         {
@@ -197,6 +193,10 @@
             "count": 6
         },
         {
+            "ticker": " NIO",
+            "count": 5
+        },
+        {
             "ticker": " GDP",
             "count": 5
         },
@@ -206,10 +206,6 @@
         },
         {
             "ticker": " ASML",
-            "count": 5
-        },
-        {
-            "ticker": " ABT",
             "count": 5
         },
         {
@@ -265,7 +261,7 @@
             "count": 4
         },
         {
-            "ticker": " ACI",
+            "ticker": " ABT",
             "count": 4
         },
         {
@@ -333,6 +329,10 @@
             "count": 4
         },
         {
+            "ticker": " IEX",
+            "count": 3
+        },
+        {
             "ticker": " SSD",
             "count": 3
         },
@@ -354,6 +354,10 @@
         },
         {
             "ticker": " LRCX",
+            "count": 3
+        },
+        {
+            "ticker": " ACI",
             "count": 3
         },
         {
@@ -586,18 +590,6 @@
         },
         {
             "ticker": " COLL",
-            "count": 2
-        },
-        {
-            "ticker": " UBER",
-            "count": 2
-        },
-        {
-            "ticker": " ALLE",
-            "count": 2
-        },
-        {
-            "ticker": " XPEV",
             "count": 2
         },
         {
@@ -857,10 +849,6 @@
             "count": 2
         },
         {
-            "ticker": " IEX",
-            "count": 2
-        },
-        {
             "ticker": " NEWR",
             "count": 2
         },
@@ -1074,6 +1062,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 11252,
-    "datetime": "October 17 2021 at 14:17 EST"
+    "num_comments": 11176,
+    "datetime": "October 17 2021 at 15:17 EST"
 }

@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 189
+            "count": 198
         },
         {
             "ticker": " AMC",
@@ -10,7 +10,7 @@
         },
         {
             "ticker": " TSLA",
-            "count": 71
+            "count": 69
         },
         {
             "ticker": " AAPL",
@@ -22,7 +22,7 @@
         },
         {
             "ticker": " AMD",
-            "count": 29
+            "count": 30
         },
         {
             "ticker": " CRSR",
@@ -33,11 +33,11 @@
             "count": 23
         },
         {
-            "ticker": " TSM",
-            "count": 19
+            "ticker": " AMZN",
+            "count": 20
         },
         {
-            "ticker": " AMZN",
+            "ticker": " TSM",
             "count": 19
         },
         {
@@ -45,16 +45,16 @@
             "count": 18
         },
         {
-            "ticker": " DIS",
-            "count": 15
+            "ticker": " CLOV",
+            "count": 16
         },
         {
             "ticker": " MARA",
             "count": 15
         },
         {
-            "ticker": " CLOV",
-            "count": 12
+            "ticker": " DIS",
+            "count": 14
         },
         {
             "ticker": " BBIG",
@@ -69,15 +69,11 @@
             "count": 11
         },
         {
-            "ticker": " AFRM",
-            "count": 11
-        },
-        {
             "ticker": " CRTX",
             "count": 11
         },
         {
-            "ticker": " SDC",
+            "ticker": " AFRM",
             "count": 10
         },
         {
@@ -85,12 +81,24 @@
             "count": 10
         },
         {
-            "ticker": " HOOD",
+            "ticker": " NFLX",
             "count": 9
         },
         {
-            "ticker": " NFLX",
+            "ticker": " SDC",
             "count": 9
+        },
+        {
+            "ticker": " PROG",
+            "count": 9
+        },
+        {
+            "ticker": " RSI",
+            "count": 8
+        },
+        {
+            "ticker": " HOOD",
+            "count": 8
         },
         {
             "ticker": " RIOT",
@@ -98,10 +106,6 @@
         },
         {
             "ticker": " NVDA",
-            "count": 8
-        },
-        {
-            "ticker": " PROG",
             "count": 8
         },
         {
@@ -113,7 +117,7 @@
             "count": 7
         },
         {
-            "ticker": " RSI",
+            "ticker": " TDOC",
             "count": 7
         },
         {
@@ -149,6 +153,22 @@
             "count": 6
         },
         {
+            "ticker": " ESS",
+            "count": 6
+        },
+        {
+            "ticker": " CLNE",
+            "count": 6
+        },
+        {
+            "ticker": " NYC",
+            "count": 6
+        },
+        {
+            "ticker": " KNX",
+            "count": 6
+        },
+        {
             "ticker": " DKNG",
             "count": 6
         },
@@ -181,31 +201,11 @@
             "count": 5
         },
         {
-            "ticker": " ESS",
-            "count": 5
-        },
-        {
-            "ticker": " CLNE",
-            "count": 5
-        },
-        {
-            "ticker": " NYC",
-            "count": 5
-        },
-        {
-            "ticker": " KNX",
-            "count": 5
-        },
-        {
             "ticker": " BAC",
             "count": 5
         },
         {
             "ticker": " STLD",
-            "count": 5
-        },
-        {
-            "ticker": " TDOC",
             "count": 5
         },
         {
@@ -246,6 +246,10 @@
         },
         {
             "ticker": " BABA",
+            "count": 4
+        },
+        {
+            "ticker": " EBAY",
             "count": 4
         },
         {
@@ -333,15 +337,7 @@
             "count": 3
         },
         {
-            "ticker": " EBAY",
-            "count": 3
-        },
-        {
             "ticker": " MTDR",
-            "count": 3
-        },
-        {
-            "ticker": " WGO",
             "count": 3
         },
         {
@@ -518,6 +514,10 @@
         },
         {
             "ticker": " ADX",
+            "count": 2
+        },
+        {
+            "ticker": " WGO",
             "count": 2
         },
         {
@@ -978,6 +978,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 9851,
-    "datetime": "October 19 2021 at 04:17 EST"
+    "num_comments": 9921,
+    "datetime": "October 19 2021 at 05:17 EST"
 }

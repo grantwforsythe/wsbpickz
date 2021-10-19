@@ -2,23 +2,23 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 162
+            "count": 160
         },
         {
             "ticker": " AMC",
-            "count": 153
+            "count": 150
         },
         {
             "ticker": " TSLA",
-            "count": 59
-        },
-        {
-            "ticker": " NFLX",
-            "count": 49
+            "count": 57
         },
         {
             "ticker": " AAPL",
-            "count": 48
+            "count": 49
+        },
+        {
+            "ticker": " NFLX",
+            "count": 47
         },
         {
             "ticker": " UPST",
@@ -61,32 +61,24 @@
             "count": 13
         },
         {
-            "ticker": " SDC",
+            "ticker": " CLOV",
             "count": 12
         },
         {
-            "ticker": " CLOV",
-            "count": 12
+            "ticker": " SDC",
+            "count": 11
         },
         {
             "ticker": " RIOT",
             "count": 11
         },
         {
+            "ticker": " HOOD",
+            "count": 11
+        },
+        {
             "ticker": " CRTX",
             "count": 11
-        },
-        {
-            "ticker": " BBIG",
-            "count": 11
-        },
-        {
-            "ticker": " PROG",
-            "count": 10
-        },
-        {
-            "ticker": " NVDA",
-            "count": 10
         },
         {
             "ticker": " CLF",
@@ -97,16 +89,32 @@
             "count": 10
         },
         {
-            "ticker": " PLTR",
+            "ticker": " BBIG",
+            "count": 10
+        },
+        {
+            "ticker": " MRO",
             "count": 9
         },
         {
-            "ticker": " HOOD",
+            "ticker": " PROG",
+            "count": 9
+        },
+        {
+            "ticker": " SNAP",
+            "count": 9
+        },
+        {
+            "ticker": " PLTR",
             "count": 9
         },
         {
             "ticker": " AGC",
             "count": 9
+        },
+        {
+            "ticker": " BABA",
+            "count": 8
         },
         {
             "ticker": " BAC",
@@ -117,8 +125,8 @@
             "count": 8
         },
         {
-            "ticker": " BABA",
-            "count": 7
+            "ticker": " NVDA",
+            "count": 8
         },
         {
             "ticker": " ROOT",
@@ -129,7 +137,7 @@
             "count": 7
         },
         {
-            "ticker": " SNAP",
+            "ticker": " CROX",
             "count": 7
         },
         {
@@ -145,11 +153,7 @@
             "count": 7
         },
         {
-            "ticker": " MRO",
-            "count": 6
-        },
-        {
-            "ticker": " DKNG",
+            "ticker": " NYC",
             "count": 6
         },
         {
@@ -169,10 +173,6 @@
             "count": 6
         },
         {
-            "ticker": " CROX",
-            "count": 6
-        },
-        {
             "ticker": " INTC",
             "count": 6
         },
@@ -189,7 +189,11 @@
             "count": 6
         },
         {
-            "ticker": " NYC",
+            "ticker": " IBKR",
+            "count": 5
+        },
+        {
+            "ticker": " DKNG",
             "count": 5
         },
         {
@@ -233,6 +237,10 @@
             "count": 5
         },
         {
+            "ticker": " CCC",
+            "count": 4
+        },
+        {
             "ticker": " WMT",
             "count": 4
         },
@@ -266,6 +274,10 @@
         },
         {
             "ticker": " EBAY",
+            "count": 4
+        },
+        {
+            "ticker": " COR",
             "count": 4
         },
         {
@@ -314,10 +326,6 @@
         },
         {
             "ticker": " CRUS",
-            "count": 3
-        },
-        {
-            "ticker": " IBKR",
             "count": 3
         },
         {
@@ -475,6 +483,10 @@
         {
             "ticker": " NAKD",
             "count": 3
+        },
+        {
+            "ticker": " HFC",
+            "count": 2
         },
         {
             "ticker": " EPR",
@@ -953,6 +965,10 @@
             "count": 2
         },
         {
+            "ticker": " TKAT",
+            "count": 2
+        },
+        {
             "ticker": " PLL",
             "count": 2
         },
@@ -1018,6 +1034,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 9351,
-    "datetime": "October 19 2021 at 22:17 EST"
+    "num_comments": 9554,
+    "datetime": "October 19 2021 at 23:17 EST"
 }

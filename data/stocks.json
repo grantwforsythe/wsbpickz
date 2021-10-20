@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 165
+            "count": 169
         },
         {
             "ticker": " AMC",
-            "count": 151
+            "count": 153
         },
         {
             "ticker": " TSLA",
@@ -22,11 +22,15 @@
         },
         {
             "ticker": " AMD",
-            "count": 33
+            "count": 35
         },
         {
             "ticker": " CRSR",
             "count": 24
+        },
+        {
+            "ticker": " MSFT",
+            "count": 20
         },
         {
             "ticker": " SOFI",
@@ -34,10 +38,6 @@
         },
         {
             "ticker": " TSM",
-            "count": 19
-        },
-        {
-            "ticker": " MSFT",
             "count": 19
         },
         {
@@ -81,6 +81,10 @@
             "count": 11
         },
         {
+            "ticker": " ASML",
+            "count": 10
+        },
+        {
             "ticker": " CLF",
             "count": 10
         },
@@ -93,11 +97,11 @@
             "count": 10
         },
         {
-            "ticker": " SNAP",
+            "ticker": " INTC",
             "count": 9
         },
         {
-            "ticker": " BAC",
+            "ticker": " SNAP",
             "count": 9
         },
         {
@@ -113,7 +117,11 @@
             "count": 8
         },
         {
-            "ticker": " ASML",
+            "ticker": " BABA",
+            "count": 8
+        },
+        {
+            "ticker": " BAC",
             "count": 8
         },
         {
@@ -130,14 +138,6 @@
         },
         {
             "ticker": " FCEL",
-            "count": 7
-        },
-        {
-            "ticker": " INTC",
-            "count": 7
-        },
-        {
-            "ticker": " BABA",
             "count": 7
         },
         {
@@ -257,6 +257,10 @@
             "count": 5
         },
         {
+            "ticker": " QCOM",
+            "count": 4
+        },
+        {
             "ticker": " CCC",
             "count": 4
         },
@@ -345,6 +349,14 @@
             "count": 3
         },
         {
+            "ticker": " FUTU",
+            "count": 3
+        },
+        {
+            "ticker": " ALLY",
+            "count": 3
+        },
+        {
             "ticker": " BTU",
             "count": 3
         },
@@ -394,10 +406,6 @@
         },
         {
             "ticker": " CRSP",
-            "count": 3
-        },
-        {
-            "ticker": " QCOM",
             "count": 3
         },
         {
@@ -522,6 +530,10 @@
         },
         {
             "ticker": " EFT",
+            "count": 2
+        },
+        {
+            "ticker": " SCM",
             "count": 2
         },
         {
@@ -750,10 +762,6 @@
         },
         {
             "ticker": " III",
-            "count": 2
-        },
-        {
-            "ticker": " FUTU",
             "count": 2
         },
         {
@@ -1086,6 +1094,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 9564,
-    "datetime": "October 20 2021 at 03:17 EST"
+    "num_comments": 9723,
+    "datetime": "October 20 2021 at 04:17 EST"
 }

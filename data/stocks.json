@@ -2,19 +2,19 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 161
+            "count": 155
         },
         {
             "ticker": " AMC",
-            "count": 125
+            "count": 126
         },
         {
             "ticker": " TSLA",
-            "count": 83
+            "count": 82
         },
         {
             "ticker": " SNAP",
-            "count": 69
+            "count": 62
         },
         {
             "ticker": " AMD",
@@ -22,7 +22,7 @@
         },
         {
             "ticker": " AAPL",
-            "count": 29
+            "count": 28
         },
         {
             "ticker": " INTC",
@@ -49,12 +49,12 @@
             "count": 15
         },
         {
-            "ticker": " PINS",
+            "ticker": " KNX",
             "count": 13
         },
         {
-            "ticker": " KNX",
-            "count": 13
+            "ticker": " PINS",
+            "count": 12
         },
         {
             "ticker": " SOFI",
@@ -73,6 +73,10 @@
             "count": 11
         },
         {
+            "ticker": " PYPL",
+            "count": 10
+        },
+        {
             "ticker": " ASML",
             "count": 10
         },
@@ -82,10 +86,6 @@
         },
         {
             "ticker": " DTE",
-            "count": 9
-        },
-        {
-            "ticker": " PYPL",
             "count": 9
         },
         {
@@ -102,10 +102,6 @@
         },
         {
             "ticker": " CLOV",
-            "count": 8
-        },
-        {
-            "ticker": " TDA",
             "count": 8
         },
         {
@@ -129,10 +125,6 @@
             "count": 8
         },
         {
-            "ticker": " PROG",
-            "count": 8
-        },
-        {
             "ticker": " RIOT",
             "count": 7
         },
@@ -141,11 +133,7 @@
             "count": 7
         },
         {
-            "ticker": " IBM",
-            "count": 7
-        },
-        {
-            "ticker": " MSM",
+            "ticker": " TDA",
             "count": 7
         },
         {
@@ -173,11 +161,19 @@
             "count": 7
         },
         {
+            "ticker": " PROG",
+            "count": 7
+        },
+        {
             "ticker": " MARA",
             "count": 6
         },
         {
             "ticker": " ROKU",
+            "count": 6
+        },
+        {
+            "ticker": " MSM",
             "count": 6
         },
         {
@@ -199,6 +195,10 @@
         {
             "ticker": " BAC",
             "count": 6
+        },
+        {
+            "ticker": " IBM",
+            "count": 5
         },
         {
             "ticker": " NOK",
@@ -250,10 +250,6 @@
         },
         {
             "ticker": " FCF",
-            "count": 4
-        },
-        {
-            "ticker": " GOOG",
             "count": 4
         },
         {
@@ -329,11 +325,11 @@
             "count": 3
         },
         {
-            "ticker": " HAPP",
+            "ticker": " IBKR",
             "count": 3
         },
         {
-            "ticker": " IBKR",
+            "ticker": " GOOG",
             "count": 3
         },
         {
@@ -413,7 +409,27 @@
             "count": 3
         },
         {
+            "ticker": " GPS",
+            "count": 2
+        },
+        {
+            "ticker": " TMUS",
+            "count": 2
+        },
+        {
+            "ticker": " QFIN",
+            "count": 2
+        },
+        {
             "ticker": " GRWG",
+            "count": 2
+        },
+        {
+            "ticker": " MORN",
+            "count": 2
+        },
+        {
+            "ticker": " NKLA",
             "count": 2
         },
         {
@@ -438,14 +454,6 @@
         },
         {
             "ticker": " XPO",
-            "count": 2
-        },
-        {
-            "ticker": " WHR",
-            "count": 2
-        },
-        {
-            "ticker": " TTD",
             "count": 2
         },
         {
@@ -526,6 +534,10 @@
         },
         {
             "ticker": " EPD",
+            "count": 2
+        },
+        {
+            "ticker": " HAPP",
             "count": 2
         },
         {
@@ -842,6 +854,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8926,
-    "datetime": "October 22 2021 at 09:17 EST"
+    "num_comments": 8460,
+    "datetime": "October 22 2021 at 10:17 EST"
 }

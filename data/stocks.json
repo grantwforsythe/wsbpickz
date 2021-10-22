@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 98
+            "count": 94
         },
         {
             "ticker": " TSLA",
-            "count": 80
+            "count": 81
         },
         {
             "ticker": " AMC",
-            "count": 73
+            "count": 75
         },
         {
             "ticker": " SNAP",
@@ -18,11 +18,11 @@
         },
         {
             "ticker": " CLF",
-            "count": 29
+            "count": 33
         },
         {
             "ticker": " AMD",
-            "count": 27
+            "count": 25
         },
         {
             "ticker": " AAPL",
@@ -33,16 +33,16 @@
             "count": 19
         },
         {
-            "ticker": " INTC",
-            "count": 18
-        },
-        {
             "ticker": " PHUN",
-            "count": 17
+            "count": 18
         },
         {
             "ticker": " NFLX",
             "count": 17
+        },
+        {
+            "ticker": " INTC",
+            "count": 16
         },
         {
             "ticker": " HOOD",
@@ -61,16 +61,20 @@
             "count": 11
         },
         {
+            "ticker": " PINS",
+            "count": 10
+        },
+        {
+            "ticker": " NUE",
+            "count": 10
+        },
+        {
             "ticker": " DIS",
             "count": 10
         },
         {
             "ticker": " CRTX",
             "count": 10
-        },
-        {
-            "ticker": " PINS",
-            "count": 9
         },
         {
             "ticker": " PLTR",
@@ -83,10 +87,6 @@
         {
             "ticker": " BABA",
             "count": 9
-        },
-        {
-            "ticker": " NUE",
-            "count": 8
         },
         {
             "ticker": " CROX",
@@ -117,6 +117,14 @@
             "count": 7
         },
         {
+            "ticker": " CMG",
+            "count": 7
+        },
+        {
+            "ticker": " CLOV",
+            "count": 7
+        },
+        {
             "ticker": " AFRM",
             "count": 7
         },
@@ -134,14 +142,6 @@
         },
         {
             "ticker": " EBAY",
-            "count": 6
-        },
-        {
-            "ticker": " CLOV",
-            "count": 6
-        },
-        {
-            "ticker": " CMG",
             "count": 6
         },
         {
@@ -221,10 +221,6 @@
             "count": 4
         },
         {
-            "ticker": " MVIS",
-            "count": 4
-        },
-        {
             "ticker": " NYC",
             "count": 4
         },
@@ -297,19 +293,15 @@
             "count": 3
         },
         {
-            "ticker": " UPS",
-            "count": 3
-        },
-        {
-            "ticker": " TDS",
-            "count": 3
-        },
-        {
             "ticker": " CCIV",
             "count": 3
         },
         {
             "ticker": " RTX",
+            "count": 3
+        },
+        {
+            "ticker": " MVIS",
             "count": 3
         },
         {
@@ -401,11 +393,23 @@
             "count": 3
         },
         {
+            "ticker": " DDD",
+            "count": 2
+        },
+        {
+            "ticker": " AMER",
+            "count": 2
+        },
+        {
             "ticker": " GAB",
             "count": 2
         },
         {
-            "ticker": " CVX",
+            "ticker": " CIO",
+            "count": 2
+        },
+        {
+            "ticker": " PFE",
             "count": 2
         },
         {
@@ -413,7 +417,15 @@
             "count": 2
         },
         {
+            "ticker": " CVX",
+            "count": 2
+        },
+        {
             "ticker": " EXPI",
+            "count": 2
+        },
+        {
+            "ticker": " COLL",
             "count": 2
         },
         {
@@ -429,10 +441,6 @@
             "count": 2
         },
         {
-            "ticker": " ORAN",
-            "count": 2
-        },
-        {
             "ticker": " GOOG",
             "count": 2
         },
@@ -442,6 +450,14 @@
         },
         {
             "ticker": " PAC",
+            "count": 2
+        },
+        {
+            "ticker": " CNC",
+            "count": 2
+        },
+        {
+            "ticker": " NNDM",
             "count": 2
         },
         {
@@ -749,6 +765,10 @@
             "count": 2
         },
         {
+            "ticker": " ZEN",
+            "count": 2
+        },
+        {
             "ticker": " LMFA",
             "count": 2
         },
@@ -767,9 +787,13 @@
         {
             "ticker": " OTLK",
             "count": 2
+        },
+        {
+            "ticker": " TDS",
+            "count": 2
         }
     ],
     "num_posts": 160,
-    "num_comments": 8292,
-    "datetime": "October 22 2021 at 18:17 EST"
+    "num_comments": 8191,
+    "datetime": "October 22 2021 at 19:15 EST"
 }

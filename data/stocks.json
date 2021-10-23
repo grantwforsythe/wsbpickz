@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 91
+            "count": 92
         },
         {
             "ticker": " AMC",
@@ -22,7 +22,7 @@
         },
         {
             "ticker": " AMD",
-            "count": 25
+            "count": 27
         },
         {
             "ticker": " AAPL",
@@ -61,12 +61,12 @@
             "count": 12
         },
         {
-            "ticker": " PLTR",
+            "ticker": " CRTX",
             "count": 12
         },
         {
-            "ticker": " CRTX",
-            "count": 12
+            "ticker": " PLTR",
+            "count": 11
         },
         {
             "ticker": " DIS",
@@ -121,10 +121,6 @@
             "count": 8
         },
         {
-            "ticker": " MVIS",
-            "count": 7
-        },
-        {
             "ticker": " NUE",
             "count": 7
         },
@@ -142,6 +138,10 @@
         },
         {
             "ticker": " GOOG",
+            "count": 6
+        },
+        {
+            "ticker": " SDC",
             "count": 6
         },
         {
@@ -203,14 +203,6 @@
         {
             "ticker": " RIG",
             "count": 5
-        },
-        {
-            "ticker": " NAV",
-            "count": 4
-        },
-        {
-            "ticker": " SDC",
-            "count": 4
         },
         {
             "ticker": " GDP",
@@ -297,6 +289,14 @@
             "count": 4
         },
         {
+            "ticker": " TWTR",
+            "count": 3
+        },
+        {
+            "ticker": " NAV",
+            "count": 3
+        },
+        {
             "ticker": " THC",
             "count": 3
         },
@@ -318,6 +318,10 @@
         },
         {
             "ticker": " CCIV",
+            "count": 3
+        },
+        {
+            "ticker": " MVIS",
             "count": 3
         },
         {
@@ -361,10 +365,6 @@
             "count": 3
         },
         {
-            "ticker": " NIO",
-            "count": 3
-        },
-        {
             "ticker": " LAC",
             "count": 3
         },
@@ -390,6 +390,10 @@
         },
         {
             "ticker": " TRTN",
+            "count": 2
+        },
+        {
+            "ticker": " MMM",
             "count": 2
         },
         {
@@ -421,19 +425,11 @@
             "count": 2
         },
         {
-            "ticker": " LAZR",
+            "ticker": " CRSR",
             "count": 2
         },
         {
-            "ticker": " VALU",
-            "count": 2
-        },
-        {
-            "ticker": " COMM",
-            "count": 2
-        },
-        {
-            "ticker": " TWTR",
+            "ticker": " LOGI",
             "count": 2
         },
         {
@@ -677,6 +673,10 @@
             "count": 2
         },
         {
+            "ticker": " NIO",
+            "count": 2
+        },
+        {
             "ticker": " DVN",
             "count": 2
         },
@@ -850,6 +850,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8951,
-    "datetime": "October 23 2021 at 13:17 EST"
+    "num_comments": 9048,
+    "datetime": "October 23 2021 at 14:16 EST"
 }

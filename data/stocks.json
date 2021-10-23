@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 100
+            "count": 102
         },
         {
             "ticker": " AMC",
@@ -29,16 +29,20 @@
             "count": 23
         },
         {
+            "ticker": " AAPL",
+            "count": 21
+        },
+        {
             "ticker": " PHUN",
             "count": 21
         },
         {
-            "ticker": " AAPL",
-            "count": 20
-        },
-        {
             "ticker": " UPST",
             "count": 19
+        },
+        {
+            "ticker": " MSFT",
+            "count": 15
         },
         {
             "ticker": " PLTR",
@@ -58,10 +62,6 @@
         },
         {
             "ticker": " HOOD",
-            "count": 14
-        },
-        {
-            "ticker": " MSFT",
             "count": 14
         },
         {
@@ -181,6 +181,14 @@
             "count": 6
         },
         {
+            "ticker": " AMZN",
+            "count": 5
+        },
+        {
+            "ticker": " GOOG",
+            "count": 5
+        },
+        {
             "ticker": " TLRY",
             "count": 5
         },
@@ -201,6 +209,10 @@
             "count": 4
         },
         {
+            "ticker": " GDP",
+            "count": 4
+        },
+        {
             "ticker": " AAL",
             "count": 4
         },
@@ -210,10 +222,6 @@
         },
         {
             "ticker": " IBKR",
-            "count": 4
-        },
-        {
-            "ticker": " AMZN",
             "count": 4
         },
         {
@@ -293,10 +301,6 @@
             "count": 3
         },
         {
-            "ticker": " GOOG",
-            "count": 3
-        },
-        {
             "ticker": " JNJ",
             "count": 3
         },
@@ -346,10 +350,6 @@
         },
         {
             "ticker": " ALLY",
-            "count": 3
-        },
-        {
-            "ticker": " GDP",
             "count": 3
         },
         {
@@ -838,6 +838,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 9169,
-    "datetime": "October 23 2021 at 09:17 EST"
+    "num_comments": 9253,
+    "datetime": "October 23 2021 at 10:17 EST"
 }

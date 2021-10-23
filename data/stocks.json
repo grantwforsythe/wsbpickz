@@ -2,23 +2,23 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 117
+            "count": 118
         },
         {
             "ticker": " AMC",
-            "count": 102
+            "count": 105
+        },
+        {
+            "ticker": " SNAP",
+            "count": 72
         },
         {
             "ticker": " TSLA",
             "count": 70
         },
         {
-            "ticker": " SNAP",
-            "count": 68
-        },
-        {
             "ticker": " AMD",
-            "count": 41
+            "count": 42
         },
         {
             "ticker": " CLF",
@@ -77,6 +77,10 @@
             "count": 11
         },
         {
+            "ticker": " GOOG",
+            "count": 10
+        },
+        {
             "ticker": " PLTR",
             "count": 10
         },
@@ -85,7 +89,7 @@
             "count": 10
         },
         {
-            "ticker": " GOOG",
+            "ticker": " AMZN",
             "count": 9
         },
         {
@@ -107,10 +111,6 @@
         {
             "ticker": " SOFI",
             "count": 9
-        },
-        {
-            "ticker": " AMZN",
-            "count": 8
         },
         {
             "ticker": " ABBV",
@@ -213,6 +213,10 @@
             "count": 5
         },
         {
+            "ticker": " GDP",
+            "count": 4
+        },
+        {
             "ticker": " NAV",
             "count": 4
         },
@@ -226,6 +230,10 @@
         },
         {
             "ticker": " BLK",
+            "count": 4
+        },
+        {
+            "ticker": " AXP",
             "count": 4
         },
         {
@@ -301,6 +309,18 @@
             "count": 4
         },
         {
+            "ticker": " OKTA",
+            "count": 3
+        },
+        {
+            "ticker": " TDS",
+            "count": 3
+        },
+        {
+            "ticker": " MGM",
+            "count": 3
+        },
+        {
             "ticker": " VALE",
             "count": 3
         },
@@ -365,10 +385,6 @@
             "count": 3
         },
         {
-            "ticker": " GDP",
-            "count": 3
-        },
-        {
             "ticker": " LAC",
             "count": 3
         },
@@ -387,6 +403,10 @@
         {
             "ticker": " SNDL",
             "count": 3
+        },
+        {
+            "ticker": " LESL",
+            "count": 2
         },
         {
             "ticker": " CRL",
@@ -517,10 +537,6 @@
             "count": 2
         },
         {
-            "ticker": " AXP",
-            "count": 2
-        },
-        {
             "ticker": " HCA",
             "count": 2
         },
@@ -566,10 +582,6 @@
         },
         {
             "ticker": " KODK",
-            "count": 2
-        },
-        {
-            "ticker": " MGM",
             "count": 2
         },
         {
@@ -871,13 +883,9 @@
         {
             "ticker": " LMFA",
             "count": 2
-        },
-        {
-            "ticker": " TDS",
-            "count": 2
         }
     ],
     "num_posts": 160,
-    "num_comments": 9714,
-    "datetime": "October 23 2021 at 19:16 EST"
+    "num_comments": 9893,
+    "datetime": "October 23 2021 at 20:17 EST"
 }

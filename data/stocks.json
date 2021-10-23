@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 118
+            "count": 117
         },
         {
             "ticker": " AMC",
-            "count": 105
+            "count": 107
         },
         {
             "ticker": " SNAP",
@@ -18,15 +18,15 @@
         },
         {
             "ticker": " AMD",
-            "count": 42
+            "count": 44
+        },
+        {
+            "ticker": " AAPL",
+            "count": 28
         },
         {
             "ticker": " CLF",
             "count": 28
-        },
-        {
-            "ticker": " AAPL",
-            "count": 26
         },
         {
             "ticker": " MSFT",
@@ -81,16 +81,16 @@
             "count": 10
         },
         {
+            "ticker": " AMZN",
+            "count": 10
+        },
+        {
             "ticker": " PLTR",
             "count": 10
         },
         {
             "ticker": " DIS",
             "count": 10
-        },
-        {
-            "ticker": " AMZN",
-            "count": 9
         },
         {
             "ticker": " PYPL",
@@ -185,6 +185,18 @@
             "count": 6
         },
         {
+            "ticker": " PROG",
+            "count": 5
+        },
+        {
+            "ticker": " GDP",
+            "count": 5
+        },
+        {
+            "ticker": " NAV",
+            "count": 5
+        },
+        {
             "ticker": " IBKR",
             "count": 5
         },
@@ -211,14 +223,6 @@
         {
             "ticker": " RIG",
             "count": 5
-        },
-        {
-            "ticker": " GDP",
-            "count": 4
-        },
-        {
-            "ticker": " NAV",
-            "count": 4
         },
         {
             "ticker": " AAL",
@@ -285,10 +289,6 @@
             "count": 4
         },
         {
-            "ticker": " PROG",
-            "count": 4
-        },
-        {
             "ticker": " COR",
             "count": 4
         },
@@ -330,10 +330,6 @@
         },
         {
             "ticker": " SENS",
-            "count": 3
-        },
-        {
-            "ticker": " CELH",
             "count": 3
         },
         {
@@ -403,6 +399,10 @@
         {
             "ticker": " SNDL",
             "count": 3
+        },
+        {
+            "ticker": " RETA",
+            "count": 2
         },
         {
             "ticker": " LESL",
@@ -886,6 +886,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 9893,
-    "datetime": "October 23 2021 at 20:17 EST"
+    "num_comments": 10048,
+    "datetime": "October 23 2021 at 21:16 EST"
 }

@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 100
+            "count": 99
         },
         {
             "ticker": " AMC",
@@ -10,11 +10,11 @@
         },
         {
             "ticker": " TSLA",
-            "count": 83
+            "count": 78
         },
         {
             "ticker": " SNAP",
-            "count": 70
+            "count": 63
         },
         {
             "ticker": " CLF",
@@ -26,30 +26,22 @@
         },
         {
             "ticker": " NFLX",
-            "count": 24
+            "count": 23
         },
         {
             "ticker": " AAPL",
-            "count": 22
-        },
-        {
-            "ticker": " UPST",
             "count": 20
         },
         {
+            "ticker": " UPST",
+            "count": 19
+        },
+        {
             "ticker": " PHUN",
-            "count": 18
+            "count": 17
         },
         {
             "ticker": " PLTR",
-            "count": 15
-        },
-        {
-            "ticker": " MSFT",
-            "count": 15
-        },
-        {
-            "ticker": " INTC",
             "count": 15
         },
         {
@@ -61,7 +53,15 @@
             "count": 14
         },
         {
+            "ticker": " INTC",
+            "count": 14
+        },
+        {
             "ticker": " HOOD",
+            "count": 14
+        },
+        {
+            "ticker": " MSFT",
             "count": 14
         },
         {
@@ -90,7 +90,7 @@
         },
         {
             "ticker": " PYPL",
-            "count": 10
+            "count": 9
         },
         {
             "ticker": " WMT",
@@ -149,10 +149,6 @@
             "count": 6
         },
         {
-            "ticker": " TWTR",
-            "count": 6
-        },
-        {
             "ticker": " EBAY",
             "count": 6
         },
@@ -189,7 +185,7 @@
             "count": 5
         },
         {
-            "ticker": " SDC",
+            "ticker": " TWTR",
             "count": 5
         },
         {
@@ -201,7 +197,7 @@
             "count": 5
         },
         {
-            "ticker": " NYC",
+            "ticker": " SDC",
             "count": 4
         },
         {
@@ -297,10 +293,6 @@
             "count": 3
         },
         {
-            "ticker": " OCGN",
-            "count": 3
-        },
-        {
             "ticker": " GOOG",
             "count": 3
         },
@@ -330,6 +322,10 @@
         },
         {
             "ticker": " PROV",
+            "count": 3
+        },
+        {
+            "ticker": " NYC",
             "count": 3
         },
         {
@@ -422,26 +418,6 @@
         },
         {
             "ticker": " STRO",
-            "count": 2
-        },
-        {
-            "ticker": " CASI",
-            "count": 2
-        },
-        {
-            "ticker": " UBER",
-            "count": 2
-        },
-        {
-            "ticker": " BEN",
-            "count": 2
-        },
-        {
-            "ticker": " SNDL",
-            "count": 2
-        },
-        {
-            "ticker": " VIAC",
             "count": 2
         },
         {
@@ -622,6 +598,10 @@
         },
         {
             "ticker": " FUTU",
+            "count": 2
+        },
+        {
+            "ticker": " OCGN",
             "count": 2
         },
         {
@@ -858,6 +838,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 9450,
-    "datetime": "October 23 2021 at 06:17 EST"
+    "num_comments": 9034,
+    "datetime": "October 23 2021 at 07:17 EST"
 }

@@ -2,30 +2,30 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 118
+            "count": 117
         },
         {
             "ticker": " GME",
             "count": 103
         },
         {
-            "ticker": " SNAP",
+            "ticker": " TSLA",
             "count": 74
         },
         {
-            "ticker": " TSLA",
-            "count": 71
+            "ticker": " SNAP",
+            "count": 73
         },
         {
             "ticker": " AMD",
-            "count": 46
-        },
-        {
-            "ticker": " CLF",
-            "count": 30
+            "count": 48
         },
         {
             "ticker": " AAPL",
+            "count": 31
+        },
+        {
+            "ticker": " CLF",
             "count": 30
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "ticker": " MSFT",
-            "count": 22
+            "count": 23
         },
         {
             "ticker": " NFLX",
@@ -65,6 +65,10 @@
             "count": 12
         },
         {
+            "ticker": " GOOG",
+            "count": 11
+        },
+        {
             "ticker": " AGC",
             "count": 11
         },
@@ -73,16 +77,12 @@
             "count": 11
         },
         {
-            "ticker": " DIS",
+            "ticker": " AMZN",
             "count": 10
         },
         {
-            "ticker": " GOOG",
-            "count": 9
-        },
-        {
-            "ticker": " AMZN",
-            "count": 9
+            "ticker": " DIS",
+            "count": 10
         },
         {
             "ticker": " CLOV",
@@ -157,6 +157,10 @@
             "count": 7
         },
         {
+            "ticker": " RIG",
+            "count": 6
+        },
+        {
             "ticker": " IBKR",
             "count": 6
         },
@@ -214,10 +218,6 @@
         },
         {
             "ticker": " MRNA",
-            "count": 5
-        },
-        {
-            "ticker": " RIG",
             "count": 5
         },
         {
@@ -317,6 +317,14 @@
             "count": 4
         },
         {
+            "ticker": " GTE",
+            "count": 3
+        },
+        {
+            "ticker": " XOM",
+            "count": 3
+        },
+        {
             "ticker": " RETA",
             "count": 3
         },
@@ -354,6 +362,14 @@
         },
         {
             "ticker": " VALE",
+            "count": 3
+        },
+        {
+            "ticker": " LRCX",
+            "count": 3
+        },
+        {
+            "ticker": " CVS",
             "count": 3
         },
         {
@@ -417,6 +433,22 @@
             "count": 3
         },
         {
+            "ticker": " APA",
+            "count": 2
+        },
+        {
+            "ticker": " KOS",
+            "count": 2
+        },
+        {
+            "ticker": " MPLX",
+            "count": 2
+        },
+        {
+            "ticker": " MLM",
+            "count": 2
+        },
+        {
             "ticker": " MSTR",
             "count": 2
         },
@@ -465,6 +497,10 @@
             "count": 2
         },
         {
+            "ticker": " WEN",
+            "count": 2
+        },
+        {
             "ticker": " CRSR",
             "count": 2
         },
@@ -474,10 +510,6 @@
         },
         {
             "ticker": " CVR",
-            "count": 2
-        },
-        {
-            "ticker": " XOM",
             "count": 2
         },
         {
@@ -753,10 +785,6 @@
             "count": 2
         },
         {
-            "ticker": " LRCX",
-            "count": 2
-        },
-        {
             "ticker": " SCHN",
             "count": 2
         },
@@ -853,10 +881,6 @@
             "count": 2
         },
         {
-            "ticker": " GTE",
-            "count": 2
-        },
-        {
             "ticker": " PHAR",
             "count": 2
         },
@@ -898,6 +922,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 9420,
-    "datetime": "October 24 2021 at 02:28 EST"
+    "num_comments": 9569,
+    "datetime": "October 24 2021 at 03:17 EST"
 }

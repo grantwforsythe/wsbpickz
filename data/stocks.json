@@ -2,19 +2,19 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 130
+            "count": 131
         },
         {
             "ticker": " GME",
-            "count": 116
-        },
-        {
-            "ticker": " TSLA",
-            "count": 77
+            "count": 117
         },
         {
             "ticker": " SNAP",
             "count": 77
+        },
+        {
+            "ticker": " TSLA",
+            "count": 74
         },
         {
             "ticker": " AMD",
@@ -26,7 +26,7 @@
         },
         {
             "ticker": " AAPL",
-            "count": 34
+            "count": 31
         },
         {
             "ticker": " PHUN",
@@ -34,7 +34,7 @@
         },
         {
             "ticker": " MSFT",
-            "count": 24
+            "count": 23
         },
         {
             "ticker": " NFLX",
@@ -73,10 +73,6 @@
             "count": 11
         },
         {
-            "ticker": " GOOG",
-            "count": 11
-        },
-        {
             "ticker": " AGC",
             "count": 11
         },
@@ -89,7 +85,7 @@
             "count": 10
         },
         {
-            "ticker": " AMZN",
+            "ticker": " CLOV",
             "count": 10
         },
         {
@@ -101,11 +97,15 @@
             "count": 9
         },
         {
-            "ticker": " PLTR",
+            "ticker": " GOOG",
             "count": 9
         },
         {
-            "ticker": " CLOV",
+            "ticker": " AMZN",
+            "count": 9
+        },
+        {
+            "ticker": " PLTR",
             "count": 9
         },
         {
@@ -377,10 +377,6 @@
             "count": 3
         },
         {
-            "ticker": " CVS",
-            "count": 3
-        },
-        {
             "ticker": " JNJ",
             "count": 3
         },
@@ -469,6 +465,10 @@
             "count": 2
         },
         {
+            "ticker": " DDD",
+            "count": 2
+        },
+        {
             "ticker": " MSTR",
             "count": 2
         },
@@ -526,10 +526,6 @@
         },
         {
             "ticker": " SDC",
-            "count": 2
-        },
-        {
-            "ticker": " WEN",
             "count": 2
         },
         {
@@ -946,6 +942,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 10072,
-    "datetime": "October 24 2021 at 13:17 EST"
+    "num_comments": 10125,
+    "datetime": "October 24 2021 at 14:17 EST"
 }

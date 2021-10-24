@@ -2,31 +2,31 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 117
+            "count": 120
         },
         {
             "ticker": " GME",
             "count": 103
         },
         {
-            "ticker": " TSLA",
+            "ticker": " SNAP",
             "count": 74
         },
         {
-            "ticker": " SNAP",
-            "count": 73
+            "ticker": " TSLA",
+            "count": 72
         },
         {
             "ticker": " AMD",
-            "count": 48
+            "count": 49
         },
         {
             "ticker": " AAPL",
-            "count": 31
+            "count": 32
         },
         {
             "ticker": " CLF",
-            "count": 30
+            "count": 31
         },
         {
             "ticker": " PHUN",
@@ -205,6 +205,10 @@
             "count": 5
         },
         {
+            "ticker": " NVDA",
+            "count": 5
+        },
+        {
             "ticker": " TDOC",
             "count": 5
         },
@@ -226,10 +230,6 @@
         },
         {
             "ticker": " MVIS",
-            "count": 4
-        },
-        {
-            "ticker": " NVDA",
             "count": 4
         },
         {
@@ -369,10 +369,6 @@
             "count": 3
         },
         {
-            "ticker": " CVS",
-            "count": 3
-        },
-        {
             "ticker": " JNJ",
             "count": 3
         },
@@ -469,6 +465,14 @@
             "count": 2
         },
         {
+            "ticker": " CRM",
+            "count": 2
+        },
+        {
+            "ticker": " SNOW",
+            "count": 2
+        },
+        {
             "ticker": " TRTN",
             "count": 2
         },
@@ -494,10 +498,6 @@
         },
         {
             "ticker": " SDC",
-            "count": 2
-        },
-        {
-            "ticker": " WEN",
             "count": 2
         },
         {
@@ -922,6 +922,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 9569,
-    "datetime": "October 24 2021 at 03:17 EST"
+    "num_comments": 9616,
+    "datetime": "October 24 2021 at 04:17 EST"
 }

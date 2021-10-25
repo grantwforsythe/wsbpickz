@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 103
+            "count": 83
         },
         {
             "ticker": " GME",
-            "count": 77
+            "count": 76
         },
         {
             "ticker": " AMC",
-            "count": 71
+            "count": 68
         },
         {
             "ticker": " SNAP",
@@ -18,7 +18,7 @@
         },
         {
             "ticker": " AMD",
-            "count": 60
+            "count": 37
         },
         {
             "ticker": " CLF",
@@ -26,15 +26,15 @@
         },
         {
             "ticker": " AAPL",
-            "count": 24
+            "count": 23
         },
         {
             "ticker": " PHUN",
-            "count": 21
+            "count": 22
         },
         {
             "ticker": " HOOD",
-            "count": 20
+            "count": 22
         },
         {
             "ticker": " UPST",
@@ -49,12 +49,12 @@
             "count": 15
         },
         {
-            "ticker": " BABA",
+            "ticker": " RSI",
             "count": 14
         },
         {
-            "ticker": " RSI",
-            "count": 13
+            "ticker": " BABA",
+            "count": 14
         },
         {
             "ticker": " INTC",
@@ -87,18 +87,6 @@
         {
             "ticker": " WMT",
             "count": 9
-        },
-        {
-            "ticker": " MSM",
-            "count": 8
-        },
-        {
-            "ticker": " CLOV",
-            "count": 8
-        },
-        {
-            "ticker": " DKNG",
-            "count": 8
         },
         {
             "ticker": " MARA",
@@ -141,8 +129,24 @@
             "count": 7
         },
         {
+            "ticker": " CLOV",
+            "count": 7
+        },
+        {
+            "ticker": " DKNG",
+            "count": 7
+        },
+        {
+            "ticker": " MSM",
+            "count": 7
+        },
+        {
             "ticker": " TWNK",
             "count": 7
+        },
+        {
+            "ticker": " TDOC",
+            "count": 6
         },
         {
             "ticker": " RIOT",
@@ -170,6 +174,10 @@
         },
         {
             "ticker": " RIG",
+            "count": 5
+        },
+        {
+            "ticker": " DTE",
             "count": 5
         },
         {
@@ -211,10 +219,6 @@
         {
             "ticker": " FCX",
             "count": 5
-        },
-        {
-            "ticker": " TDOC",
-            "count": 4
         },
         {
             "ticker": " JBLU",
@@ -261,10 +265,6 @@
             "count": 4
         },
         {
-            "ticker": " DTE",
-            "count": 4
-        },
-        {
             "ticker": " ASML",
             "count": 4
         },
@@ -289,6 +289,10 @@
             "count": 4
         },
         {
+            "ticker": " CLNE",
+            "count": 3
+        },
+        {
             "ticker": " CTO",
             "count": 3
         },
@@ -309,11 +313,11 @@
             "count": 3
         },
         {
-            "ticker": " SKLZ",
+            "ticker": " NIO",
             "count": 3
         },
         {
-            "ticker": " NIO",
+            "ticker": " SKLZ",
             "count": 3
         },
         {
@@ -397,15 +401,11 @@
             "count": 3
         },
         {
-            "ticker": " LULU",
+            "ticker": " LNG",
             "count": 2
         },
         {
-            "ticker": " YETI",
-            "count": 2
-        },
-        {
-            "ticker": " NTB",
+            "ticker": " EQT",
             "count": 2
         },
         {
@@ -441,11 +441,11 @@
             "count": 2
         },
         {
-            "ticker": " AUPH",
+            "ticker": " AGNC",
             "count": 2
         },
         {
-            "ticker": " AGNC",
+            "ticker": " ETH",
             "count": 2
         },
         {
@@ -677,10 +677,6 @@
             "count": 2
         },
         {
-            "ticker": " CLNE",
-            "count": 2
-        },
-        {
             "ticker": " INFI",
             "count": 2
         },
@@ -894,6 +890,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8054,
-    "datetime": "October 25 2021 at 17:17 EST"
+    "num_comments": 7771,
+    "datetime": "October 25 2021 at 18:17 EST"
 }

@@ -2,19 +2,19 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 100
+            "count": 101
         },
         {
             "ticker": " GME",
-            "count": 85
+            "count": 92
+        },
+        {
+            "ticker": " AMC",
+            "count": 64
         },
         {
             "ticker": " SNAP",
             "count": 59
-        },
-        {
-            "ticker": " AMC",
-            "count": 56
         },
         {
             "ticker": " AMD",
@@ -25,12 +25,12 @@
             "count": 25
         },
         {
-            "ticker": " CLF",
+            "ticker": " CRTX",
             "count": 24
         },
         {
-            "ticker": " CRTX",
-            "count": 23
+            "ticker": " CLF",
+            "count": 24
         },
         {
             "ticker": " AGC",
@@ -97,6 +97,10 @@
             "count": 9
         },
         {
+            "ticker": " AFRM",
+            "count": 7
+        },
+        {
             "ticker": " TDOC",
             "count": 7
         },
@@ -126,10 +130,6 @@
         },
         {
             "ticker": " CLOV",
-            "count": 6
-        },
-        {
-            "ticker": " AFRM",
             "count": 6
         },
         {
@@ -325,6 +325,10 @@
             "count": 3
         },
         {
+            "ticker": " HAPP",
+            "count": 3
+        },
+        {
             "ticker": " RIOT",
             "count": 3
         },
@@ -359,6 +363,10 @@
         {
             "ticker": " LUV",
             "count": 3
+        },
+        {
+            "ticker": " XLNX",
+            "count": 2
         },
         {
             "ticker": " TLRY",
@@ -478,10 +486,6 @@
         },
         {
             "ticker": " NAV",
-            "count": 2
-        },
-        {
-            "ticker": " HAPP",
             "count": 2
         },
         {
@@ -786,6 +790,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7913,
-    "datetime": "October 27 2021 at 09:17 EST"
+    "num_comments": 8028,
+    "datetime": "October 27 2021 at 10:17 EST"
 }

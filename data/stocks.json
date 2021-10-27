@@ -2,35 +2,35 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 108
+            "count": 111
         },
         {
             "ticker": " AMD",
-            "count": 76
+            "count": 70
         },
         {
             "ticker": " GME",
-            "count": 63
+            "count": 64
         },
         {
             "ticker": " SNAP",
-            "count": 60
+            "count": 59
         },
         {
             "ticker": " AMC",
-            "count": 50
+            "count": 49
         },
         {
             "ticker": " HOOD",
-            "count": 48
+            "count": 44
         },
         {
             "ticker": " MSFT",
-            "count": 40
+            "count": 35
         },
         {
             "ticker": " CRTX",
-            "count": 25
+            "count": 24
         },
         {
             "ticker": " CLF",
@@ -38,15 +38,15 @@
         },
         {
             "ticker": " AGC",
-            "count": 20
-        },
-        {
-            "ticker": " OCGN",
-            "count": 19
+            "count": 21
         },
         {
             "ticker": " GOOG",
-            "count": 19
+            "count": 18
+        },
+        {
+            "ticker": " OCGN",
+            "count": 17
         },
         {
             "ticker": " AAPL",
@@ -69,7 +69,23 @@
             "count": 12
         },
         {
+            "ticker": " UPST",
+            "count": 10
+        },
+        {
+            "ticker": " NVDA",
+            "count": 10
+        },
+        {
+            "ticker": " NKLA",
+            "count": 10
+        },
+        {
             "ticker": " PLTR",
+            "count": 10
+        },
+        {
+            "ticker": " PINS",
             "count": 10
         },
         {
@@ -77,35 +93,15 @@
             "count": 10
         },
         {
-            "ticker": " PINS",
-            "count": 9
-        },
-        {
-            "ticker": " NVDA",
-            "count": 9
-        },
-        {
-            "ticker": " UPST",
-            "count": 9
-        },
-        {
             "ticker": " RTX",
             "count": 9
         },
         {
-            "ticker": " NKLA",
+            "ticker": " ROKU",
             "count": 8
         },
         {
-            "ticker": " IEX",
-            "count": 8
-        },
-        {
-            "ticker": " TWTR",
-            "count": 7
-        },
-        {
-            "ticker": " DKNG",
+            "ticker": " PTON",
             "count": 7
         },
         {
@@ -125,10 +121,6 @@
             "count": 7
         },
         {
-            "ticker": " ROKU",
-            "count": 7
-        },
-        {
             "ticker": " TWNK",
             "count": 7
         },
@@ -141,15 +133,15 @@
             "count": 6
         },
         {
-            "ticker": " NFLX",
-            "count": 6
-        },
-        {
-            "ticker": " PTON",
+            "ticker": " AFRM",
             "count": 6
         },
         {
             "ticker": " MARA",
+            "count": 6
+        },
+        {
+            "ticker": " TWTR",
             "count": 6
         },
         {
@@ -161,7 +153,15 @@
             "count": 6
         },
         {
+            "ticker": " DKNG",
+            "count": 6
+        },
+        {
             "ticker": " BABA",
+            "count": 6
+        },
+        {
+            "ticker": " IEX",
             "count": 6
         },
         {
@@ -177,15 +177,15 @@
             "count": 5
         },
         {
-            "ticker": " AFRM",
-            "count": 5
-        },
-        {
             "ticker": " TDA",
             "count": 5
         },
         {
             "ticker": " CAT",
+            "count": 5
+        },
+        {
+            "ticker": " NFLX",
             "count": 5
         },
         {
@@ -199,6 +199,10 @@
         {
             "ticker": " ZEN",
             "count": 5
+        },
+        {
+            "ticker": " SAVA",
+            "count": 4
         },
         {
             "ticker": " LMT",
@@ -285,10 +289,6 @@
             "count": 3
         },
         {
-            "ticker": " NYT",
-            "count": 3
-        },
-        {
             "ticker": " DTE",
             "count": 3
         },
@@ -369,11 +369,23 @@
             "count": 2
         },
         {
+            "ticker": " BFS",
+            "count": 2
+        },
+        {
+            "ticker": " EXPE",
+            "count": 2
+        },
+        {
             "ticker": " LMFA",
             "count": 2
         },
         {
             "ticker": " UBER",
+            "count": 2
+        },
+        {
+            "ticker": " ABNB",
             "count": 2
         },
         {
@@ -385,15 +397,19 @@
             "count": 2
         },
         {
+            "ticker": " MRK",
+            "count": 2
+        },
+        {
             "ticker": " INO",
             "count": 2
         },
         {
-            "ticker": " SNDL",
+            "ticker": " SRNE",
             "count": 2
         },
         {
-            "ticker": " SRNE",
+            "ticker": " ATLC",
             "count": 2
         },
         {
@@ -426,6 +442,10 @@
         },
         {
             "ticker": " DFS",
+            "count": 2
+        },
+        {
+            "ticker": " ROOT",
             "count": 2
         },
         {
@@ -498,10 +518,6 @@
         },
         {
             "ticker": " SHOP",
-            "count": 2
-        },
-        {
-            "ticker": " SAVA",
             "count": 2
         },
         {
@@ -622,6 +638,10 @@
         },
         {
             "ticker": " CARG",
+            "count": 2
+        },
+        {
+            "ticker": " NYT",
             "count": 2
         },
         {
@@ -783,17 +803,9 @@
         {
             "ticker": " ERC",
             "count": 2
-        },
-        {
-            "ticker": " KOSS",
-            "count": 2
-        },
-        {
-            "ticker": " NAKD",
-            "count": 2
         }
     ],
     "num_posts": 160,
-    "num_comments": 7833,
-    "datetime": "October 27 2021 at 00:37 EST"
+    "num_comments": 7775,
+    "datetime": "October 27 2021 at 01:57 EST"
 }

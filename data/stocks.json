@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 130
+            "count": 136
         },
         {
             "ticker": " GME",
-            "count": 102
+            "count": 103
         },
         {
             "ticker": " AMC",
@@ -22,7 +22,7 @@
         },
         {
             "ticker": " MSFT",
-            "count": 44
+            "count": 40
         },
         {
             "ticker": " CRTX",
@@ -34,15 +34,15 @@
         },
         {
             "ticker": " TDOC",
-            "count": 26
-        },
-        {
-            "ticker": " CLF",
             "count": 25
         },
         {
             "ticker": " HOOD",
-            "count": 24
+            "count": 25
+        },
+        {
+            "ticker": " CLF",
+            "count": 25
         },
         {
             "ticker": " AGC",
@@ -53,12 +53,12 @@
             "count": 18
         },
         {
-            "ticker": " RSI",
-            "count": 15
+            "ticker": " PYPL",
+            "count": 16
         },
         {
-            "ticker": " PYPL",
-            "count": 14
+            "ticker": " RSI",
+            "count": 15
         },
         {
             "ticker": " PINS",
@@ -70,27 +70,23 @@
         },
         {
             "ticker": " OCGN",
-            "count": 12
+            "count": 13
         },
         {
             "ticker": " CRSR",
             "count": 12
         },
         {
-            "ticker": " AMZN",
-            "count": 11
-        },
-        {
-            "ticker": " TWTR",
-            "count": 11
-        },
-        {
             "ticker": " INTC",
             "count": 11
         },
         {
-            "ticker": " IEX",
-            "count": 11
+            "ticker": " AMZN",
+            "count": 10
+        },
+        {
+            "ticker": " TWTR",
+            "count": 10
         },
         {
             "ticker": " RTX",
@@ -189,7 +185,7 @@
             "count": 5
         },
         {
-            "ticker": " CLOV",
+            "ticker": " SOFI",
             "count": 5
         },
         {
@@ -198,14 +194,6 @@
         },
         {
             "ticker": " SNDL",
-            "count": 5
-        },
-        {
-            "ticker": " MVIS",
-            "count": 5
-        },
-        {
-            "ticker": " SOFI",
             "count": 5
         },
         {
@@ -225,11 +213,19 @@
             "count": 5
         },
         {
+            "ticker": " IEX",
+            "count": 5
+        },
+        {
             "ticker": " ZEN",
             "count": 5
         },
         {
             "ticker": " PROG",
+            "count": 4
+        },
+        {
+            "ticker": " SHOP",
             "count": 4
         },
         {
@@ -273,6 +269,14 @@
             "count": 4
         },
         {
+            "ticker": " MVIS",
+            "count": 4
+        },
+        {
+            "ticker": " CLOV",
+            "count": 4
+        },
+        {
             "ticker": " AXP",
             "count": 4
         },
@@ -285,11 +289,15 @@
             "count": 4
         },
         {
+            "ticker": " FANG",
+            "count": 3
+        },
+        {
             "ticker": " IBM",
             "count": 3
         },
         {
-            "ticker": " SHOP",
+            "ticker": " BTI",
             "count": 3
         },
         {
@@ -377,6 +385,14 @@
             "count": 2
         },
         {
+            "ticker": " FAMI",
+            "count": 2
+        },
+        {
+            "ticker": " INVE",
+            "count": 2
+        },
+        {
             "ticker": " UPWK",
             "count": 2
         },
@@ -398,10 +414,6 @@
         },
         {
             "ticker": " UPS",
-            "count": 2
-        },
-        {
-            "ticker": " FANG",
             "count": 2
         },
         {
@@ -826,6 +838,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8484,
-    "datetime": "October 27 2021 at 22:17 EST"
+    "num_comments": 8601,
+    "datetime": "October 27 2021 at 23:17 EST"
 }

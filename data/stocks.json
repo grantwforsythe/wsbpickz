@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 118
+            "count": 119
         },
         {
             "ticker": " GME",
-            "count": 64
+            "count": 67
         },
         {
             "ticker": " AMD",
-            "count": 62
+            "count": 64
         },
         {
             "ticker": " SNAP",
@@ -18,11 +18,11 @@
         },
         {
             "ticker": " AMC",
-            "count": 49
+            "count": 50
         },
         {
             "ticker": " HOOD",
-            "count": 43
+            "count": 44
         },
         {
             "ticker": " MSFT",
@@ -57,16 +57,16 @@
             "count": 14
         },
         {
+            "ticker": " NVDA",
+            "count": 13
+        },
+        {
             "ticker": " NKLA",
             "count": 13
         },
         {
             "ticker": " OCGN",
             "count": 13
-        },
-        {
-            "ticker": " NVDA",
-            "count": 12
         },
         {
             "ticker": " PYPL",
@@ -78,10 +78,14 @@
         },
         {
             "ticker": " UPST",
-            "count": 10
+            "count": 11
         },
         {
             "ticker": " PLTR",
+            "count": 10
+        },
+        {
+            "ticker": " PINS",
             "count": 10
         },
         {
@@ -93,15 +97,19 @@
             "count": 9
         },
         {
-            "ticker": " PINS",
-            "count": 9
-        },
-        {
             "ticker": " ROKU",
             "count": 8
         },
         {
+            "ticker": " CLOV",
+            "count": 7
+        },
+        {
             "ticker": " TDOC",
+            "count": 7
+        },
+        {
+            "ticker": " IEX",
             "count": 7
         },
         {
@@ -119,10 +127,6 @@
         {
             "ticker": " TWNK",
             "count": 7
-        },
-        {
-            "ticker": " CLOV",
-            "count": 6
         },
         {
             "ticker": " AMZN",
@@ -161,8 +165,8 @@
             "count": 6
         },
         {
-            "ticker": " IEX",
-            "count": 6
+            "ticker": " SDC",
+            "count": 5
         },
         {
             "ticker": " SAVA",
@@ -205,11 +209,7 @@
             "count": 5
         },
         {
-            "ticker": " SDC",
-            "count": 4
-        },
-        {
-            "ticker": " CCJ",
+            "ticker": " SPCE",
             "count": 4
         },
         {
@@ -281,11 +281,23 @@
             "count": 4
         },
         {
+            "ticker": " SKLZ",
+            "count": 3
+        },
+        {
+            "ticker": " NIO",
+            "count": 3
+        },
+        {
             "ticker": " DTE",
             "count": 3
         },
         {
             "ticker": " DLTR",
+            "count": 3
+        },
+        {
+            "ticker": " CCJ",
             "count": 3
         },
         {
@@ -321,10 +333,6 @@
             "count": 3
         },
         {
-            "ticker": " SPCE",
-            "count": 3
-        },
-        {
             "ticker": " AUPH",
             "count": 3
         },
@@ -355,6 +363,10 @@
         {
             "ticker": " LUV",
             "count": 3
+        },
+        {
+            "ticker": " NES",
+            "count": 2
         },
         {
             "ticker": " WBS",
@@ -402,6 +414,10 @@
         },
         {
             "ticker": " PERI",
+            "count": 2
+        },
+        {
+            "ticker": " INO",
             "count": 2
         },
         {
@@ -521,10 +537,6 @@
             "count": 2
         },
         {
-            "ticker": " NIO",
-            "count": 2
-        },
-        {
             "ticker": " TSOC",
             "count": 2
         },
@@ -534,10 +546,6 @@
         },
         {
             "ticker": " ASAN",
-            "count": 2
-        },
-        {
-            "ticker": " SKLZ",
             "count": 2
         },
         {
@@ -693,10 +701,6 @@
             "count": 2
         },
         {
-            "ticker": " EXPI",
-            "count": 2
-        },
-        {
             "ticker": " COLL",
             "count": 2
         },
@@ -822,6 +826,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8010,
-    "datetime": "October 27 2021 at 04:17 EST"
+    "num_comments": 8129,
+    "datetime": "October 27 2021 at 05:17 EST"
 }

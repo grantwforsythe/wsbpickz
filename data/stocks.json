@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 95
+            "count": 100
         },
         {
             "ticker": " TSLA",
-            "count": 94
+            "count": 93
         },
         {
             "ticker": " AMC",
@@ -14,23 +14,23 @@
         },
         {
             "ticker": " AMD",
-            "count": 60
+            "count": 57
         },
         {
             "ticker": " MSFT",
-            "count": 42
+            "count": 41
         },
         {
             "ticker": " CRTX",
             "count": 36
         },
         {
-            "ticker": " AAPL",
-            "count": 25
-        },
-        {
             "ticker": " AGC",
             "count": 24
+        },
+        {
+            "ticker": " AAPL",
+            "count": 23
         },
         {
             "ticker": " NVDA",
@@ -45,12 +45,12 @@
             "count": 18
         },
         {
-            "ticker": " TDOC",
+            "ticker": " GOOG",
             "count": 16
         },
         {
-            "ticker": " GOOG",
-            "count": 16
+            "ticker": " TDOC",
+            "count": 15
         },
         {
             "ticker": " CLF",
@@ -65,10 +65,6 @@
             "count": 13
         },
         {
-            "ticker": " TRIT",
-            "count": 11
-        },
-        {
             "ticker": " AMZN",
             "count": 11
         },
@@ -79,6 +75,10 @@
         {
             "ticker": " RTX",
             "count": 11
+        },
+        {
+            "ticker": " TRIT",
+            "count": 10
         },
         {
             "ticker": " PINS",
@@ -125,6 +125,10 @@
             "count": 7
         },
         {
+            "ticker": " LMT",
+            "count": 6
+        },
+        {
             "ticker": " GDP",
             "count": 6
         },
@@ -142,14 +146,6 @@
         },
         {
             "ticker": " CLOV",
-            "count": 5
-        },
-        {
-            "ticker": " INTC",
-            "count": 5
-        },
-        {
-            "ticker": " LMT",
             "count": 5
         },
         {
@@ -201,27 +197,11 @@
             "count": 5
         },
         {
-            "ticker": " RIOT",
-            "count": 4
-        },
-        {
-            "ticker": " RKT",
-            "count": 4
-        },
-        {
             "ticker": " CAT",
             "count": 4
         },
         {
             "ticker": " PBF",
-            "count": 4
-        },
-        {
-            "ticker": " NAV",
-            "count": 4
-        },
-        {
-            "ticker": " IBKR",
             "count": 4
         },
         {
@@ -285,7 +265,7 @@
             "count": 3
         },
         {
-            "ticker": " IBM",
+            "ticker": " MRK",
             "count": 3
         },
         {
@@ -297,7 +277,19 @@
             "count": 3
         },
         {
+            "ticker": " RKT",
+            "count": 3
+        },
+        {
             "ticker": " XOM",
+            "count": 3
+        },
+        {
+            "ticker": " NAV",
+            "count": 3
+        },
+        {
+            "ticker": " IBKR",
             "count": 3
         },
         {
@@ -314,6 +306,10 @@
         },
         {
             "ticker": " MSM",
+            "count": 3
+        },
+        {
+            "ticker": " INTC",
             "count": 3
         },
         {
@@ -334,6 +330,10 @@
         },
         {
             "ticker": " HAPP",
+            "count": 3
+        },
+        {
+            "ticker": " RIOT",
             "count": 3
         },
         {
@@ -401,7 +401,7 @@
             "count": 2
         },
         {
-            "ticker": " MRK",
+            "ticker": " PROF",
             "count": 2
         },
         {
@@ -749,6 +749,10 @@
             "count": 2
         },
         {
+            "ticker": " IBM",
+            "count": 2
+        },
+        {
             "ticker": " CVX",
             "count": 2
         },
@@ -818,6 +822,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6784,
-    "datetime": "October 28 2021 at 18:17 EST"
+    "num_comments": 6827,
+    "datetime": "October 28 2021 at 19:16 EST"
 }

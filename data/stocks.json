@@ -2,19 +2,19 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 131
+            "count": 129
         },
         {
             "ticker": " GME",
-            "count": 110
+            "count": 112
         },
         {
             "ticker": " AMC",
-            "count": 98
+            "count": 100
         },
         {
             "ticker": " AMD",
-            "count": 74
+            "count": 75
         },
         {
             "ticker": " SNAP",
@@ -22,15 +22,15 @@
         },
         {
             "ticker": " MSFT",
-            "count": 43
+            "count": 44
         },
         {
             "ticker": " CRTX",
-            "count": 35
+            "count": 34
         },
         {
             "ticker": " HOOD",
-            "count": 32
+            "count": 30
         },
         {
             "ticker": " AAPL",
@@ -38,7 +38,7 @@
         },
         {
             "ticker": " AGC",
-            "count": 24
+            "count": 25
         },
         {
             "ticker": " CLF",
@@ -61,15 +61,15 @@
             "count": 16
         },
         {
+            "ticker": " PINS",
+            "count": 15
+        },
+        {
             "ticker": " RSI",
             "count": 15
         },
         {
             "ticker": " PLTR",
-            "count": 14
-        },
-        {
-            "ticker": " PINS",
             "count": 14
         },
         {
@@ -109,12 +109,12 @@
             "count": 9
         },
         {
-            "ticker": " UPST",
+            "ticker": " CLOV",
             "count": 9
         },
         {
-            "ticker": " CLOV",
-            "count": 8
+            "ticker": " UPST",
+            "count": 9
         },
         {
             "ticker": " NFLX",
@@ -126,10 +126,6 @@
         },
         {
             "ticker": " GDP",
-            "count": 7
-        },
-        {
-            "ticker": " IBKR",
             "count": 7
         },
         {
@@ -155,6 +151,10 @@
         {
             "ticker": " IEX",
             "count": 7
+        },
+        {
+            "ticker": " IBKR",
+            "count": 6
         },
         {
             "ticker": " TWLO",
@@ -377,6 +377,10 @@
             "count": 3
         },
         {
+            "ticker": " PRLB",
+            "count": 2
+        },
+        {
             "ticker": " ARR",
             "count": 2
         },
@@ -402,6 +406,14 @@
         },
         {
             "ticker": " SPWR",
+            "count": 2
+        },
+        {
+            "ticker": " RKT",
+            "count": 2
+        },
+        {
+            "ticker": " SSB",
             "count": 2
         },
         {
@@ -810,6 +822,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8655,
-    "datetime": "October 28 2021 at 05:17 EST"
+    "num_comments": 8733,
+    "datetime": "October 28 2021 at 06:17 EST"
 }

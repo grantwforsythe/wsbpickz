@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 129
+            "count": 125
         },
         {
             "ticker": " GME",
@@ -10,7 +10,7 @@
         },
         {
             "ticker": " AMC",
-            "count": 100
+            "count": 97
         },
         {
             "ticker": " AMD",
@@ -54,7 +54,7 @@
         },
         {
             "ticker": " AMZN",
-            "count": 17
+            "count": 16
         },
         {
             "ticker": " NVDA",
@@ -77,11 +77,15 @@
             "count": 13
         },
         {
+            "ticker": " CRSR",
+            "count": 13
+        },
+        {
             "ticker": " TDOC",
             "count": 12
         },
         {
-            "ticker": " FSD",
+            "ticker": " XLNX",
             "count": 11
         },
         {
@@ -103,10 +107,6 @@
         {
             "ticker": " PHUN",
             "count": 10
-        },
-        {
-            "ticker": " XLNX",
-            "count": 9
         },
         {
             "ticker": " CLOV",
@@ -133,10 +133,6 @@
             "count": 7
         },
         {
-            "ticker": " CRSR",
-            "count": 7
-        },
-        {
             "ticker": " DIS",
             "count": 7
         },
@@ -157,7 +153,15 @@
             "count": 6
         },
         {
+            "ticker": " PROG",
+            "count": 6
+        },
+        {
             "ticker": " TWLO",
+            "count": 6
+        },
+        {
+            "ticker": " LOGI",
             "count": 6
         },
         {
@@ -217,15 +221,7 @@
             "count": 5
         },
         {
-            "ticker": " ZEN",
-            "count": 5
-        },
-        {
             "ticker": " DTE",
-            "count": 4
-        },
-        {
-            "ticker": " PROG",
             "count": 4
         },
         {
@@ -262,10 +258,6 @@
         },
         {
             "ticker": " DNN",
-            "count": 4
-        },
-        {
-            "ticker": " LOGI",
             "count": 4
         },
         {
@@ -397,6 +389,22 @@
             "count": 2
         },
         {
+            "ticker": " RETA",
+            "count": 2
+        },
+        {
+            "ticker": " AGI",
+            "count": 2
+        },
+        {
+            "ticker": " III",
+            "count": 2
+        },
+        {
+            "ticker": " CIA",
+            "count": 2
+        },
+        {
             "ticker": " IPI",
             "count": 2
         },
@@ -405,11 +413,11 @@
             "count": 2
         },
         {
-            "ticker": " SPWR",
+            "ticker": " RKT",
             "count": 2
         },
         {
-            "ticker": " RKT",
+            "ticker": " SPWR",
             "count": 2
         },
         {
@@ -418,6 +426,10 @@
         },
         {
             "ticker": " USB",
+            "count": 2
+        },
+        {
+            "ticker": " FSD",
             "count": 2
         },
         {
@@ -822,6 +834,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8733,
-    "datetime": "October 28 2021 at 06:17 EST"
+    "num_comments": 9310,
+    "datetime": "October 28 2021 at 07:17 EST"
 }

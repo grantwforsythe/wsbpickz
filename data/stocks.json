@@ -2,35 +2,35 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 113
-        },
-        {
-            "ticker": " AMZN",
-            "count": 100
+            "count": 116
         },
         {
             "ticker": " AMC",
             "count": 99
         },
         {
-            "ticker": " AAPL",
-            "count": 97
+            "ticker": " GME",
+            "count": 94
         },
         {
-            "ticker": " GME",
-            "count": 95
+            "ticker": " AMZN",
+            "count": 92
+        },
+        {
+            "ticker": " AAPL",
+            "count": 88
         },
         {
             "ticker": " AMD",
-            "count": 58
+            "count": 61
         },
         {
             "ticker": " MSFT",
-            "count": 46
+            "count": 45
         },
         {
             "ticker": " CRTX",
-            "count": 35
+            "count": 36
         },
         {
             "ticker": " NVDA",
@@ -50,11 +50,11 @@
         },
         {
             "ticker": " GOOG",
-            "count": 19
+            "count": 17
         },
         {
             "ticker": " TDOC",
-            "count": 15
+            "count": 16
         },
         {
             "ticker": " PYPL",
@@ -109,6 +109,10 @@
             "count": 8
         },
         {
+            "ticker": " BABA",
+            "count": 8
+        },
+        {
             "ticker": " NFLX",
             "count": 8
         },
@@ -121,15 +125,7 @@
             "count": 8
         },
         {
-            "ticker": " MVIS",
-            "count": 7
-        },
-        {
             "ticker": " SBUX",
-            "count": 7
-        },
-        {
-            "ticker": " BABA",
             "count": 7
         },
         {
@@ -141,7 +137,11 @@
             "count": 7
         },
         {
-            "ticker": " DIS",
+            "ticker": " SOFI",
+            "count": 6
+        },
+        {
+            "ticker": " MVIS",
             "count": 6
         },
         {
@@ -161,7 +161,7 @@
             "count": 6
         },
         {
-            "ticker": " SOFI",
+            "ticker": " MRK",
             "count": 5
         },
         {
@@ -205,7 +205,15 @@
             "count": 5
         },
         {
+            "ticker": " DIS",
+            "count": 5
+        },
+        {
             "ticker": " CRUS",
+            "count": 4
+        },
+        {
+            "ticker": " XOM",
             "count": 4
         },
         {
@@ -277,6 +285,14 @@
             "count": 3
         },
         {
+            "ticker": " COLL",
+            "count": 3
+        },
+        {
+            "ticker": " SPCE",
+            "count": 3
+        },
+        {
             "ticker": " IPI",
             "count": 3
         },
@@ -297,19 +313,11 @@
             "count": 3
         },
         {
-            "ticker": " MRK",
-            "count": 3
-        },
-        {
             "ticker": " AIV",
             "count": 3
         },
         {
             "ticker": " CLOV",
-            "count": 3
-        },
-        {
-            "ticker": " XOM",
             "count": 3
         },
         {
@@ -389,15 +397,15 @@
             "count": 3
         },
         {
+            "ticker": " TSM",
+            "count": 2
+        },
+        {
             "ticker": " EXPE",
             "count": 2
         },
         {
             "ticker": " SNOW",
-            "count": 2
-        },
-        {
-            "ticker": " FCF",
             "count": 2
         },
         {
@@ -410,6 +418,10 @@
         },
         {
             "ticker": " JPM",
+            "count": 2
+        },
+        {
+            "ticker": " CVX",
             "count": 2
         },
         {
@@ -525,10 +537,6 @@
             "count": 2
         },
         {
-            "ticker": " COLL",
-            "count": 2
-        },
-        {
             "ticker": " AXSM",
             "count": 2
         },
@@ -614,10 +622,6 @@
         },
         {
             "ticker": " PAYA",
-            "count": 2
-        },
-        {
-            "ticker": " SPCE",
             "count": 2
         },
         {
@@ -842,6 +846,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7881,
-    "datetime": "October 28 2021 at 22:17 EST"
+    "num_comments": 7990,
+    "datetime": "October 28 2021 at 23:17 EST"
 }

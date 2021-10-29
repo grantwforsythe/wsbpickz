@@ -1,11 +1,11 @@
 {
     "stocks": [
         {
-            "ticker": " AMC",
-            "count": 104
+            "ticker": " TSLA",
+            "count": 103
         },
         {
-            "ticker": " TSLA",
+            "ticker": " AMC",
             "count": 101
         },
         {
@@ -22,11 +22,11 @@
         },
         {
             "ticker": " MSFT",
-            "count": 43
+            "count": 44
         },
         {
             "ticker": " AMZN",
-            "count": 41
+            "count": 40
         },
         {
             "ticker": " CRTX",
@@ -157,10 +157,6 @@
             "count": 5
         },
         {
-            "ticker": " SOFI",
-            "count": 5
-        },
-        {
             "ticker": " MVIS",
             "count": 5
         },
@@ -241,6 +237,10 @@
             "count": 4
         },
         {
+            "ticker": " SOFI",
+            "count": 4
+        },
+        {
             "ticker": " DNN",
             "count": 4
         },
@@ -282,10 +282,6 @@
         },
         {
             "ticker": " WDC",
-            "count": 3
-        },
-        {
-            "ticker": " MCD",
             "count": 3
         },
         {
@@ -389,18 +385,6 @@
             "count": 3
         },
         {
-            "ticker": " RETA",
-            "count": 2
-        },
-        {
-            "ticker": " INSI",
-            "count": 2
-        },
-        {
-            "ticker": " STRA",
-            "count": 2
-        },
-        {
             "ticker": " TRUP",
             "count": 2
         },
@@ -418,6 +402,10 @@
         },
         {
             "ticker": " AAWW",
+            "count": 2
+        },
+        {
+            "ticker": " NKLA",
             "count": 2
         },
         {
@@ -562,6 +550,10 @@
         },
         {
             "ticker": " TJX",
+            "count": 2
+        },
+        {
+            "ticker": " MCD",
             "count": 2
         },
         {
@@ -854,6 +846,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7778,
-    "datetime": "October 29 2021 at 03:17 EST"
+    "num_comments": 7873,
+    "datetime": "October 29 2021 at 04:17 EST"
 }

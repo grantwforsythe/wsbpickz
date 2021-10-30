@@ -2,23 +2,23 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 139
+            "count": 140
         },
         {
             "ticker": " MSFT",
-            "count": 63
+            "count": 66
         },
         {
             "ticker": " AAPL",
-            "count": 62
+            "count": 63
+        },
+        {
+            "ticker": " GME",
+            "count": 53
         },
         {
             "ticker": " AMD",
             "count": 49
-        },
-        {
-            "ticker": " GME",
-            "count": 47
         },
         {
             "ticker": " AMZN",
@@ -133,6 +133,10 @@
             "count": 7
         },
         {
+            "ticker": " CRSR",
+            "count": 6
+        },
+        {
             "ticker": " PDT",
             "count": 6
         },
@@ -165,7 +169,7 @@
             "count": 6
         },
         {
-            "ticker": " CRSR",
+            "ticker": " TLRY",
             "count": 5
         },
         {
@@ -209,7 +213,7 @@
             "count": 4
         },
         {
-            "ticker": " TLRY",
+            "ticker": " NYT",
             "count": 4
         },
         {
@@ -281,15 +285,15 @@
             "count": 4
         },
         {
+            "ticker": " ETSY",
+            "count": 3
+        },
+        {
             "ticker": " FSLY",
             "count": 3
         },
         {
             "ticker": " ROOT",
-            "count": 3
-        },
-        {
-            "ticker": " NYT",
             "count": 3
         },
         {
@@ -409,10 +413,6 @@
             "count": 3
         },
         {
-            "ticker": " ETSY",
-            "count": 2
-        },
-        {
             "ticker": " LSPD",
             "count": 2
         },
@@ -425,7 +425,15 @@
             "count": 2
         },
         {
+            "ticker": " BCRX",
+            "count": 2
+        },
+        {
             "ticker": " PTON",
+            "count": 2
+        },
+        {
+            "ticker": " TDS",
             "count": 2
         },
         {
@@ -466,10 +474,6 @@
         },
         {
             "ticker": " INVE",
-            "count": 2
-        },
-        {
-            "ticker": " HAPP",
             "count": 2
         },
         {
@@ -842,6 +846,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7923,
-    "datetime": "October 30 2021 at 07:17 EST"
+    "num_comments": 7984,
+    "datetime": "October 30 2021 at 08:17 EST"
 }

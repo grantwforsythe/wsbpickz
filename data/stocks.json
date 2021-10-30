@@ -2,27 +2,27 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 88
+            "count": 90
         },
         {
             "ticker": " MSFT",
-            "count": 65
+            "count": 64
         },
         {
             "ticker": " AAPL",
-            "count": 61
+            "count": 62
         },
         {
             "ticker": " GME",
-            "count": 51
+            "count": 52
         },
         {
             "ticker": " AMC",
-            "count": 48
+            "count": 49
         },
         {
             "ticker": " AMD",
-            "count": 45
+            "count": 44
         },
         {
             "ticker": " AMZN",
@@ -45,7 +45,15 @@
             "count": 15
         },
         {
+            "ticker": " RKT",
+            "count": 14
+        },
+        {
             "ticker": " SDC",
+            "count": 14
+        },
+        {
+            "ticker": " GOOG",
             "count": 13
         },
         {
@@ -61,16 +69,12 @@
             "count": 13
         },
         {
-            "ticker": " RKT",
-            "count": 12
-        },
-        {
-            "ticker": " GOOG",
-            "count": 12
-        },
-        {
             "ticker": " HOOD",
             "count": 11
+        },
+        {
+            "ticker": " BBQ",
+            "count": 10
         },
         {
             "ticker": " CRSR",
@@ -137,10 +141,6 @@
             "count": 7
         },
         {
-            "ticker": " BBQ",
-            "count": 6
-        },
-        {
             "ticker": " SBUX",
             "count": 6
         },
@@ -182,6 +182,10 @@
         },
         {
             "ticker": " TLRY",
+            "count": 5
+        },
+        {
+            "ticker": " NYC",
             "count": 5
         },
         {
@@ -274,10 +278,6 @@
         },
         {
             "ticker": " TSM",
-            "count": 4
-        },
-        {
-            "ticker": " NYC",
             "count": 4
         },
         {
@@ -413,6 +413,10 @@
             "count": 3
         },
         {
+            "ticker": " ESS",
+            "count": 2
+        },
+        {
             "ticker": " LSPD",
             "count": 2
         },
@@ -425,15 +429,19 @@
             "count": 2
         },
         {
-            "ticker": " BCRX",
-            "count": 2
-        },
-        {
             "ticker": " CLNE",
             "count": 2
         },
         {
+            "ticker": " BCRX",
+            "count": 2
+        },
+        {
             "ticker": " SKLZ",
+            "count": 2
+        },
+        {
+            "ticker": " GEO",
             "count": 2
         },
         {
@@ -478,6 +486,10 @@
         },
         {
             "ticker": " COO",
+            "count": 2
+        },
+        {
+            "ticker": " AMCX",
             "count": 2
         },
         {
@@ -830,6 +842,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7486,
-    "datetime": "October 30 2021 at 15:17 EST"
+    "num_comments": 7689,
+    "datetime": "October 30 2021 at 16:17 EST"
 }

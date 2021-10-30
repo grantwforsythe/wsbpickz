@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 101
+            "count": 106
         },
         {
             "ticker": " AAPL",
@@ -10,23 +10,23 @@
         },
         {
             "ticker": " MSFT",
-            "count": 63
+            "count": 64
         },
         {
             "ticker": " GME",
-            "count": 52
+            "count": 50
+        },
+        {
+            "ticker": " AMZN",
+            "count": 45
         },
         {
             "ticker": " AMC",
-            "count": 47
+            "count": 44
         },
         {
             "ticker": " AMD",
             "count": 44
-        },
-        {
-            "ticker": " AMZN",
-            "count": 43
         },
         {
             "ticker": " CRTX",
@@ -54,7 +54,7 @@
         },
         {
             "ticker": " GOOG",
-            "count": 14
+            "count": 15
         },
         {
             "ticker": " CRSR",
@@ -73,15 +73,19 @@
             "count": 13
         },
         {
+            "ticker": " TLRY",
+            "count": 12
+        },
+        {
             "ticker": " HOOD",
             "count": 12
         },
         {
-            "ticker": " TLRY",
+            "ticker": " GDP",
             "count": 10
         },
         {
-            "ticker": " GDP",
+            "ticker": " NYC",
             "count": 9
         },
         {
@@ -185,10 +189,6 @@
             "count": 5
         },
         {
-            "ticker": " NYC",
-            "count": 5
-        },
-        {
             "ticker": " CVX",
             "count": 5
         },
@@ -215,6 +215,10 @@
         {
             "ticker": " UPST",
             "count": 5
+        },
+        {
+            "ticker": " COLL",
+            "count": 4
         },
         {
             "ticker": " CRM",
@@ -314,6 +318,10 @@
         },
         {
             "ticker": " NHS",
+            "count": 3
+        },
+        {
+            "ticker": " NKLA",
             "count": 3
         },
         {
@@ -449,6 +457,10 @@
             "count": 2
         },
         {
+            "ticker": " SEAS",
+            "count": 2
+        },
+        {
             "ticker": " PTON",
             "count": 2
         },
@@ -573,10 +585,6 @@
             "count": 2
         },
         {
-            "ticker": " NKLA",
-            "count": 2
-        },
-        {
             "ticker": " ESCA",
             "count": 2
         },
@@ -690,10 +698,6 @@
         },
         {
             "ticker": " OKTA",
-            "count": 2
-        },
-        {
-            "ticker": " COLL",
             "count": 2
         },
         {
@@ -827,13 +831,9 @@
         {
             "ticker": " ETH",
             "count": 2
-        },
-        {
-            "ticker": " NOVA",
-            "count": 2
         }
     ],
     "num_posts": 160,
-    "num_comments": 8207,
-    "datetime": "October 30 2021 at 20:17 EST"
+    "num_comments": 8377,
+    "datetime": "October 30 2021 at 21:17 EST"
 }

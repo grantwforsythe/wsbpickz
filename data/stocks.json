@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 139
+            "count": 138
         },
         {
             "ticker": " MSFT",
@@ -57,16 +57,16 @@
             "count": 13
         },
         {
-            "ticker": " HOOD",
-            "count": 12
-        },
-        {
             "ticker": " PINS",
             "count": 12
         },
         {
             "ticker": " OCGN",
             "count": 12
+        },
+        {
+            "ticker": " HOOD",
+            "count": 11
         },
         {
             "ticker": " RTX",
@@ -102,7 +102,7 @@
         },
         {
             "ticker": " NFLX",
-            "count": 7
+            "count": 8
         },
         {
             "ticker": " INTC",
@@ -131,6 +131,10 @@
         {
             "ticker": " DVD",
             "count": 7
+        },
+        {
+            "ticker": " PDT",
+            "count": 6
         },
         {
             "ticker": " ENPH",
@@ -162,10 +166,6 @@
         },
         {
             "ticker": " CLOV",
-            "count": 5
-        },
-        {
-            "ticker": " PDT",
             "count": 5
         },
         {
@@ -277,11 +277,19 @@
             "count": 4
         },
         {
-            "ticker": " CCL",
+            "ticker": " SDC",
+            "count": 3
+        },
+        {
+            "ticker": " PHD",
             "count": 3
         },
         {
             "ticker": " LITE",
+            "count": 3
+        },
+        {
+            "ticker": " DCF",
             "count": 3
         },
         {
@@ -377,7 +385,7 @@
             "count": 3
         },
         {
-            "ticker": " DAL",
+            "ticker": " IIPR",
             "count": 2
         },
         {
@@ -389,7 +397,7 @@
             "count": 2
         },
         {
-            "ticker": " DCF",
+            "ticker": " IBM",
             "count": 2
         },
         {
@@ -693,10 +701,6 @@
             "count": 2
         },
         {
-            "ticker": " SDC",
-            "count": 2
-        },
-        {
             "ticker": " BWAC",
             "count": 2
         },
@@ -738,10 +742,6 @@
         },
         {
             "ticker": " ASO",
-            "count": 2
-        },
-        {
-            "ticker": " PHD",
             "count": 2
         },
         {
@@ -806,6 +806,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8214,
-    "datetime": "October 30 2021 at 01:57 EST"
+    "num_comments": 8324,
+    "datetime": "October 30 2021 at 02:27 EST"
 }

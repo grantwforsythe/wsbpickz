@@ -2,31 +2,31 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 141
+            "count": 90
         },
         {
             "ticker": " MSFT",
-            "count": 67
+            "count": 68
         },
         {
             "ticker": " AAPL",
-            "count": 63
+            "count": 62
         },
         {
             "ticker": " GME",
-            "count": 54
+            "count": 52
         },
         {
             "ticker": " AMD",
-            "count": 49
-        },
-        {
-            "ticker": " AMZN",
-            "count": 44
+            "count": 48
         },
         {
             "ticker": " AMC",
-            "count": 43
+            "count": 42
+        },
+        {
+            "ticker": " AMZN",
+            "count": 40
         },
         {
             "ticker": " CRTX",
@@ -41,28 +41,28 @@
             "count": 24
         },
         {
-            "ticker": " PLTR",
-            "count": 15
-        },
-        {
-            "ticker": " PINS",
-            "count": 14
-        },
-        {
             "ticker": " PYPL",
             "count": 14
+        },
+        {
+            "ticker": " PLTR",
+            "count": 13
         },
         {
             "ticker": " TDOC",
             "count": 13
         },
         {
-            "ticker": " HOOD",
+            "ticker": " PINS",
             "count": 12
         },
         {
             "ticker": " GOOG",
             "count": 12
+        },
+        {
+            "ticker": " HOOD",
+            "count": 11
         },
         {
             "ticker": " RTX",
@@ -89,18 +89,6 @@
             "count": 8
         },
         {
-            "ticker": " RSI",
-            "count": 8
-        },
-        {
-            "ticker": " DIS",
-            "count": 8
-        },
-        {
-            "ticker": " SNAP",
-            "count": 8
-        },
-        {
             "ticker": " TWTR",
             "count": 8
         },
@@ -109,11 +97,15 @@
             "count": 7
         },
         {
-            "ticker": " NFLX",
+            "ticker": " CRSR",
             "count": 7
         },
         {
-            "ticker": " INTC",
+            "ticker": " NYT",
+            "count": 7
+        },
+        {
+            "ticker": " DIS",
             "count": 7
         },
         {
@@ -125,16 +117,20 @@
             "count": 7
         },
         {
+            "ticker": " SNAP",
+            "count": 7
+        },
+        {
+            "ticker": " RSI",
+            "count": 7
+        },
+        {
             "ticker": " CLF",
             "count": 7
         },
         {
             "ticker": " DVD",
             "count": 7
-        },
-        {
-            "ticker": " CRSR",
-            "count": 6
         },
         {
             "ticker": " PDT",
@@ -146,6 +142,10 @@
         },
         {
             "ticker": " SHOP",
+            "count": 6
+        },
+        {
+            "ticker": " INTC",
             "count": 6
         },
         {
@@ -170,10 +170,6 @@
         },
         {
             "ticker": " TLRY",
-            "count": 5
-        },
-        {
-            "ticker": " SDC",
             "count": 5
         },
         {
@@ -217,7 +213,11 @@
             "count": 4
         },
         {
-            "ticker": " NYT",
+            "ticker": " FSLY",
+            "count": 4
+        },
+        {
+            "ticker": " SDC",
             "count": 4
         },
         {
@@ -225,15 +225,7 @@
             "count": 4
         },
         {
-            "ticker": " FSD",
-            "count": 4
-        },
-        {
-            "ticker": " PFE",
-            "count": 4
-        },
-        {
-            "ticker": " RKT",
+            "ticker": " DCF",
             "count": 4
         },
         {
@@ -254,6 +246,10 @@
         },
         {
             "ticker": " TGT",
+            "count": 4
+        },
+        {
+            "ticker": " NFLX",
             "count": 4
         },
         {
@@ -297,15 +293,7 @@
             "count": 4
         },
         {
-            "ticker": " FSLY",
-            "count": 3
-        },
-        {
             "ticker": " ROOT",
-            "count": 3
-        },
-        {
-            "ticker": " COO",
             "count": 3
         },
         {
@@ -317,11 +305,15 @@
             "count": 3
         },
         {
+            "ticker": " AAWW",
+            "count": 3
+        },
+        {
             "ticker": " SAIA",
             "count": 3
         },
         {
-            "ticker": " DCF",
+            "ticker": " FSD",
             "count": 3
         },
         {
@@ -373,11 +365,19 @@
             "count": 3
         },
         {
+            "ticker": " RKT",
+            "count": 3
+        },
+        {
             "ticker": " AIV",
             "count": 3
         },
         {
             "ticker": " TRTN",
+            "count": 3
+        },
+        {
+            "ticker": " PFE",
             "count": 3
         },
         {
@@ -465,11 +465,11 @@
             "count": 2
         },
         {
-            "ticker": " EXPE",
+            "ticker": " COO",
             "count": 2
         },
         {
-            "ticker": " AAWW",
+            "ticker": " EXPE",
             "count": 2
         },
         {
@@ -482,30 +482,6 @@
         },
         {
             "ticker": " IBM",
-            "count": 2
-        },
-        {
-            "ticker": " BAM",
-            "count": 2
-        },
-        {
-            "ticker": " INVE",
-            "count": 2
-        },
-        {
-            "ticker": " MRNA",
-            "count": 2
-        },
-        {
-            "ticker": " IPA",
-            "count": 2
-        },
-        {
-            "ticker": " BMI",
-            "count": 2
-        },
-        {
-            "ticker": " III",
             "count": 2
         },
         {
@@ -858,6 +834,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8164,
-    "datetime": "October 30 2021 at 10:17 EST"
+    "num_comments": 7756,
+    "datetime": "October 30 2021 at 11:16 EST"
 }

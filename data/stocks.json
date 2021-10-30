@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 84
+            "count": 86
         },
         {
             "ticker": " MSFT",
@@ -41,6 +41,10 @@
             "count": 16
         },
         {
+            "ticker": " PINS",
+            "count": 14
+        },
+        {
             "ticker": " PYPL",
             "count": 13
         },
@@ -50,10 +54,6 @@
         },
         {
             "ticker": " SDC",
-            "count": 12
-        },
-        {
-            "ticker": " PINS",
             "count": 12
         },
         {
@@ -93,7 +93,15 @@
             "count": 8
         },
         {
+            "ticker": " CRSR",
+            "count": 8
+        },
+        {
             "ticker": " SNAP",
+            "count": 8
+        },
+        {
+            "ticker": " TDA",
             "count": 8
         },
         {
@@ -113,15 +121,7 @@
             "count": 8
         },
         {
-            "ticker": " CRSR",
-            "count": 7
-        },
-        {
             "ticker": " NYT",
-            "count": 7
-        },
-        {
-            "ticker": " TDA",
             "count": 7
         },
         {
@@ -409,11 +409,11 @@
             "count": 2
         },
         {
-            "ticker": " HZNP",
+            "ticker": " QCOM",
             "count": 2
         },
         {
-            "ticker": " QCOM",
+            "ticker": " HZNP",
             "count": 2
         },
         {
@@ -422,6 +422,10 @@
         },
         {
             "ticker": " CLNE",
+            "count": 2
+        },
+        {
+            "ticker": " SKLZ",
             "count": 2
         },
         {
@@ -814,6 +818,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7226,
-    "datetime": "October 30 2021 at 13:17 EST"
+    "num_comments": 7345,
+    "datetime": "October 30 2021 at 14:17 EST"
 }

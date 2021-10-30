@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 90
+            "count": 93
         },
         {
             "ticker": " MSFT",
@@ -14,7 +14,7 @@
         },
         {
             "ticker": " GME",
-            "count": 50
+            "count": 52
         },
         {
             "ticker": " AMC",
@@ -34,14 +34,18 @@
         },
         {
             "ticker": " NVDA",
-            "count": 30
-        },
-        {
-            "ticker": " PINS",
-            "count": 16
+            "count": 31
         },
         {
             "ticker": " AGC",
+            "count": 17
+        },
+        {
+            "ticker": " RKT",
+            "count": 16
+        },
+        {
+            "ticker": " PINS",
             "count": 16
         },
         {
@@ -49,11 +53,11 @@
             "count": 15
         },
         {
-            "ticker": " RKT",
+            "ticker": " GOOG",
             "count": 14
         },
         {
-            "ticker": " GOOG",
+            "ticker": " CRSR",
             "count": 13
         },
         {
@@ -73,12 +77,8 @@
             "count": 11
         },
         {
-            "ticker": " CRSR",
-            "count": 10
-        },
-        {
-            "ticker": " BBQ",
-            "count": 10
+            "ticker": " GDP",
+            "count": 9
         },
         {
             "ticker": " EBAY",
@@ -87,10 +87,6 @@
         {
             "ticker": " AFRM",
             "count": 9
-        },
-        {
-            "ticker": " GDP",
-            "count": 8
         },
         {
             "ticker": " ROKU",
@@ -102,10 +98,6 @@
         },
         {
             "ticker": " SNAP",
-            "count": 8
-        },
-        {
-            "ticker": " TDA",
             "count": 8
         },
         {
@@ -125,7 +117,15 @@
             "count": 8
         },
         {
+            "ticker": " ENPH",
+            "count": 7
+        },
+        {
             "ticker": " NYT",
+            "count": 7
+        },
+        {
+            "ticker": " TDA",
             "count": 7
         },
         {
@@ -146,10 +146,6 @@
         },
         {
             "ticker": " PDT",
-            "count": 6
-        },
-        {
-            "ticker": " ENPH",
             "count": 6
         },
         {
@@ -178,6 +174,10 @@
         },
         {
             "ticker": " FSLY",
+            "count": 5
+        },
+        {
+            "ticker": " VIAC",
             "count": 5
         },
         {
@@ -215,6 +215,10 @@
         {
             "ticker": " UPST",
             "count": 5
+        },
+        {
+            "ticker": " CLOV",
+            "count": 4
         },
         {
             "ticker": " CRM",
@@ -309,11 +313,11 @@
             "count": 4
         },
         {
-            "ticker": " FTNT",
+            "ticker": " EFT",
             "count": 3
         },
         {
-            "ticker": " VIAC",
+            "ticker": " FTNT",
             "count": 3
         },
         {
@@ -350,10 +354,6 @@
         },
         {
             "ticker": " TAST",
-            "count": 3
-        },
-        {
-            "ticker": " CLOV",
             "count": 3
         },
         {
@@ -413,11 +413,15 @@
             "count": 2
         },
         {
-            "ticker": " LSPD",
+            "ticker": " ALGN",
             "count": 2
         },
         {
             "ticker": " QCOM",
+            "count": 2
+        },
+        {
+            "ticker": " LSPD",
             "count": 2
         },
         {
@@ -514,10 +518,6 @@
         },
         {
             "ticker": " VSTO",
-            "count": 2
-        },
-        {
-            "ticker": " EFT",
             "count": 2
         },
         {
@@ -797,6 +797,10 @@
             "count": 2
         },
         {
+            "ticker": " MCMJ",
+            "count": 2
+        },
+        {
             "ticker": " DDD",
             "count": 2
         },
@@ -838,6 +842,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7807,
-    "datetime": "October 30 2021 at 17:17 EST"
+    "num_comments": 7821,
+    "datetime": "October 30 2021 at 18:17 EST"
 }

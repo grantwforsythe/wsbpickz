@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 86
+            "count": 88
         },
         {
             "ticker": " MSFT",
@@ -18,7 +18,7 @@
         },
         {
             "ticker": " AMC",
-            "count": 46
+            "count": 48
         },
         {
             "ticker": " AMD",
@@ -26,7 +26,7 @@
         },
         {
             "ticker": " AMZN",
-            "count": 41
+            "count": 40
         },
         {
             "ticker": " CRTX",
@@ -42,7 +42,15 @@
         },
         {
             "ticker": " PINS",
-            "count": 14
+            "count": 15
+        },
+        {
+            "ticker": " SDC",
+            "count": 13
+        },
+        {
+            "ticker": " PLTR",
+            "count": 13
         },
         {
             "ticker": " PYPL",
@@ -53,7 +61,7 @@
             "count": 13
         },
         {
-            "ticker": " SDC",
+            "ticker": " RKT",
             "count": 12
         },
         {
@@ -61,15 +69,11 @@
             "count": 12
         },
         {
-            "ticker": " PLTR",
-            "count": 11
-        },
-        {
             "ticker": " HOOD",
             "count": 11
         },
         {
-            "ticker": " RKT",
+            "ticker": " CRSR",
             "count": 9
         },
         {
@@ -90,10 +94,6 @@
         },
         {
             "ticker": " DDOG",
-            "count": 8
-        },
-        {
-            "ticker": " CRSR",
             "count": 8
         },
         {
@@ -137,6 +137,10 @@
             "count": 7
         },
         {
+            "ticker": " BBQ",
+            "count": 6
+        },
+        {
             "ticker": " SBUX",
             "count": 6
         },
@@ -173,7 +177,7 @@
             "count": 6
         },
         {
-            "ticker": " BBQ",
+            "ticker": " FSLY",
             "count": 5
         },
         {
@@ -213,15 +217,11 @@
             "count": 4
         },
         {
-            "ticker": " ETSY",
-            "count": 4
-        },
-        {
             "ticker": " DKNG",
             "count": 4
         },
         {
-            "ticker": " FSLY",
+            "ticker": " ETSY",
             "count": 4
         },
         {
@@ -305,6 +305,10 @@
             "count": 3
         },
         {
+            "ticker": " VIAC",
+            "count": 3
+        },
+        {
             "ticker": " ROOT",
             "count": 3
         },
@@ -330,6 +334,10 @@
         },
         {
             "ticker": " NIO",
+            "count": 3
+        },
+        {
+            "ticker": " VALU",
             "count": 3
         },
         {
@@ -433,6 +441,10 @@
             "count": 2
         },
         {
+            "ticker": " IBM",
+            "count": 2
+        },
+        {
             "ticker": " CVE",
             "count": 2
         },
@@ -469,10 +481,6 @@
             "count": 2
         },
         {
-            "ticker": " PHD",
-            "count": 2
-        },
-        {
             "ticker": " LEU",
             "count": 2
         },
@@ -494,6 +502,10 @@
         },
         {
             "ticker": " FDX",
+            "count": 2
+        },
+        {
+            "ticker": " IDE",
             "count": 2
         },
         {
@@ -818,6 +830,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7345,
-    "datetime": "October 30 2021 at 14:17 EST"
+    "num_comments": 7486,
+    "datetime": "October 30 2021 at 15:17 EST"
 }

@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 102
+            "count": 99
         },
         {
             "ticker": " MSFT",
@@ -10,15 +10,15 @@
         },
         {
             "ticker": " AAPL",
-            "count": 64
+            "count": 65
+        },
+        {
+            "ticker": " GME",
+            "count": 51
         },
         {
             "ticker": " AMZN",
             "count": 50
-        },
-        {
-            "ticker": " GME",
-            "count": 49
         },
         {
             "ticker": " AMD",
@@ -26,7 +26,7 @@
         },
         {
             "ticker": " AMC",
-            "count": 39
+            "count": 40
         },
         {
             "ticker": " CRTX",
@@ -34,11 +34,11 @@
         },
         {
             "ticker": " NVDA",
-            "count": 31
+            "count": 30
         },
         {
             "ticker": " GOOG",
-            "count": 18
+            "count": 19
         },
         {
             "ticker": " AGC",
@@ -61,10 +61,6 @@
             "count": 11
         },
         {
-            "ticker": " RKT",
-            "count": 10
-        },
-        {
             "ticker": " PINS",
             "count": 10
         },
@@ -77,11 +73,11 @@
             "count": 9
         },
         {
-            "ticker": " TLRY",
+            "ticker": " MVIS",
             "count": 8
         },
         {
-            "ticker": " GDP",
+            "ticker": " TLRY",
             "count": 8
         },
         {
@@ -101,15 +97,15 @@
             "count": 8
         },
         {
-            "ticker": " MVIS",
-            "count": 7
-        },
-        {
             "ticker": " DDOG",
             "count": 7
         },
         {
             "ticker": " ABBV",
+            "count": 7
+        },
+        {
+            "ticker": " GDP",
             "count": 7
         },
         {
@@ -193,7 +189,7 @@
             "count": 4
         },
         {
-            "ticker": " CRM",
+            "ticker": " RKT",
             "count": 4
         },
         {
@@ -381,6 +377,14 @@
             "count": 2
         },
         {
+            "ticker": " HOG",
+            "count": 2
+        },
+        {
+            "ticker": " FUTU",
+            "count": 2
+        },
+        {
             "ticker": " SMAR",
             "count": 2
         },
@@ -393,19 +397,19 @@
             "count": 2
         },
         {
+            "ticker": " UNIT",
+            "count": 2
+        },
+        {
+            "ticker": " DSM",
+            "count": 2
+        },
+        {
             "ticker": " CPA",
             "count": 2
         },
         {
             "ticker": " DCF",
-            "count": 2
-        },
-        {
-            "ticker": " ESS",
-            "count": 2
-        },
-        {
-            "ticker": " WEN",
             "count": 2
         },
         {
@@ -442,6 +446,10 @@
         },
         {
             "ticker": " ATVI",
+            "count": 2
+        },
+        {
+            "ticker": " CRM",
             "count": 2
         },
         {
@@ -774,6 +782,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7768,
-    "datetime": "October 31 2021 at 00:39 EST"
+    "num_comments": 7766,
+    "datetime": "October 31 2021 at 01:57 EST"
 }

@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 99
+            "count": 100
         },
         {
             "ticker": " MSFT",
@@ -14,19 +14,19 @@
         },
         {
             "ticker": " GME",
-            "count": 53
+            "count": 57
         },
         {
             "ticker": " AMZN",
             "count": 50
         },
         {
-            "ticker": " AMD",
-            "count": 44
+            "ticker": " AMC",
+            "count": 46
         },
         {
-            "ticker": " AMC",
-            "count": 41
+            "ticker": " AMD",
+            "count": 44
         },
         {
             "ticker": " CRTX",
@@ -265,6 +265,14 @@
             "count": 4
         },
         {
+            "ticker": " UNIT",
+            "count": 3
+        },
+        {
+            "ticker": " HOG",
+            "count": 3
+        },
+        {
             "ticker": " RETA",
             "count": 3
         },
@@ -377,11 +385,15 @@
             "count": 2
         },
         {
-            "ticker": " HOG",
+            "ticker": " TLS",
             "count": 2
         },
         {
             "ticker": " FUTU",
+            "count": 2
+        },
+        {
+            "ticker": " CDW",
             "count": 2
         },
         {
@@ -394,10 +406,6 @@
         },
         {
             "ticker": " IBM",
-            "count": 2
-        },
-        {
-            "ticker": " UNIT",
             "count": 2
         },
         {
@@ -782,6 +790,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7699,
-    "datetime": "October 31 2021 at 02:28 EST"
+    "num_comments": 8014,
+    "datetime": "October 31 2021 at 03:17 EST"
 }

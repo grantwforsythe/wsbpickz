@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 84
+            "count": 78
         },
         {
             "ticker": " MSFT",
@@ -10,11 +10,11 @@
         },
         {
             "ticker": " AAPL",
-            "count": 63
+            "count": 62
         },
         {
             "ticker": " GME",
-            "count": 59
+            "count": 60
         },
         {
             "ticker": " AMC",
@@ -54,7 +54,7 @@
         },
         {
             "ticker": " SAVA",
-            "count": 11
+            "count": 12
         },
         {
             "ticker": " PLTR",
@@ -67,6 +67,10 @@
         {
             "ticker": " PINS",
             "count": 10
+        },
+        {
+            "ticker": " RSI",
+            "count": 9
         },
         {
             "ticker": " MVIS",
@@ -85,15 +89,7 @@
             "count": 9
         },
         {
-            "ticker": " RSI",
-            "count": 8
-        },
-        {
             "ticker": " CRSR",
-            "count": 8
-        },
-        {
-            "ticker": " TLRY",
             "count": 8
         },
         {
@@ -187,6 +183,10 @@
         {
             "ticker": " DVD",
             "count": 5
+        },
+        {
+            "ticker": " TDA",
+            "count": 4
         },
         {
             "ticker": " LEO",
@@ -285,14 +285,6 @@
             "count": 3
         },
         {
-            "ticker": " RETA",
-            "count": 3
-        },
-        {
-            "ticker": " COLL",
-            "count": 3
-        },
-        {
             "ticker": " ANF",
             "count": 3
         },
@@ -361,10 +353,6 @@
             "count": 3
         },
         {
-            "ticker": " TDA",
-            "count": 3
-        },
-        {
             "ticker": " UUUU",
             "count": 3
         },
@@ -401,6 +389,10 @@
             "count": 2
         },
         {
+            "ticker": " ASA",
+            "count": 2
+        },
+        {
             "ticker": " INVE",
             "count": 2
         },
@@ -418,14 +410,6 @@
         },
         {
             "ticker": " BBQ",
-            "count": 2
-        },
-        {
-            "ticker": " CDW",
-            "count": 2
-        },
-        {
-            "ticker": " SMAR",
             "count": 2
         },
         {
@@ -613,6 +597,10 @@
             "count": 2
         },
         {
+            "ticker": " TLRY",
+            "count": 2
+        },
+        {
             "ticker": " FCEL",
             "count": 2
         },
@@ -642,6 +630,10 @@
         },
         {
             "ticker": " OKTA",
+            "count": 2
+        },
+        {
+            "ticker": " COLL",
             "count": 2
         },
         {
@@ -725,6 +717,10 @@
             "count": 2
         },
         {
+            "ticker": " RETA",
+            "count": 2
+        },
+        {
             "ticker": " LNG",
             "count": 2
         },
@@ -794,6 +790,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8046,
-    "datetime": "October 31 2021 at 10:17 EST"
+    "num_comments": 7582,
+    "datetime": "October 31 2021 at 11:15 EST"
 }

@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 100
+            "count": 102
         },
         {
             "ticker": " MSFT",
@@ -14,7 +14,7 @@
         },
         {
             "ticker": " GME",
-            "count": 57
+            "count": 60
         },
         {
             "ticker": " AMZN",
@@ -22,7 +22,7 @@
         },
         {
             "ticker": " AMC",
-            "count": 46
+            "count": 49
         },
         {
             "ticker": " AMD",
@@ -73,6 +73,10 @@
             "count": 9
         },
         {
+            "ticker": " OCGN",
+            "count": 9
+        },
+        {
             "ticker": " MVIS",
             "count": 8
         },
@@ -90,10 +94,6 @@
         },
         {
             "ticker": " RTX",
-            "count": 8
-        },
-        {
-            "ticker": " OCGN",
             "count": 8
         },
         {
@@ -119,6 +119,10 @@
         {
             "ticker": " CLF",
             "count": 7
+        },
+        {
+            "ticker": " CRSR",
+            "count": 6
         },
         {
             "ticker": " ENPH",
@@ -147,10 +151,6 @@
         {
             "ticker": " TRIT",
             "count": 6
-        },
-        {
-            "ticker": " CRSR",
-            "count": 5
         },
         {
             "ticker": " CVX",
@@ -263,6 +263,14 @@
         {
             "ticker": " UPST",
             "count": 4
+        },
+        {
+            "ticker": " AAL",
+            "count": 3
+        },
+        {
+            "ticker": " LMFA",
+            "count": 3
         },
         {
             "ticker": " UNIT",
@@ -381,6 +389,10 @@
             "count": 2
         },
         {
+            "ticker": " LEO",
+            "count": 2
+        },
+        {
             "ticker": " SAVA",
             "count": 2
         },
@@ -390,6 +402,10 @@
         },
         {
             "ticker": " FUTU",
+            "count": 2
+        },
+        {
+            "ticker": " BBQ",
             "count": 2
         },
         {
@@ -477,10 +493,6 @@
             "count": 2
         },
         {
-            "ticker": " IDE",
-            "count": 2
-        },
-        {
             "ticker": " VSTO",
             "count": 2
         },
@@ -518,10 +530,6 @@
         },
         {
             "ticker": " CVS",
-            "count": 2
-        },
-        {
-            "ticker": " LMFA",
             "count": 2
         },
         {
@@ -790,6 +798,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8014,
-    "datetime": "October 31 2021 at 03:17 EST"
+    "num_comments": 8192,
+    "datetime": "October 31 2021 at 04:17 EST"
 }

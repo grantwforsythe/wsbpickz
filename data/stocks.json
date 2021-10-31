@@ -2,23 +2,23 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 83
+            "count": 86
         },
         {
             "ticker": " MSFT",
-            "count": 64
+            "count": 69
         },
         {
             "ticker": " AAPL",
-            "count": 63
+            "count": 64
         },
         {
             "ticker": " GME",
-            "count": 58
+            "count": 61
         },
         {
             "ticker": " AMC",
-            "count": 49
+            "count": 50
         },
         {
             "ticker": " AMD",
@@ -34,15 +34,15 @@
         },
         {
             "ticker": " NVDA",
-            "count": 29
+            "count": 31
+        },
+        {
+            "ticker": " GOOG",
+            "count": 18
         },
         {
             "ticker": " AGC",
             "count": 17
-        },
-        {
-            "ticker": " GOOG",
-            "count": 13
         },
         {
             "ticker": " PYPL",
@@ -51,6 +51,10 @@
         {
             "ticker": " TDOC",
             "count": 13
+        },
+        {
+            "ticker": " SAVA",
+            "count": 11
         },
         {
             "ticker": " PLTR",
@@ -81,6 +85,10 @@
             "count": 9
         },
         {
+            "ticker": " CRSR",
+            "count": 8
+        },
+        {
             "ticker": " TLRY",
             "count": 8
         },
@@ -95,10 +103,6 @@
         {
             "ticker": " RTX",
             "count": 8
-        },
-        {
-            "ticker": " CRSR",
-            "count": 7
         },
         {
             "ticker": " DDOG",
@@ -123,6 +127,10 @@
         {
             "ticker": " CLF",
             "count": 7
+        },
+        {
+            "ticker": " AVXL",
+            "count": 6
         },
         {
             "ticker": " ENPH",
@@ -151,10 +159,6 @@
         {
             "ticker": " TRIT",
             "count": 6
-        },
-        {
-            "ticker": " SAVA",
-            "count": 5
         },
         {
             "ticker": " CVX",
@@ -269,15 +273,15 @@
             "count": 3
         },
         {
-            "ticker": " INVE",
-            "count": 3
-        },
-        {
             "ticker": " AAL",
             "count": 3
         },
         {
             "ticker": " LMFA",
+            "count": 3
+        },
+        {
+            "ticker": " UNIT",
             "count": 3
         },
         {
@@ -393,11 +397,11 @@
             "count": 3
         },
         {
-            "ticker": " AVXL",
+            "ticker": " LOGI",
             "count": 2
         },
         {
-            "ticker": " UNIT",
+            "ticker": " INVE",
             "count": 2
         },
         {
@@ -418,6 +422,14 @@
         },
         {
             "ticker": " SMAR",
+            "count": 2
+        },
+        {
+            "ticker": " ATKR",
+            "count": 2
+        },
+        {
+            "ticker": " IBM",
             "count": 2
         },
         {
@@ -786,6 +798,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7919,
-    "datetime": "October 31 2021 at 08:17 EST"
+    "num_comments": 8360,
+    "datetime": "October 31 2021 at 09:17 EST"
 }

@@ -2,7 +2,11 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 81
+            "count": 82
+        },
+        {
+            "ticker": " GME",
+            "count": 64
         },
         {
             "ticker": " MSFT",
@@ -13,12 +17,8 @@
             "count": 62
         },
         {
-            "ticker": " GME",
-            "count": 62
-        },
-        {
             "ticker": " AMC",
-            "count": 52
+            "count": 54
         },
         {
             "ticker": " AMD",
@@ -41,6 +41,10 @@
             "count": 17
         },
         {
+            "ticker": " SAVA",
+            "count": 14
+        },
+        {
             "ticker": " GOOG",
             "count": 13
         },
@@ -51,10 +55,6 @@
         {
             "ticker": " TDOC",
             "count": 13
-        },
-        {
-            "ticker": " SAVA",
-            "count": 12
         },
         {
             "ticker": " PLTR",
@@ -157,6 +157,10 @@
             "count": 6
         },
         {
+            "ticker": " USB",
+            "count": 5
+        },
+        {
             "ticker": " CVX",
             "count": 5
         },
@@ -183,10 +187,6 @@
         {
             "ticker": " DVD",
             "count": 5
-        },
-        {
-            "ticker": " USB",
-            "count": 4
         },
         {
             "ticker": " TDA",
@@ -273,7 +273,19 @@
             "count": 4
         },
         {
+            "ticker": " PHUN",
+            "count": 4
+        },
+        {
+            "ticker": " OTLK",
+            "count": 4
+        },
+        {
             "ticker": " DKNG",
+            "count": 3
+        },
+        {
+            "ticker": " OLED",
             "count": 3
         },
         {
@@ -373,23 +385,11 @@
             "count": 3
         },
         {
-            "ticker": " PHUN",
-            "count": 3
-        },
-        {
             "ticker": " MCMJ",
             "count": 3
         },
         {
-            "ticker": " OTLK",
-            "count": 3
-        },
-        {
             "ticker": " CATC",
-            "count": 2
-        },
-        {
-            "ticker": " OLED",
             "count": 2
         },
         {
@@ -398,6 +398,10 @@
         },
         {
             "ticker": " ASA",
+            "count": 2
+        },
+        {
+            "ticker": " VTEC",
             "count": 2
         },
         {
@@ -418,10 +422,6 @@
         },
         {
             "ticker": " BBQ",
-            "count": 2
-        },
-        {
-            "ticker": " CDW",
             "count": 2
         },
         {
@@ -798,6 +798,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7839,
-    "datetime": "October 31 2021 at 12:17 EST"
+    "num_comments": 8066,
+    "datetime": "October 31 2021 at 13:17 EST"
 }

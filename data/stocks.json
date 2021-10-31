@@ -2,19 +2,19 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 85
+            "count": 83
         },
         {
             "ticker": " MSFT",
-            "count": 69
-        },
-        {
-            "ticker": " AAPL",
             "count": 64
         },
         {
+            "ticker": " AAPL",
+            "count": 63
+        },
+        {
             "ticker": " GME",
-            "count": 60
+            "count": 58
         },
         {
             "ticker": " AMC",
@@ -34,15 +34,15 @@
         },
         {
             "ticker": " NVDA",
-            "count": 31
-        },
-        {
-            "ticker": " GOOG",
-            "count": 18
+            "count": 29
         },
         {
             "ticker": " AGC",
             "count": 17
+        },
+        {
+            "ticker": " GOOG",
+            "count": 13
         },
         {
             "ticker": " PYPL",
@@ -265,6 +265,10 @@
             "count": 4
         },
         {
+            "ticker": " USB",
+            "count": 3
+        },
+        {
             "ticker": " INVE",
             "count": 3
         },
@@ -274,10 +278,6 @@
         },
         {
             "ticker": " LMFA",
-            "count": 3
-        },
-        {
-            "ticker": " UNIT",
             "count": 3
         },
         {
@@ -397,6 +397,10 @@
             "count": 2
         },
         {
+            "ticker": " UNIT",
+            "count": 2
+        },
+        {
             "ticker": " TLS",
             "count": 2
         },
@@ -414,18 +418,6 @@
         },
         {
             "ticker": " SMAR",
-            "count": 2
-        },
-        {
-            "ticker": " ATKR",
-            "count": 2
-        },
-        {
-            "ticker": " IBM",
-            "count": 2
-        },
-        {
-            "ticker": " DSM",
             "count": 2
         },
         {
@@ -606,10 +598,6 @@
         },
         {
             "ticker": " SSB",
-            "count": 2
-        },
-        {
-            "ticker": " USB",
             "count": 2
         },
         {
@@ -798,6 +786,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8293,
-    "datetime": "October 31 2021 at 07:17 EST"
+    "num_comments": 7919,
+    "datetime": "October 31 2021 at 08:17 EST"
 }

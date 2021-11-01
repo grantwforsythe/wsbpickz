@@ -2,23 +2,23 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 88
+            "count": 97
         },
         {
             "ticker": " GME",
             "count": 74
         },
         {
+            "ticker": " AAPL",
+            "count": 69
+        },
+        {
             "ticker": " AMC",
             "count": 69
         },
         {
-            "ticker": " AAPL",
-            "count": 67
-        },
-        {
             "ticker": " MSFT",
-            "count": 61
+            "count": 62
         },
         {
             "ticker": " AMZN",
@@ -38,15 +38,15 @@
         },
         {
             "ticker": " PLTR",
-            "count": 22
+            "count": 21
+        },
+        {
+            "ticker": " PINS",
+            "count": 18
         },
         {
             "ticker": " AGC",
             "count": 18
-        },
-        {
-            "ticker": " PINS",
-            "count": 17
         },
         {
             "ticker": " PYPL",
@@ -57,16 +57,16 @@
             "count": 12
         },
         {
+            "ticker": " BABA",
+            "count": 11
+        },
+        {
             "ticker": " SNAP",
             "count": 11
         },
         {
             "ticker": " HOOD",
             "count": 11
-        },
-        {
-            "ticker": " BABA",
-            "count": 10
         },
         {
             "ticker": " GOOG",
@@ -83,6 +83,10 @@
         {
             "ticker": " SOFI",
             "count": 8
+        },
+        {
+            "ticker": " NIO",
+            "count": 7
         },
         {
             "ticker": " SBUX",
@@ -126,10 +130,6 @@
         },
         {
             "ticker": " INTC",
-            "count": 6
-        },
-        {
-            "ticker": " NIO",
             "count": 6
         },
         {
@@ -441,10 +441,6 @@
             "count": 2
         },
         {
-            "ticker": " BLNK",
-            "count": 2
-        },
-        {
             "ticker": " LULU",
             "count": 2
         },
@@ -457,10 +453,6 @@
             "count": 2
         },
         {
-            "ticker": " NNN",
-            "count": 2
-        },
-        {
             "ticker": " NVAX",
             "count": 2
         },
@@ -469,15 +461,15 @@
             "count": 2
         },
         {
-            "ticker": " TWLO",
-            "count": 2
-        },
-        {
             "ticker": " ABNB",
             "count": 2
         },
         {
             "ticker": " CPG",
+            "count": 2
+        },
+        {
+            "ticker": " TWLO",
             "count": 2
         },
         {
@@ -810,6 +802,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8052,
-    "datetime": "November 01 2021 at 09:17 EST"
+    "num_comments": 8229,
+    "datetime": "November 01 2021 at 10:17 EST"
 }

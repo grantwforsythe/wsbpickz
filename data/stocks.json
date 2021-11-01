@@ -2,27 +2,27 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 77
+            "count": 81
         },
         {
             "ticker": " GME",
-            "count": 70
+            "count": 72
         },
         {
             "ticker": " AAPL",
             "count": 68
         },
         {
-            "ticker": " MSFT",
-            "count": 63
+            "ticker": " AMC",
+            "count": 65
         },
         {
-            "ticker": " AMC",
-            "count": 61
+            "ticker": " MSFT",
+            "count": 62
         },
         {
             "ticker": " AMD",
-            "count": 46
+            "count": 41
         },
         {
             "ticker": " AMZN",
@@ -34,23 +34,23 @@
         },
         {
             "ticker": " NVDA",
-            "count": 33
+            "count": 31
+        },
+        {
+            "ticker": " PLTR",
+            "count": 18
         },
         {
             "ticker": " AGC",
             "count": 17
         },
         {
-            "ticker": " PYPL",
+            "ticker": " INTC",
             "count": 15
         },
         {
-            "ticker": " PLTR",
-            "count": 14
-        },
-        {
-            "ticker": " INTC",
-            "count": 14
+            "ticker": " PYPL",
+            "count": 15
         },
         {
             "ticker": " HOOD",
@@ -69,6 +69,10 @@
             "count": 10
         },
         {
+            "ticker": " SBUX",
+            "count": 9
+        },
+        {
             "ticker": " GDP",
             "count": 9
         },
@@ -77,12 +81,16 @@
             "count": 9
         },
         {
-            "ticker": " SBUX",
+            "ticker": " BABA",
             "count": 8
         },
         {
             "ticker": " SNAP",
             "count": 8
+        },
+        {
+            "ticker": " SOFI",
+            "count": 7
         },
         {
             "ticker": " NKLA",
@@ -125,10 +133,6 @@
             "count": 7
         },
         {
-            "ticker": " BABA",
-            "count": 6
-        },
-        {
             "ticker": " NIO",
             "count": 6
         },
@@ -169,15 +173,7 @@
             "count": 5
         },
         {
-            "ticker": " SOFI",
-            "count": 5
-        },
-        {
             "ticker": " LUV",
-            "count": 5
-        },
-        {
-            "ticker": " CLOV",
             "count": 5
         },
         {
@@ -217,11 +213,19 @@
             "count": 5
         },
         {
+            "ticker": " CVS",
+            "count": 4
+        },
+        {
             "ticker": " FUTU",
             "count": 4
         },
         {
             "ticker": " LMFA",
+            "count": 4
+        },
+        {
+            "ticker": " TLRY",
             "count": 4
         },
         {
@@ -297,23 +301,7 @@
             "count": 3
         },
         {
-            "ticker": " MCD",
-            "count": 3
-        },
-        {
             "ticker": " SNDL",
-            "count": 3
-        },
-        {
-            "ticker": " TLRY",
-            "count": 3
-        },
-        {
-            "ticker": " PEG",
-            "count": 3
-        },
-        {
-            "ticker": " CVS",
             "count": 3
         },
         {
@@ -362,6 +350,10 @@
         },
         {
             "ticker": " TAST",
+            "count": 3
+        },
+        {
+            "ticker": " CLOV",
             "count": 3
         },
         {
@@ -417,6 +409,10 @@
             "count": 3
         },
         {
+            "ticker": " CTRM",
+            "count": 2
+        },
+        {
             "ticker": " UBER",
             "count": 2
         },
@@ -430,6 +426,10 @@
         },
         {
             "ticker": " NNN",
+            "count": 2
+        },
+        {
+            "ticker": " GOEV",
             "count": 2
         },
         {
@@ -761,6 +761,10 @@
             "count": 2
         },
         {
+            "ticker": " MCD",
+            "count": 2
+        },
+        {
             "ticker": " LNG",
             "count": 2
         },
@@ -826,6 +830,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7695,
-    "datetime": "November 01 2021 at 00:45 EST"
+    "num_comments": 8036,
+    "datetime": "November 01 2021 at 01:57 EST"
 }

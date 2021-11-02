@@ -1,16 +1,16 @@
 {
     "stocks": [
         {
+            "ticker": " GME",
+            "count": 94
+        },
+        {
             "ticker": " TSLA",
             "count": 94
         },
         {
-            "ticker": " GME",
-            "count": 93
-        },
-        {
             "ticker": " AMC",
-            "count": 72
+            "count": 73
         },
         {
             "ticker": " AAPL",
@@ -69,15 +69,15 @@
             "count": 10
         },
         {
-            "ticker": " PINS",
-            "count": 10
-        },
-        {
             "ticker": " SOFI",
             "count": 9
         },
         {
             "ticker": " NYC",
+            "count": 9
+        },
+        {
+            "ticker": " PINS",
             "count": 9
         },
         {
@@ -109,15 +109,15 @@
             "count": 7
         },
         {
-            "ticker": " CRTX",
-            "count": 7
-        },
-        {
             "ticker": " TSM",
             "count": 6
         },
         {
             "ticker": " BNTX",
+            "count": 6
+        },
+        {
+            "ticker": " CRTX",
             "count": 6
         },
         {
@@ -718,6 +718,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7020,
-    "datetime": "November 02 2021 at 08:17 EST"
+    "num_comments": 7022,
+    "datetime": "November 02 2021 at 09:17 EST"
 }

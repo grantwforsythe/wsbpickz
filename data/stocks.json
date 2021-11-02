@@ -1,16 +1,16 @@
 {
     "stocks": [
         {
-            "ticker": " GME",
-            "count": 94
+            "ticker": " TSLA",
+            "count": 95
         },
         {
-            "ticker": " TSLA",
-            "count": 94
+            "ticker": " GME",
+            "count": 95
         },
         {
             "ticker": " AMC",
-            "count": 73
+            "count": 74
         },
         {
             "ticker": " AAPL",
@@ -26,7 +26,7 @@
         },
         {
             "ticker": " AMD",
-            "count": 37
+            "count": 36
         },
         {
             "ticker": " NVDA",
@@ -53,11 +53,11 @@
             "count": 11
         },
         {
-            "ticker": " PLTR",
+            "ticker": " SOFI",
             "count": 10
         },
         {
-            "ticker": " HOOD",
+            "ticker": " PLTR",
             "count": 10
         },
         {
@@ -69,7 +69,7 @@
             "count": 10
         },
         {
-            "ticker": " SOFI",
+            "ticker": " HOOD",
             "count": 9
         },
         {
@@ -97,6 +97,10 @@
             "count": 8
         },
         {
+            "ticker": " TSM",
+            "count": 7
+        },
+        {
             "ticker": " AFRM",
             "count": 7
         },
@@ -109,7 +113,7 @@
             "count": 7
         },
         {
-            "ticker": " TSM",
+            "ticker": " DTE",
             "count": 6
         },
         {
@@ -146,10 +150,6 @@
         },
         {
             "ticker": " ROKU",
-            "count": 5
-        },
-        {
-            "ticker": " DTE",
             "count": 5
         },
         {
@@ -261,6 +261,10 @@
             "count": 4
         },
         {
+            "ticker": " RETA",
+            "count": 3
+        },
+        {
             "ticker": " MSM",
             "count": 3
         },
@@ -278,10 +282,6 @@
         },
         {
             "ticker": " RIG",
-            "count": 3
-        },
-        {
-            "ticker": " TWNK",
             "count": 3
         },
         {
@@ -373,6 +373,10 @@
             "count": 3
         },
         {
+            "ticker": " COMM",
+            "count": 2
+        },
+        {
             "ticker": " HAPP",
             "count": 2
         },
@@ -382,14 +386,6 @@
         },
         {
             "ticker": " NUE",
-            "count": 2
-        },
-        {
-            "ticker": " CPA",
-            "count": 2
-        },
-        {
-            "ticker": " TDS",
             "count": 2
         },
         {
@@ -506,6 +502,10 @@
         },
         {
             "ticker": " LEU",
+            "count": 2
+        },
+        {
+            "ticker": " TWNK",
             "count": 2
         },
         {
@@ -657,10 +657,6 @@
             "count": 2
         },
         {
-            "ticker": " RETA",
-            "count": 2
-        },
-        {
             "ticker": " LNG",
             "count": 2
         },
@@ -718,6 +714,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7022,
-    "datetime": "November 02 2021 at 09:17 EST"
+    "num_comments": 7088,
+    "datetime": "November 02 2021 at 10:17 EST"
 }

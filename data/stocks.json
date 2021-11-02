@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 92
+            "count": 93
         },
         {
             "ticker": " TSLA",
-            "count": 88
+            "count": 89
         },
         {
             "ticker": " AMC",
-            "count": 77
+            "count": 78
         },
         {
             "ticker": " AAPL",
@@ -22,7 +22,7 @@
         },
         {
             "ticker": " AMZN",
-            "count": 39
+            "count": 40
         },
         {
             "ticker": " AMD",
@@ -34,7 +34,7 @@
         },
         {
             "ticker": " PYPL",
-            "count": 14
+            "count": 16
         },
         {
             "ticker": " SBUX",
@@ -49,6 +49,10 @@
             "count": 11
         },
         {
+            "ticker": " PINS",
+            "count": 11
+        },
+        {
             "ticker": " TDOC",
             "count": 11
         },
@@ -57,11 +61,11 @@
             "count": 10
         },
         {
-            "ticker": " PINS",
-            "count": 10
+            "ticker": " HOOD",
+            "count": 9
         },
         {
-            "ticker": " HOOD",
+            "ticker": " CRSR",
             "count": 9
         },
         {
@@ -79,10 +83,6 @@
         {
             "ticker": " ABBV",
             "count": 9
-        },
-        {
-            "ticker": " CRSR",
-            "count": 8
         },
         {
             "ticker": " SNAP",
@@ -397,6 +397,10 @@
             "count": 2
         },
         {
+            "ticker": " ARC",
+            "count": 2
+        },
+        {
             "ticker": " SOL",
             "count": 2
         },
@@ -410,6 +414,10 @@
         },
         {
             "ticker": " FUBO",
+            "count": 2
+        },
+        {
+            "ticker": " ABCL",
             "count": 2
         },
         {
@@ -710,6 +718,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6990,
-    "datetime": "November 02 2021 at 04:17 EST"
+    "num_comments": 6969,
+    "datetime": "November 02 2021 at 05:17 EST"
 }

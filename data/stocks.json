@@ -1,16 +1,16 @@
 {
     "stocks": [
         {
-            "ticker": " GME",
-            "count": 95
+            "ticker": " TSLA",
+            "count": 93
         },
         {
-            "ticker": " TSLA",
-            "count": 90
+            "ticker": " GME",
+            "count": 93
         },
         {
             "ticker": " AMC",
-            "count": 73
+            "count": 72
         },
         {
             "ticker": " AAPL",
@@ -18,7 +18,7 @@
         },
         {
             "ticker": " MSFT",
-            "count": 46
+            "count": 45
         },
         {
             "ticker": " AMZN",
@@ -26,7 +26,7 @@
         },
         {
             "ticker": " AMD",
-            "count": 33
+            "count": 37
         },
         {
             "ticker": " NVDA",
@@ -53,6 +53,10 @@
             "count": 11
         },
         {
+            "ticker": " PLTR",
+            "count": 10
+        },
+        {
             "ticker": " HOOD",
             "count": 10
         },
@@ -74,10 +78,6 @@
         },
         {
             "ticker": " NYC",
-            "count": 9
-        },
-        {
-            "ticker": " PLTR",
             "count": 9
         },
         {
@@ -113,7 +113,7 @@
             "count": 7
         },
         {
-            "ticker": " NIO",
+            "ticker": " TSM",
             "count": 6
         },
         {
@@ -157,10 +157,6 @@
             "count": 5
         },
         {
-            "ticker": " TSM",
-            "count": 5
-        },
-        {
             "ticker": " CVX",
             "count": 5
         },
@@ -187,6 +183,14 @@
         {
             "ticker": " PHUN",
             "count": 5
+        },
+        {
+            "ticker": " FSD",
+            "count": 4
+        },
+        {
+            "ticker": " NIO",
+            "count": 4
         },
         {
             "ticker": " UPST",
@@ -257,7 +261,7 @@
             "count": 4
         },
         {
-            "ticker": " PTON",
+            "ticker": " MSM",
             "count": 3
         },
         {
@@ -367,10 +371,6 @@
         {
             "ticker": " MCMJ",
             "count": 3
-        },
-        {
-            "ticker": " FSD",
-            "count": 2
         },
         {
             "ticker": " HAPP",
@@ -685,10 +685,6 @@
             "count": 2
         },
         {
-            "ticker": " MSM",
-            "count": 2
-        },
-        {
             "ticker": " SAVA",
             "count": 2
         },
@@ -718,6 +714,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6944,
-    "datetime": "November 02 2021 at 06:17 EST"
+    "num_comments": 6951,
+    "datetime": "November 02 2021 at 07:17 EST"
 }

@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 93
+            "count": 94
         },
         {
             "ticker": " GME",
@@ -65,12 +65,12 @@
             "count": 10
         },
         {
-            "ticker": " PINS",
+            "ticker": " CRSR",
             "count": 10
         },
         {
-            "ticker": " CRSR",
-            "count": 9
+            "ticker": " PINS",
+            "count": 10
         },
         {
             "ticker": " SOFI",
@@ -83,6 +83,10 @@
         {
             "ticker": " ABBV",
             "count": 9
+        },
+        {
+            "ticker": " GDP",
+            "count": 8
         },
         {
             "ticker": " SNAP",
@@ -102,10 +106,6 @@
         },
         {
             "ticker": " CLOV",
-            "count": 7
-        },
-        {
-            "ticker": " GDP",
             "count": 7
         },
         {
@@ -374,6 +374,10 @@
         },
         {
             "ticker": " HAPP",
+            "count": 2
+        },
+        {
+            "ticker": " STIC",
             "count": 2
         },
         {
@@ -714,6 +718,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6951,
-    "datetime": "November 02 2021 at 07:17 EST"
+    "num_comments": 7020,
+    "datetime": "November 02 2021 at 08:17 EST"
 }

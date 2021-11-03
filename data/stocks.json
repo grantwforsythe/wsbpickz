@@ -2,23 +2,23 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 111
+            "count": 109
         },
         {
             "ticker": " GME",
-            "count": 106
-        },
-        {
-            "ticker": " AMC",
-            "count": 81
+            "count": 84
         },
         {
             "ticker": " AAPL",
             "count": 59
         },
         {
+            "ticker": " AMC",
+            "count": 57
+        },
+        {
             "ticker": " BBBY",
-            "count": 49
+            "count": 50
         },
         {
             "ticker": " MSFT",
@@ -26,7 +26,7 @@
         },
         {
             "ticker": " AMD",
-            "count": 36
+            "count": 34
         },
         {
             "ticker": " AMZN",
@@ -57,7 +57,7 @@
             "count": 11
         },
         {
-            "ticker": " NVAX",
+            "ticker": " PYPL",
             "count": 10
         },
         {
@@ -69,19 +69,7 @@
             "count": 10
         },
         {
-            "ticker": " RSI",
-            "count": 9
-        },
-        {
-            "ticker": " BNTX",
-            "count": 9
-        },
-        {
             "ticker": " TSM",
-            "count": 9
-        },
-        {
-            "ticker": " PYPL",
             "count": 9
         },
         {
@@ -94,6 +82,14 @@
         },
         {
             "ticker": " MVIS",
+            "count": 8
+        },
+        {
+            "ticker": " RSI",
+            "count": 8
+        },
+        {
+            "ticker": " BNTX",
             "count": 8
         },
         {
@@ -137,16 +133,16 @@
             "count": 6
         },
         {
-            "ticker": " HOOD",
-            "count": 6
-        },
-        {
             "ticker": " SNAP",
             "count": 6
         },
         {
             "ticker": " GDP",
             "count": 6
+        },
+        {
+            "ticker": " NKLA",
+            "count": 5
         },
         {
             "ticker": " TWNK",
@@ -177,24 +173,8 @@
             "count": 5
         },
         {
-            "ticker": " METX",
-            "count": 5
-        },
-        {
-            "ticker": " PHUN",
-            "count": 5
-        },
-        {
             "ticker": " WKHS",
             "count": 5
-        },
-        {
-            "ticker": " UBER",
-            "count": 4
-        },
-        {
-            "ticker": " LEU",
-            "count": 4
         },
         {
             "ticker": " CLF",
@@ -213,7 +193,7 @@
             "count": 4
         },
         {
-            "ticker": " NKLA",
+            "ticker": " HOOD",
             "count": 4
         },
         {
@@ -249,16 +229,12 @@
             "count": 4
         },
         {
-            "ticker": " BBIG",
+            "ticker": " METX",
             "count": 4
         },
         {
-            "ticker": " ETH",
-            "count": 4
-        },
-        {
-            "ticker": " OTLK",
-            "count": 4
+            "ticker": " VLO",
+            "count": 3
         },
         {
             "ticker": " VIE",
@@ -270,6 +246,14 @@
         },
         {
             "ticker": " NAKD",
+            "count": 3
+        },
+        {
+            "ticker": " UBER",
+            "count": 3
+        },
+        {
+            "ticker": " LEU",
             "count": 3
         },
         {
@@ -369,7 +353,19 @@
             "count": 3
         },
         {
-            "ticker": " FCEL",
+            "ticker": " PHUN",
+            "count": 3
+        },
+        {
+            "ticker": " BBIG",
+            "count": 3
+        },
+        {
+            "ticker": " ETH",
+            "count": 3
+        },
+        {
+            "ticker": " OTLK",
             "count": 3
         },
         {
@@ -406,10 +402,6 @@
         },
         {
             "ticker": " SENS",
-            "count": 2
-        },
-        {
-            "ticker": " ACC",
             "count": 2
         },
         {
@@ -705,23 +697,19 @@
             "count": 2
         },
         {
+            "ticker": " FCEL",
+            "count": 2
+        },
+        {
             "ticker": " SLGG",
             "count": 2
         },
         {
             "ticker": " WTRH",
             "count": 2
-        },
-        {
-            "ticker": " CVI",
-            "count": 2
-        },
-        {
-            "ticker": " SNDL",
-            "count": 2
         }
     ],
     "num_posts": 160,
-    "num_comments": 7298,
-    "datetime": "November 03 2021 at 03:17 EST"
+    "num_comments": 7066,
+    "datetime": "November 03 2021 at 04:17 EST"
 }

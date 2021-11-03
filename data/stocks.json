@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 108
+            "count": 107
         },
         {
             "ticker": " GME",
@@ -10,7 +10,7 @@
         },
         {
             "ticker": " AMC",
-            "count": 59
+            "count": 60
         },
         {
             "ticker": " AAPL",
@@ -22,11 +22,11 @@
         },
         {
             "ticker": " MSFT",
-            "count": 38
+            "count": 39
         },
         {
             "ticker": " AMD",
-            "count": 34
+            "count": 35
         },
         {
             "ticker": " AMZN",
@@ -47,10 +47,6 @@
         {
             "ticker": " CRSR",
             "count": 13
-        },
-        {
-            "ticker": " PLTR",
-            "count": 12
         },
         {
             "ticker": " PYPL",
@@ -81,6 +77,10 @@
             "count": 9
         },
         {
+            "ticker": " ROKU",
+            "count": 8
+        },
+        {
             "ticker": " CLOV",
             "count": 8
         },
@@ -97,7 +97,7 @@
             "count": 7
         },
         {
-            "ticker": " ROKU",
+            "ticker": " PLTR",
             "count": 7
         },
         {
@@ -114,10 +114,6 @@
         },
         {
             "ticker": " GOOG",
-            "count": 6
-        },
-        {
-            "ticker": " SAVA",
             "count": 6
         },
         {
@@ -233,15 +229,19 @@
             "count": 4
         },
         {
+            "ticker": " ROOT",
+            "count": 3
+        },
+        {
             "ticker": " VLO",
             "count": 3
         },
         {
-            "ticker": " VIE",
+            "ticker": " SAVA",
             "count": 3
         },
         {
-            "ticker": " SKLZ",
+            "ticker": " VIE",
             "count": 3
         },
         {
@@ -369,6 +369,10 @@
             "count": 3
         },
         {
+            "ticker": " DESP",
+            "count": 2
+        },
+        {
             "ticker": " SCHW",
             "count": 2
         },
@@ -406,10 +410,6 @@
         },
         {
             "ticker": " INMD",
-            "count": 2
-        },
-        {
-            "ticker": " ROOT",
             "count": 2
         },
         {
@@ -718,6 +718,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7111,
-    "datetime": "November 03 2021 at 09:17 EST"
+    "num_comments": 7057,
+    "datetime": "November 03 2021 at 10:17 EST"
 }

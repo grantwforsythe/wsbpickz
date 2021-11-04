@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 101
+            "count": 102
         },
         {
             "ticker": " GME",
-            "count": 78
+            "count": 79
         },
         {
             "ticker": " BBBY",
@@ -38,7 +38,7 @@
         },
         {
             "ticker": " INTC",
-            "count": 15
+            "count": 16
         },
         {
             "ticker": " ROKU",
@@ -54,14 +54,22 @@
         },
         {
             "ticker": " PYPL",
-            "count": 11
+            "count": 12
         },
         {
             "ticker": " PLTR",
-            "count": 9
+            "count": 10
+        },
+        {
+            "ticker": " SOFI",
+            "count": 10
         },
         {
             "ticker": " BNTX",
+            "count": 9
+        },
+        {
+            "ticker": " BGFV",
             "count": 9
         },
         {
@@ -73,11 +81,11 @@
             "count": 9
         },
         {
-            "ticker": " SOFI",
-            "count": 9
+            "ticker": " QCOM",
+            "count": 8
         },
         {
-            "ticker": " QCOM",
+            "ticker": " PINS",
             "count": 8
         },
         {
@@ -93,14 +101,6 @@
             "count": 7
         },
         {
-            "ticker": " BGFV",
-            "count": 7
-        },
-        {
-            "ticker": " NYC",
-            "count": 7
-        },
-        {
             "ticker": " UPST",
             "count": 7
         },
@@ -109,15 +109,15 @@
             "count": 7
         },
         {
-            "ticker": " PINS",
-            "count": 7
-        },
-        {
             "ticker": " MRNA",
             "count": 6
         },
         {
             "ticker": " ETSY",
+            "count": 6
+        },
+        {
+            "ticker": " SNAP",
             "count": 6
         },
         {
@@ -137,11 +137,19 @@
             "count": 6
         },
         {
-            "ticker": " OCGN",
+            "ticker": " NYC",
+            "count": 6
+        },
+        {
+            "ticker": " RKT",
             "count": 5
         },
         {
-            "ticker": " SNAP",
+            "ticker": " HOOD",
+            "count": 5
+        },
+        {
+            "ticker": " OCGN",
             "count": 5
         },
         {
@@ -159,22 +167,6 @@
         {
             "ticker": " CROX",
             "count": 5
-        },
-        {
-            "ticker": " BNGO",
-            "count": 4
-        },
-        {
-            "ticker": " RKT",
-            "count": 4
-        },
-        {
-            "ticker": " ASO",
-            "count": 4
-        },
-        {
-            "ticker": " HOOD",
-            "count": 4
         },
         {
             "ticker": " UBER",
@@ -213,11 +205,15 @@
             "count": 4
         },
         {
-            "ticker": " CRSP",
+            "ticker": " ABNB",
             "count": 3
         },
         {
             "ticker": " RCM",
+            "count": 3
+        },
+        {
+            "ticker": " AUPH",
             "count": 3
         },
         {
@@ -229,11 +225,7 @@
             "count": 3
         },
         {
-            "ticker": " TSCO",
-            "count": 3
-        },
-        {
-            "ticker": " VMC",
+            "ticker": " FCF",
             "count": 3
         },
         {
@@ -281,7 +273,15 @@
             "count": 3
         },
         {
+            "ticker": " BNGO",
+            "count": 3
+        },
+        {
             "ticker": " DKNG",
+            "count": 3
+        },
+        {
+            "ticker": " ASO",
             "count": 3
         },
         {
@@ -345,10 +345,6 @@
             "count": 3
         },
         {
-            "ticker": " CRIS",
-            "count": 2
-        },
-        {
             "ticker": " ETH",
             "count": 2
         },
@@ -366,6 +362,10 @@
         },
         {
             "ticker": " CAT",
+            "count": 2
+        },
+        {
+            "ticker": " CARR",
             "count": 2
         },
         {
@@ -393,11 +393,11 @@
             "count": 2
         },
         {
-            "ticker": " FCF",
+            "ticker": " IRL",
             "count": 2
         },
         {
-            "ticker": " IRL",
+            "ticker": " CASI",
             "count": 2
         },
         {
@@ -413,11 +413,11 @@
             "count": 2
         },
         {
-            "ticker": " SMG",
+            "ticker": " UUUU",
             "count": 2
         },
         {
-            "ticker": " UUUU",
+            "ticker": " SMG",
             "count": 2
         },
         {
@@ -597,10 +597,6 @@
             "count": 2
         },
         {
-            "ticker": " ABNB",
-            "count": 2
-        },
-        {
             "ticker": " REPL",
             "count": 2
         },
@@ -726,6 +722,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6537,
-    "datetime": "November 04 2021 at 03:17 EST"
+    "num_comments": 6650,
+    "datetime": "November 04 2021 at 04:17 EST"
 }

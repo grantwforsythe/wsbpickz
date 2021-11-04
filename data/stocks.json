@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 105
+            "count": 106
         },
         {
             "ticker": " GME",
-            "count": 90
+            "count": 91
         },
         {
             "ticker": " BBBY",
@@ -97,6 +97,10 @@
             "count": 8
         },
         {
+            "ticker": " RKT",
+            "count": 7
+        },
+        {
             "ticker": " BGFV",
             "count": 7
         },
@@ -149,11 +153,15 @@
             "count": 6
         },
         {
-            "ticker": " NYT",
+            "ticker": " DKNG",
             "count": 5
         },
         {
-            "ticker": " RKT",
+            "ticker": " SDC",
+            "count": 5
+        },
+        {
+            "ticker": " NYT",
             "count": 5
         },
         {
@@ -175,10 +183,6 @@
         {
             "ticker": " CROX",
             "count": 5
-        },
-        {
-            "ticker": " SDC",
-            "count": 4
         },
         {
             "ticker": " UBER",
@@ -282,10 +286,6 @@
         },
         {
             "ticker": " BNGO",
-            "count": 3
-        },
-        {
-            "ticker": " DKNG",
             "count": 3
         },
         {
@@ -734,6 +734,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6947,
-    "datetime": "November 04 2021 at 07:17 EST"
+    "num_comments": 6939,
+    "datetime": "November 04 2021 at 08:17 EST"
 }

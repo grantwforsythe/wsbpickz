@@ -58,11 +58,15 @@
         },
         {
             "ticker": " PINS",
-            "count": 10
+            "count": 11
+        },
+        {
+            "ticker": " AMZN",
+            "count": 11
         },
         {
             "ticker": " MRNA",
-            "count": 10
+            "count": 11
         },
         {
             "ticker": " AGC",
@@ -71,10 +75,6 @@
         {
             "ticker": " CRSR",
             "count": 10
-        },
-        {
-            "ticker": " AMZN",
-            "count": 9
         },
         {
             "ticker": " BNTX",
@@ -133,6 +133,14 @@
             "count": 7
         },
         {
+            "ticker": " BABA",
+            "count": 6
+        },
+        {
+            "ticker": " NYC",
+            "count": 6
+        },
+        {
             "ticker": " ROOT",
             "count": 6
         },
@@ -174,14 +182,6 @@
         },
         {
             "ticker": " PDT",
-            "count": 5
-        },
-        {
-            "ticker": " BABA",
-            "count": 5
-        },
-        {
-            "ticker": " NYC",
             "count": 5
         },
         {
@@ -733,11 +733,11 @@
             "count": 2
         },
         {
-            "ticker": " KERN",
+            "ticker": " SHOP",
             "count": 2
         },
         {
-            "ticker": " SHOP",
+            "ticker": " KERN",
             "count": 2
         },
         {
@@ -754,6 +754,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6605,
-    "datetime": "November 05 2021 at 06:17 EST"
+    "num_comments": 6682,
+    "datetime": "November 05 2021 at 07:17 EST"
 }

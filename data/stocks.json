@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 100
+            "count": 99
         },
         {
             "ticker": " NVDA",
@@ -14,27 +14,27 @@
         },
         {
             "ticker": " GME",
-            "count": 66
+            "count": 65
         },
         {
             "ticker": " AMD",
-            "count": 47
+            "count": 46
         },
         {
             "ticker": " PTON",
-            "count": 40
+            "count": 42
         },
         {
             "ticker": " ATVI",
             "count": 29
         },
         {
-            "ticker": " PYPL",
+            "ticker": " AMC",
             "count": 25
         },
         {
-            "ticker": " AMC",
-            "count": 24
+            "ticker": " PYPL",
+            "count": 25
         },
         {
             "ticker": " AAPL",
@@ -47,10 +47,6 @@
         {
             "ticker": " BGFV",
             "count": 18
-        },
-        {
-            "ticker": " PINS",
-            "count": 14
         },
         {
             "ticker": " QCOM",
@@ -70,6 +66,10 @@
         },
         {
             "ticker": " RKT",
+            "count": 12
+        },
+        {
+            "ticker": " PINS",
             "count": 12
         },
         {
@@ -137,6 +137,10 @@
             "count": 7
         },
         {
+            "ticker": " ROOT",
+            "count": 6
+        },
+        {
             "ticker": " CRTX",
             "count": 6
         },
@@ -161,10 +165,6 @@
             "count": 6
         },
         {
-            "ticker": " ROOT",
-            "count": 5
-        },
-        {
             "ticker": " FCF",
             "count": 5
         },
@@ -186,10 +186,6 @@
         },
         {
             "ticker": " PDT",
-            "count": 5
-        },
-        {
-            "ticker": " OCGN",
             "count": 5
         },
         {
@@ -242,6 +238,10 @@
         },
         {
             "ticker": " NKE",
+            "count": 4
+        },
+        {
+            "ticker": " OCGN",
             "count": 4
         },
         {
@@ -353,6 +353,10 @@
             "count": 3
         },
         {
+            "ticker": " STAG",
+            "count": 2
+        },
+        {
             "ticker": " FCEL",
             "count": 2
         },
@@ -366,6 +370,10 @@
         },
         {
             "ticker": " PERI",
+            "count": 2
+        },
+        {
+            "ticker": " FTNT",
             "count": 2
         },
         {
@@ -747,13 +755,9 @@
         {
             "ticker": " STON",
             "count": 2
-        },
-        {
-            "ticker": " LFC",
-            "count": 2
         }
     ],
     "num_posts": 160,
-    "num_comments": 6302,
-    "datetime": "November 05 2021 at 01:57 EST"
+    "num_comments": 6393,
+    "datetime": "November 05 2021 at 02:27 EST"
 }

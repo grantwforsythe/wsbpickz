@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 100
+            "count": 101
         },
         {
             "ticker": " NVDA",
-            "count": 77
+            "count": 78
         },
         {
             "ticker": " BBBY",
@@ -14,7 +14,7 @@
         },
         {
             "ticker": " GME",
-            "count": 65
+            "count": 62
         },
         {
             "ticker": " AMD",
@@ -22,15 +22,15 @@
         },
         {
             "ticker": " AMC",
-            "count": 28
+            "count": 30
         },
         {
             "ticker": " PTON",
-            "count": 28
+            "count": 29
         },
         {
             "ticker": " ATVI",
-            "count": 26
+            "count": 25
         },
         {
             "ticker": " PYPL",
@@ -53,15 +53,11 @@
             "count": 15
         },
         {
-            "ticker": " ROKU",
-            "count": 13
-        },
-        {
             "ticker": " INTC",
             "count": 13
         },
         {
-            "ticker": " DKNG",
+            "ticker": " ROKU",
             "count": 12
         },
         {
@@ -77,10 +73,6 @@
             "count": 10
         },
         {
-            "ticker": " SOFI",
-            "count": 10
-        },
-        {
             "ticker": " AGC",
             "count": 10
         },
@@ -89,11 +81,23 @@
             "count": 10
         },
         {
+            "ticker": " BNTX",
+            "count": 9
+        },
+        {
+            "ticker": " SOFI",
+            "count": 9
+        },
+        {
             "ticker": " RSI",
             "count": 9
         },
         {
-            "ticker": " PENN",
+            "ticker": " DKNG",
+            "count": 8
+        },
+        {
+            "ticker": " SAVA",
             "count": 8
         },
         {
@@ -106,10 +110,6 @@
         },
         {
             "ticker": " SBUX",
-            "count": 8
-        },
-        {
-            "ticker": " BNTX",
             "count": 8
         },
         {
@@ -126,14 +126,6 @@
         },
         {
             "ticker": " DDOG",
-            "count": 7
-        },
-        {
-            "ticker": " NKLA",
-            "count": 7
-        },
-        {
-            "ticker": " SAVA",
             "count": 7
         },
         {
@@ -166,6 +158,10 @@
         },
         {
             "ticker": " UBER",
+            "count": 5
+        },
+        {
+            "ticker": " NKLA",
             "count": 5
         },
         {
@@ -261,7 +257,7 @@
             "count": 3
         },
         {
-            "ticker": " NFLX",
+            "ticker": " PRLB",
             "count": 3
         },
         {
@@ -302,6 +298,10 @@
         },
         {
             "ticker": " MGM",
+            "count": 3
+        },
+        {
+            "ticker": " PENN",
             "count": 3
         },
         {
@@ -369,19 +369,15 @@
             "count": 2
         },
         {
+            "ticker": " NFLX",
+            "count": 2
+        },
+        {
             "ticker": " ETH",
             "count": 2
         },
         {
             "ticker": " XLNX",
-            "count": 2
-        },
-        {
-            "ticker": " WWE",
-            "count": 2
-        },
-        {
-            "ticker": " PERI",
             "count": 2
         },
         {
@@ -754,6 +750,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6547,
-    "datetime": "November 05 2021 at 04:17 EST"
+    "num_comments": 6574,
+    "datetime": "November 05 2021 at 05:17 EST"
 }

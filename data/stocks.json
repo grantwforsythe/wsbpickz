@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 106
+            "count": 108
         },
         {
             "ticker": " NVDA",
-            "count": 92
+            "count": 90
         },
         {
             "ticker": " TSLA",
-            "count": 73
+            "count": 77
         },
         {
             "ticker": " BBBY",
@@ -18,7 +18,7 @@
         },
         {
             "ticker": " AMC",
-            "count": 49
+            "count": 50
         },
         {
             "ticker": " PTON",
@@ -42,11 +42,11 @@
         },
         {
             "ticker": " AAPL",
-            "count": 19
+            "count": 20
         },
         {
             "ticker": " MSFT",
-            "count": 18
+            "count": 19
         },
         {
             "ticker": " QCOM",
@@ -77,16 +77,20 @@
             "count": 13
         },
         {
-            "ticker": " MRNA",
-            "count": 13
-        },
-        {
             "ticker": " AMZN",
             "count": 12
         },
         {
             "ticker": " DDOG",
             "count": 12
+        },
+        {
+            "ticker": " MRNA",
+            "count": 12
+        },
+        {
+            "ticker": " CLF",
+            "count": 11
         },
         {
             "ticker": " PLTR",
@@ -101,11 +105,11 @@
             "count": 10
         },
         {
-            "ticker": " CLF",
-            "count": 9
+            "ticker": " NKLA",
+            "count": 8
         },
         {
-            "ticker": " NKLA",
+            "ticker": " RSI",
             "count": 8
         },
         {
@@ -145,10 +149,6 @@
             "count": 6
         },
         {
-            "ticker": " RSI",
-            "count": 6
-        },
-        {
             "ticker": " DKS",
             "count": 6
         },
@@ -163,6 +163,10 @@
         {
             "ticker": " JPM",
             "count": 6
+        },
+        {
+            "ticker": " BNTX",
+            "count": 5
         },
         {
             "ticker": " MVIS",
@@ -197,7 +201,7 @@
             "count": 5
         },
         {
-            "ticker": " BNTX",
+            "ticker": " CAT",
             "count": 4
         },
         {
@@ -279,10 +283,6 @@
         {
             "ticker": " BMRA",
             "count": 4
-        },
-        {
-            "ticker": " CAT",
-            "count": 3
         },
         {
             "ticker": " TLRY",
@@ -389,7 +389,15 @@
             "count": 3
         },
         {
+            "ticker": " BLNK",
+            "count": 2
+        },
+        {
             "ticker": " FCEL",
+            "count": 2
+        },
+        {
+            "ticker": " CMC",
             "count": 2
         },
         {
@@ -421,7 +429,7 @@
             "count": 2
         },
         {
-            "ticker": " DAC",
+            "ticker": " LULU",
             "count": 2
         },
         {
@@ -814,6 +822,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7587,
-    "datetime": "November 06 2021 at 05:16 EST"
+    "num_comments": 7793,
+    "datetime": "November 06 2021 at 06:17 EST"
 }

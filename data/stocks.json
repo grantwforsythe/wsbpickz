@@ -2,23 +2,23 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 100
+            "count": 106
         },
         {
             "ticker": " NVDA",
             "count": 92
         },
         {
-            "ticker": " BBBY",
-            "count": 69
+            "ticker": " TSLA",
+            "count": 73
         },
         {
-            "ticker": " TSLA",
-            "count": 67
+            "ticker": " BBBY",
+            "count": 70
         },
         {
             "ticker": " AMC",
-            "count": 48
+            "count": 49
         },
         {
             "ticker": " PTON",
@@ -42,11 +42,11 @@
         },
         {
             "ticker": " AAPL",
-            "count": 20
+            "count": 19
         },
         {
             "ticker": " MSFT",
-            "count": 19
+            "count": 18
         },
         {
             "ticker": " QCOM",
@@ -65,7 +65,7 @@
             "count": 15
         },
         {
-            "ticker": " SDC",
+            "ticker": " INTC",
             "count": 14
         },
         {
@@ -73,19 +73,23 @@
             "count": 13
         },
         {
+            "ticker": " SDC",
+            "count": 13
+        },
+        {
             "ticker": " MRNA",
             "count": 13
         },
         {
-            "ticker": " INTC",
-            "count": 13
+            "ticker": " AMZN",
+            "count": 12
         },
         {
             "ticker": " DDOG",
             "count": 12
         },
         {
-            "ticker": " AMZN",
+            "ticker": " PLTR",
             "count": 11
         },
         {
@@ -97,15 +101,11 @@
             "count": 10
         },
         {
-            "ticker": " PLTR",
+            "ticker": " CLF",
             "count": 9
         },
         {
             "ticker": " NKLA",
-            "count": 8
-        },
-        {
-            "ticker": " CLF",
             "count": 8
         },
         {
@@ -118,6 +118,10 @@
         },
         {
             "ticker": " BABA",
+            "count": 7
+        },
+        {
+            "ticker": " DIS",
             "count": 7
         },
         {
@@ -153,10 +157,6 @@
             "count": 6
         },
         {
-            "ticker": " DIS",
-            "count": 6
-        },
-        {
             "ticker": " VALE",
             "count": 6
         },
@@ -165,7 +165,7 @@
             "count": 6
         },
         {
-            "ticker": " SOFI",
+            "ticker": " MVIS",
             "count": 5
         },
         {
@@ -213,11 +213,7 @@
             "count": 4
         },
         {
-            "ticker": " TLRY",
-            "count": 4
-        },
-        {
-            "ticker": " ENPH",
+            "ticker": " SOFI",
             "count": 4
         },
         {
@@ -277,16 +273,20 @@
             "count": 4
         },
         {
-            "ticker": " MVIS",
-            "count": 4
-        },
-        {
             "ticker": " ABBV",
             "count": 4
         },
         {
             "ticker": " BMRA",
             "count": 4
+        },
+        {
+            "ticker": " CAT",
+            "count": 3
+        },
+        {
+            "ticker": " TLRY",
+            "count": 3
         },
         {
             "ticker": " HIMX",
@@ -298,6 +298,10 @@
         },
         {
             "ticker": " BMRN",
+            "count": 3
+        },
+        {
+            "ticker": " ZNGA",
             "count": 3
         },
         {
@@ -385,7 +389,15 @@
             "count": 3
         },
         {
-            "ticker": " XOM",
+            "ticker": " FCEL",
+            "count": 2
+        },
+        {
+            "ticker": " NUE",
+            "count": 2
+        },
+        {
+            "ticker": " MTZ",
             "count": 2
         },
         {
@@ -433,6 +445,10 @@
             "count": 2
         },
         {
+            "ticker": " ENPH",
+            "count": 2
+        },
+        {
             "ticker": " TDOC",
             "count": 2
         },
@@ -442,10 +458,6 @@
         },
         {
             "ticker": " ELY",
-            "count": 2
-        },
-        {
-            "ticker": " ZNGA",
             "count": 2
         },
         {
@@ -590,10 +602,6 @@
         },
         {
             "ticker": " CARR",
-            "count": 2
-        },
-        {
-            "ticker": " CAT",
             "count": 2
         },
         {
@@ -806,6 +814,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7369,
-    "datetime": "November 06 2021 at 04:17 EST"
+    "num_comments": 7587,
+    "datetime": "November 06 2021 at 05:16 EST"
 }

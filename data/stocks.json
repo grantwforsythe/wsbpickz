@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 100
+            "count": 102
         },
         {
             "ticker": " NVDA",
@@ -26,7 +26,7 @@
         },
         {
             "ticker": " AMD",
-            "count": 40
+            "count": 41
         },
         {
             "ticker": " PYPL",
@@ -38,7 +38,7 @@
         },
         {
             "ticker": " SAVA",
-            "count": 23
+            "count": 22
         },
         {
             "ticker": " AAPL",
@@ -61,8 +61,12 @@
             "count": 17
         },
         {
+            "ticker": " INTC",
+            "count": 16
+        },
+        {
             "ticker": " CLF",
-            "count": 15
+            "count": 16
         },
         {
             "ticker": " DKNG",
@@ -73,19 +77,11 @@
             "count": 14
         },
         {
-            "ticker": " INTC",
-            "count": 14
-        },
-        {
-            "ticker": " RKT",
-            "count": 13
-        },
-        {
             "ticker": " SDC",
             "count": 13
         },
         {
-            "ticker": " AMZN",
+            "ticker": " RKT",
             "count": 12
         },
         {
@@ -94,6 +90,10 @@
         },
         {
             "ticker": " PLTR",
+            "count": 11
+        },
+        {
+            "ticker": " AMZN",
             "count": 11
         },
         {
@@ -165,10 +165,6 @@
             "count": 6
         },
         {
-            "ticker": " CLOV",
-            "count": 5
-        },
-        {
             "ticker": " POSH",
             "count": 5
         },
@@ -197,6 +193,10 @@
             "count": 5
         },
         {
+            "ticker": " AAL",
+            "count": 4
+        },
+        {
             "ticker": " CAT",
             "count": 4
         },
@@ -214,6 +214,10 @@
         },
         {
             "ticker": " SOFI",
+            "count": 4
+        },
+        {
+            "ticker": " CLOV",
             "count": 4
         },
         {
@@ -309,6 +313,10 @@
             "count": 3
         },
         {
+            "ticker": " ABNB",
+            "count": 3
+        },
+        {
             "ticker": " ZNGA",
             "count": 3
         },
@@ -346,10 +354,6 @@
         },
         {
             "ticker": " LSPD",
-            "count": 3
-        },
-        {
-            "ticker": " AAL",
             "count": 3
         },
         {
@@ -395,6 +399,14 @@
         {
             "ticker": " ASO",
             "count": 3
+        },
+        {
+            "ticker": " TRT",
+            "count": 2
+        },
+        {
+            "ticker": " EIX",
+            "count": 2
         },
         {
             "ticker": " BIF",
@@ -454,10 +466,6 @@
         },
         {
             "ticker": " ALGN",
-            "count": 2
-        },
-        {
-            "ticker": " GNUS",
             "count": 2
         },
         {
@@ -550,10 +558,6 @@
         },
         {
             "ticker": " CLNE",
-            "count": 2
-        },
-        {
-            "ticker": " ABNB",
             "count": 2
         },
         {
@@ -826,6 +830,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7910,
-    "datetime": "November 06 2021 at 11:15 EST"
+    "num_comments": 7947,
+    "datetime": "November 06 2021 at 12:17 EST"
 }

@@ -1,12 +1,12 @@
 {
     "stocks": [
         {
-            "ticker": " NVDA",
-            "count": 88
+            "ticker": " GME",
+            "count": 91
         },
         {
-            "ticker": " GME",
-            "count": 84
+            "ticker": " NVDA",
+            "count": 89
         },
         {
             "ticker": " BBBY",
@@ -17,12 +17,12 @@
             "count": 63
         },
         {
-            "ticker": " PTON",
-            "count": 44
+            "ticker": " AMC",
+            "count": 45
         },
         {
-            "ticker": " AMC",
-            "count": 43
+            "ticker": " PTON",
+            "count": 44
         },
         {
             "ticker": " AMD",
@@ -41,28 +41,32 @@
             "count": 21
         },
         {
-            "ticker": " QCOM",
+            "ticker": " AAPL",
             "count": 18
         },
         {
             "ticker": " PFE",
-            "count": 17
+            "count": 18
         },
         {
             "ticker": " MSFT",
-            "count": 17
+            "count": 18
         },
         {
-            "ticker": " AAPL",
-            "count": 16
+            "ticker": " QCOM",
+            "count": 18
+        },
+        {
+            "ticker": " SAVA",
+            "count": 17
         },
         {
             "ticker": " DKNG",
             "count": 15
         },
         {
-            "ticker": " SAVA",
-            "count": 15
+            "ticker": " RKT",
+            "count": 13
         },
         {
             "ticker": " MRNA",
@@ -73,15 +77,15 @@
             "count": 13
         },
         {
+            "ticker": " SDC",
+            "count": 12
+        },
+        {
             "ticker": " DDOG",
             "count": 12
         },
         {
-            "ticker": " RKT",
-            "count": 11
-        },
-        {
-            "ticker": " SDC",
+            "ticker": " AMZN",
             "count": 10
         },
         {
@@ -91,10 +95,6 @@
         {
             "ticker": " PINS",
             "count": 10
-        },
-        {
-            "ticker": " AMZN",
-            "count": 9
         },
         {
             "ticker": " PLTR",
@@ -117,6 +117,10 @@
             "count": 8
         },
         {
+            "ticker": " BABA",
+            "count": 7
+        },
+        {
             "ticker": " LEU",
             "count": 7
         },
@@ -131,6 +135,10 @@
         {
             "ticker": " ETSY",
             "count": 7
+        },
+        {
+            "ticker": " CLOV",
+            "count": 6
         },
         {
             "ticker": " RSI",
@@ -153,12 +161,16 @@
             "count": 6
         },
         {
-            "ticker": " BABA",
+            "ticker": " JPM",
             "count": 6
         },
         {
-            "ticker": " JPM",
-            "count": 6
+            "ticker": " TLRY",
+            "count": 5
+        },
+        {
+            "ticker": " SOFI",
+            "count": 5
         },
         {
             "ticker": " POSH",
@@ -197,11 +209,7 @@
             "count": 4
         },
         {
-            "ticker": " SOFI",
-            "count": 4
-        },
-        {
-            "ticker": " CLOV",
+            "ticker": " PROG",
             "count": 4
         },
         {
@@ -275,14 +283,6 @@
         {
             "ticker": " BMRA",
             "count": 4
-        },
-        {
-            "ticker": " PROG",
-            "count": 3
-        },
-        {
-            "ticker": " TLRY",
-            "count": 3
         },
         {
             "ticker": " BMRN",
@@ -390,6 +390,10 @@
         },
         {
             "ticker": " MAR",
+            "count": 2
+        },
+        {
+            "ticker": " KTOS",
             "count": 2
         },
         {
@@ -794,6 +798,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6876,
-    "datetime": "November 06 2021 at 02:27 EST"
+    "num_comments": 7184,
+    "datetime": "November 06 2021 at 03:17 EST"
 }

@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 108
+            "count": 95
         },
         {
             "ticker": " NVDA",
@@ -10,7 +10,7 @@
         },
         {
             "ticker": " TSLA",
-            "count": 77
+            "count": 76
         },
         {
             "ticker": " BBBY",
@@ -18,7 +18,7 @@
         },
         {
             "ticker": " AMC",
-            "count": 50
+            "count": 45
         },
         {
             "ticker": " PTON",
@@ -35,6 +35,10 @@
         {
             "ticker": " ATVI",
             "count": 27
+        },
+        {
+            "ticker": " SAVA",
+            "count": 23
         },
         {
             "ticker": " BGFV",
@@ -55,10 +59,6 @@
         {
             "ticker": " PFE",
             "count": 17
-        },
-        {
-            "ticker": " SAVA",
-            "count": 16
         },
         {
             "ticker": " DKNG",
@@ -89,12 +89,12 @@
             "count": 12
         },
         {
-            "ticker": " CLF",
+            "ticker": " PLTR",
             "count": 11
         },
         {
-            "ticker": " PLTR",
-            "count": 11
+            "ticker": " CLF",
+            "count": 10
         },
         {
             "ticker": " ROKU",
@@ -106,7 +106,7 @@
         },
         {
             "ticker": " NKLA",
-            "count": 8
+            "count": 9
         },
         {
             "ticker": " RSI",
@@ -145,10 +145,6 @@
             "count": 7
         },
         {
-            "ticker": " CLOV",
-            "count": 6
-        },
-        {
             "ticker": " DKS",
             "count": 6
         },
@@ -165,11 +161,15 @@
             "count": 6
         },
         {
+            "ticker": " CAT",
+            "count": 5
+        },
+        {
             "ticker": " BNTX",
             "count": 5
         },
         {
-            "ticker": " MVIS",
+            "ticker": " CLOV",
             "count": 5
         },
         {
@@ -201,7 +201,7 @@
             "count": 5
         },
         {
-            "ticker": " CAT",
+            "ticker": " DTE",
             "count": 4
         },
         {
@@ -222,6 +222,10 @@
         },
         {
             "ticker": " LAC",
+            "count": 4
+        },
+        {
+            "ticker": " NYC",
             "count": 4
         },
         {
@@ -277,6 +281,10 @@
             "count": 4
         },
         {
+            "ticker": " MVIS",
+            "count": 4
+        },
+        {
             "ticker": " ABBV",
             "count": 4
         },
@@ -285,15 +293,19 @@
             "count": 4
         },
         {
+            "ticker": " STC",
+            "count": 3
+        },
+        {
             "ticker": " TLRY",
             "count": 3
         },
         {
-            "ticker": " HIMX",
+            "ticker": " MARA",
             "count": 3
         },
         {
-            "ticker": " IRL",
+            "ticker": " HIMX",
             "count": 3
         },
         {
@@ -377,10 +389,6 @@
             "count": 3
         },
         {
-            "ticker": " NYC",
-            "count": 3
-        },
-        {
             "ticker": " BNGO",
             "count": 3
         },
@@ -425,10 +433,6 @@
             "count": 2
         },
         {
-            "ticker": " MARA",
-            "count": 2
-        },
-        {
             "ticker": " LULU",
             "count": 2
         },
@@ -442,14 +446,6 @@
         },
         {
             "ticker": " GNUS",
-            "count": 2
-        },
-        {
-            "ticker": " VLDR",
-            "count": 2
-        },
-        {
-            "ticker": " CCJ",
             "count": 2
         },
         {
@@ -637,6 +633,10 @@
             "count": 2
         },
         {
+            "ticker": " IRL",
+            "count": 2
+        },
+        {
             "ticker": " VNE",
             "count": 2
         },
@@ -662,10 +662,6 @@
         },
         {
             "ticker": " LYFT",
-            "count": 2
-        },
-        {
-            "ticker": " STC",
             "count": 2
         },
         {
@@ -822,6 +818,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7793,
-    "datetime": "November 06 2021 at 06:17 EST"
+    "num_comments": 7691,
+    "datetime": "November 06 2021 at 07:17 EST"
 }

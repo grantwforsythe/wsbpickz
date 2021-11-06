@@ -2,19 +2,19 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 102
+            "count": 103
         },
         {
             "ticker": " NVDA",
-            "count": 90
+            "count": 89
         },
         {
             "ticker": " TSLA",
-            "count": 78
+            "count": 79
         },
         {
             "ticker": " BBBY",
-            "count": 70
+            "count": 71
         },
         {
             "ticker": " AMC",
@@ -22,11 +22,11 @@
         },
         {
             "ticker": " PTON",
-            "count": 45
+            "count": 43
         },
         {
             "ticker": " AMD",
-            "count": 41
+            "count": 35
         },
         {
             "ticker": " PYPL",
@@ -41,12 +41,12 @@
             "count": 22
         },
         {
-            "ticker": " AAPL",
+            "ticker": " BGFV",
             "count": 21
         },
         {
-            "ticker": " BGFV",
-            "count": 21
+            "ticker": " AAPL",
+            "count": 20
         },
         {
             "ticker": " MSFT",
@@ -59,10 +59,6 @@
         {
             "ticker": " PFE",
             "count": 17
-        },
-        {
-            "ticker": " INTC",
-            "count": 16
         },
         {
             "ticker": " CLF",
@@ -89,6 +85,10 @@
             "count": 12
         },
         {
+            "ticker": " INTC",
+            "count": 11
+        },
+        {
             "ticker": " PLTR",
             "count": 11
         },
@@ -97,16 +97,16 @@
             "count": 11
         },
         {
+            "ticker": " NKLA",
+            "count": 10
+        },
+        {
             "ticker": " ROKU",
             "count": 10
         },
         {
             "ticker": " PINS",
             "count": 10
-        },
-        {
-            "ticker": " NKLA",
-            "count": 9
         },
         {
             "ticker": " RSI",
@@ -129,15 +129,7 @@
             "count": 7
         },
         {
-            "ticker": " AGC",
-            "count": 7
-        },
-        {
             "ticker": " TWNK",
-            "count": 7
-        },
-        {
-            "ticker": " TSM",
             "count": 7
         },
         {
@@ -157,12 +149,24 @@
             "count": 6
         },
         {
+            "ticker": " AGC",
+            "count": 6
+        },
+        {
             "ticker": " VALE",
             "count": 6
         },
         {
             "ticker": " JPM",
             "count": 6
+        },
+        {
+            "ticker": " TSM",
+            "count": 6
+        },
+        {
+            "ticker": " CAT",
+            "count": 5
         },
         {
             "ticker": " POSH",
@@ -193,11 +197,11 @@
             "count": 5
         },
         {
-            "ticker": " AAL",
+            "ticker": " NUE",
             "count": 4
         },
         {
-            "ticker": " CAT",
+            "ticker": " AAL",
             "count": 4
         },
         {
@@ -294,10 +298,6 @@
         },
         {
             "ticker": " STC",
-            "count": 3
-        },
-        {
-            "ticker": " NUE",
             "count": 3
         },
         {
@@ -405,11 +405,27 @@
             "count": 2
         },
         {
+            "ticker": " DVD",
+            "count": 2
+        },
+        {
+            "ticker": " STPK",
+            "count": 2
+        },
+        {
+            "ticker": " FCX",
+            "count": 2
+        },
+        {
             "ticker": " EIX",
             "count": 2
         },
         {
             "ticker": " BIF",
+            "count": 2
+        },
+        {
+            "ticker": " CHGG",
             "count": 2
         },
         {
@@ -426,10 +442,6 @@
         },
         {
             "ticker": " NIO",
-            "count": 2
-        },
-        {
-            "ticker": " DTE",
             "count": 2
         },
         {
@@ -785,10 +797,6 @@
             "count": 2
         },
         {
-            "ticker": " ARC",
-            "count": 2
-        },
-        {
             "ticker": " MSM",
             "count": 2
         },
@@ -830,6 +838,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7947,
-    "datetime": "November 06 2021 at 12:17 EST"
+    "num_comments": 8091,
+    "datetime": "November 06 2021 at 13:17 EST"
 }

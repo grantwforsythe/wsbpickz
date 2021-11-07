@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 163
+            "count": 167
         },
         {
             "ticker": " NVDA",
@@ -10,7 +10,7 @@
         },
         {
             "ticker": " GME",
-            "count": 80
+            "count": 82
         },
         {
             "ticker": " BBBY",
@@ -113,6 +113,10 @@
             "count": 8
         },
         {
+            "ticker": " RSI",
+            "count": 7
+        },
+        {
             "ticker": " VALE",
             "count": 7
         },
@@ -134,10 +138,6 @@
         },
         {
             "ticker": " MVIS",
-            "count": 6
-        },
-        {
-            "ticker": " RSI",
             "count": 6
         },
         {
@@ -814,6 +814,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8568,
-    "datetime": "November 07 2021 at 09:17 EST"
+    "num_comments": 8640,
+    "datetime": "November 07 2021 at 10:17 EST"
 }

@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 133
+            "count": 140
         },
         {
             "ticker": " NVDA",
@@ -30,7 +30,7 @@
         },
         {
             "ticker": " AMD",
-            "count": 28
+            "count": 29
         },
         {
             "ticker": " ATVI",
@@ -42,7 +42,7 @@
         },
         {
             "ticker": " AAPL",
-            "count": 20
+            "count": 19
         },
         {
             "ticker": " QCOM",
@@ -73,6 +73,10 @@
             "count": 11
         },
         {
+            "ticker": " PLTR",
+            "count": 10
+        },
+        {
             "ticker": " RKT",
             "count": 10
         },
@@ -85,12 +89,12 @@
             "count": 10
         },
         {
-            "ticker": " AMZN",
+            "ticker": " NYC",
             "count": 9
         },
         {
-            "ticker": " NYC",
-            "count": 9
+            "ticker": " AMZN",
+            "count": 8
         },
         {
             "ticker": " NKLA",
@@ -142,10 +146,6 @@
         },
         {
             "ticker": " DIS",
-            "count": 6
-        },
-        {
-            "ticker": " PLTR",
             "count": 6
         },
         {
@@ -333,10 +333,6 @@
             "count": 3
         },
         {
-            "ticker": " BAC",
-            "count": 3
-        },
-        {
             "ticker": " MRK",
             "count": 3
         },
@@ -470,6 +466,10 @@
         },
         {
             "ticker": " SABR",
+            "count": 2
+        },
+        {
+            "ticker": " BAC",
             "count": 2
         },
         {
@@ -794,6 +794,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7670,
-    "datetime": "November 07 2021 at 02:35 EST"
+    "num_comments": 7845,
+    "datetime": "November 07 2021 at 03:17 EST"
 }

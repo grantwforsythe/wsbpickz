@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 130
+            "count": 136
         },
         {
             "ticker": " NVDA",
@@ -10,7 +10,7 @@
         },
         {
             "ticker": " GME",
-            "count": 86
+            "count": 85
         },
         {
             "ticker": " BBBY",
@@ -22,7 +22,7 @@
         },
         {
             "ticker": " PTON",
-            "count": 41
+            "count": 42
         },
         {
             "ticker": " PYPL",
@@ -69,6 +69,10 @@
             "count": 12
         },
         {
+            "ticker": " PINS",
+            "count": 11
+        },
+        {
             "ticker": " DDOG",
             "count": 11
         },
@@ -81,8 +85,8 @@
             "count": 10
         },
         {
-            "ticker": " PINS",
-            "count": 10
+            "ticker": " NKLA",
+            "count": 9
         },
         {
             "ticker": " NYC",
@@ -94,10 +98,6 @@
         },
         {
             "ticker": " AMZN",
-            "count": 8
-        },
-        {
-            "ticker": " NKLA",
             "count": 8
         },
         {
@@ -131,10 +131,6 @@
         {
             "ticker": " ETSY",
             "count": 7
-        },
-        {
-            "ticker": " PDT",
-            "count": 6
         },
         {
             "ticker": " MVIS",
@@ -213,8 +209,16 @@
             "count": 5
         },
         {
+            "ticker": " PDT",
+            "count": 5
+        },
+        {
             "ticker": " BMO",
             "count": 5
+        },
+        {
+            "ticker": " NIO",
+            "count": 4
         },
         {
             "ticker": " OCGN",
@@ -226,6 +230,10 @@
         },
         {
             "ticker": " LAC",
+            "count": 4
+        },
+        {
+            "ticker": " BNTX",
             "count": 4
         },
         {
@@ -290,10 +298,6 @@
         },
         {
             "ticker": " HIMX",
-            "count": 3
-        },
-        {
-            "ticker": " NIO",
             "count": 3
         },
         {
@@ -398,10 +402,6 @@
         },
         {
             "ticker": " WKHS",
-            "count": 3
-        },
-        {
-            "ticker": " BNTX",
             "count": 3
         },
         {
@@ -810,6 +810,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7653,
-    "datetime": "November 07 2021 at 12:17 EST"
+    "num_comments": 7873,
+    "datetime": "November 07 2021 at 13:17 EST"
 }

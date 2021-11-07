@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 140
+            "count": 123
         },
         {
             "ticker": " NVDA",
@@ -10,7 +10,7 @@
         },
         {
             "ticker": " GME",
-            "count": 73
+            "count": 74
         },
         {
             "ticker": " BBBY",
@@ -18,11 +18,11 @@
         },
         {
             "ticker": " AMC",
-            "count": 47
+            "count": 48
         },
         {
             "ticker": " PTON",
-            "count": 41
+            "count": 42
         },
         {
             "ticker": " PYPL",
@@ -50,7 +50,7 @@
         },
         {
             "ticker": " PFE",
-            "count": 16
+            "count": 17
         },
         {
             "ticker": " DKNG",
@@ -69,12 +69,12 @@
             "count": 12
         },
         {
-            "ticker": " DDOG",
+            "ticker": " PINS",
             "count": 11
         },
         {
-            "ticker": " PLTR",
-            "count": 10
+            "ticker": " DDOG",
+            "count": 11
         },
         {
             "ticker": " RKT",
@@ -85,19 +85,19 @@
             "count": 10
         },
         {
-            "ticker": " PINS",
-            "count": 10
+            "ticker": " NKLA",
+            "count": 9
         },
         {
             "ticker": " NYC",
             "count": 9
         },
         {
-            "ticker": " AMZN",
+            "ticker": " CLOV",
             "count": 8
         },
         {
-            "ticker": " NKLA",
+            "ticker": " AMZN",
             "count": 8
         },
         {
@@ -111,10 +111,6 @@
         {
             "ticker": " SKLZ",
             "count": 8
-        },
-        {
-            "ticker": " CLOV",
-            "count": 7
         },
         {
             "ticker": " VALE",
@@ -137,6 +133,14 @@
             "count": 7
         },
         {
+            "ticker": " MVIS",
+            "count": 6
+        },
+        {
+            "ticker": " RSI",
+            "count": 6
+        },
+        {
             "ticker": " DKS",
             "count": 6
         },
@@ -146,6 +150,10 @@
         },
         {
             "ticker": " DIS",
+            "count": 6
+        },
+        {
+            "ticker": " PLTR",
             "count": 6
         },
         {
@@ -205,10 +213,6 @@
             "count": 5
         },
         {
-            "ticker": " RSI",
-            "count": 5
-        },
-        {
             "ticker": " BNTX",
             "count": 4
         },
@@ -222,10 +226,6 @@
         },
         {
             "ticker": " LAC",
-            "count": 4
-        },
-        {
-            "ticker": " AFRM",
             "count": 4
         },
         {
@@ -281,10 +281,6 @@
             "count": 4
         },
         {
-            "ticker": " MVIS",
-            "count": 4
-        },
-        {
             "ticker": " ABBV",
             "count": 4
         },
@@ -294,6 +290,26 @@
         },
         {
             "ticker": " DVD",
+            "count": 3
+        },
+        {
+            "ticker": " DTE",
+            "count": 3
+        },
+        {
+            "ticker": " NAK",
+            "count": 3
+        },
+        {
+            "ticker": " CEMI",
+            "count": 3
+        },
+        {
+            "ticker": " CSCW",
+            "count": 3
+        },
+        {
+            "ticker": " FAMI",
             "count": 3
         },
         {
@@ -361,6 +377,10 @@
             "count": 3
         },
         {
+            "ticker": " AFRM",
+            "count": 3
+        },
+        {
             "ticker": " HST",
             "count": 3
         },
@@ -401,15 +421,11 @@
             "count": 2
         },
         {
-            "ticker": " DTE",
-            "count": 2
-        },
-        {
             "ticker": " STON",
             "count": 2
         },
         {
-            "ticker": " NNN",
+            "ticker": " GES",
             "count": 2
         },
         {
@@ -794,6 +810,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7845,
-    "datetime": "November 07 2021 at 03:17 EST"
+    "num_comments": 7628,
+    "datetime": "November 07 2021 at 04:17 EST"
 }

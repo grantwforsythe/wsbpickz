@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 128
+            "count": 134
         },
         {
             "ticker": " NVDA",
-            "count": 91
+            "count": 89
         },
         {
             "ticker": " GME",
-            "count": 61
+            "count": 59
         },
         {
             "ticker": " AMC",
@@ -30,7 +30,7 @@
         },
         {
             "ticker": " BBBY",
-            "count": 24
+            "count": 25
         },
         {
             "ticker": " BGFV",
@@ -73,15 +73,15 @@
             "count": 13
         },
         {
-            "ticker": " PINS",
-            "count": 11
-        },
-        {
             "ticker": " SOFI",
             "count": 10
         },
         {
             "ticker": " NIO",
+            "count": 10
+        },
+        {
+            "ticker": " PINS",
             "count": 10
         },
         {
@@ -233,10 +233,6 @@
             "count": 4
         },
         {
-            "ticker": " CASI",
-            "count": 4
-        },
-        {
             "ticker": " AUPH",
             "count": 4
         },
@@ -291,6 +287,10 @@
         {
             "ticker": " BMRA",
             "count": 4
+        },
+        {
+            "ticker": " GDP",
+            "count": 3
         },
         {
             "ticker": " CVE",
@@ -393,6 +393,10 @@
             "count": 3
         },
         {
+            "ticker": " CASI",
+            "count": 3
+        },
+        {
             "ticker": " MRK",
             "count": 3
         },
@@ -463,10 +467,6 @@
         {
             "ticker": " HYLN",
             "count": 3
-        },
-        {
-            "ticker": " GDP",
-            "count": 2
         },
         {
             "ticker": " GENE",
@@ -850,6 +850,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8703,
-    "datetime": "November 08 2021 at 07:17 EST"
+    "num_comments": 8842,
+    "datetime": "November 08 2021 at 08:17 EST"
 }

@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 123
+            "count": 128
         },
         {
             "ticker": " NVDA",
-            "count": 88
+            "count": 91
         },
         {
             "ticker": " GME",
-            "count": 63
+            "count": 61
         },
         {
             "ticker": " AMC",
@@ -18,7 +18,7 @@
         },
         {
             "ticker": " PTON",
-            "count": 44
+            "count": 43
         },
         {
             "ticker": " PYPL",
@@ -54,11 +54,15 @@
         },
         {
             "ticker": " PFE",
-            "count": 14
+            "count": 15
         },
         {
             "ticker": " MSFT",
             "count": 14
+        },
+        {
+            "ticker": " MARA",
+            "count": 13
         },
         {
             "ticker": " MRNA",
@@ -67,10 +71,6 @@
         {
             "ticker": " ATVI",
             "count": 13
-        },
-        {
-            "ticker": " MARA",
-            "count": 12
         },
         {
             "ticker": " PINS",
@@ -113,7 +113,15 @@
             "count": 9
         },
         {
+            "ticker": " PLTR",
+            "count": 8
+        },
+        {
             "ticker": " BABA",
+            "count": 8
+        },
+        {
+            "ticker": " DKS",
             "count": 8
         },
         {
@@ -121,32 +129,20 @@
             "count": 8
         },
         {
+            "ticker": " AGC",
+            "count": 8
+        },
+        {
             "ticker": " SKLZ",
             "count": 8
         },
         {
+            "ticker": " MVIS",
+            "count": 7
+        },
+        {
             "ticker": " DIS",
             "count": 7
-        },
-        {
-            "ticker": " PLTR",
-            "count": 7
-        },
-        {
-            "ticker": " LEU",
-            "count": 7
-        },
-        {
-            "ticker": " AGC",
-            "count": 7
-        },
-        {
-            "ticker": " DKS",
-            "count": 7
-        },
-        {
-            "ticker": " MVIS",
-            "count": 6
         },
         {
             "ticker": " HOOD",
@@ -158,6 +154,10 @@
         },
         {
             "ticker": " GOOG",
+            "count": 6
+        },
+        {
+            "ticker": " LEU",
             "count": 6
         },
         {
@@ -222,10 +222,6 @@
         },
         {
             "ticker": " PENN",
-            "count": 4
-        },
-        {
-            "ticker": " CLOV",
             "count": 4
         },
         {
@@ -314,6 +310,10 @@
         },
         {
             "ticker": " BYD",
+            "count": 3
+        },
+        {
+            "ticker": " CLOV",
             "count": 3
         },
         {
@@ -850,6 +850,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8534,
-    "datetime": "November 08 2021 at 06:17 EST"
+    "num_comments": 8703,
+    "datetime": "November 08 2021 at 07:17 EST"
 }

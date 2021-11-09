@@ -2,19 +2,19 @@
     "stocks": [
         {
             "ticker": " NVDA",
-            "count": 113
+            "count": 115
         },
         {
             "ticker": " TSLA",
-            "count": 98
+            "count": 102
         },
         {
             "ticker": " PYPL",
-            "count": 85
+            "count": 89
         },
         {
             "ticker": " AMD",
-            "count": 69
+            "count": 68
         },
         {
             "ticker": " PTON",
@@ -22,19 +22,19 @@
         },
         {
             "ticker": " AMC",
-            "count": 35
+            "count": 37
         },
         {
             "ticker": " PLTR",
-            "count": 30
-        },
-        {
-            "ticker": " GME",
-            "count": 25
+            "count": 28
         },
         {
             "ticker": " AGC",
-            "count": 17
+            "count": 24
+        },
+        {
+            "ticker": " GME",
+            "count": 24
         },
         {
             "ticker": " BGFV",
@@ -66,10 +66,14 @@
         },
         {
             "ticker": " NAKD",
-            "count": 13
+            "count": 12
         },
         {
             "ticker": " SDC",
+            "count": 11
+        },
+        {
+            "ticker": " LEU",
             "count": 11
         },
         {
@@ -81,19 +85,11 @@
             "count": 10
         },
         {
-            "ticker": " LEU",
-            "count": 10
-        },
-        {
             "ticker": " DIS",
             "count": 9
         },
         {
             "ticker": " ZNGA",
-            "count": 9
-        },
-        {
-            "ticker": " WYNN",
             "count": 9
         },
         {
@@ -125,15 +121,11 @@
             "count": 8
         },
         {
-            "ticker": " AMRS",
-            "count": 7
+            "ticker": " WYNN",
+            "count": 8
         },
         {
             "ticker": " ATVI",
-            "count": 7
-        },
-        {
-            "ticker": " AFRM",
             "count": 7
         },
         {
@@ -141,7 +133,7 @@
             "count": 7
         },
         {
-            "ticker": " MARA",
+            "ticker": " AFRM",
             "count": 7
         },
         {
@@ -165,11 +157,19 @@
             "count": 7
         },
         {
+            "ticker": " BABA",
+            "count": 6
+        },
+        {
             "ticker": " GOOG",
             "count": 6
         },
         {
             "ticker": " PERI",
+            "count": 6
+        },
+        {
+            "ticker": " AMRS",
             "count": 6
         },
         {
@@ -187,6 +187,14 @@
         {
             "ticker": " MSM",
             "count": 6
+        },
+        {
+            "ticker": " FCF",
+            "count": 5
+        },
+        {
+            "ticker": " CRSR",
+            "count": 5
         },
         {
             "ticker": " BNTX",
@@ -213,7 +221,7 @@
             "count": 5
         },
         {
-            "ticker": " BABA",
+            "ticker": " MARA",
             "count": 5
         },
         {
@@ -225,15 +233,15 @@
             "count": 5
         },
         {
+            "ticker": " INTC",
+            "count": 4
+        },
+        {
             "ticker": " PENN",
             "count": 4
         },
         {
             "ticker": " TTD",
-            "count": 4
-        },
-        {
-            "ticker": " CRSR",
             "count": 4
         },
         {
@@ -261,10 +269,6 @@
             "count": 4
         },
         {
-            "ticker": " ROKU",
-            "count": 4
-        },
-        {
             "ticker": " GDYN",
             "count": 4
         },
@@ -285,23 +289,19 @@
             "count": 3
         },
         {
-            "ticker": " THC",
-            "count": 3
-        },
-        {
-            "ticker": " INO",
-            "count": 3
-        },
-        {
             "ticker": " MORN",
             "count": 3
         },
         {
-            "ticker": " COTY",
+            "ticker": " SNDL",
             "count": 3
         },
         {
-            "ticker": " AMAT",
+            "ticker": " CRON",
+            "count": 3
+        },
+        {
+            "ticker": " COTY",
             "count": 3
         },
         {
@@ -310,10 +310,6 @@
         },
         {
             "ticker": " NFLX",
-            "count": 3
-        },
-        {
-            "ticker": " INTC",
             "count": 3
         },
         {
@@ -338,6 +334,10 @@
         },
         {
             "ticker": " TLRY",
+            "count": 3
+        },
+        {
+            "ticker": " ROKU",
             "count": 3
         },
         {
@@ -397,11 +397,11 @@
             "count": 3
         },
         {
-            "ticker": " CLOV",
+            "ticker": " CHWY",
             "count": 2
         },
         {
-            "ticker": " INOV",
+            "ticker": " FDX",
             "count": 2
         },
         {
@@ -426,6 +426,14 @@
         },
         {
             "ticker": " CATC",
+            "count": 2
+        },
+        {
+            "ticker": " ACB",
+            "count": 2
+        },
+        {
+            "ticker": " BLU",
             "count": 2
         },
         {
@@ -525,15 +533,15 @@
             "count": 2
         },
         {
-            "ticker": " CRON",
-            "count": 2
-        },
-        {
             "ticker": " PHAT",
             "count": 2
         },
         {
             "ticker": " DGNS",
+            "count": 2
+        },
+        {
+            "ticker": " THC",
             "count": 2
         },
         {
@@ -622,10 +630,6 @@
         },
         {
             "ticker": " CASI",
-            "count": 2
-        },
-        {
-            "ticker": " FCF",
             "count": 2
         },
         {
@@ -729,6 +733,10 @@
             "count": 2
         },
         {
+            "ticker": " AMAT",
+            "count": 2
+        },
+        {
             "ticker": " CROX",
             "count": 2
         },
@@ -765,6 +773,10 @@
             "count": 2
         },
         {
+            "ticker": " INO",
+            "count": 2
+        },
+        {
             "ticker": " ORAN",
             "count": 2
         },
@@ -782,6 +794,10 @@
         },
         {
             "ticker": " RETA",
+            "count": 2
+        },
+        {
+            "ticker": " GNUS",
             "count": 2
         },
         {
@@ -803,13 +819,9 @@
         {
             "ticker": " MERC",
             "count": 2
-        },
-        {
-            "ticker": " ETH",
-            "count": 2
         }
     ],
     "num_posts": 160,
-    "num_comments": 6401,
-    "datetime": "November 09 2021 at 16:18 EST"
+    "num_comments": 6572,
+    "datetime": "November 09 2021 at 17:19 EST"
 }

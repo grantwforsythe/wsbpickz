@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 94
+            "count": 93
         },
         {
             "ticker": " NVDA",
-            "count": 88
+            "count": 89
         },
         {
             "ticker": " PYPL",
@@ -14,7 +14,7 @@
         },
         {
             "ticker": " AMD",
-            "count": 64
+            "count": 74
         },
         {
             "ticker": " AMC",
@@ -26,7 +26,7 @@
         },
         {
             "ticker": " GME",
-            "count": 36
+            "count": 39
         },
         {
             "ticker": " BGFV",
@@ -57,7 +57,7 @@
             "count": 13
         },
         {
-            "ticker": " SDC",
+            "ticker": " INTC",
             "count": 12
         },
         {
@@ -73,7 +73,7 @@
             "count": 12
         },
         {
-            "ticker": " INTC",
+            "ticker": " SDC",
             "count": 10
         },
         {
@@ -161,6 +161,10 @@
             "count": 7
         },
         {
+            "ticker": " CNK",
+            "count": 6
+        },
+        {
             "ticker": " GOOG",
             "count": 6
         },
@@ -181,11 +185,11 @@
             "count": 5
         },
         {
-            "ticker": " AFRM",
+            "ticker": " TWNK",
             "count": 5
         },
         {
-            "ticker": " TWNK",
+            "ticker": " AFRM",
             "count": 5
         },
         {
@@ -237,15 +241,7 @@
             "count": 5
         },
         {
-            "ticker": " CNK",
-            "count": 4
-        },
-        {
             "ticker": " COO",
-            "count": 4
-        },
-        {
-            "ticker": " PENN",
             "count": 4
         },
         {
@@ -405,6 +401,10 @@
             "count": 3
         },
         {
+            "ticker": " PENN",
+            "count": 3
+        },
+        {
             "ticker": " AUPH",
             "count": 3
         },
@@ -426,6 +426,10 @@
         },
         {
             "ticker": " NYT",
+            "count": 2
+        },
+        {
+            "ticker": " CLOV",
             "count": 2
         },
         {
@@ -822,6 +826,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6889,
-    "datetime": "November 09 2021 at 06:17 EST"
+    "num_comments": 6911,
+    "datetime": "November 09 2021 at 07:17 EST"
 }

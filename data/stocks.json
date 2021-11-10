@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 100
+            "count": 104
         },
         {
             "ticker": " PYPL",
@@ -18,19 +18,19 @@
         },
         {
             "ticker": " PLTR",
-            "count": 30
+            "count": 31
+        },
+        {
+            "ticker": " BGFV",
+            "count": 28
         },
         {
             "ticker": " AGC",
             "count": 28
         },
         {
-            "ticker": " BGFV",
-            "count": 27
-        },
-        {
             "ticker": " AMC",
-            "count": 27
+            "count": 22
         },
         {
             "ticker": " GME",
@@ -53,15 +53,15 @@
             "count": 14
         },
         {
-            "ticker": " PTON",
-            "count": 10
-        },
-        {
             "ticker": " GEO",
             "count": 10
         },
         {
             "ticker": " PERI",
+            "count": 9
+        },
+        {
+            "ticker": " PTON",
             "count": 9
         },
         {
@@ -121,6 +121,10 @@
             "count": 6
         },
         {
+            "ticker": " BNTX",
+            "count": 6
+        },
+        {
             "ticker": " DTE",
             "count": 6
         },
@@ -146,10 +150,6 @@
         },
         {
             "ticker": " GDP",
-            "count": 5
-        },
-        {
-            "ticker": " BNTX",
             "count": 5
         },
         {
@@ -189,6 +189,10 @@
             "count": 5
         },
         {
+            "ticker": " NNN",
+            "count": 4
+        },
+        {
             "ticker": " RNG",
             "count": 4
         },
@@ -205,15 +209,7 @@
             "count": 4
         },
         {
-            "ticker": " MRK",
-            "count": 4
-        },
-        {
             "ticker": " ATVI",
-            "count": 4
-        },
-        {
-            "ticker": " IPOF",
             "count": 4
         },
         {
@@ -269,11 +265,23 @@
             "count": 4
         },
         {
+            "ticker": " DKNG",
+            "count": 3
+        },
+        {
             "ticker": " CLOV",
             "count": 3
         },
         {
+            "ticker": " LNG",
+            "count": 3
+        },
+        {
             "ticker": " CASI",
+            "count": 3
+        },
+        {
+            "ticker": " MRK",
             "count": 3
         },
         {
@@ -294,6 +302,10 @@
         },
         {
             "ticker": " DNN",
+            "count": 3
+        },
+        {
+            "ticker": " IPOF",
             "count": 3
         },
         {
@@ -357,11 +369,23 @@
             "count": 2
         },
         {
+            "ticker": " AMAT",
+            "count": 2
+        },
+        {
             "ticker": " GFI",
             "count": 2
         },
         {
             "ticker": " HMY",
+            "count": 2
+        },
+        {
+            "ticker": " WATT",
+            "count": 2
+        },
+        {
+            "ticker": " PHD",
             "count": 2
         },
         {
@@ -373,6 +397,10 @@
             "count": 2
         },
         {
+            "ticker": " CTO",
+            "count": 2
+        },
+        {
             "ticker": " CARG",
             "count": 2
         },
@@ -381,15 +409,15 @@
             "count": 2
         },
         {
-            "ticker": " CROX",
-            "count": 2
-        },
-        {
             "ticker": " SMG",
             "count": 2
         },
         {
             "ticker": " DMS",
+            "count": 2
+        },
+        {
+            "ticker": " RES",
             "count": 2
         },
         {
@@ -533,14 +561,6 @@
             "count": 2
         },
         {
-            "ticker": " LNG",
-            "count": 2
-        },
-        {
-            "ticker": " NNN",
-            "count": 2
-        },
-        {
             "ticker": " SPOT",
             "count": 2
         },
@@ -633,10 +653,6 @@
             "count": 2
         },
         {
-            "ticker": " DKNG",
-            "count": 2
-        },
-        {
             "ticker": " TDA",
             "count": 2
         },
@@ -686,6 +702,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6070,
-    "datetime": "November 10 2021 at 16:17 EST"
+    "num_comments": 6483,
+    "datetime": "November 10 2021 at 17:17 EST"
 }

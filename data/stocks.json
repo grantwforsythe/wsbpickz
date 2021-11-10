@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 107
+            "count": 106
         },
         {
             "ticker": " PYPL",
@@ -10,19 +10,19 @@
         },
         {
             "ticker": " AMD",
-            "count": 79
+            "count": 80
         },
         {
             "ticker": " NVDA",
             "count": 53
         },
         {
-            "ticker": " AMC",
+            "ticker": " AGC",
             "count": 29
         },
         {
-            "ticker": " AGC",
-            "count": 29
+            "ticker": " AMC",
+            "count": 28
         },
         {
             "ticker": " PLTR",
@@ -69,15 +69,15 @@
             "count": 10
         },
         {
-            "ticker": " RSI",
-            "count": 10
-        },
-        {
             "ticker": " DIS",
             "count": 10
         },
         {
             "ticker": " SDC",
+            "count": 9
+        },
+        {
+            "ticker": " RSI",
             "count": 9
         },
         {
@@ -113,6 +113,10 @@
             "count": 8
         },
         {
+            "ticker": " IEX",
+            "count": 8
+        },
+        {
             "ticker": " INTC",
             "count": 7
         },
@@ -134,10 +138,6 @@
         },
         {
             "ticker": " SBUX",
-            "count": 7
-        },
-        {
-            "ticker": " IEX",
             "count": 7
         },
         {
@@ -181,6 +181,10 @@
             "count": 6
         },
         {
+            "ticker": " SNDL",
+            "count": 5
+        },
+        {
             "ticker": " BABA",
             "count": 5
         },
@@ -221,11 +225,11 @@
             "count": 5
         },
         {
-            "ticker": " TDA",
+            "ticker": " ASML",
             "count": 4
         },
         {
-            "ticker": " SNDL",
+            "ticker": " TDA",
             "count": 4
         },
         {
@@ -397,11 +401,11 @@
             "count": 3
         },
         {
-            "ticker": " CMP",
+            "ticker": " IBM",
             "count": 2
         },
         {
-            "ticker": " ASML",
+            "ticker": " CMP",
             "count": 2
         },
         {
@@ -746,6 +750,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6995,
-    "datetime": "November 10 2021 at 09:17 EST"
+    "num_comments": 6950,
+    "datetime": "November 10 2021 at 10:17 EST"
 }

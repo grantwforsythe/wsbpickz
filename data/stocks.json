@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 121
+            "count": 112
         },
         {
             "ticker": " PYPL",
-            "count": 89
+            "count": 90
         },
         {
             "ticker": " NVDA",
@@ -25,16 +25,16 @@
             "count": 38
         },
         {
+            "ticker": " AGC",
+            "count": 27
+        },
+        {
             "ticker": " PLTR",
             "count": 26
         },
         {
-            "ticker": " AGC",
-            "count": 26
-        },
-        {
             "ticker": " GME",
-            "count": 17
+            "count": 18
         },
         {
             "ticker": " WYNN",
@@ -45,11 +45,7 @@
             "count": 16
         },
         {
-            "ticker": " SOFI",
-            "count": 14
-        },
-        {
-            "ticker": " UPST",
+            "ticker": " BGFV",
             "count": 14
         },
         {
@@ -61,7 +57,11 @@
             "count": 14
         },
         {
-            "ticker": " BGFV",
+            "ticker": " SOFI",
+            "count": 13
+        },
+        {
+            "ticker": " UPST",
             "count": 13
         },
         {
@@ -71,6 +71,10 @@
         {
             "ticker": " NAKD",
             "count": 11
+        },
+        {
+            "ticker": " AMZN",
+            "count": 10
         },
         {
             "ticker": " DIS",
@@ -99,10 +103,6 @@
         {
             "ticker": " LAC",
             "count": 9
-        },
-        {
-            "ticker": " AMZN",
-            "count": 8
         },
         {
             "ticker": " RSI",
@@ -143,10 +143,6 @@
         {
             "ticker": " NKLA",
             "count": 7
-        },
-        {
-            "ticker": " BABA",
-            "count": 6
         },
         {
             "ticker": " MARA",
@@ -209,8 +205,16 @@
             "count": 5
         },
         {
+            "ticker": " BABA",
+            "count": 5
+        },
+        {
             "ticker": " TDS",
             "count": 5
+        },
+        {
+            "ticker": " TDA",
+            "count": 4
         },
         {
             "ticker": " OCGN",
@@ -234,6 +238,10 @@
         },
         {
             "ticker": " MRNA",
+            "count": 4
+        },
+        {
+            "ticker": " WEN",
             "count": 4
         },
         {
@@ -325,10 +333,6 @@
             "count": 3
         },
         {
-            "ticker": " WEN",
-            "count": 3
-        },
-        {
             "ticker": " PDT",
             "count": 3
         },
@@ -407,6 +411,10 @@
         {
             "ticker": " PLL",
             "count": 3
+        },
+        {
+            "ticker": " STON",
+            "count": 2
         },
         {
             "ticker": " LUV",
@@ -633,10 +641,6 @@
             "count": 2
         },
         {
-            "ticker": " TDA",
-            "count": 2
-        },
-        {
             "ticker": " UUUU",
             "count": 2
         },
@@ -798,6 +802,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6900,
-    "datetime": "November 10 2021 at 01:57 EST"
+    "num_comments": 6803,
+    "datetime": "November 10 2021 at 02:27 EST"
 }

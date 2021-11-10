@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 106
+            "count": 107
         },
         {
             "ticker": " PYPL",
@@ -17,12 +17,12 @@
             "count": 53
         },
         {
-            "ticker": " AGC",
+            "ticker": " AMC",
             "count": 29
         },
         {
-            "ticker": " AMC",
-            "count": 28
+            "ticker": " AGC",
+            "count": 29
         },
         {
             "ticker": " PLTR",
@@ -38,7 +38,7 @@
         },
         {
             "ticker": " WYNN",
-            "count": 16
+            "count": 15
         },
         {
             "ticker": " UPST",
@@ -141,7 +141,7 @@
             "count": 7
         },
         {
-            "ticker": " BABA",
+            "ticker": " PDT",
             "count": 6
         },
         {
@@ -181,15 +181,11 @@
             "count": 6
         },
         {
-            "ticker": " PDT",
+            "ticker": " BABA",
             "count": 5
         },
         {
             "ticker": " WEN",
-            "count": 5
-        },
-        {
-            "ticker": " FUBO",
             "count": 5
         },
         {
@@ -245,7 +241,15 @@
             "count": 4
         },
         {
+            "ticker": " ELY",
+            "count": 4
+        },
+        {
             "ticker": " BYND",
+            "count": 4
+        },
+        {
+            "ticker": " FUBO",
             "count": 4
         },
         {
@@ -306,10 +310,6 @@
         },
         {
             "ticker": " XOM",
-            "count": 3
-        },
-        {
-            "ticker": " ELY",
             "count": 3
         },
         {
@@ -713,10 +713,6 @@
             "count": 2
         },
         {
-            "ticker": " LUMN",
-            "count": 2
-        },
-        {
             "ticker": " INO",
             "count": 2
         },
@@ -750,6 +746,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6931,
-    "datetime": "November 10 2021 at 08:17 EST"
+    "num_comments": 6995,
+    "datetime": "November 10 2021 at 09:17 EST"
 }

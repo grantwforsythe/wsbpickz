@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 103
+            "count": 104
         },
         {
             "ticker": " PYPL",
@@ -10,7 +10,7 @@
         },
         {
             "ticker": " AMD",
-            "count": 57
+            "count": 58
         },
         {
             "ticker": " NVDA",
@@ -18,15 +18,15 @@
         },
         {
             "ticker": " AMC",
-            "count": 35
+            "count": 37
+        },
+        {
+            "ticker": " GME",
+            "count": 33
         },
         {
             "ticker": " BGFV",
             "count": 32
-        },
-        {
-            "ticker": " GME",
-            "count": 31
         },
         {
             "ticker": " PLTR",
@@ -117,6 +117,10 @@
             "count": 6
         },
         {
+            "ticker": " GDP",
+            "count": 5
+        },
+        {
             "ticker": " SNAP",
             "count": 5
         },
@@ -165,15 +169,15 @@
             "count": 4
         },
         {
-            "ticker": " GDP",
-            "count": 4
-        },
-        {
             "ticker": " CLF",
             "count": 4
         },
         {
             "ticker": " AMAT",
+            "count": 4
+        },
+        {
+            "ticker": " CRTX",
             "count": 4
         },
         {
@@ -261,10 +265,6 @@
             "count": 3
         },
         {
-            "ticker": " CRTX",
-            "count": 3
-        },
-        {
             "ticker": " CTO",
             "count": 3
         },
@@ -345,6 +345,14 @@
             "count": 3
         },
         {
+            "ticker": " RETA",
+            "count": 2
+        },
+        {
+            "ticker": " ULTA",
+            "count": 2
+        },
+        {
             "ticker": " LMFA",
             "count": 2
         },
@@ -361,11 +369,23 @@
             "count": 2
         },
         {
+            "ticker": " FICO",
+            "count": 2
+        },
+        {
+            "ticker": " MANU",
+            "count": 2
+        },
+        {
             "ticker": " JPM",
             "count": 2
         },
         {
             "ticker": " ENG",
+            "count": 2
+        },
+        {
+            "ticker": " CORR",
             "count": 2
         },
         {
@@ -694,6 +714,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7120,
-    "datetime": "November 11 2021 at 07:17 EST"
+    "num_comments": 7252,
+    "datetime": "November 11 2021 at 08:17 EST"
 }

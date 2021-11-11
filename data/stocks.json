@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 107
+            "count": 102
         },
         {
             "ticker": " PYPL",
@@ -53,20 +53,20 @@
             "count": 12
         },
         {
+            "ticker": " AFRM",
+            "count": 11
+        },
+        {
             "ticker": " GEO",
             "count": 11
         },
         {
-            "ticker": " AFRM",
+            "ticker": " SDC",
             "count": 10
         },
         {
             "ticker": " RSI",
             "count": 10
-        },
-        {
-            "ticker": " SDC",
-            "count": 9
         },
         {
             "ticker": " DIS",
@@ -169,11 +169,11 @@
             "count": 5
         },
         {
-            "ticker": " NKLA",
+            "ticker": " TLRY",
             "count": 4
         },
         {
-            "ticker": " CLF",
+            "ticker": " NKLA",
             "count": 4
         },
         {
@@ -182,10 +182,6 @@
         },
         {
             "ticker": " CRTX",
-            "count": 4
-        },
-        {
-            "ticker": " FUBO",
             "count": 4
         },
         {
@@ -206,6 +202,10 @@
         },
         {
             "ticker": " ATVI",
+            "count": 4
+        },
+        {
+            "ticker": " PSTH",
             "count": 4
         },
         {
@@ -273,10 +273,6 @@
             "count": 3
         },
         {
-            "ticker": " PSTH",
-            "count": 3
-        },
-        {
             "ticker": " XOM",
             "count": 3
         },
@@ -293,11 +289,11 @@
             "count": 3
         },
         {
-            "ticker": " TLRY",
+            "ticker": " GOOG",
             "count": 3
         },
         {
-            "ticker": " GOOG",
+            "ticker": " FUBO",
             "count": 3
         },
         {
@@ -325,6 +321,10 @@
             "count": 3
         },
         {
+            "ticker": " CLF",
+            "count": 3
+        },
+        {
             "ticker": " NAV",
             "count": 3
         },
@@ -339,6 +339,10 @@
         {
             "ticker": " LPCN",
             "count": 3
+        },
+        {
+            "ticker": " DKNG",
+            "count": 2
         },
         {
             "ticker": " RETA",
@@ -365,11 +369,11 @@
             "count": 2
         },
         {
-            "ticker": " CDR",
+            "ticker": " FICO",
             "count": 2
         },
         {
-            "ticker": " FICO",
+            "ticker": " CDR",
             "count": 2
         },
         {
@@ -382,22 +386,6 @@
         },
         {
             "ticker": " CORR",
-            "count": 2
-        },
-        {
-            "ticker": " KKR",
-            "count": 2
-        },
-        {
-            "ticker": " TWTR",
-            "count": 2
-        },
-        {
-            "ticker": " CCJ",
-            "count": 2
-        },
-        {
-            "ticker": " SPRO",
             "count": 2
         },
         {
@@ -711,5 +699,5 @@
     ],
     "num_posts": 160,
     "num_comments": 7298,
-    "datetime": "November 11 2021 at 10:17 EST"
+    "datetime": "November 11 2021 at 11:15 EST"
 }

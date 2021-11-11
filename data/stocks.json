@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 98
+            "count": 100
         },
         {
             "ticker": " PYPL",
@@ -10,23 +10,23 @@
         },
         {
             "ticker": " AMD",
-            "count": 61
+            "count": 60
         },
         {
             "ticker": " NVDA",
-            "count": 46
+            "count": 44
         },
         {
             "ticker": " PLTR",
             "count": 32
         },
         {
-            "ticker": " BGFV",
-            "count": 31
+            "ticker": " AMC",
+            "count": 30
         },
         {
-            "ticker": " AMC",
-            "count": 28
+            "ticker": " BGFV",
+            "count": 29
         },
         {
             "ticker": " AGC",
@@ -34,7 +34,7 @@
         },
         {
             "ticker": " GME",
-            "count": 18
+            "count": 21
         },
         {
             "ticker": " AAPL",
@@ -65,15 +65,15 @@
             "count": 10
         },
         {
+            "ticker": " SDC",
+            "count": 9
+        },
+        {
             "ticker": " DIS",
             "count": 9
         },
         {
             "ticker": " PERI",
-            "count": 8
-        },
-        {
-            "ticker": " SDC",
             "count": 8
         },
         {
@@ -151,6 +151,10 @@
         {
             "ticker": " ETH",
             "count": 5
+        },
+        {
+            "ticker": " CLF",
+            "count": 4
         },
         {
             "ticker": " AMAT",
@@ -301,10 +305,6 @@
             "count": 3
         },
         {
-            "ticker": " CLF",
-            "count": 3
-        },
-        {
             "ticker": " NAV",
             "count": 3
         },
@@ -325,11 +325,23 @@
             "count": 3
         },
         {
+            "ticker": " EXTR",
+            "count": 2
+        },
+        {
             "ticker": " KKR",
             "count": 2
         },
         {
             "ticker": " TWTR",
+            "count": 2
+        },
+        {
+            "ticker": " CCJ",
+            "count": 2
+        },
+        {
+            "ticker": " SPRO",
             "count": 2
         },
         {
@@ -341,11 +353,11 @@
             "count": 2
         },
         {
-            "ticker": " SKLZ",
+            "ticker": " CCL",
             "count": 2
         },
         {
-            "ticker": " CCL",
+            "ticker": " DTF",
             "count": 2
         },
         {
@@ -654,6 +666,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6069,
-    "datetime": "November 11 2021 at 01:57 EST"
+    "num_comments": 6237,
+    "datetime": "November 11 2021 at 02:27 EST"
 }

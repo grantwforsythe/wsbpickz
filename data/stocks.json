@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 106
+            "count": 107
         },
         {
             "ticker": " PYPL",
@@ -117,6 +117,10 @@
             "count": 6
         },
         {
+            "ticker": " RIOT",
+            "count": 5
+        },
+        {
             "ticker": " GDP",
             "count": 5
         },
@@ -225,10 +229,6 @@
             "count": 4
         },
         {
-            "ticker": " RIOT",
-            "count": 4
-        },
-        {
             "ticker": " BABA",
             "count": 4
         },
@@ -238,10 +238,6 @@
         },
         {
             "ticker": " NYC",
-            "count": 3
-        },
-        {
-            "ticker": " DSL",
             "count": 3
         },
         {
@@ -385,10 +381,6 @@
             "count": 2
         },
         {
-            "ticker": " ENG",
-            "count": 2
-        },
-        {
             "ticker": " CORR",
             "count": 2
         },
@@ -406,6 +398,10 @@
         },
         {
             "ticker": " SPRO",
+            "count": 2
+        },
+        {
+            "ticker": " VALE",
             "count": 2
         },
         {
@@ -714,6 +710,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7341,
-    "datetime": "November 11 2021 at 09:17 EST"
+    "num_comments": 7298,
+    "datetime": "November 11 2021 at 10:17 EST"
 }

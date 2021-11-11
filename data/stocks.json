@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 99
+            "count": 100
         },
         {
             "ticker": " PYPL",
@@ -10,27 +10,27 @@
         },
         {
             "ticker": " AMD",
-            "count": 60
+            "count": 59
         },
         {
             "ticker": " NVDA",
-            "count": 49
+            "count": 46
         },
         {
             "ticker": " AMC",
+            "count": 38
+        },
+        {
+            "ticker": " GME",
             "count": 34
         },
         {
             "ticker": " PLTR",
-            "count": 32
+            "count": 31
         },
         {
             "ticker": " BGFV",
-            "count": 29
-        },
-        {
-            "ticker": " GME",
-            "count": 27
+            "count": 30
         },
         {
             "ticker": " AGC",
@@ -158,6 +158,10 @@
         },
         {
             "ticker": " CLF",
+            "count": 4
+        },
+        {
+            "ticker": " FVRR",
             "count": 4
         },
         {
@@ -341,6 +345,10 @@
             "count": 2
         },
         {
+            "ticker": " JPM",
+            "count": 2
+        },
+        {
             "ticker": " ENG",
             "count": 2
         },
@@ -365,6 +373,14 @@
             "count": 2
         },
         {
+            "ticker": " WIX",
+            "count": 2
+        },
+        {
+            "ticker": " CCXI",
+            "count": 2
+        },
+        {
             "ticker": " CRWD",
             "count": 2
         },
@@ -377,11 +393,11 @@
             "count": 2
         },
         {
-            "ticker": " CCL",
+            "ticker": " TTCF",
             "count": 2
         },
         {
-            "ticker": " DTF",
+            "ticker": " CCL",
             "count": 2
         },
         {
@@ -426,10 +442,6 @@
         },
         {
             "ticker": " DAC",
-            "count": 2
-        },
-        {
-            "ticker": " FVRR",
             "count": 2
         },
         {
@@ -678,6 +690,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6688,
-    "datetime": "November 11 2021 at 04:17 EST"
+    "num_comments": 6878,
+    "datetime": "November 11 2021 at 05:17 EST"
 }

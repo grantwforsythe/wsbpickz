@@ -1,16 +1,20 @@
 {
     "stocks": [
         {
+            "ticker": " GME",
+            "count": 52
+        },
+        {
+            "ticker": " TSLA",
+            "count": 46
+        },
+        {
             "ticker": " BGFV",
             "count": 46
         },
         {
-            "ticker": " TSLA",
-            "count": 45
-        },
-        {
-            "ticker": " GME",
-            "count": 42
+            "ticker": " AMC",
+            "count": 38
         },
         {
             "ticker": " DIS",
@@ -25,16 +29,12 @@
             "count": 28
         },
         {
-            "ticker": " AMC",
-            "count": 26
-        },
-        {
             "ticker": " AGC",
             "count": 21
         },
         {
             "ticker": " NAKD",
-            "count": 19
+            "count": 18
         },
         {
             "ticker": " PYPL",
@@ -58,7 +58,7 @@
         },
         {
             "ticker": " AAPL",
-            "count": 12
+            "count": 13
         },
         {
             "ticker": " TLRY",
@@ -81,7 +81,15 @@
             "count": 8
         },
         {
+            "ticker": " VIAC",
+            "count": 7
+        },
+        {
             "ticker": " AMZN",
+            "count": 7
+        },
+        {
+            "ticker": " PDT",
             "count": 7
         },
         {
@@ -89,15 +97,15 @@
             "count": 7
         },
         {
+            "ticker": " UUUU",
+            "count": 6
+        },
+        {
             "ticker": " DTE",
             "count": 6
         },
         {
             "ticker": " BABA",
-            "count": 6
-        },
-        {
-            "ticker": " PDT",
             "count": 6
         },
         {
@@ -121,10 +129,6 @@
             "count": 5
         },
         {
-            "ticker": " UUUU",
-            "count": 5
-        },
-        {
             "ticker": " HOOD",
             "count": 5
         },
@@ -143,6 +147,10 @@
         {
             "ticker": " TDS",
             "count": 5
+        },
+        {
+            "ticker": " ASAN",
+            "count": 4
         },
         {
             "ticker": " NKLA",
@@ -229,11 +237,15 @@
             "count": 4
         },
         {
-            "ticker": " FORD",
+            "ticker": " LMT",
             "count": 3
         },
         {
-            "ticker": " ASAN",
+            "ticker": " FCEL",
+            "count": 3
+        },
+        {
+            "ticker": " FORD",
             "count": 3
         },
         {
@@ -313,19 +325,11 @@
             "count": 3
         },
         {
-            "ticker": " VIAC",
-            "count": 2
-        },
-        {
             "ticker": " NOK",
             "count": 2
         },
         {
-            "ticker": " LMT",
-            "count": 2
-        },
-        {
-            "ticker": " FCEL",
+            "ticker": " FCF",
             "count": 2
         },
         {
@@ -397,6 +401,14 @@
             "count": 2
         },
         {
+            "ticker": " TWIN",
+            "count": 2
+        },
+        {
+            "ticker": " COF",
+            "count": 2
+        },
+        {
             "ticker": " LAD",
             "count": 2
         },
@@ -405,15 +417,19 @@
             "count": 2
         },
         {
+            "ticker": " SNES",
+            "count": 2
+        },
+        {
+            "ticker": " MTG",
+            "count": 2
+        },
+        {
             "ticker": " PAG",
             "count": 2
         },
         {
             "ticker": " KMX",
-            "count": 2
-        },
-        {
-            "ticker": " MTG",
             "count": 2
         },
         {
@@ -730,6 +746,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7324,
-    "datetime": "November 13 2021 at 14:17 EST"
+    "num_comments": 7476,
+    "datetime": "November 13 2021 at 15:17 EST"
 }

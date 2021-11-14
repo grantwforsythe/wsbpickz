@@ -2,19 +2,19 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 65
+            "count": 70
         },
         {
             "ticker": " AMC",
-            "count": 64
+            "count": 70
         },
         {
             "ticker": " TSLA",
-            "count": 51
+            "count": 59
         },
         {
             "ticker": " NVDA",
-            "count": 40
+            "count": 44
         },
         {
             "ticker": " BGFV",
@@ -26,7 +26,7 @@
         },
         {
             "ticker": " AMD",
-            "count": 35
+            "count": 36
         },
         {
             "ticker": " AGC",
@@ -65,10 +65,6 @@
             "count": 10
         },
         {
-            "ticker": " AFRM",
-            "count": 10
-        },
-        {
             "ticker": " AAPL",
             "count": 9
         },
@@ -81,8 +77,8 @@
             "count": 9
         },
         {
-            "ticker": " MSM",
-            "count": 8
+            "ticker": " AFRM",
+            "count": 9
         },
         {
             "ticker": " HOOD",
@@ -91,6 +87,14 @@
         {
             "ticker": " BYND",
             "count": 8
+        },
+        {
+            "ticker": " MSM",
+            "count": 7
+        },
+        {
+            "ticker": " AMZN",
+            "count": 6
         },
         {
             "ticker": " AMAT",
@@ -113,15 +117,15 @@
             "count": 6
         },
         {
-            "ticker": " AMZN",
-            "count": 5
-        },
-        {
             "ticker": " SNDL",
             "count": 5
         },
         {
             "ticker": " CGC",
+            "count": 5
+        },
+        {
+            "ticker": " SBUX",
             "count": 5
         },
         {
@@ -253,15 +257,15 @@
             "count": 3
         },
         {
-            "ticker": " TRIL",
-            "count": 3
-        },
-        {
-            "ticker": " SBUX",
-            "count": 3
-        },
-        {
             "ticker": " PNW",
+            "count": 3
+        },
+        {
+            "ticker": " DCF",
+            "count": 3
+        },
+        {
+            "ticker": " MCD",
             "count": 3
         },
         {
@@ -281,11 +285,15 @@
             "count": 3
         },
         {
-            "ticker": " WMT",
+            "ticker": " IPOF",
             "count": 3
         },
         {
             "ticker": " VUZI",
+            "count": 3
+        },
+        {
+            "ticker": " WMT",
             "count": 3
         },
         {
@@ -381,11 +389,11 @@
             "count": 2
         },
         {
-            "ticker": " DCF",
+            "ticker": " PEG",
             "count": 2
         },
         {
-            "ticker": " MCD",
+            "ticker": " DPZ",
             "count": 2
         },
         {
@@ -525,10 +533,6 @@
             "count": 2
         },
         {
-            "ticker": " SNOW",
-            "count": 2
-        },
-        {
             "ticker": " SNES",
             "count": 2
         },
@@ -562,10 +566,6 @@
         },
         {
             "ticker": " GLOB",
-            "count": 2
-        },
-        {
-            "ticker": " IPOF",
             "count": 2
         },
         {
@@ -791,9 +791,13 @@
         {
             "ticker": " BBI",
             "count": 2
+        },
+        {
+            "ticker": " TRIL",
+            "count": 2
         }
     ],
     "num_posts": 160,
-    "num_comments": 8330,
-    "datetime": "November 14 2021 at 18:17 EST"
+    "num_comments": 8670,
+    "datetime": "November 14 2021 at 19:15 EST"
 }

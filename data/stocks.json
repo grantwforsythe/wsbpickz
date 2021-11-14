@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 73
+            "count": 74
         },
         {
             "ticker": " TSLA",
@@ -10,15 +10,15 @@
         },
         {
             "ticker": " GME",
-            "count": 68
+            "count": 69
         },
         {
             "ticker": " AMD",
-            "count": 48
+            "count": 50
         },
         {
             "ticker": " NVDA",
-            "count": 41
+            "count": 44
         },
         {
             "ticker": " DIS",
@@ -53,6 +53,10 @@
             "count": 11
         },
         {
+            "ticker": " PYPL",
+            "count": 11
+        },
+        {
             "ticker": " PTON",
             "count": 11
         },
@@ -61,24 +65,20 @@
             "count": 11
         },
         {
-            "ticker": " PYPL",
-            "count": 10
-        },
-        {
             "ticker": " CLF",
             "count": 10
         },
         {
-            "ticker": " AFRM",
+            "ticker": " AAPL",
             "count": 9
         },
         {
             "ticker": " MSFT",
-            "count": 8
+            "count": 9
         },
         {
-            "ticker": " AAPL",
-            "count": 8
+            "ticker": " AFRM",
+            "count": 9
         },
         {
             "ticker": " BYND",
@@ -161,6 +161,10 @@
             "count": 5
         },
         {
+            "ticker": " ACB",
+            "count": 4
+        },
+        {
             "ticker": " TRIL",
             "count": 4
         },
@@ -217,10 +221,6 @@
             "count": 4
         },
         {
-            "ticker": " ACB",
-            "count": 3
-        },
-        {
             "ticker": " SBUX",
             "count": 3
         },
@@ -242,6 +242,10 @@
         },
         {
             "ticker": " NIO",
+            "count": 3
+        },
+        {
+            "ticker": " INTU",
             "count": 3
         },
         {
@@ -329,6 +333,10 @@
             "count": 2
         },
         {
+            "ticker": " MCD",
+            "count": 2
+        },
+        {
             "ticker": " NATI",
             "count": 2
         },
@@ -346,6 +354,30 @@
         },
         {
             "ticker": " FUTU",
+            "count": 2
+        },
+        {
+            "ticker": " SDC",
+            "count": 2
+        },
+        {
+            "ticker": " AMZN",
+            "count": 2
+        },
+        {
+            "ticker": " EBAY",
+            "count": 2
+        },
+        {
+            "ticker": " ORCL",
+            "count": 2
+        },
+        {
+            "ticker": " BKNG",
+            "count": 2
+        },
+        {
+            "ticker": " ADBE",
             "count": 2
         },
         {
@@ -402,10 +434,6 @@
         },
         {
             "ticker": " FTCH",
-            "count": 2
-        },
-        {
-            "ticker": " INTU",
             "count": 2
         },
         {
@@ -766,6 +794,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8376,
-    "datetime": "November 14 2021 at 12:17 EST"
+    "num_comments": 8511,
+    "datetime": "November 14 2021 at 13:17 EST"
 }

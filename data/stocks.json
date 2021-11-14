@@ -1,16 +1,16 @@
 {
     "stocks": [
         {
-            "ticker": " AMC",
+            "ticker": " GME",
             "count": 65
         },
         {
-            "ticker": " GME",
+            "ticker": " AMC",
             "count": 64
         },
         {
             "ticker": " TSLA",
-            "count": 59
+            "count": 51
         },
         {
             "ticker": " NVDA",
@@ -33,12 +33,12 @@
             "count": 21
         },
         {
-            "ticker": " NAKD",
+            "ticker": " TLRY",
             "count": 18
         },
         {
-            "ticker": " TLRY",
-            "count": 17
+            "ticker": " NAKD",
+            "count": 18
         },
         {
             "ticker": " SOFI",
@@ -62,7 +62,11 @@
         },
         {
             "ticker": " PTON",
-            "count": 11
+            "count": 10
+        },
+        {
+            "ticker": " AFRM",
+            "count": 10
         },
         {
             "ticker": " AAPL",
@@ -77,8 +81,8 @@
             "count": 9
         },
         {
-            "ticker": " AFRM",
-            "count": 9
+            "ticker": " MSM",
+            "count": 8
         },
         {
             "ticker": " HOOD",
@@ -89,11 +93,11 @@
             "count": 8
         },
         {
-            "ticker": " MSM",
-            "count": 7
+            "ticker": " AMAT",
+            "count": 6
         },
         {
-            "ticker": " AMAT",
+            "ticker": " NYC",
             "count": 6
         },
         {
@@ -118,10 +122,6 @@
         },
         {
             "ticker": " CGC",
-            "count": 5
-        },
-        {
-            "ticker": " NYC",
             "count": 5
         },
         {
@@ -163,6 +163,10 @@
         {
             "ticker": " TDS",
             "count": 5
+        },
+        {
+            "ticker": " EXPI",
+            "count": 4
         },
         {
             "ticker": " ACB",
@@ -233,11 +237,19 @@
             "count": 4
         },
         {
+            "ticker": " ESTA",
+            "count": 3
+        },
+        {
             "ticker": " HSBC",
             "count": 3
         },
         {
             "ticker": " CCJ",
+            "count": 3
+        },
+        {
+            "ticker": " NKLA",
             "count": 3
         },
         {
@@ -270,6 +282,14 @@
         },
         {
             "ticker": " WMT",
+            "count": 3
+        },
+        {
+            "ticker": " VUZI",
+            "count": 3
+        },
+        {
+            "ticker": " PRCH",
             "count": 3
         },
         {
@@ -337,6 +357,10 @@
             "count": 2
         },
         {
+            "ticker": " CBOE",
+            "count": 2
+        },
+        {
             "ticker": " XOM",
             "count": 2
         },
@@ -357,7 +381,7 @@
             "count": 2
         },
         {
-            "ticker": " NKLA",
+            "ticker": " DCF",
             "count": 2
         },
         {
@@ -410,26 +434,6 @@
         },
         {
             "ticker": " WTI",
-            "count": 2
-        },
-        {
-            "ticker": " COLL",
-            "count": 2
-        },
-        {
-            "ticker": " RBC",
-            "count": 2
-        },
-        {
-            "ticker": " JPM",
-            "count": 2
-        },
-        {
-            "ticker": " DAO",
-            "count": 2
-        },
-        {
-            "ticker": " USB",
             "count": 2
         },
         {
@@ -521,6 +525,10 @@
             "count": 2
         },
         {
+            "ticker": " SNOW",
+            "count": 2
+        },
+        {
             "ticker": " SNES",
             "count": 2
         },
@@ -554,10 +562,6 @@
         },
         {
             "ticker": " GLOB",
-            "count": 2
-        },
-        {
-            "ticker": " EXPI",
             "count": 2
         },
         {
@@ -638,10 +642,6 @@
         },
         {
             "ticker": " PFE",
-            "count": 2
-        },
-        {
-            "ticker": " PRCH",
             "count": 2
         },
         {
@@ -794,6 +794,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8349,
-    "datetime": "November 14 2021 at 17:17 EST"
+    "num_comments": 8330,
+    "datetime": "November 14 2021 at 18:17 EST"
 }

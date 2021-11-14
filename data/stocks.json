@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 75
+            "count": 81
         },
         {
             "ticker": " GME",
-            "count": 71
+            "count": 75
         },
         {
             "ticker": " TSLA",
-            "count": 66
+            "count": 67
         },
         {
             "ticker": " AMD",
@@ -45,20 +45,20 @@
             "count": 14
         },
         {
-            "ticker": " PLTR",
-            "count": 13
-        },
-        {
             "ticker": " SOFI",
             "count": 12
+        },
+        {
+            "ticker": " NYT",
+            "count": 11
         },
         {
             "ticker": " PTON",
             "count": 11
         },
         {
-            "ticker": " NYT",
-            "count": 10
+            "ticker": " PLTR",
+            "count": 11
         },
         {
             "ticker": " PYPL",
@@ -69,10 +69,6 @@
             "count": 10
         },
         {
-            "ticker": " AAPL",
-            "count": 9
-        },
-        {
             "ticker": " AFRM",
             "count": 9
         },
@@ -81,12 +77,16 @@
             "count": 8
         },
         {
+            "ticker": " AAPL",
+            "count": 8
+        },
+        {
             "ticker": " BYND",
             "count": 8
         },
         {
             "ticker": " NYC",
-            "count": 6
+            "count": 7
         },
         {
             "ticker": " TDA",
@@ -106,6 +106,10 @@
         },
         {
             "ticker": " SNDL",
+            "count": 5
+        },
+        {
+            "ticker": " CGC",
             "count": 5
         },
         {
@@ -166,10 +170,6 @@
         },
         {
             "ticker": " SNAP",
-            "count": 4
-        },
-        {
-            "ticker": " CGC",
             "count": 4
         },
         {
@@ -382,6 +382,10 @@
         },
         {
             "ticker": " NTAP",
+            "count": 2
+        },
+        {
+            "ticker": " FANG",
             "count": 2
         },
         {
@@ -729,10 +733,6 @@
             "count": 2
         },
         {
-            "ticker": " DAC",
-            "count": 2
-        },
-        {
             "ticker": " SGA",
             "count": 2
         },
@@ -759,9 +759,13 @@
         {
             "ticker": " ASX",
             "count": 2
+        },
+        {
+            "ticker": " IEX",
+            "count": 2
         }
     ],
     "num_posts": 160,
-    "num_comments": 8126,
-    "datetime": "November 14 2021 at 08:17 EST"
+    "num_comments": 8232,
+    "datetime": "November 14 2021 at 09:17 EST"
 }

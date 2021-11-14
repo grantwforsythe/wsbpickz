@@ -1,16 +1,16 @@
 {
     "stocks": [
         {
+            "ticker": " TSLA",
+            "count": 70
+        },
+        {
             "ticker": " AMC",
-            "count": 81
+            "count": 68
         },
         {
             "ticker": " GME",
-            "count": 75
-        },
-        {
-            "ticker": " TSLA",
-            "count": 67
+            "count": 65
         },
         {
             "ticker": " AMD",
@@ -18,14 +18,14 @@
         },
         {
             "ticker": " NVDA",
-            "count": 42
-        },
-        {
-            "ticker": " BGFV",
-            "count": 40
+            "count": 41
         },
         {
             "ticker": " DIS",
+            "count": 37
+        },
+        {
+            "ticker": " BGFV",
             "count": 37
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "ticker": " BBBY",
-            "count": 14
+            "count": 13
         },
         {
             "ticker": " SOFI",
@@ -217,6 +217,10 @@
             "count": 3
         },
         {
+            "ticker": " PNW",
+            "count": 3
+        },
+        {
             "ticker": " BABA",
             "count": 3
         },
@@ -238,10 +242,6 @@
         },
         {
             "ticker": " RETA",
-            "count": 3
-        },
-        {
-            "ticker": " PFE",
             "count": 3
         },
         {
@@ -321,10 +321,6 @@
             "count": 2
         },
         {
-            "ticker": " PNW",
-            "count": 2
-        },
-        {
             "ticker": " NATI",
             "count": 2
         },
@@ -362,26 +358,6 @@
         },
         {
             "ticker": " FORD",
-            "count": 2
-        },
-        {
-            "ticker": " CHWY",
-            "count": 2
-        },
-        {
-            "ticker": " DAL",
-            "count": 2
-        },
-        {
-            "ticker": " DXC",
-            "count": 2
-        },
-        {
-            "ticker": " ROKU",
-            "count": 2
-        },
-        {
-            "ticker": " NTAP",
             "count": 2
         },
         {
@@ -625,6 +601,10 @@
             "count": 2
         },
         {
+            "ticker": " PFE",
+            "count": 2
+        },
+        {
             "ticker": " PRCH",
             "count": 2
         },
@@ -766,6 +746,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8232,
-    "datetime": "November 14 2021 at 09:17 EST"
+    "num_comments": 8180,
+    "datetime": "November 14 2021 at 10:17 EST"
 }

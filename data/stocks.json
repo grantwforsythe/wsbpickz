@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 74
-        },
-        {
-            "ticker": " TSLA",
-            "count": 71
+            "count": 73
         },
         {
             "ticker": " GME",
-            "count": 71
+            "count": 68
+        },
+        {
+            "ticker": " TSLA",
+            "count": 50
         },
         {
             "ticker": " NVDA",
@@ -61,10 +61,6 @@
             "count": 11
         },
         {
-            "ticker": " PLTR",
-            "count": 11
-        },
-        {
             "ticker": " AAPL",
             "count": 10
         },
@@ -74,6 +70,10 @@
         },
         {
             "ticker": " MSFT",
+            "count": 9
+        },
+        {
+            "ticker": " PLTR",
             "count": 9
         },
         {
@@ -161,15 +161,11 @@
             "count": 5
         },
         {
+            "ticker": " GDP",
+            "count": 4
+        },
+        {
             "ticker": " ACB",
-            "count": 4
-        },
-        {
-            "ticker": " TRIL",
-            "count": 4
-        },
-        {
-            "ticker": " DTE",
             "count": 4
         },
         {
@@ -229,6 +225,18 @@
             "count": 4
         },
         {
+            "ticker": " AMZN",
+            "count": 3
+        },
+        {
+            "ticker": " TRIL",
+            "count": 3
+        },
+        {
+            "ticker": " DTE",
+            "count": 3
+        },
+        {
             "ticker": " SBUX",
             "count": 3
         },
@@ -254,10 +262,6 @@
         },
         {
             "ticker": " INTU",
-            "count": 3
-        },
-        {
-            "ticker": " LMFA",
             "count": 3
         },
         {
@@ -321,6 +325,14 @@
             "count": 3
         },
         {
+            "ticker": " CRC",
+            "count": 2
+        },
+        {
+            "ticker": " FAF",
+            "count": 2
+        },
+        {
             "ticker": " LYV",
             "count": 2
         },
@@ -365,10 +377,6 @@
             "count": 2
         },
         {
-            "ticker": " AMZN",
-            "count": 2
-        },
-        {
             "ticker": " EBAY",
             "count": 2
         },
@@ -382,6 +390,10 @@
         },
         {
             "ticker": " ADBE",
+            "count": 2
+        },
+        {
+            "ticker": " LMFA",
             "count": 2
         },
         {
@@ -402,26 +414,6 @@
         },
         {
             "ticker": " DAO",
-            "count": 2
-        },
-        {
-            "ticker": " USB",
-            "count": 2
-        },
-        {
-            "ticker": " RETA",
-            "count": 2
-        },
-        {
-            "ticker": " DENN",
-            "count": 2
-        },
-        {
-            "ticker": " FORD",
-            "count": 2
-        },
-        {
-            "ticker": " FANG",
             "count": 2
         },
         {
@@ -737,10 +729,6 @@
             "count": 2
         },
         {
-            "ticker": " GDP",
-            "count": 2
-        },
-        {
             "ticker": " COMM",
             "count": 2
         },
@@ -777,6 +765,10 @@
             "count": 2
         },
         {
+            "ticker": " INSI",
+            "count": 2
+        },
+        {
             "ticker": " ASX",
             "count": 2
         },
@@ -790,6 +782,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8682,
-    "datetime": "November 14 2021 at 15:17 EST"
+    "num_comments": 7876,
+    "datetime": "November 14 2021 at 16:17 EST"
 }

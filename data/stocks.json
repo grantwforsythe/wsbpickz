@@ -2,26 +2,26 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 73
+            "count": 74
         },
         {
             "ticker": " TSLA",
-            "count": 70
+            "count": 71
         },
         {
             "ticker": " GME",
-            "count": 70
+            "count": 71
         },
         {
             "ticker": " NVDA",
-            "count": 39
-        },
-        {
-            "ticker": " DIS",
-            "count": 37
+            "count": 40
         },
         {
             "ticker": " BGFV",
+            "count": 38
+        },
+        {
+            "ticker": " DIS",
             "count": 37
         },
         {
@@ -41,12 +41,12 @@
             "count": 14
         },
         {
-            "ticker": " BBBY",
+            "ticker": " SOFI",
             "count": 13
         },
         {
-            "ticker": " SOFI",
-            "count": 12
+            "ticker": " BBBY",
+            "count": 13
         },
         {
             "ticker": " NYT",
@@ -65,12 +65,12 @@
             "count": 11
         },
         {
-            "ticker": " CLF",
+            "ticker": " AAPL",
             "count": 10
         },
         {
-            "ticker": " AAPL",
-            "count": 9
+            "ticker": " CLF",
+            "count": 10
         },
         {
             "ticker": " MSFT",
@@ -87,10 +87,6 @@
         {
             "ticker": " BYND",
             "count": 8
-        },
-        {
-            "ticker": " NYC",
-            "count": 6
         },
         {
             "ticker": " TDA",
@@ -114,6 +110,10 @@
         },
         {
             "ticker": " CGC",
+            "count": 5
+        },
+        {
+            "ticker": " NYC",
             "count": 5
         },
         {
@@ -173,11 +173,19 @@
             "count": 4
         },
         {
+            "ticker": " SENS",
+            "count": 4
+        },
+        {
             "ticker": " ROIC",
             "count": 4
         },
         {
             "ticker": " SNAP",
+            "count": 4
+        },
+        {
+            "ticker": " CRSR",
             "count": 4
         },
         {
@@ -219,10 +227,6 @@
         {
             "ticker": " CASI",
             "count": 4
-        },
-        {
-            "ticker": " SENS",
-            "count": 3
         },
         {
             "ticker": " SBUX",
@@ -289,10 +293,6 @@
             "count": 3
         },
         {
-            "ticker": " CRSR",
-            "count": 3
-        },
-        {
             "ticker": " AZN",
             "count": 3
         },
@@ -319,6 +319,10 @@
         {
             "ticker": " LPCN",
             "count": 3
+        },
+        {
+            "ticker": " LYV",
+            "count": 2
         },
         {
             "ticker": " CRON",
@@ -381,6 +385,10 @@
             "count": 2
         },
         {
+            "ticker": " WTI",
+            "count": 2
+        },
+        {
             "ticker": " COLL",
             "count": 2
         },
@@ -414,18 +422,6 @@
         },
         {
             "ticker": " FANG",
-            "count": 2
-        },
-        {
-            "ticker": " INVE",
-            "count": 2
-        },
-        {
-            "ticker": " CPA",
-            "count": 2
-        },
-        {
-            "ticker": " GWB",
             "count": 2
         },
         {
@@ -753,6 +749,10 @@
             "count": 2
         },
         {
+            "ticker": " SOS",
+            "count": 2
+        },
+        {
             "ticker": " SGA",
             "count": 2
         },
@@ -790,6 +790,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8525,
-    "datetime": "November 14 2021 at 14:17 EST"
+    "num_comments": 8682,
+    "datetime": "November 14 2021 at 15:17 EST"
 }

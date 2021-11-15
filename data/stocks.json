@@ -2,23 +2,23 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 61
+            "count": 59
         },
         {
             "ticker": " AMD",
-            "count": 53
+            "count": 50
         },
         {
             "ticker": " NVDA",
             "count": 48
         },
         {
-            "ticker": " GME",
-            "count": 43
-        },
-        {
             "ticker": " DIS",
             "count": 41
+        },
+        {
+            "ticker": " GME",
+            "count": 39
         },
         {
             "ticker": " AMC",
@@ -53,15 +53,15 @@
             "count": 13
         },
         {
-            "ticker": " CLF",
+            "ticker": " ACB",
             "count": 11
         },
         {
-            "ticker": " ACB",
+            "ticker": " PYPL",
             "count": 10
         },
         {
-            "ticker": " PYPL",
+            "ticker": " CLF",
             "count": 10
         },
         {
@@ -85,10 +85,6 @@
             "count": 8
         },
         {
-            "ticker": " JPM",
-            "count": 8
-        },
-        {
             "ticker": " WMT",
             "count": 8
         },
@@ -105,6 +101,10 @@
             "count": 8
         },
         {
+            "ticker": " JPM",
+            "count": 7
+        },
+        {
             "ticker": " NFLX",
             "count": 7
         },
@@ -118,10 +118,6 @@
         },
         {
             "ticker": " BABA",
-            "count": 6
-        },
-        {
-            "ticker": " AMAT",
             "count": 6
         },
         {
@@ -157,11 +153,19 @@
             "count": 5
         },
         {
+            "ticker": " AAPL",
+            "count": 5
+        },
+        {
             "ticker": " POWW",
             "count": 5
         },
         {
             "ticker": " TTCF",
+            "count": 5
+        },
+        {
+            "ticker": " AMAT",
             "count": 5
         },
         {
@@ -189,11 +193,11 @@
             "count": 4
         },
         {
-            "ticker": " CLOV",
+            "ticker": " CRON",
             "count": 4
         },
         {
-            "ticker": " CCL",
+            "ticker": " CLOV",
             "count": 4
         },
         {
@@ -210,10 +214,6 @@
         },
         {
             "ticker": " TDA",
-            "count": 4
-        },
-        {
-            "ticker": " AAPL",
             "count": 4
         },
         {
@@ -235,6 +235,10 @@
         {
             "ticker": " SLGG",
             "count": 4
+        },
+        {
+            "ticker": " GPRO",
+            "count": 3
         },
         {
             "ticker": " QSR",
@@ -269,22 +273,6 @@
             "count": 3
         },
         {
-            "ticker": " USB",
-            "count": 3
-        },
-        {
-            "ticker": " ETH",
-            "count": 3
-        },
-        {
-            "ticker": " XOM",
-            "count": 3
-        },
-        {
-            "ticker": " CCJ",
-            "count": 3
-        },
-        {
             "ticker": " TTD",
             "count": 3
         },
@@ -294,10 +282,6 @@
         },
         {
             "ticker": " BAC",
-            "count": 3
-        },
-        {
-            "ticker": " CRON",
             "count": 3
         },
         {
@@ -346,6 +330,10 @@
         },
         {
             "ticker": " AZN",
+            "count": 3
+        },
+        {
+            "ticker": " CCL",
             "count": 3
         },
         {
@@ -497,6 +485,10 @@
             "count": 2
         },
         {
+            "ticker": " VOC",
+            "count": 2
+        },
+        {
             "ticker": " OSK",
             "count": 2
         },
@@ -517,15 +509,15 @@
             "count": 2
         },
         {
+            "ticker": " USB",
+            "count": 2
+        },
+        {
             "ticker": " CBOE",
             "count": 2
         },
         {
-            "ticker": " NRZ",
-            "count": 2
-        },
-        {
-            "ticker": " CVE",
+            "ticker": " GRWG",
             "count": 2
         },
         {
@@ -709,6 +701,10 @@
             "count": 2
         },
         {
+            "ticker": " CCJ",
+            "count": 2
+        },
+        {
             "ticker": " TMO",
             "count": 2
         },
@@ -722,10 +718,6 @@
         },
         {
             "ticker": " CLAR",
-            "count": 2
-        },
-        {
-            "ticker": " GPRO",
             "count": 2
         },
         {
@@ -906,6 +898,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8009,
-    "datetime": "November 15 2021 at 10:17 EST"
+    "num_comments": 7489,
+    "datetime": "November 15 2021 at 11:16 EST"
 }

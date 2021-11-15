@@ -1,28 +1,28 @@
 {
     "stocks": [
         {
-            "ticker": " AMC",
+            "ticker": " TSLA",
             "count": 71
         },
         {
-            "ticker": " TSLA",
-            "count": 70
-        },
-        {
-            "ticker": " GME",
-            "count": 64
-        },
-        {
             "ticker": " AMD",
-            "count": 48
+            "count": 50
         },
         {
             "ticker": " NVDA",
+            "count": 44
+        },
+        {
+            "ticker": " GME",
             "count": 43
         },
         {
             "ticker": " DIS",
             "count": 42
+        },
+        {
+            "ticker": " AMC",
+            "count": 37
         },
         {
             "ticker": " TLRY",
@@ -34,7 +34,7 @@
         },
         {
             "ticker": " AGC",
-            "count": 21
+            "count": 20
         },
         {
             "ticker": " MSFT",
@@ -49,16 +49,16 @@
             "count": 15
         },
         {
+            "ticker": " GDP",
+            "count": 12
+        },
+        {
             "ticker": " PYPL",
             "count": 11
         },
         {
             "ticker": " CLF",
             "count": 11
-        },
-        {
-            "ticker": " GDP",
-            "count": 10
         },
         {
             "ticker": " BBBY",
@@ -81,6 +81,10 @@
             "count": 8
         },
         {
+            "ticker": " JPM",
+            "count": 8
+        },
+        {
             "ticker": " WMT",
             "count": 8
         },
@@ -98,10 +102,6 @@
         },
         {
             "ticker": " CASI",
-            "count": 7
-        },
-        {
-            "ticker": " JPM",
             "count": 7
         },
         {
@@ -145,7 +145,15 @@
             "count": 5
         },
         {
+            "ticker": " INTC",
+            "count": 5
+        },
+        {
             "ticker": " HOOD",
+            "count": 5
+        },
+        {
+            "ticker": " CRTX",
             "count": 5
         },
         {
@@ -190,14 +198,6 @@
         },
         {
             "ticker": " DTE",
-            "count": 4
-        },
-        {
-            "ticker": " SENS",
-            "count": 4
-        },
-        {
-            "ticker": " CRTX",
             "count": 4
         },
         {
@@ -553,10 +553,6 @@
             "count": 2
         },
         {
-            "ticker": " CRUS",
-            "count": 2
-        },
-        {
             "ticker": " VIAC",
             "count": 2
         },
@@ -626,10 +622,6 @@
         },
         {
             "ticker": " AVGO",
-            "count": 2
-        },
-        {
-            "ticker": " INTC",
             "count": 2
         },
         {
@@ -873,6 +865,10 @@
             "count": 2
         },
         {
+            "ticker": " CTRM",
+            "count": 2
+        },
+        {
             "ticker": " SGA",
             "count": 2
         },
@@ -906,6 +902,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8558,
-    "datetime": "November 15 2021 at 05:17 EST"
+    "num_comments": 8506,
+    "datetime": "November 15 2021 at 06:17 EST"
 }

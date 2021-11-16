@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 68
+            "count": 69
         },
         {
             "ticker": " GME",
@@ -17,16 +17,16 @@
             "count": 30
         },
         {
-            "ticker": " SNDL",
-            "count": 29
-        },
-        {
             "ticker": " CLOV",
             "count": 27
         },
         {
-            "ticker": " TLRY",
+            "ticker": " SNDL",
             "count": 27
+        },
+        {
+            "ticker": " TLRY",
+            "count": 24
         },
         {
             "ticker": " AMC",
@@ -57,12 +57,12 @@
             "count": 12
         },
         {
-            "ticker": " MSFT",
+            "ticker": " RIOT",
             "count": 11
         },
         {
-            "ticker": " RIOT",
-            "count": 10
+            "ticker": " MSFT",
+            "count": 11
         },
         {
             "ticker": " WMT",
@@ -90,11 +90,15 @@
         },
         {
             "ticker": " BABA",
-            "count": 7
+            "count": 8
         },
         {
             "ticker": " CLF",
             "count": 7
+        },
+        {
+            "ticker": " SOFI",
+            "count": 6
         },
         {
             "ticker": " PTON",
@@ -114,10 +118,6 @@
         },
         {
             "ticker": " INVE",
-            "count": 5
-        },
-        {
-            "ticker": " SOFI",
             "count": 5
         },
         {
@@ -205,15 +205,7 @@
             "count": 3
         },
         {
-            "ticker": " NYC",
-            "count": 3
-        },
-        {
             "ticker": " FCF",
-            "count": 3
-        },
-        {
-            "ticker": " MCD",
             "count": 3
         },
         {
@@ -313,7 +305,23 @@
             "count": 3
         },
         {
+            "ticker": " RETA",
+            "count": 2
+        },
+        {
+            "ticker": " STOR",
+            "count": 2
+        },
+        {
+            "ticker": " HAPP",
+            "count": 2
+        },
+        {
             "ticker": " SDC",
+            "count": 2
+        },
+        {
+            "ticker": " NYC",
             "count": 2
         },
         {
@@ -377,6 +385,10 @@
             "count": 2
         },
         {
+            "ticker": " MCD",
+            "count": 2
+        },
+        {
             "ticker": " COMM",
             "count": 2
         },
@@ -405,14 +417,6 @@
             "count": 2
         },
         {
-            "ticker": " DEA",
-            "count": 2
-        },
-        {
-            "ticker": " MTG",
-            "count": 2
-        },
-        {
             "ticker": " NKLA",
             "count": 2
         },
@@ -422,6 +426,14 @@
         },
         {
             "ticker": " LRCX",
+            "count": 2
+        },
+        {
+            "ticker": " NTES",
+            "count": 2
+        },
+        {
+            "ticker": " FUTU",
             "count": 2
         },
         {
@@ -798,6 +810,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6889,
-    "datetime": "November 16 2021 at 10:17 EST"
+    "num_comments": 6827,
+    "datetime": "November 16 2021 at 11:16 EST"
 }

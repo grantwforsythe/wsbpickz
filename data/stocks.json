@@ -2,30 +2,30 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 66
+            "count": 67
         },
         {
             "ticker": " GME",
-            "count": 37
-        },
-        {
-            "ticker": " NVDA",
             "count": 36
         },
         {
-            "ticker": " BGFV",
+            "ticker": " NVDA",
             "count": 31
         },
         {
+            "ticker": " BGFV",
+            "count": 30
+        },
+        {
             "ticker": " SNDL",
+            "count": 29
+        },
+        {
+            "ticker": " TLRY",
             "count": 27
         },
         {
             "ticker": " CLOV",
-            "count": 26
-        },
-        {
-            "ticker": " TLRY",
             "count": 26
         },
         {
@@ -38,7 +38,7 @@
         },
         {
             "ticker": " AMD",
-            "count": 22
+            "count": 21
         },
         {
             "ticker": " PLTR",
@@ -209,15 +209,7 @@
             "count": 3
         },
         {
-            "ticker": " SOL",
-            "count": 3
-        },
-        {
-            "ticker": " CVS",
-            "count": 3
-        },
-        {
-            "ticker": " LMT",
+            "ticker": " MCD",
             "count": 3
         },
         {
@@ -309,16 +301,20 @@
             "count": 3
         },
         {
-            "ticker": " IBM",
-            "count": 3
-        },
-        {
             "ticker": " LMND",
             "count": 3
         },
         {
             "ticker": " LPCN",
             "count": 3
+        },
+        {
+            "ticker": " PSTH",
+            "count": 2
+        },
+        {
+            "ticker": " SDC",
+            "count": 2
         },
         {
             "ticker": " PHD",
@@ -353,6 +349,10 @@
             "count": 2
         },
         {
+            "ticker": " SOL",
+            "count": 2
+        },
+        {
             "ticker": " RWT",
             "count": 2
         },
@@ -361,19 +361,19 @@
             "count": 2
         },
         {
+            "ticker": " CVS",
+            "count": 2
+        },
+        {
+            "ticker": " LMT",
+            "count": 2
+        },
+        {
             "ticker": " NAV",
             "count": 2
         },
         {
             "ticker": " TAL",
-            "count": 2
-        },
-        {
-            "ticker": " BNTX",
-            "count": 2
-        },
-        {
-            "ticker": " MCD",
             "count": 2
         },
         {
@@ -713,6 +713,10 @@
             "count": 2
         },
         {
+            "ticker": " IBM",
+            "count": 2
+        },
+        {
             "ticker": " OCGN",
             "count": 2
         },
@@ -742,18 +746,6 @@
         },
         {
             "ticker": " CCJ",
-            "count": 2
-        },
-        {
-            "ticker": " TMO",
-            "count": 2
-        },
-        {
-            "ticker": " HSBC",
-            "count": 2
-        },
-        {
-            "ticker": " UBS",
             "count": 2
         },
         {
@@ -802,6 +794,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6870,
-    "datetime": "November 16 2021 at 08:17 EST"
+    "num_comments": 6824,
+    "datetime": "November 16 2021 at 09:17 EST"
 }

@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 64
+            "count": 66
         },
         {
             "ticker": " GME",
@@ -17,16 +17,16 @@
             "count": 31
         },
         {
+            "ticker": " SNDL",
+            "count": 27
+        },
+        {
             "ticker": " CLOV",
-            "count": 28
+            "count": 26
         },
         {
             "ticker": " TLRY",
             "count": 26
-        },
-        {
-            "ticker": " SNDL",
-            "count": 25
         },
         {
             "ticker": " DIS",
@@ -50,23 +50,23 @@
         },
         {
             "ticker": " JPM",
-            "count": 12
-        },
-        {
-            "ticker": " MARA",
-            "count": 12
-        },
-        {
-            "ticker": " RIOT",
-            "count": 12
+            "count": 13
         },
         {
             "ticker": " AGC",
             "count": 12
         },
         {
+            "ticker": " MARA",
+            "count": 11
+        },
+        {
             "ticker": " MSFT",
             "count": 11
+        },
+        {
+            "ticker": " RIOT",
+            "count": 10
         },
         {
             "ticker": " WMT",
@@ -93,14 +93,6 @@
             "count": 7
         },
         {
-            "ticker": " TGT",
-            "count": 7
-        },
-        {
-            "ticker": " SOFI",
-            "count": 6
-        },
-        {
             "ticker": " PTON",
             "count": 6
         },
@@ -113,7 +105,15 @@
             "count": 6
         },
         {
+            "ticker": " TGT",
+            "count": 6
+        },
+        {
             "ticker": " INVE",
+            "count": 5
+        },
+        {
+            "ticker": " SOFI",
             "count": 5
         },
         {
@@ -417,11 +417,11 @@
             "count": 2
         },
         {
-            "ticker": " LRCX",
+            "ticker": " TSM",
             "count": 2
         },
         {
-            "ticker": " TSM",
+            "ticker": " LRCX",
             "count": 2
         },
         {
@@ -802,6 +802,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6797,
-    "datetime": "November 16 2021 at 07:17 EST"
+    "num_comments": 6870,
+    "datetime": "November 16 2021 at 08:17 EST"
 }

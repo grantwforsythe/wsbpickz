@@ -2,47 +2,47 @@
     "stocks": [
         {
             "ticker": " TSLA",
-            "count": 61
-        },
-        {
-            "ticker": " CLOV",
-            "count": 42
+            "count": 62
         },
         {
             "ticker": " GME",
-            "count": 36
+            "count": 37
+        },
+        {
+            "ticker": " CLOV",
+            "count": 33
         },
         {
             "ticker": " NVDA",
-            "count": 33
+            "count": 32
         },
         {
             "ticker": " BGFV",
             "count": 31
         },
         {
-            "ticker": " TLRY",
-            "count": 27
+            "ticker": " DIS",
+            "count": 25
         },
         {
-            "ticker": " DIS",
-            "count": 26
+            "ticker": " TLRY",
+            "count": 25
+        },
+        {
+            "ticker": " SNDL",
+            "count": 23
         },
         {
             "ticker": " AMD",
             "count": 22
         },
         {
-            "ticker": " SNDL",
-            "count": 21
-        },
-        {
             "ticker": " AMC",
-            "count": 18
+            "count": 19
         },
         {
             "ticker": " RIOT",
-            "count": 17
+            "count": 16
         },
         {
             "ticker": " NAKD",
@@ -57,10 +57,6 @@
             "count": 12
         },
         {
-            "ticker": " PYPL",
-            "count": 10
-        },
-        {
             "ticker": " MSFT",
             "count": 10
         },
@@ -69,12 +65,16 @@
             "count": 10
         },
         {
-            "ticker": " POWW",
+            "ticker": " PLTR",
             "count": 9
         },
         {
-            "ticker": " PLTR",
-            "count": 7
+            "ticker": " PYPL",
+            "count": 9
+        },
+        {
+            "ticker": " POWW",
+            "count": 9
         },
         {
             "ticker": " SOFI",
@@ -113,6 +113,14 @@
             "count": 6
         },
         {
+            "ticker": " NIO",
+            "count": 5
+        },
+        {
+            "ticker": " SNOW",
+            "count": 5
+        },
+        {
             "ticker": " INVE",
             "count": 5
         },
@@ -145,19 +153,11 @@
             "count": 4
         },
         {
-            "ticker": " NIO",
-            "count": 4
-        },
-        {
             "ticker": " TJX",
             "count": 4
         },
         {
             "ticker": " BODY",
-            "count": 4
-        },
-        {
-            "ticker": " HOOD",
             "count": 4
         },
         {
@@ -201,19 +201,15 @@
             "count": 4
         },
         {
+            "ticker": " GEO",
+            "count": 4
+        },
+        {
             "ticker": " SAVA",
             "count": 3
         },
         {
-            "ticker": " SNOW",
-            "count": 3
-        },
-        {
-            "ticker": " LMFA",
-            "count": 3
-        },
-        {
-            "ticker": " FUBO",
+            "ticker": " PDT",
             "count": 3
         },
         {
@@ -226,6 +222,10 @@
         },
         {
             "ticker": " PERI",
+            "count": 3
+        },
+        {
+            "ticker": " HOOD",
             "count": 3
         },
         {
@@ -321,6 +321,10 @@
             "count": 2
         },
         {
+            "ticker": " NAV",
+            "count": 2
+        },
+        {
             "ticker": " TAL",
             "count": 2
         },
@@ -342,6 +346,10 @@
         },
         {
             "ticker": " BBQ",
+            "count": 2
+        },
+        {
+            "ticker": " LMFA",
             "count": 2
         },
         {
@@ -613,10 +621,6 @@
             "count": 2
         },
         {
-            "ticker": " PDT",
-            "count": 2
-        },
-        {
             "ticker": " CDLX",
             "count": 2
         },
@@ -747,13 +751,9 @@
         {
             "ticker": " RBC",
             "count": 2
-        },
-        {
-            "ticker": " GEO",
-            "count": 2
         }
     ],
     "num_posts": 160,
-    "num_comments": 6401,
-    "datetime": "November 16 2021 at 01:57 EST"
+    "num_comments": 6573,
+    "datetime": "November 16 2021 at 02:27 EST"
 }

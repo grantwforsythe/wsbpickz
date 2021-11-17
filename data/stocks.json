@@ -1,16 +1,16 @@
 {
     "stocks": [
         {
+            "ticker": " NVDA",
+            "count": 49
+        },
+        {
             "ticker": " TSLA",
             "count": 49
         },
         {
-            "ticker": " NVDA",
-            "count": 43
-        },
-        {
             "ticker": " GME",
-            "count": 29
+            "count": 31
         },
         {
             "ticker": " BGFV",
@@ -26,7 +26,7 @@
         },
         {
             "ticker": " AMC",
-            "count": 18
+            "count": 19
         },
         {
             "ticker": " POWW",
@@ -49,15 +49,15 @@
             "count": 11
         },
         {
-            "ticker": " NAKD",
-            "count": 11
-        },
-        {
             "ticker": " BBBY",
             "count": 10
         },
         {
             "ticker": " SNDL",
+            "count": 10
+        },
+        {
+            "ticker": " NAKD",
             "count": 10
         },
         {
@@ -67,6 +67,14 @@
         {
             "ticker": " PROG",
             "count": 9
+        },
+        {
+            "ticker": " PLTR",
+            "count": 8
+        },
+        {
+            "ticker": " GOEV",
+            "count": 8
         },
         {
             "ticker": " ROKU",
@@ -85,15 +93,7 @@
             "count": 8
         },
         {
-            "ticker": " PLTR",
-            "count": 7
-        },
-        {
             "ticker": " ATVI",
-            "count": 7
-        },
-        {
-            "ticker": " GOEV",
             "count": 7
         },
         {
@@ -117,11 +117,19 @@
             "count": 6
         },
         {
+            "ticker": " NNDM",
+            "count": 5
+        },
+        {
             "ticker": " DTE",
             "count": 5
         },
         {
             "ticker": " TTCF",
+            "count": 5
+        },
+        {
+            "ticker": " PIPP",
             "count": 5
         },
         {
@@ -173,15 +181,7 @@
             "count": 4
         },
         {
-            "ticker": " PIPP",
-            "count": 4
-        },
-        {
             "ticker": " FCF",
-            "count": 4
-        },
-        {
-            "ticker": " CRTX",
             "count": 4
         },
         {
@@ -209,6 +209,10 @@
             "count": 4
         },
         {
+            "ticker": " RSI",
+            "count": 4
+        },
+        {
             "ticker": " CGC",
             "count": 4
         },
@@ -225,15 +229,15 @@
             "count": 4
         },
         {
-            "ticker": " TDC",
-            "count": 3
-        },
-        {
             "ticker": " BIDU",
             "count": 3
         },
         {
             "ticker": " CLOV",
+            "count": 3
+        },
+        {
+            "ticker": " FORD",
             "count": 3
         },
         {
@@ -297,11 +301,11 @@
             "count": 3
         },
         {
-            "ticker": " NNDM",
+            "ticker": " CSPR",
             "count": 3
         },
         {
-            "ticker": " CSPR",
+            "ticker": " CRTX",
             "count": 3
         },
         {
@@ -321,7 +325,11 @@
             "count": 3
         },
         {
-            "ticker": " RKT",
+            "ticker": " PEG",
+            "count": 2
+        },
+        {
+            "ticker": " EBC",
             "count": 2
         },
         {
@@ -354,10 +362,6 @@
         },
         {
             "ticker": " REPL",
-            "count": 2
-        },
-        {
-            "ticker": " COO",
             "count": 2
         },
         {
@@ -490,10 +494,6 @@
         },
         {
             "ticker": " AMT",
-            "count": 2
-        },
-        {
-            "ticker": " RSI",
             "count": 2
         },
         {
@@ -715,13 +715,9 @@
         {
             "ticker": " ORAN",
             "count": 2
-        },
-        {
-            "ticker": " NPO",
-            "count": 2
         }
     ],
     "num_posts": 160,
-    "num_comments": 5483,
-    "datetime": "November 17 2021 at 18:17 EST"
+    "num_comments": 5622,
+    "datetime": "November 17 2021 at 19:16 EST"
 }

@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " NVDA",
-            "count": 61
+            "count": 59
         },
         {
             "ticker": " TSLA",
-            "count": 54
+            "count": 55
         },
         {
             "ticker": " GME",
@@ -34,7 +34,7 @@
         },
         {
             "ticker": " POWW",
-            "count": 15
+            "count": 14
         },
         {
             "ticker": " DKNG",
@@ -57,6 +57,10 @@
             "count": 12
         },
         {
+            "ticker": " PYPL",
+            "count": 11
+        },
+        {
             "ticker": " SNDL",
             "count": 11
         },
@@ -66,10 +70,6 @@
         },
         {
             "ticker": " VIAC",
-            "count": 10
-        },
-        {
-            "ticker": " PYPL",
             "count": 10
         },
         {
@@ -83,6 +83,10 @@
         {
             "ticker": " PROG",
             "count": 10
+        },
+        {
+            "ticker": " FSD",
+            "count": 9
         },
         {
             "ticker": " AGC",
@@ -109,11 +113,11 @@
             "count": 7
         },
         {
-            "ticker": " NKLA",
-            "count": 6
+            "ticker": " TSM",
+            "count": 7
         },
         {
-            "ticker": " FSD",
+            "ticker": " NKLA",
             "count": 6
         },
         {
@@ -122,10 +126,6 @@
         },
         {
             "ticker": " PLTR",
-            "count": 6
-        },
-        {
-            "ticker": " TSM",
             "count": 6
         },
         {
@@ -146,10 +146,6 @@
         },
         {
             "ticker": " PRCH",
-            "count": 5
-        },
-        {
-            "ticker": " TTCF",
             "count": 5
         },
         {
@@ -189,7 +185,15 @@
             "count": 5
         },
         {
+            "ticker": " WKHS",
+            "count": 4
+        },
+        {
             "ticker": " CLOV",
+            "count": 4
+        },
+        {
+            "ticker": " FCF",
             "count": 4
         },
         {
@@ -209,7 +213,7 @@
             "count": 4
         },
         {
-            "ticker": " FCF",
+            "ticker": " TTCF",
             "count": 4
         },
         {
@@ -249,6 +253,10 @@
             "count": 4
         },
         {
+            "ticker": " GDP",
+            "count": 3
+        },
+        {
             "ticker": " LYV",
             "count": 3
         },
@@ -269,7 +277,7 @@
             "count": 3
         },
         {
-            "ticker": " WKHS",
+            "ticker": " NAV",
             "count": 3
         },
         {
@@ -329,10 +337,6 @@
             "count": 3
         },
         {
-            "ticker": " CSPR",
-            "count": 3
-        },
-        {
             "ticker": " CRTX",
             "count": 3
         },
@@ -357,11 +361,11 @@
             "count": 2
         },
         {
-            "ticker": " MGM",
+            "ticker": " VIPS",
             "count": 2
         },
         {
-            "ticker": " III",
+            "ticker": " MGM",
             "count": 2
         },
         {
@@ -418,10 +422,6 @@
         },
         {
             "ticker": " VAC",
-            "count": 2
-        },
-        {
-            "ticker": " NAV",
             "count": 2
         },
         {
@@ -661,6 +661,10 @@
             "count": 2
         },
         {
+            "ticker": " CSPR",
+            "count": 2
+        },
+        {
             "ticker": " NFLX",
             "count": 2
         },
@@ -674,10 +678,6 @@
         },
         {
             "ticker": " GRWG",
-            "count": 2
-        },
-        {
-            "ticker": " GDP",
             "count": 2
         },
         {
@@ -729,14 +729,6 @@
             "count": 2
         },
         {
-            "ticker": " FTCH",
-            "count": 2
-        },
-        {
-            "ticker": " INTU",
-            "count": 2
-        },
-        {
             "ticker": " EQS",
             "count": 2
         },
@@ -774,6 +766,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6408,
-    "datetime": "November 18 2021 at 08:17 EST"
+    "num_comments": 6347,
+    "datetime": "November 18 2021 at 09:17 EST"
 }

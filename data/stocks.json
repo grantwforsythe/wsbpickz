@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " NVDA",
-            "count": 91
+            "count": 92
         },
         {
             "ticker": " GME",
@@ -10,27 +10,23 @@
         },
         {
             "ticker": " PYPL",
-            "count": 40
+            "count": 48
         },
         {
             "ticker": " AAPL",
-            "count": 39
+            "count": 41
         },
         {
             "ticker": " TSLA",
-            "count": 37
+            "count": 40
         },
         {
             "ticker": " TLRY",
-            "count": 33
-        },
-        {
-            "ticker": " AMC",
-            "count": 23
+            "count": 36
         },
         {
             "ticker": " MSFT",
-            "count": 23
+            "count": 24
         },
         {
             "ticker": " BGFV",
@@ -45,12 +41,12 @@
             "count": 19
         },
         {
-            "ticker": " DIS",
-            "count": 13
+            "ticker": " AMC",
+            "count": 18
         },
         {
-            "ticker": " ATVI",
-            "count": 13
+            "ticker": " SNDL",
+            "count": 14
         },
         {
             "ticker": " AMAT",
@@ -61,11 +57,19 @@
             "count": 13
         },
         {
-            "ticker": " SNDL",
+            "ticker": " DIS",
+            "count": 12
+        },
+        {
+            "ticker": " ATVI",
             "count": 12
         },
         {
             "ticker": " ROST",
+            "count": 12
+        },
+        {
+            "ticker": " BBBY",
             "count": 12
         },
         {
@@ -77,19 +81,15 @@
             "count": 11
         },
         {
-            "ticker": " BBBY",
-            "count": 11
-        },
-        {
             "ticker": " ROKU",
             "count": 11
         },
         {
-            "ticker": " QCOM",
+            "ticker": " PLTR",
             "count": 10
         },
         {
-            "ticker": " PLTR",
+            "ticker": " QCOM",
             "count": 10
         },
         {
@@ -101,15 +101,15 @@
             "count": 9
         },
         {
-            "ticker": " NYC",
-            "count": 9
-        },
-        {
             "ticker": " TGT",
             "count": 9
         },
         {
             "ticker": " CRSR",
+            "count": 8
+        },
+        {
+            "ticker": " HOOD",
             "count": 8
         },
         {
@@ -125,7 +125,11 @@
             "count": 8
         },
         {
-            "ticker": " PTON",
+            "ticker": " NYC",
+            "count": 8
+        },
+        {
+            "ticker": " AMZN",
             "count": 7
         },
         {
@@ -134,10 +138,6 @@
         },
         {
             "ticker": " BODY",
-            "count": 7
-        },
-        {
-            "ticker": " HOOD",
             "count": 7
         },
         {
@@ -157,11 +157,11 @@
             "count": 6
         },
         {
-            "ticker": " AMZN",
+            "ticker": " UBER",
             "count": 6
         },
         {
-            "ticker": " UBER",
+            "ticker": " CRWD",
             "count": 6
         },
         {
@@ -170,6 +170,10 @@
         },
         {
             "ticker": " RSI",
+            "count": 6
+        },
+        {
+            "ticker": " PTON",
             "count": 6
         },
         {
@@ -194,10 +198,6 @@
         },
         {
             "ticker": " INTC",
-            "count": 5
-        },
-        {
-            "ticker": " CRWD",
             "count": 5
         },
         {
@@ -241,10 +241,6 @@
             "count": 4
         },
         {
-            "ticker": " SAVA",
-            "count": 4
-        },
-        {
             "ticker": " INVE",
             "count": 4
         },
@@ -261,7 +257,7 @@
             "count": 4
         },
         {
-            "ticker": " CLOV",
+            "ticker": " XOM",
             "count": 3
         },
         {
@@ -274,6 +270,10 @@
         },
         {
             "ticker": " NIU",
+            "count": 3
+        },
+        {
+            "ticker": " GPS",
             "count": 3
         },
         {
@@ -353,6 +353,10 @@
             "count": 3
         },
         {
+            "ticker": " SAVA",
+            "count": 3
+        },
+        {
             "ticker": " XPEV",
             "count": 3
         },
@@ -373,8 +377,8 @@
             "count": 3
         },
         {
-            "ticker": " NAKD",
-            "count": 3
+            "ticker": " QSR",
+            "count": 2
         },
         {
             "ticker": " ISNS",
@@ -413,11 +417,11 @@
             "count": 2
         },
         {
-            "ticker": " XOM",
+            "ticker": " HAPP",
             "count": 2
         },
         {
-            "ticker": " HAPP",
+            "ticker": " SHOP",
             "count": 2
         },
         {
@@ -429,7 +433,7 @@
             "count": 2
         },
         {
-            "ticker": " FANG",
+            "ticker": " PDT",
             "count": 2
         },
         {
@@ -442,10 +446,6 @@
         },
         {
             "ticker": " VUZI",
-            "count": 2
-        },
-        {
-            "ticker": " CVX",
             "count": 2
         },
         {
@@ -462,6 +462,10 @@
         },
         {
             "ticker": " BMRN",
+            "count": 2
+        },
+        {
+            "ticker": " CLOV",
             "count": 2
         },
         {
@@ -514,10 +518,6 @@
         },
         {
             "ticker": " TATT",
-            "count": 2
-        },
-        {
-            "ticker": " GPS",
             "count": 2
         },
         {
@@ -797,6 +797,10 @@
             "count": 2
         },
         {
+            "ticker": " NAKD",
+            "count": 2
+        },
+        {
             "ticker": " SGA",
             "count": 2
         },
@@ -806,6 +810,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6979,
-    "datetime": "November 19 2021 at 16:17 EST"
+    "num_comments": 7028,
+    "datetime": "November 19 2021 at 17:17 EST"
 }

@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " NVDA",
-            "count": 85
+            "count": 89
         },
         {
             "ticker": " GME",
-            "count": 39
+            "count": 40
         },
         {
             "ticker": " TSLA",
-            "count": 36
+            "count": 38
         },
         {
             "ticker": " AAPL",
@@ -22,11 +22,15 @@
         },
         {
             "ticker": " MSFT",
-            "count": 23
+            "count": 24
         },
         {
             "ticker": " BGFV",
             "count": 22
+        },
+        {
+            "ticker": " BABA",
+            "count": 17
         },
         {
             "ticker": " AMD",
@@ -34,11 +38,11 @@
         },
         {
             "ticker": " TLRY",
-            "count": 16
+            "count": 15
         },
         {
-            "ticker": " BABA",
-            "count": 15
+            "ticker": " WMT",
+            "count": 13
         },
         {
             "ticker": " AMAT",
@@ -49,7 +53,7 @@
             "count": 13
         },
         {
-            "ticker": " WMT",
+            "ticker": " POWW",
             "count": 12
         },
         {
@@ -61,11 +65,11 @@
             "count": 12
         },
         {
-            "ticker": " ATVI",
+            "ticker": " AMC",
             "count": 11
         },
         {
-            "ticker": " POWW",
+            "ticker": " ATVI",
             "count": 11
         },
         {
@@ -77,20 +81,16 @@
             "count": 10
         },
         {
-            "ticker": " SNDL",
-            "count": 10
-        },
-        {
-            "ticker": " AMC",
-            "count": 10
-        },
-        {
             "ticker": " DIS",
             "count": 10
         },
         {
             "ticker": " AGC",
             "count": 10
+        },
+        {
+            "ticker": " SNDL",
+            "count": 9
         },
         {
             "ticker": " TGT",
@@ -181,7 +181,7 @@
             "count": 5
         },
         {
-            "ticker": " DDOG",
+            "ticker": " AMZN",
             "count": 5
         },
         {
@@ -205,19 +205,23 @@
             "count": 5
         },
         {
+            "ticker": " SAVA",
+            "count": 4
+        },
+        {
+            "ticker": " CLOV",
+            "count": 4
+        },
+        {
+            "ticker": " DDOG",
+            "count": 4
+        },
+        {
             "ticker": " BMTX",
             "count": 4
         },
         {
             "ticker": " MORN",
-            "count": 4
-        },
-        {
-            "ticker": " AMZN",
-            "count": 4
-        },
-        {
-            "ticker": " CCL",
             "count": 4
         },
         {
@@ -285,6 +289,10 @@
             "count": 3
         },
         {
+            "ticker": " CCL",
+            "count": 3
+        },
+        {
             "ticker": " LAC",
             "count": 3
         },
@@ -329,10 +337,6 @@
             "count": 3
         },
         {
-            "ticker": " SAVA",
-            "count": 3
-        },
-        {
             "ticker": " XPEV",
             "count": 3
         },
@@ -353,6 +357,10 @@
             "count": 3
         },
         {
+            "ticker": " NOK",
+            "count": 2
+        },
+        {
             "ticker": " QSR",
             "count": 2
         },
@@ -362,6 +370,10 @@
         },
         {
             "ticker": " ISNS",
+            "count": 2
+        },
+        {
+            "ticker": " FORD",
             "count": 2
         },
         {
@@ -410,10 +422,6 @@
         },
         {
             "ticker": " BMRN",
-            "count": 2
-        },
-        {
-            "ticker": " CLOV",
             "count": 2
         },
         {
@@ -766,6 +774,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6357,
-    "datetime": "November 19 2021 at 18:17 EST"
+    "num_comments": 6476,
+    "datetime": "November 19 2021 at 19:16 EST"
 }

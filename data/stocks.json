@@ -2,15 +2,15 @@
     "stocks": [
         {
             "ticker": " NVDA",
-            "count": 83
+            "count": 82
         },
         {
             "ticker": " GME",
-            "count": 52
+            "count": 47
         },
         {
             "ticker": " TSLA",
-            "count": 35
+            "count": 31
         },
         {
             "ticker": " AAPL",
@@ -18,15 +18,11 @@
         },
         {
             "ticker": " AMC",
-            "count": 27
+            "count": 25
         },
         {
             "ticker": " MSFT",
             "count": 24
-        },
-        {
-            "ticker": " PLTR",
-            "count": 23
         },
         {
             "ticker": " AMD",
@@ -41,12 +37,16 @@
             "count": 20
         },
         {
-            "ticker": " BABA",
+            "ticker": " PLTR",
             "count": 19
         },
         {
             "ticker": " TLRY",
-            "count": 13
+            "count": 17
+        },
+        {
+            "ticker": " BABA",
+            "count": 16
         },
         {
             "ticker": " RBAC",
@@ -117,6 +117,10 @@
             "count": 8
         },
         {
+            "ticker": " PTON",
+            "count": 7
+        },
+        {
             "ticker": " DTE",
             "count": 7
         },
@@ -145,19 +149,11 @@
             "count": 6
         },
         {
-            "ticker": " SOFI",
-            "count": 6
-        },
-        {
             "ticker": " RSI",
             "count": 6
         },
         {
             "ticker": " CRSR",
-            "count": 6
-        },
-        {
-            "ticker": " PTON",
             "count": 6
         },
         {
@@ -197,11 +193,19 @@
             "count": 5
         },
         {
+            "ticker": " UPS",
+            "count": 4
+        },
+        {
             "ticker": " BYND",
             "count": 4
         },
         {
             "ticker": " SDC",
+            "count": 4
+        },
+        {
+            "ticker": " SOFI",
             "count": 4
         },
         {
@@ -409,10 +413,6 @@
             "count": 2
         },
         {
-            "ticker": " PHD",
-            "count": 2
-        },
-        {
             "ticker": " ASO",
             "count": 2
         },
@@ -446,10 +446,6 @@
         },
         {
             "ticker": " EXPE",
-            "count": 2
-        },
-        {
-            "ticker": " UPS",
             "count": 2
         },
         {
@@ -766,6 +762,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6485,
-    "datetime": "November 19 2021 at 10:17 EST"
+    "num_comments": 6277,
+    "datetime": "November 19 2021 at 11:16 EST"
 }

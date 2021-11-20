@@ -2,23 +2,23 @@
     "stocks": [
         {
             "ticker": " NVDA",
-            "count": 100
+            "count": 101
         },
         {
             "ticker": " GME",
             "count": 54
         },
         {
+            "ticker": " TSLA",
+            "count": 39
+        },
+        {
             "ticker": " AAPL",
             "count": 39
         },
         {
-            "ticker": " TSLA",
-            "count": 38
-        },
-        {
             "ticker": " PYPL",
-            "count": 36
+            "count": 37
         },
         {
             "ticker": " MSFT",
@@ -38,22 +38,26 @@
         },
         {
             "ticker": " AMZN",
-            "count": 17
+            "count": 18
         },
         {
             "ticker": " BABA",
-            "count": 16
-        },
-        {
-            "ticker": " TLRY",
-            "count": 15
+            "count": 17
         },
         {
             "ticker": " BGFV",
             "count": 15
         },
         {
+            "ticker": " ROKU",
+            "count": 14
+        },
+        {
             "ticker": " BBBY",
+            "count": 13
+        },
+        {
+            "ticker": " TLRY",
             "count": 13
         },
         {
@@ -65,11 +69,11 @@
             "count": 12
         },
         {
-            "ticker": " WMT",
+            "ticker": " CRSR",
             "count": 12
         },
         {
-            "ticker": " ROKU",
+            "ticker": " WMT",
             "count": 12
         },
         {
@@ -79,10 +83,6 @@
         {
             "ticker": " RBAC",
             "count": 12
-        },
-        {
-            "ticker": " CRSR",
-            "count": 11
         },
         {
             "ticker": " AGC",
@@ -145,10 +145,6 @@
             "count": 7
         },
         {
-            "ticker": " SOFI",
-            "count": 6
-        },
-        {
             "ticker": " SDC",
             "count": 6
         },
@@ -181,6 +177,10 @@
             "count": 5
         },
         {
+            "ticker": " SOFI",
+            "count": 5
+        },
+        {
             "ticker": " RSI",
             "count": 5
         },
@@ -203,6 +203,10 @@
         {
             "ticker": " GOEV",
             "count": 5
+        },
+        {
+            "ticker": " RKT",
+            "count": 4
         },
         {
             "ticker": " SNAP",
@@ -261,7 +265,7 @@
             "count": 4
         },
         {
-            "ticker": " RKT",
+            "ticker": " TDOC",
             "count": 3
         },
         {
@@ -373,7 +377,11 @@
             "count": 2
         },
         {
-            "ticker": " SPOK",
+            "ticker": " GDP",
+            "count": 2
+        },
+        {
+            "ticker": " SCOR",
             "count": 2
         },
         {
@@ -393,11 +401,11 @@
             "count": 2
         },
         {
-            "ticker": " AMKR",
+            "ticker": " WIRE",
             "count": 2
         },
         {
-            "ticker": " TDOC",
+            "ticker": " AMKR",
             "count": 2
         },
         {
@@ -762,6 +770,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6811,
-    "datetime": "November 20 2021 at 01:57 EST"
+    "num_comments": 6807,
+    "datetime": "November 20 2021 at 02:28 EST"
 }

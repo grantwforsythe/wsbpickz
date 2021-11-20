@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " NVDA",
-            "count": 95
+            "count": 94
         },
         {
             "ticker": " GME",
@@ -29,20 +29,16 @@
             "count": 23
         },
         {
-            "ticker": " AMD",
-            "count": 22
-        },
-        {
             "ticker": " BGFV",
             "count": 22
         },
         {
-            "ticker": " BABA",
-            "count": 17
+            "ticker": " AMD",
+            "count": 21
         },
         {
-            "ticker": " AMZN",
-            "count": 16
+            "ticker": " BABA",
+            "count": 18
         },
         {
             "ticker": " WMT",
@@ -102,6 +98,10 @@
         },
         {
             "ticker": " SNDL",
+            "count": 9
+        },
+        {
+            "ticker": " AMZN",
             "count": 9
         },
         {
@@ -269,6 +269,10 @@
             "count": 3
         },
         {
+            "ticker": " CLOV",
+            "count": 3
+        },
+        {
             "ticker": " CROX",
             "count": 3
         },
@@ -405,11 +409,11 @@
             "count": 2
         },
         {
-            "ticker": " GDP",
+            "ticker": " ALLE",
             "count": 2
         },
         {
-            "ticker": " BYD",
+            "ticker": " GDP",
             "count": 2
         },
         {
@@ -462,10 +466,6 @@
         },
         {
             "ticker": " ASO",
-            "count": 2
-        },
-        {
-            "ticker": " CLOV",
             "count": 2
         },
         {
@@ -786,6 +786,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7529,
-    "datetime": "November 20 2021 at 07:17 EST"
+    "num_comments": 7395,
+    "datetime": "November 20 2021 at 08:17 EST"
 }

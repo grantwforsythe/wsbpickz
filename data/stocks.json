@@ -2,19 +2,19 @@
     "stocks": [
         {
             "ticker": " NVDA",
-            "count": 94
+            "count": 93
         },
         {
             "ticker": " GME",
-            "count": 58
+            "count": 61
         },
         {
             "ticker": " AAPL",
-            "count": 42
+            "count": 44
         },
         {
             "ticker": " TSLA",
-            "count": 30
+            "count": 31
         },
         {
             "ticker": " PYPL",
@@ -25,12 +25,12 @@
             "count": 26
         },
         {
-            "ticker": " AMD",
-            "count": 24
+            "ticker": " AMC",
+            "count": 25
         },
         {
-            "ticker": " AMC",
-            "count": 23
+            "ticker": " AMD",
+            "count": 24
         },
         {
             "ticker": " BABA",
@@ -38,7 +38,7 @@
         },
         {
             "ticker": " TSM",
-            "count": 14
+            "count": 15
         },
         {
             "ticker": " BBBY",
@@ -93,11 +93,19 @@
             "count": 10
         },
         {
-            "ticker": " SNDL",
+            "ticker": " FUBO",
             "count": 9
         },
         {
-            "ticker": " HOOD",
+            "ticker": " AMZN",
+            "count": 9
+        },
+        {
+            "ticker": " NYC",
+            "count": 9
+        },
+        {
+            "ticker": " SNDL",
             "count": 9
         },
         {
@@ -117,19 +125,11 @@
             "count": 9
         },
         {
-            "ticker": " AMZN",
-            "count": 8
-        },
-        {
             "ticker": " DIS",
             "count": 8
         },
         {
             "ticker": " HLT",
-            "count": 8
-        },
-        {
-            "ticker": " NYC",
             "count": 8
         },
         {
@@ -145,11 +145,11 @@
             "count": 7
         },
         {
-            "ticker": " DKNG",
+            "ticker": " HOOD",
             "count": 7
         },
         {
-            "ticker": " FUBO",
+            "ticker": " RSI",
             "count": 6
         },
         {
@@ -161,8 +161,16 @@
             "count": 6
         },
         {
+            "ticker": " DKNG",
+            "count": 6
+        },
+        {
             "ticker": " TJX",
             "count": 6
+        },
+        {
+            "ticker": " GOOG",
+            "count": 5
         },
         {
             "ticker": " STC",
@@ -181,10 +189,6 @@
             "count": 5
         },
         {
-            "ticker": " RSI",
-            "count": 5
-        },
-        {
             "ticker": " BODY",
             "count": 5
         },
@@ -197,10 +201,6 @@
             "count": 5
         },
         {
-            "ticker": " PRCH",
-            "count": 5
-        },
-        {
             "ticker": " GOEV",
             "count": 5
         },
@@ -209,7 +209,15 @@
             "count": 4
         },
         {
+            "ticker": " BAM",
+            "count": 4
+        },
+        {
             "ticker": " ASO",
+            "count": 4
+        },
+        {
+            "ticker": " ROOT",
             "count": 4
         },
         {
@@ -234,10 +242,6 @@
         },
         {
             "ticker": " NIO",
-            "count": 4
-        },
-        {
-            "ticker": " GOOG",
             "count": 4
         },
         {
@@ -277,7 +281,7 @@
             "count": 3
         },
         {
-            "ticker": " BAM",
+            "ticker": " PRCH",
             "count": 3
         },
         {
@@ -298,10 +302,6 @@
         },
         {
             "ticker": " FTCH",
-            "count": 3
-        },
-        {
-            "ticker": " ROOT",
             "count": 3
         },
         {
@@ -402,6 +402,18 @@
         },
         {
             "ticker": " AMKR",
+            "count": 2
+        },
+        {
+            "ticker": " BLDP",
+            "count": 2
+        },
+        {
+            "ticker": " GDYN",
+            "count": 2
+        },
+        {
+            "ticker": " VUZI",
             "count": 2
         },
         {
@@ -750,6 +762,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6922,
-    "datetime": "November 20 2021 at 15:17 EST"
+    "num_comments": 6946,
+    "datetime": "November 20 2021 at 16:17 EST"
 }

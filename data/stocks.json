@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " NVDA",
-            "count": 91
+            "count": 92
         },
         {
             "ticker": " GME",
-            "count": 51
+            "count": 56
         },
         {
             "ticker": " AAPL",
@@ -26,7 +26,7 @@
         },
         {
             "ticker": " AMD",
-            "count": 21
+            "count": 23
         },
         {
             "ticker": " AMC",
@@ -34,7 +34,7 @@
         },
         {
             "ticker": " BABA",
-            "count": 17
+            "count": 18
         },
         {
             "ticker": " BGFV",
@@ -93,6 +93,10 @@
             "count": 10
         },
         {
+            "ticker": " TSM",
+            "count": 9
+        },
+        {
             "ticker": " SNDL",
             "count": 9
         },
@@ -113,10 +117,6 @@
             "count": 9
         },
         {
-            "ticker": " NYC",
-            "count": 9
-        },
-        {
             "ticker": " TGT",
             "count": 9
         },
@@ -129,11 +129,11 @@
             "count": 8
         },
         {
-            "ticker": " DTE",
-            "count": 7
+            "ticker": " NYC",
+            "count": 8
         },
         {
-            "ticker": " TSM",
+            "ticker": " DTE",
             "count": 7
         },
         {
@@ -385,6 +385,10 @@
             "count": 3
         },
         {
+            "ticker": " SKLZ",
+            "count": 2
+        },
+        {
             "ticker": " MRNA",
             "count": 2
         },
@@ -410,10 +414,6 @@
         },
         {
             "ticker": " AMKR",
-            "count": 2
-        },
-        {
-            "ticker": " JBL",
             "count": 2
         },
         {
@@ -766,6 +766,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7012,
-    "datetime": "November 20 2021 at 11:15 EST"
+    "num_comments": 7117,
+    "datetime": "November 20 2021 at 12:17 EST"
 }

@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " NVDA",
-            "count": 88
+            "count": 89
         },
         {
             "ticker": " GME",
-            "count": 75
+            "count": 73
         },
         {
             "ticker": " TSLA",
@@ -14,11 +14,11 @@
         },
         {
             "ticker": " AAPL",
-            "count": 41
+            "count": 42
         },
         {
             "ticker": " AMC",
-            "count": 38
+            "count": 40
         },
         {
             "ticker": " PYPL",
@@ -30,7 +30,7 @@
         },
         {
             "ticker": " AMD",
-            "count": 18
+            "count": 21
         },
         {
             "ticker": " AMZN",
@@ -42,7 +42,7 @@
         },
         {
             "ticker": " TLRY",
-            "count": 12
+            "count": 13
         },
         {
             "ticker": " FUBO",
@@ -101,6 +101,10 @@
             "count": 9
         },
         {
+            "ticker": " NKLA",
+            "count": 8
+        },
+        {
             "ticker": " SDC",
             "count": 8
         },
@@ -126,10 +130,6 @@
         },
         {
             "ticker": " NIO",
-            "count": 7
-        },
-        {
-            "ticker": " NKLA",
             "count": 7
         },
         {
@@ -381,6 +381,18 @@
             "count": 3
         },
         {
+            "ticker": " CPA",
+            "count": 2
+        },
+        {
+            "ticker": " SSD",
+            "count": 2
+        },
+        {
+            "ticker": " PCB",
+            "count": 2
+        },
+        {
             "ticker": " DADA",
             "count": 2
         },
@@ -425,11 +437,15 @@
             "count": 2
         },
         {
-            "ticker": " MGM",
+            "ticker": " HBM",
             "count": 2
         },
         {
             "ticker": " DKS",
+            "count": 2
+        },
+        {
+            "ticker": " CCJ",
             "count": 2
         },
         {
@@ -806,6 +822,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8052,
-    "datetime": "November 21 2021 at 15:17 EST"
+    "num_comments": 8192,
+    "datetime": "November 21 2021 at 16:17 EST"
 }

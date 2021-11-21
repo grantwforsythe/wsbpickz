@@ -2,23 +2,23 @@
     "stocks": [
         {
             "ticker": " NVDA",
-            "count": 89
+            "count": 91
         },
         {
             "ticker": " TSLA",
-            "count": 72
+            "count": 74
         },
         {
             "ticker": " GME",
-            "count": 71
+            "count": 74
+        },
+        {
+            "ticker": " AMC",
+            "count": 44
         },
         {
             "ticker": " AAPL",
             "count": 42
-        },
-        {
-            "ticker": " AMC",
-            "count": 41
         },
         {
             "ticker": " PYPL",
@@ -26,7 +26,7 @@
         },
         {
             "ticker": " MSFT",
-            "count": 25
+            "count": 27
         },
         {
             "ticker": " AMD",
@@ -34,7 +34,7 @@
         },
         {
             "ticker": " TLRY",
-            "count": 15
+            "count": 16
         },
         {
             "ticker": " AMZN",
@@ -43,6 +43,10 @@
         {
             "ticker": " BABA",
             "count": 14
+        },
+        {
+            "ticker": " BBBY",
+            "count": 13
         },
         {
             "ticker": " FUBO",
@@ -54,10 +58,6 @@
         },
         {
             "ticker": " ROKU",
-            "count": 12
-        },
-        {
-            "ticker": " BBBY",
             "count": 12
         },
         {
@@ -225,10 +225,6 @@
             "count": 4
         },
         {
-            "ticker": " ROOT",
-            "count": 4
-        },
-        {
             "ticker": " PSTH",
             "count": 4
         },
@@ -333,6 +329,10 @@
             "count": 3
         },
         {
+            "ticker": " ROOT",
+            "count": 3
+        },
+        {
             "ticker": " LULU",
             "count": 3
         },
@@ -394,6 +394,14 @@
         },
         {
             "ticker": " CPA",
+            "count": 2
+        },
+        {
+            "ticker": " APHA",
+            "count": 2
+        },
+        {
+            "ticker": " GER",
             "count": 2
         },
         {
@@ -781,6 +789,10 @@
             "count": 2
         },
         {
+            "ticker": " ATNF",
+            "count": 2
+        },
+        {
             "ticker": " INFI",
             "count": 2
         },
@@ -817,11 +829,15 @@
             "count": 2
         },
         {
+            "ticker": " NLS",
+            "count": 2
+        },
+        {
             "ticker": " BMRA",
             "count": 2
         }
     ],
     "num_posts": 160,
-    "num_comments": 8340,
-    "datetime": "November 21 2021 at 17:17 EST"
+    "num_comments": 8552,
+    "datetime": "November 21 2021 at 18:17 EST"
 }

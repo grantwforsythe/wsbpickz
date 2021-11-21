@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " NVDA",
-            "count": 88
+            "count": 89
         },
         {
             "ticker": " GME",
@@ -10,7 +10,7 @@
         },
         {
             "ticker": " TSLA",
-            "count": 43
+            "count": 45
         },
         {
             "ticker": " AAPL",
@@ -37,16 +37,16 @@
             "count": 13
         },
         {
+            "ticker": " BABA",
+            "count": 12
+        },
+        {
             "ticker": " AMAT",
             "count": 12
         },
         {
             "ticker": " ROKU",
             "count": 12
-        },
-        {
-            "ticker": " BABA",
-            "count": 11
         },
         {
             "ticker": " AGC",
@@ -74,6 +74,10 @@
         },
         {
             "ticker": " TSM",
+            "count": 9
+        },
+        {
+            "ticker": " TGT",
             "count": 9
         },
         {
@@ -109,6 +113,10 @@
             "count": 8
         },
         {
+            "ticker": " GOOG",
+            "count": 7
+        },
+        {
             "ticker": " PLTR",
             "count": 7
         },
@@ -117,7 +125,7 @@
             "count": 7
         },
         {
-            "ticker": " TGT",
+            "ticker": " SDC",
             "count": 7
         },
         {
@@ -129,11 +137,11 @@
             "count": 6
         },
         {
-            "ticker": " SDC",
+            "ticker": " GOEV",
             "count": 6
         },
         {
-            "ticker": " GOEV",
+            "ticker": " ANF",
             "count": 6
         },
         {
@@ -157,7 +165,7 @@
             "count": 6
         },
         {
-            "ticker": " GOOG",
+            "ticker": " AEO",
             "count": 5
         },
         {
@@ -203,6 +211,14 @@
         {
             "ticker": " TJX",
             "count": 5
+        },
+        {
+            "ticker": " JPM",
+            "count": 4
+        },
+        {
+            "ticker": " DLTR",
+            "count": 4
         },
         {
             "ticker": " TTD",
@@ -262,10 +278,6 @@
         },
         {
             "ticker": " GDP",
-            "count": 3
-        },
-        {
-            "ticker": " JPM",
             "count": 3
         },
         {
@@ -381,6 +393,10 @@
             "count": 2
         },
         {
+            "ticker": " AIG",
+            "count": 2
+        },
+        {
             "ticker": " IPA",
             "count": 2
         },
@@ -418,10 +434,6 @@
         },
         {
             "ticker": " AMKR",
-            "count": 2
-        },
-        {
-            "ticker": " ANF",
             "count": 2
         },
         {
@@ -653,10 +665,6 @@
             "count": 2
         },
         {
-            "ticker": " DLTR",
-            "count": 2
-        },
-        {
             "ticker": " NXST",
             "count": 2
         },
@@ -790,6 +798,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7565,
-    "datetime": "November 21 2021 at 09:17 EST"
+    "num_comments": 7639,
+    "datetime": "November 21 2021 at 10:17 EST"
 }

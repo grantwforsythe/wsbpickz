@@ -2,23 +2,23 @@
     "stocks": [
         {
             "ticker": " NVDA",
-            "count": 91
+            "count": 92
         },
         {
             "ticker": " TSLA",
-            "count": 77
+            "count": 79
         },
         {
             "ticker": " GME",
-            "count": 70
+            "count": 74
+        },
+        {
+            "ticker": " AMC",
+            "count": 47
         },
         {
             "ticker": " AAPL",
             "count": 43
-        },
-        {
-            "ticker": " AMC",
-            "count": 37
         },
         {
             "ticker": " PYPL",
@@ -38,7 +38,7 @@
         },
         {
             "ticker": " AMZN",
-            "count": 15
+            "count": 16
         },
         {
             "ticker": " BABA",
@@ -101,7 +101,15 @@
             "count": 9
         },
         {
+            "ticker": " NKLA",
+            "count": 8
+        },
+        {
             "ticker": " PROG",
+            "count": 8
+        },
+        {
+            "ticker": " PTON",
             "count": 8
         },
         {
@@ -115,10 +123,6 @@
         {
             "ticker": " SNDL",
             "count": 8
-        },
-        {
-            "ticker": " NKLA",
-            "count": 7
         },
         {
             "ticker": " GOOG",
@@ -137,11 +141,7 @@
             "count": 7
         },
         {
-            "ticker": " GOEV",
-            "count": 6
-        },
-        {
-            "ticker": " PTON",
+            "ticker": " INTC",
             "count": 6
         },
         {
@@ -161,7 +161,11 @@
             "count": 6
         },
         {
-            "ticker": " INTC",
+            "ticker": " RKT",
+            "count": 5
+        },
+        {
+            "ticker": " GOEV",
             "count": 5
         },
         {
@@ -201,11 +205,11 @@
             "count": 5
         },
         {
-            "ticker": " NMM",
+            "ticker": " PDT",
             "count": 4
         },
         {
-            "ticker": " RKT",
+            "ticker": " NMM",
             "count": 4
         },
         {
@@ -269,6 +273,10 @@
             "count": 4
         },
         {
+            "ticker": " IBKR",
+            "count": 3
+        },
+        {
             "ticker": " BAC",
             "count": 3
         },
@@ -278,10 +286,6 @@
         },
         {
             "ticker": " CLOV",
-            "count": 3
-        },
-        {
-            "ticker": " PDT",
             "count": 3
         },
         {
@@ -381,10 +385,6 @@
             "count": 3
         },
         {
-            "ticker": " IBKR",
-            "count": 3
-        },
-        {
             "ticker": " MARA",
             "count": 3
         },
@@ -430,6 +430,10 @@
         },
         {
             "ticker": " DADA",
+            "count": 2
+        },
+        {
+            "ticker": " GOGO",
             "count": 2
         },
         {
@@ -842,6 +846,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8860,
-    "datetime": "November 21 2021 at 20:17 EST"
+    "num_comments": 8949,
+    "datetime": "November 21 2021 at 21:17 EST"
 }

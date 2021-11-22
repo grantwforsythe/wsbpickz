@@ -1,28 +1,28 @@
 {
     "stocks": [
         {
-            "ticker": " GME",
-            "count": 88
-        },
-        {
             "ticker": " NVDA",
-            "count": 86
+            "count": 85
         },
         {
-            "ticker": " AMC",
-            "count": 64
+            "ticker": " GME",
+            "count": 79
         },
         {
             "ticker": " TSLA",
-            "count": 47
+            "count": 50
         },
         {
             "ticker": " AAPL",
             "count": 45
         },
         {
+            "ticker": " AMC",
+            "count": 37
+        },
+        {
             "ticker": " PYPL",
-            "count": 34
+            "count": 35
         },
         {
             "ticker": " MSFT",
@@ -33,44 +33,44 @@
             "count": 24
         },
         {
-            "ticker": " AMZN",
-            "count": 17
-        },
-        {
             "ticker": " AMD",
             "count": 17
-        },
-        {
-            "ticker": " TSM",
-            "count": 16
         },
         {
             "ticker": " QCOM",
             "count": 15
         },
         {
-            "ticker": " SNDL",
+            "ticker": " AMZN",
             "count": 15
         },
         {
-            "ticker": " BABA",
+            "ticker": " SNDL",
             "count": 14
+        },
+        {
+            "ticker": " TSM",
+            "count": 13
         },
         {
             "ticker": " PLTR",
             "count": 13
         },
         {
+            "ticker": " BABA",
+            "count": 12
+        },
+        {
             "ticker": " AMAT",
             "count": 12
         },
         {
-            "ticker": " PROG",
+            "ticker": " RKT",
             "count": 11
         },
         {
-            "ticker": " RKT",
-            "count": 11
+            "ticker": " PROG",
+            "count": 10
         },
         {
             "ticker": " SDC",
@@ -130,10 +130,6 @@
         },
         {
             "ticker": " CVS",
-            "count": 7
-        },
-        {
-            "ticker": " DTE",
             "count": 7
         },
         {
@@ -213,15 +209,11 @@
             "count": 4
         },
         {
-            "ticker": " GOEV",
-            "count": 4
-        },
-        {
-            "ticker": " GPS",
-            "count": 4
-        },
-        {
             "ticker": " DAC",
+            "count": 4
+        },
+        {
+            "ticker": " CMRE",
             "count": 4
         },
         {
@@ -245,6 +237,10 @@
             "count": 4
         },
         {
+            "ticker": " CAT",
+            "count": 4
+        },
+        {
             "ticker": " FCF",
             "count": 4
         },
@@ -265,6 +261,10 @@
             "count": 4
         },
         {
+            "ticker": " DTE",
+            "count": 4
+        },
+        {
             "ticker": " ALLO",
             "count": 4
         },
@@ -277,19 +277,15 @@
             "count": 3
         },
         {
-            "ticker": " SNAP",
-            "count": 3
-        },
-        {
             "ticker": " FUBO",
             "count": 3
         },
         {
-            "ticker": " CII",
+            "ticker": " GOEV",
             "count": 3
         },
         {
-            "ticker": " CMRE",
+            "ticker": " CII",
             "count": 3
         },
         {
@@ -341,10 +337,6 @@
             "count": 3
         },
         {
-            "ticker": " CAT",
-            "count": 3
-        },
-        {
             "ticker": " JNJ",
             "count": 3
         },
@@ -358,6 +350,10 @@
         },
         {
             "ticker": " ASO",
+            "count": 3
+        },
+        {
+            "ticker": " GPS",
             "count": 3
         },
         {
@@ -457,6 +453,10 @@
             "count": 2
         },
         {
+            "ticker": " SNAP",
+            "count": 2
+        },
+        {
             "ticker": " BBY",
             "count": 2
         },
@@ -534,10 +534,6 @@
         },
         {
             "ticker": " PCB",
-            "count": 2
-        },
-        {
-            "ticker": " IEX",
             "count": 2
         },
         {
@@ -866,6 +862,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 9400,
-    "datetime": "November 22 2021 at 09:17 EST"
+    "num_comments": 9159,
+    "datetime": "November 22 2021 at 10:17 EST"
 }

@@ -2,23 +2,23 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 93
-        },
-        {
-            "ticker": " TSLA",
-            "count": 92
+            "count": 91
         },
         {
             "ticker": " NVDA",
-            "count": 86
+            "count": 85
+        },
+        {
+            "ticker": " TSLA",
+            "count": 85
         },
         {
             "ticker": " AMC",
-            "count": 64
+            "count": 65
         },
         {
             "ticker": " AAPL",
-            "count": 49
+            "count": 47
         },
         {
             "ticker": " PYPL",
@@ -49,16 +49,16 @@
             "count": 15
         },
         {
-            "ticker": " BABA",
-            "count": 15
-        },
-        {
             "ticker": " SNDL",
             "count": 14
         },
         {
+            "ticker": " BABA",
+            "count": 14
+        },
+        {
             "ticker": " PLTR",
-            "count": 13
+            "count": 12
         },
         {
             "ticker": " AMAT",
@@ -81,10 +81,6 @@
             "count": 10
         },
         {
-            "ticker": " DIS",
-            "count": 10
-        },
-        {
             "ticker": " TGT",
             "count": 10
         },
@@ -99,6 +95,10 @@
         {
             "ticker": " ROST",
             "count": 10
+        },
+        {
+            "ticker": " DIS",
+            "count": 9
         },
         {
             "ticker": " ATVI",
@@ -213,6 +213,14 @@
             "count": 5
         },
         {
+            "ticker": " RIOT",
+            "count": 4
+        },
+        {
+            "ticker": " GOEV",
+            "count": 4
+        },
+        {
             "ticker": " GPS",
             "count": 4
         },
@@ -310,10 +318,6 @@
         },
         {
             "ticker": " PDT",
-            "count": 3
-        },
-        {
-            "ticker": " GOEV",
             "count": 3
         },
         {
@@ -445,19 +449,7 @@
             "count": 2
         },
         {
-            "ticker": " MRK",
-            "count": 2
-        },
-        {
-            "ticker": " CME",
-            "count": 2
-        },
-        {
             "ticker": " IEP",
-            "count": 2
-        },
-        {
-            "ticker": " RIOT",
             "count": 2
         },
         {
@@ -486,6 +478,10 @@
         },
         {
             "ticker": " GBX",
+            "count": 2
+        },
+        {
+            "ticker": " GOGL",
             "count": 2
         },
         {
@@ -622,6 +618,10 @@
         },
         {
             "ticker": " CCJ",
+            "count": 2
+        },
+        {
+            "ticker": " ADBE",
             "count": 2
         },
         {
@@ -878,6 +878,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 9541,
-    "datetime": "November 22 2021 at 06:17 EST"
+    "num_comments": 9567,
+    "datetime": "November 22 2021 at 07:17 EST"
 }

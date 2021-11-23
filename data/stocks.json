@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 75
+            "count": 77
         },
         {
             "ticker": " NVDA",
@@ -13,12 +13,12 @@
             "count": 43
         },
         {
-            "ticker": " MSFT",
+            "ticker": " AMD",
             "count": 36
         },
         {
-            "ticker": " AMD",
-            "count": 34
+            "ticker": " MSFT",
+            "count": 36
         },
         {
             "ticker": " PYPL",
@@ -29,12 +29,12 @@
             "count": 29
         },
         {
-            "ticker": " AMC",
+            "ticker": " BABA",
             "count": 24
         },
         {
-            "ticker": " BABA",
-            "count": 22
+            "ticker": " AMC",
+            "count": 24
         },
         {
             "ticker": " AMZN",
@@ -45,16 +45,16 @@
             "count": 16
         },
         {
-            "ticker": " JPM",
-            "count": 11
-        },
-        {
             "ticker": " GOOG",
             "count": 11
         },
         {
             "ticker": " AMAT",
             "count": 11
+        },
+        {
+            "ticker": " JPM",
+            "count": 10
         },
         {
             "ticker": " ATVI",
@@ -69,12 +69,12 @@
             "count": 9
         },
         {
-            "ticker": " PROG",
+            "ticker": " XLNX",
             "count": 9
         },
         {
-            "ticker": " XLNX",
-            "count": 8
+            "ticker": " PROG",
+            "count": 9
         },
         {
             "ticker": " AGC",
@@ -97,11 +97,11 @@
             "count": 7
         },
         {
-            "ticker": " DIS",
+            "ticker": " BMTX",
             "count": 7
         },
         {
-            "ticker": " BMTX",
+            "ticker": " DIS",
             "count": 7
         },
         {
@@ -150,6 +150,10 @@
         },
         {
             "ticker": " BBBY",
+            "count": 5
+        },
+        {
+            "ticker": " GOEV",
             "count": 5
         },
         {
@@ -254,10 +258,6 @@
         },
         {
             "ticker": " ACB",
-            "count": 3
-        },
-        {
-            "ticker": " GOEV",
             "count": 3
         },
         {
@@ -385,6 +385,10 @@
             "count": 2
         },
         {
+            "ticker": " NSA",
+            "count": 2
+        },
+        {
             "ticker": " LITE",
             "count": 2
         },
@@ -394,6 +398,10 @@
         },
         {
             "ticker": " SKLZ",
+            "count": 2
+        },
+        {
+            "ticker": " IBM",
             "count": 2
         },
         {
@@ -714,6 +722,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6637,
-    "datetime": "November 23 2021 at 08:17 EST"
+    "num_comments": 6693,
+    "datetime": "November 23 2021 at 09:17 EST"
 }

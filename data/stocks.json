@@ -2,31 +2,31 @@
     "stocks": [
         {
             "ticker": " NVDA",
-            "count": 72
+            "count": 65
         },
         {
             "ticker": " GME",
-            "count": 68
+            "count": 64
         },
         {
             "ticker": " AAPL",
             "count": 42
         },
         {
-            "ticker": " MSFT",
-            "count": 37
-        },
-        {
             "ticker": " AMD",
-            "count": 34
-        },
-        {
-            "ticker": " PYPL",
             "count": 33
         },
         {
+            "ticker": " MSFT",
+            "count": 32
+        },
+        {
             "ticker": " TSLA",
-            "count": 31
+            "count": 29
+        },
+        {
+            "ticker": " PYPL",
+            "count": 29
         },
         {
             "ticker": " AMC",
@@ -34,22 +34,18 @@
         },
         {
             "ticker": " BABA",
-            "count": 22
-        },
-        {
-            "ticker": " PLTR",
             "count": 16
         },
         {
             "ticker": " AMZN",
-            "count": 15
+            "count": 14
+        },
+        {
+            "ticker": " PLTR",
+            "count": 13
         },
         {
             "ticker": " JPM",
-            "count": 11
-        },
-        {
-            "ticker": " GOOG",
             "count": 11
         },
         {
@@ -73,6 +69,10 @@
             "count": 9
         },
         {
+            "ticker": " XLNX",
+            "count": 8
+        },
+        {
             "ticker": " AGC",
             "count": 8
         },
@@ -89,7 +89,7 @@
             "count": 8
         },
         {
-            "ticker": " XLNX",
+            "ticker": " GOOG",
             "count": 7
         },
         {
@@ -98,14 +98,6 @@
         },
         {
             "ticker": " TSM",
-            "count": 6
-        },
-        {
-            "ticker": " HOOD",
-            "count": 6
-        },
-        {
-            "ticker": " DKNG",
             "count": 6
         },
         {
@@ -157,7 +149,15 @@
             "count": 5
         },
         {
+            "ticker": " HOOD",
+            "count": 5
+        },
+        {
             "ticker": " PTON",
+            "count": 5
+        },
+        {
+            "ticker": " DKNG",
             "count": 5
         },
         {
@@ -190,14 +190,6 @@
         },
         {
             "ticker": " MRNA",
-            "count": 4
-        },
-        {
-            "ticker": " CLOV",
-            "count": 4
-        },
-        {
-            "ticker": " SNAP",
             "count": 4
         },
         {
@@ -269,10 +261,6 @@
             "count": 3
         },
         {
-            "ticker": " UPS",
-            "count": 3
-        },
-        {
             "ticker": " TDOC",
             "count": 3
         },
@@ -294,6 +282,10 @@
         },
         {
             "ticker": " ROOT",
+            "count": 3
+        },
+        {
+            "ticker": " SNAP",
             "count": 3
         },
         {
@@ -362,6 +354,10 @@
         },
         {
             "ticker": " FTCH",
+            "count": 3
+        },
+        {
+            "ticker": " CLOV",
             "count": 3
         },
         {
@@ -609,6 +605,10 @@
             "count": 2
         },
         {
+            "ticker": " UPS",
+            "count": 2
+        },
+        {
             "ticker": " DRNA",
             "count": 2
         },
@@ -706,6 +706,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6500,
-    "datetime": "November 23 2021 at 06:17 EST"
+    "num_comments": 6086,
+    "datetime": "November 23 2021 at 07:17 EST"
 }

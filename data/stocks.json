@@ -2,35 +2,31 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 77
+            "count": 73
         },
         {
             "ticker": " NVDA",
-            "count": 72
+            "count": 65
         },
         {
             "ticker": " AAPL",
-            "count": 43
+            "count": 41
         },
         {
             "ticker": " AMD",
-            "count": 36
+            "count": 35
         },
         {
             "ticker": " MSFT",
-            "count": 36
+            "count": 32
         },
         {
             "ticker": " PYPL",
-            "count": 33
-        },
-        {
-            "ticker": " TSLA",
             "count": 29
         },
         {
-            "ticker": " BABA",
-            "count": 24
+            "ticker": " TSLA",
+            "count": 27
         },
         {
             "ticker": " AMC",
@@ -38,23 +34,19 @@
         },
         {
             "ticker": " AMZN",
-            "count": 16
+            "count": 13
         },
         {
             "ticker": " PLTR",
-            "count": 16
+            "count": 13
         },
         {
-            "ticker": " GOOG",
-            "count": 11
+            "ticker": " JPM",
+            "count": 12
         },
         {
             "ticker": " AMAT",
             "count": 11
-        },
-        {
-            "ticker": " JPM",
-            "count": 10
         },
         {
             "ticker": " ATVI",
@@ -70,6 +62,10 @@
         },
         {
             "ticker": " XLNX",
+            "count": 9
+        },
+        {
+            "ticker": " BABA",
             "count": 9
         },
         {
@@ -109,15 +105,11 @@
             "count": 6
         },
         {
-            "ticker": " HOOD",
-            "count": 6
-        },
-        {
-            "ticker": " PTON",
-            "count": 6
-        },
-        {
             "ticker": " LOGI",
+            "count": 6
+        },
+        {
+            "ticker": " GOOG",
             "count": 6
         },
         {
@@ -161,6 +153,14 @@
             "count": 5
         },
         {
+            "ticker": " HOOD",
+            "count": 5
+        },
+        {
+            "ticker": " PTON",
+            "count": 5
+        },
+        {
             "ticker": " DKNG",
             "count": 5
         },
@@ -185,19 +185,15 @@
             "count": 4
         },
         {
+            "ticker": " CLOV",
+            "count": 4
+        },
+        {
             "ticker": " DTE",
             "count": 4
         },
         {
             "ticker": " MRNA",
-            "count": 4
-        },
-        {
-            "ticker": " CLOV",
-            "count": 4
-        },
-        {
-            "ticker": " SNAP",
             "count": 4
         },
         {
@@ -286,6 +282,10 @@
         },
         {
             "ticker": " ROOT",
+            "count": 3
+        },
+        {
+            "ticker": " SNAP",
             "count": 3
         },
         {
@@ -398,10 +398,6 @@
         },
         {
             "ticker": " SKLZ",
-            "count": 2
-        },
-        {
-            "ticker": " IBM",
             "count": 2
         },
         {
@@ -722,6 +718,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6693,
-    "datetime": "November 23 2021 at 09:17 EST"
+    "num_comments": 6176,
+    "datetime": "November 23 2021 at 10:17 EST"
 }

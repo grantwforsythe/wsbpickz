@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 79
+            "count": 83
         },
         {
             "ticker": " NVDA",
-            "count": 71
+            "count": 72
         },
         {
             "ticker": " AAPL",
@@ -14,7 +14,7 @@
         },
         {
             "ticker": " TSLA",
-            "count": 34
+            "count": 36
         },
         {
             "ticker": " PYPL",
@@ -26,7 +26,7 @@
         },
         {
             "ticker": " AMD",
-            "count": 29
+            "count": 32
         },
         {
             "ticker": " BABA",
@@ -38,7 +38,7 @@
         },
         {
             "ticker": " PLTR",
-            "count": 15
+            "count": 17
         },
         {
             "ticker": " AMZN",
@@ -73,6 +73,10 @@
             "count": 9
         },
         {
+            "ticker": " VIE",
+            "count": 8
+        },
+        {
             "ticker": " AGC",
             "count": 8
         },
@@ -85,11 +89,15 @@
             "count": 8
         },
         {
-            "ticker": " PTON",
+            "ticker": " XLNX",
             "count": 7
         },
         {
-            "ticker": " VIE",
+            "ticker": " MSM",
+            "count": 7
+        },
+        {
+            "ticker": " PTON",
             "count": 7
         },
         {
@@ -141,10 +149,6 @@
             "count": 6
         },
         {
-            "ticker": " MSM",
-            "count": 6
-        },
-        {
             "ticker": " NYC",
             "count": 6
         },
@@ -154,10 +158,6 @@
         },
         {
             "ticker": " MRNA",
-            "count": 5
-        },
-        {
-            "ticker": " XLNX",
             "count": 5
         },
         {
@@ -278,6 +278,10 @@
         },
         {
             "ticker": " INVE",
+            "count": 3
+        },
+        {
+            "ticker": " STNE",
             "count": 3
         },
         {
@@ -405,11 +409,15 @@
             "count": 2
         },
         {
-            "ticker": " LMFA",
+            "ticker": " PBF",
             "count": 2
         },
         {
-            "ticker": " STNE",
+            "ticker": " SPCE",
+            "count": 2
+        },
+        {
+            "ticker": " LMFA",
             "count": 2
         },
         {
@@ -746,6 +754,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6644,
-    "datetime": "November 23 2021 at 01:57 EST"
+    "num_comments": 6663,
+    "datetime": "November 23 2021 at 02:27 EST"
 }

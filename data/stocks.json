@@ -1,44 +1,56 @@
 {
     "stocks": [
         {
+            "ticker": " NVDA",
+            "count": 72
+        },
+        {
             "ticker": " GME",
             "count": 68
         },
         {
-            "ticker": " NVDA",
-            "count": 65
-        },
-        {
             "ticker": " AAPL",
-            "count": 41
-        },
-        {
-            "ticker": " AMD",
-            "count": 33
+            "count": 42
         },
         {
             "ticker": " MSFT",
-            "count": 33
+            "count": 37
+        },
+        {
+            "ticker": " AMD",
+            "count": 34
         },
         {
             "ticker": " PYPL",
-            "count": 29
+            "count": 33
         },
         {
             "ticker": " TSLA",
-            "count": 28
+            "count": 31
         },
         {
             "ticker": " AMC",
             "count": 24
         },
         {
-            "ticker": " AMZN",
-            "count": 13
+            "ticker": " BABA",
+            "count": 22
         },
         {
             "ticker": " PLTR",
-            "count": 13
+            "count": 16
+        },
+        {
+            "ticker": " AMZN",
+            "count": 15
+        },
+        {
+            "ticker": " JPM",
+            "count": 11
+        },
+        {
+            "ticker": " GOOG",
+            "count": 11
         },
         {
             "ticker": " AMAT",
@@ -57,14 +69,6 @@
             "count": 9
         },
         {
-            "ticker": " JPM",
-            "count": 9
-        },
-        {
-            "ticker": " BABA",
-            "count": 9
-        },
-        {
             "ticker": " PROG",
             "count": 9
         },
@@ -74,10 +78,6 @@
         },
         {
             "ticker": " RSI",
-            "count": 8
-        },
-        {
-            "ticker": " DIS",
             "count": 8
         },
         {
@@ -93,15 +93,23 @@
             "count": 7
         },
         {
+            "ticker": " DIS",
+            "count": 7
+        },
+        {
             "ticker": " TSM",
             "count": 6
         },
         {
-            "ticker": " LOGI",
+            "ticker": " HOOD",
             "count": 6
         },
         {
-            "ticker": " GOOG",
+            "ticker": " DKNG",
+            "count": 6
+        },
+        {
+            "ticker": " LOGI",
             "count": 6
         },
         {
@@ -149,15 +157,7 @@
             "count": 5
         },
         {
-            "ticker": " HOOD",
-            "count": 5
-        },
-        {
             "ticker": " PTON",
-            "count": 5
-        },
-        {
-            "ticker": " DKNG",
             "count": 5
         },
         {
@@ -190,6 +190,14 @@
         },
         {
             "ticker": " MRNA",
+            "count": 4
+        },
+        {
+            "ticker": " CLOV",
+            "count": 4
+        },
+        {
+            "ticker": " SNAP",
             "count": 4
         },
         {
@@ -261,6 +269,10 @@
             "count": 3
         },
         {
+            "ticker": " UPS",
+            "count": 3
+        },
+        {
             "ticker": " TDOC",
             "count": 3
         },
@@ -282,10 +294,6 @@
         },
         {
             "ticker": " ROOT",
-            "count": 3
-        },
-        {
-            "ticker": " SNAP",
             "count": 3
         },
         {
@@ -357,10 +365,6 @@
             "count": 3
         },
         {
-            "ticker": " CLOV",
-            "count": 3
-        },
-        {
             "ticker": " BODY",
             "count": 3
         },
@@ -418,10 +422,6 @@
         },
         {
             "ticker": " MCD",
-            "count": 2
-        },
-        {
-            "ticker": " SPR",
             "count": 2
         },
         {
@@ -609,10 +609,6 @@
             "count": 2
         },
         {
-            "ticker": " UPS",
-            "count": 2
-        },
-        {
             "ticker": " DRNA",
             "count": 2
         },
@@ -673,14 +669,6 @@
             "count": 2
         },
         {
-            "ticker": " CAMP",
-            "count": 2
-        },
-        {
-            "ticker": " OSTK",
-            "count": 2
-        },
-        {
             "ticker": " STON",
             "count": 2
         },
@@ -718,6 +706,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 5932,
-    "datetime": "November 23 2021 at 05:17 EST"
+    "num_comments": 6500,
+    "datetime": "November 23 2021 at 06:17 EST"
 }

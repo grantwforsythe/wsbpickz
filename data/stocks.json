@@ -2,43 +2,43 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 84
+            "count": 79
         },
         {
             "ticker": " NVDA",
-            "count": 70
+            "count": 71
         },
         {
             "ticker": " AAPL",
-            "count": 42
-        },
-        {
-            "ticker": " PYPL",
-            "count": 35
-        },
-        {
-            "ticker": " MSFT",
-            "count": 32
+            "count": 43
         },
         {
             "ticker": " TSLA",
-            "count": 31
+            "count": 34
+        },
+        {
+            "ticker": " PYPL",
+            "count": 34
+        },
+        {
+            "ticker": " MSFT",
+            "count": 33
         },
         {
             "ticker": " AMD",
             "count": 29
         },
         {
+            "ticker": " BABA",
+            "count": 24
+        },
+        {
             "ticker": " AMC",
             "count": 23
         },
         {
-            "ticker": " BABA",
-            "count": 20
-        },
-        {
             "ticker": " PLTR",
-            "count": 19
+            "count": 15
         },
         {
             "ticker": " AMZN",
@@ -61,6 +61,10 @@
             "count": 10
         },
         {
+            "ticker": " TSM",
+            "count": 9
+        },
+        {
             "ticker": " RSI",
             "count": 9
         },
@@ -69,7 +73,7 @@
             "count": 9
         },
         {
-            "ticker": " DIS",
+            "ticker": " AGC",
             "count": 8
         },
         {
@@ -81,31 +85,27 @@
             "count": 8
         },
         {
-            "ticker": " MSM",
-            "count": 7
-        },
-        {
             "ticker": " PTON",
             "count": 7
         },
         {
-            "ticker": " TLRY",
+            "ticker": " VIE",
             "count": 7
         },
         {
-            "ticker": " AGC",
+            "ticker": " DIS",
             "count": 7
         },
         {
-            "ticker": " TSM",
+            "ticker": " JPM",
+            "count": 6
+        },
+        {
+            "ticker": " HOOD",
             "count": 6
         },
         {
             "ticker": " DKNG",
-            "count": 6
-        },
-        {
-            "ticker": " VIE",
             "count": 6
         },
         {
@@ -133,7 +133,15 @@
             "count": 6
         },
         {
+            "ticker": " TLRY",
+            "count": 6
+        },
+        {
             "ticker": " HLT",
+            "count": 6
+        },
+        {
+            "ticker": " MSM",
             "count": 6
         },
         {
@@ -145,23 +153,11 @@
             "count": 6
         },
         {
-            "ticker": " JPM",
-            "count": 5
-        },
-        {
             "ticker": " MRNA",
             "count": 5
         },
         {
             "ticker": " XLNX",
-            "count": 5
-        },
-        {
-            "ticker": " HOOD",
-            "count": 5
-        },
-        {
-            "ticker": " SDC",
             "count": 5
         },
         {
@@ -197,7 +193,19 @@
             "count": 4
         },
         {
-            "ticker": " SNDL",
+            "ticker": " CLOV",
+            "count": 4
+        },
+        {
+            "ticker": " INO",
+            "count": 4
+        },
+        {
+            "ticker": " INOV",
+            "count": 4
+        },
+        {
+            "ticker": " NIO",
             "count": 4
         },
         {
@@ -230,6 +238,10 @@
         },
         {
             "ticker": " PSTH",
+            "count": 4
+        },
+        {
+            "ticker": " SDC",
             "count": 4
         },
         {
@@ -266,22 +278,6 @@
         },
         {
             "ticker": " INVE",
-            "count": 3
-        },
-        {
-            "ticker": " SPR",
-            "count": 3
-        },
-        {
-            "ticker": " CLOV",
-            "count": 3
-        },
-        {
-            "ticker": " INO",
-            "count": 3
-        },
-        {
-            "ticker": " LMND",
             "count": 3
         },
         {
@@ -322,10 +318,6 @@
         },
         {
             "ticker": " XOM",
-            "count": 3
-        },
-        {
-            "ticker": " NIO",
             "count": 3
         },
         {
@@ -401,6 +393,10 @@
             "count": 3
         },
         {
+            "ticker": " SNDL",
+            "count": 3
+        },
+        {
             "ticker": " RAVE",
             "count": 3
         },
@@ -414,10 +410,6 @@
         },
         {
             "ticker": " STNE",
-            "count": 2
-        },
-        {
-            "ticker": " INOV",
             "count": 2
         },
         {
@@ -441,19 +433,15 @@
             "count": 2
         },
         {
-            "ticker": " AMER",
-            "count": 2
-        },
-        {
-            "ticker": " NKLA",
-            "count": 2
-        },
-        {
             "ticker": " MLM",
             "count": 2
         },
         {
             "ticker": " OKTA",
+            "count": 2
+        },
+        {
+            "ticker": " SMG",
             "count": 2
         },
         {
@@ -465,11 +453,19 @@
             "count": 2
         },
         {
+            "ticker": " LMND",
+            "count": 2
+        },
+        {
             "ticker": " MELI",
             "count": 2
         },
         {
             "ticker": " ASAN",
+            "count": 2
+        },
+        {
+            "ticker": " SPR",
             "count": 2
         },
         {
@@ -717,14 +713,6 @@
             "count": 2
         },
         {
-            "ticker": " CAMP",
-            "count": 2
-        },
-        {
-            "ticker": " OSTK",
-            "count": 2
-        },
-        {
             "ticker": " STON",
             "count": 2
         },
@@ -758,6 +746,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6607,
-    "datetime": "November 23 2021 at 00:38 EST"
+    "num_comments": 6644,
+    "datetime": "November 23 2021 at 01:57 EST"
 }

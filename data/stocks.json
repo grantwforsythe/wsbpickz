@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " PLTR",
-            "count": 73
+            "count": 66
         },
         {
             "ticker": " GME",
@@ -14,7 +14,7 @@
         },
         {
             "ticker": " TSLA",
-            "count": 34
+            "count": 35
         },
         {
             "ticker": " AMC",
@@ -42,19 +42,19 @@
         },
         {
             "ticker": " BABA",
-            "count": 11
+            "count": 12
         },
         {
             "ticker": " CLOV",
             "count": 10
         },
         {
-            "ticker": " RSI",
+            "ticker": " AGC",
             "count": 10
         },
         {
-            "ticker": " AGC",
-            "count": 10
+            "ticker": " RSI",
+            "count": 9
         },
         {
             "ticker": " SPR",
@@ -193,6 +193,10 @@
             "count": 4
         },
         {
+            "ticker": " SNAP",
+            "count": 4
+        },
+        {
             "ticker": " OCC",
             "count": 4
         },
@@ -281,10 +285,6 @@
             "count": 3
         },
         {
-            "ticker": " SNAP",
-            "count": 3
-        },
-        {
             "ticker": " JPM",
             "count": 3
         },
@@ -341,6 +341,10 @@
             "count": 3
         },
         {
+            "ticker": " AAL",
+            "count": 2
+        },
+        {
             "ticker": " KLIC",
             "count": 2
         },
@@ -358,10 +362,6 @@
         },
         {
             "ticker": " CVS",
-            "count": 2
-        },
-        {
-            "ticker": " ASLE",
             "count": 2
         },
         {
@@ -389,23 +389,15 @@
             "count": 2
         },
         {
-            "ticker": " INO",
-            "count": 2
-        },
-        {
             "ticker": " SPCE",
             "count": 2
         },
         {
+            "ticker": " INO",
+            "count": 2
+        },
+        {
             "ticker": " XLNX",
-            "count": 2
-        },
-        {
-            "ticker": " IRL",
-            "count": 2
-        },
-        {
-            "ticker": " BAH",
             "count": 2
         },
         {
@@ -738,6 +730,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6818,
-    "datetime": "November 24 2021 at 07:17 EST"
+    "num_comments": 6735,
+    "datetime": "November 24 2021 at 08:17 EST"
 }

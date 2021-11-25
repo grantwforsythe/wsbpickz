@@ -2,31 +2,31 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 65
+            "count": 68
         },
         {
             "ticker": " NVDA",
-            "count": 48
+            "count": 49
         },
         {
             "ticker": " TSLA",
-            "count": 42
+            "count": 44
         },
         {
             "ticker": " MSFT",
-            "count": 37
+            "count": 38
         },
         {
             "ticker": " AMC",
-            "count": 33
+            "count": 34
+        },
+        {
+            "ticker": " AMD",
+            "count": 32
         },
         {
             "ticker": " PLTR",
             "count": 32
-        },
-        {
-            "ticker": " AMD",
-            "count": 31
         },
         {
             "ticker": " AAPL",
@@ -34,7 +34,7 @@
         },
         {
             "ticker": " PYPL",
-            "count": 25
+            "count": 26
         },
         {
             "ticker": " AMZN",
@@ -42,7 +42,7 @@
         },
         {
             "ticker": " BABA",
-            "count": 14
+            "count": 15
         },
         {
             "ticker": " DKNG",
@@ -54,7 +54,11 @@
         },
         {
             "ticker": " SDC",
-            "count": 9
+            "count": 8
+        },
+        {
+            "ticker": " PTON",
+            "count": 8
         },
         {
             "ticker": " DIS",
@@ -86,10 +90,6 @@
         },
         {
             "ticker": " LOGI",
-            "count": 7
-        },
-        {
-            "ticker": " PTON",
             "count": 7
         },
         {
@@ -177,10 +177,6 @@
             "count": 4
         },
         {
-            "ticker": " TDOC",
-            "count": 4
-        },
-        {
             "ticker": " ACB",
             "count": 4
         },
@@ -245,11 +241,11 @@
             "count": 3
         },
         {
-            "ticker": " MLM",
+            "ticker": " NSA",
             "count": 3
         },
         {
-            "ticker": " FANG",
+            "ticker": " MLM",
             "count": 3
         },
         {
@@ -294,6 +290,10 @@
         },
         {
             "ticker": " JWN",
+            "count": 3
+        },
+        {
+            "ticker": " TDOC",
             "count": 3
         },
         {
@@ -401,7 +401,7 @@
             "count": 2
         },
         {
-            "ticker": " NSA",
+            "ticker": " FANG",
             "count": 2
         },
         {
@@ -782,6 +782,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7925,
-    "datetime": "November 25 2021 at 04:17 EST"
+    "num_comments": 7911,
+    "datetime": "November 25 2021 at 05:17 EST"
 }

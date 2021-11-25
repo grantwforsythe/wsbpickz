@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 62
+            "count": 64
         },
         {
             "ticker": " NVDA",
-            "count": 45
+            "count": 46
         },
         {
             "ticker": " TSLA",
@@ -21,11 +21,11 @@
             "count": 32
         },
         {
-            "ticker": " PLTR",
-            "count": 31
+            "ticker": " AMC",
+            "count": 32
         },
         {
-            "ticker": " AMC",
+            "ticker": " PLTR",
             "count": 31
         },
         {
@@ -65,10 +65,6 @@
             "count": 8
         },
         {
-            "ticker": " IBM",
-            "count": 8
-        },
-        {
             "ticker": " CAT",
             "count": 8
         },
@@ -85,19 +81,15 @@
             "count": 7
         },
         {
+            "ticker": " CLOV",
+            "count": 7
+        },
+        {
             "ticker": " CRSR",
             "count": 7
         },
         {
             "ticker": " PTON",
-            "count": 6
-        },
-        {
-            "ticker": " PDT",
-            "count": 6
-        },
-        {
-            "ticker": " CLOV",
             "count": 6
         },
         {
@@ -165,6 +157,10 @@
             "count": 5
         },
         {
+            "ticker": " PDT",
+            "count": 5
+        },
+        {
             "ticker": " CLF",
             "count": 5
         },
@@ -175,6 +171,10 @@
         {
             "ticker": " PROG",
             "count": 5
+        },
+        {
+            "ticker": " TDOC",
+            "count": 4
         },
         {
             "ticker": " ACB",
@@ -249,10 +249,6 @@
             "count": 3
         },
         {
-            "ticker": " ACN",
-            "count": 3
-        },
-        {
             "ticker": " SHOP",
             "count": 3
         },
@@ -290,10 +286,6 @@
         },
         {
             "ticker": " JWN",
-            "count": 3
-        },
-        {
-            "ticker": " TDOC",
             "count": 3
         },
         {
@@ -389,15 +381,15 @@
             "count": 2
         },
         {
+            "ticker": " CASI",
+            "count": 2
+        },
+        {
             "ticker": " FUBO",
             "count": 2
         },
         {
             "ticker": " NSA",
-            "count": 2
-        },
-        {
-            "ticker": " CASI",
             "count": 2
         },
         {
@@ -438,10 +430,6 @@
         },
         {
             "ticker": " SMAR",
-            "count": 2
-        },
-        {
-            "ticker": " DXC",
             "count": 2
         },
         {
@@ -790,6 +778,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7413,
-    "datetime": "November 25 2021 at 01:57 EST"
+    "num_comments": 7477,
+    "datetime": "November 25 2021 at 02:28 EST"
 }

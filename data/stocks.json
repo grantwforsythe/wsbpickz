@@ -2,15 +2,11 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 81
+            "count": 82
         },
         {
             "ticker": " NVDA",
-            "count": 47
-        },
-        {
-            "ticker": " TSLA",
-            "count": 42
+            "count": 49
         },
         {
             "ticker": " AMD",
@@ -21,20 +17,24 @@
             "count": 38
         },
         {
-            "ticker": " AMC",
+            "ticker": " TSLA",
             "count": 38
         },
         {
+            "ticker": " AMC",
+            "count": 36
+        },
+        {
             "ticker": " MSFT",
-            "count": 32
+            "count": 31
         },
         {
             "ticker": " PYPL",
-            "count": 24
+            "count": 23
         },
         {
             "ticker": " AAPL",
-            "count": 22
+            "count": 21
         },
         {
             "ticker": " BABA",
@@ -45,19 +45,15 @@
             "count": 14
         },
         {
-            "ticker": " DKNG",
+            "ticker": " SDC",
             "count": 13
         },
         {
-            "ticker": " SDC",
-            "count": 11
-        },
-        {
-            "ticker": " DIS",
+            "ticker": " CLOV",
             "count": 9
         },
         {
-            "ticker": " DKS",
+            "ticker": " DIS",
             "count": 9
         },
         {
@@ -65,11 +61,15 @@
             "count": 9
         },
         {
-            "ticker": " CLOV",
+            "ticker": " CASI",
             "count": 8
         },
         {
             "ticker": " PTON",
+            "count": 8
+        },
+        {
+            "ticker": " DKNG",
             "count": 8
         },
         {
@@ -81,7 +81,11 @@
             "count": 8
         },
         {
-            "ticker": " CASI",
+            "ticker": " NIO",
+            "count": 7
+        },
+        {
+            "ticker": " DKS",
             "count": 7
         },
         {
@@ -101,10 +105,6 @@
             "count": 7
         },
         {
-            "ticker": " NIO",
-            "count": 6
-        },
-        {
             "ticker": " MRNA",
             "count": 6
         },
@@ -121,8 +121,8 @@
             "count": 6
         },
         {
-            "ticker": " AMAT",
-            "count": 6
+            "ticker": " RIOT",
+            "count": 5
         },
         {
             "ticker": " NYC",
@@ -137,11 +137,11 @@
             "count": 5
         },
         {
-            "ticker": " ASO",
+            "ticker": " MCD",
             "count": 5
         },
         {
-            "ticker": " MCD",
+            "ticker": " AMAT",
             "count": 5
         },
         {
@@ -154,10 +154,6 @@
         },
         {
             "ticker": " INTC",
-            "count": 4
-        },
-        {
-            "ticker": " TLRY",
             "count": 4
         },
         {
@@ -174,10 +170,6 @@
         },
         {
             "ticker": " JPM",
-            "count": 4
-        },
-        {
-            "ticker": " RIOT",
             "count": 4
         },
         {
@@ -245,12 +237,8 @@
             "count": 4
         },
         {
-            "ticker": " STC",
-            "count": 4
-        },
-        {
-            "ticker": " ALLO",
-            "count": 4
+            "ticker": " SNDL",
+            "count": 3
         },
         {
             "ticker": " NHS",
@@ -258,6 +246,10 @@
         },
         {
             "ticker": " TDA",
+            "count": 3
+        },
+        {
+            "ticker": " TLRY",
             "count": 3
         },
         {
@@ -270,10 +262,6 @@
         },
         {
             "ticker": " ROOT",
-            "count": 3
-        },
-        {
-            "ticker": " NKLA",
             "count": 3
         },
         {
@@ -294,10 +282,6 @@
         },
         {
             "ticker": " CBD",
-            "count": 3
-        },
-        {
-            "ticker": " SHOP",
             "count": 3
         },
         {
@@ -385,8 +369,8 @@
             "count": 3
         },
         {
-            "ticker": " BTO",
-            "count": 3
+            "ticker": " FCEL",
+            "count": 2
         },
         {
             "ticker": " EXPE",
@@ -394,6 +378,14 @@
         },
         {
             "ticker": " NEM",
+            "count": 2
+        },
+        {
+            "ticker": " RETA",
+            "count": 2
+        },
+        {
+            "ticker": " COMM",
             "count": 2
         },
         {
@@ -426,6 +418,10 @@
         },
         {
             "ticker": " PAND",
+            "count": 2
+        },
+        {
+            "ticker": " NKLA",
             "count": 2
         },
         {
@@ -473,22 +469,6 @@
             "count": 2
         },
         {
-            "ticker": " TAL",
-            "count": 2
-        },
-        {
-            "ticker": " DVD",
-            "count": 2
-        },
-        {
-            "ticker": " EXPI",
-            "count": 2
-        },
-        {
-            "ticker": " ENG",
-            "count": 2
-        },
-        {
             "ticker": " CATC",
             "count": 2
         },
@@ -502,6 +482,10 @@
         },
         {
             "ticker": " LSPD",
+            "count": 2
+        },
+        {
+            "ticker": " SHOP",
             "count": 2
         },
         {
@@ -709,6 +693,10 @@
             "count": 2
         },
         {
+            "ticker": " ASO",
+            "count": 2
+        },
+        {
             "ticker": " DEA",
             "count": 2
         },
@@ -753,11 +741,11 @@
             "count": 2
         },
         {
-            "ticker": " FUBO",
+            "ticker": " STC",
             "count": 2
         },
         {
-            "ticker": " SNDL",
+            "ticker": " FUBO",
             "count": 2
         },
         {
@@ -798,6 +786,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8826,
-    "datetime": "November 25 2021 at 18:17 EST"
+    "num_comments": 8693,
+    "datetime": "November 25 2021 at 19:16 EST"
 }

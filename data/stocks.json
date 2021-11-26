@@ -2,10 +2,14 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 66
+            "count": 67
         },
         {
             "ticker": " NVDA",
+            "count": 44
+        },
+        {
+            "ticker": " AMC",
             "count": 44
         },
         {
@@ -13,12 +17,8 @@
             "count": 41
         },
         {
-            "ticker": " AMC",
-            "count": 37
-        },
-        {
             "ticker": " TSLA",
-            "count": 35
+            "count": 34
         },
         {
             "ticker": " MSFT",
@@ -26,7 +26,7 @@
         },
         {
             "ticker": " PLTR",
-            "count": 26
+            "count": 25
         },
         {
             "ticker": " NIO",
@@ -41,12 +41,12 @@
             "count": 17
         },
         {
-            "ticker": " PYPL",
+            "ticker": " BABA",
             "count": 15
         },
         {
-            "ticker": " BABA",
-            "count": 14
+            "ticker": " PYPL",
+            "count": 15
         },
         {
             "ticker": " PSTH",
@@ -58,7 +58,7 @@
         },
         {
             "ticker": " PFE",
-            "count": 8
+            "count": 9
         },
         {
             "ticker": " MRNA",
@@ -109,7 +109,19 @@
             "count": 6
         },
         {
+            "ticker": " NVAX",
+            "count": 5
+        },
+        {
+            "ticker": " SHOP",
+            "count": 5
+        },
+        {
             "ticker": " SDC",
+            "count": 5
+        },
+        {
+            "ticker": " ATVI",
             "count": 5
         },
         {
@@ -157,11 +169,7 @@
             "count": 5
         },
         {
-            "ticker": " NVAX",
-            "count": 4
-        },
-        {
-            "ticker": " ATVI",
+            "ticker": " TSM",
             "count": 4
         },
         {
@@ -170,10 +178,6 @@
         },
         {
             "ticker": " INVE",
-            "count": 4
-        },
-        {
-            "ticker": " CASI",
             "count": 4
         },
         {
@@ -269,7 +273,7 @@
             "count": 3
         },
         {
-            "ticker": " SHOP",
+            "ticker": " PROF",
             "count": 3
         },
         {
@@ -289,11 +293,7 @@
             "count": 3
         },
         {
-            "ticker": " TDA",
-            "count": 3
-        },
-        {
-            "ticker": " OLED",
+            "ticker": " CASI",
             "count": 3
         },
         {
@@ -389,10 +389,6 @@
             "count": 3
         },
         {
-            "ticker": " TSM",
-            "count": 3
-        },
-        {
             "ticker": " INTC",
             "count": 3
         },
@@ -417,6 +413,10 @@
             "count": 3
         },
         {
+            "ticker": " TFC",
+            "count": 2
+        },
+        {
             "ticker": " MGNI",
             "count": 2
         },
@@ -426,6 +426,10 @@
         },
         {
             "ticker": " FUTU",
+            "count": 2
+        },
+        {
+            "ticker": " GDP",
             "count": 2
         },
         {
@@ -505,6 +509,10 @@
             "count": 2
         },
         {
+            "ticker": " OLED",
+            "count": 2
+        },
+        {
             "ticker": " ASML",
             "count": 2
         },
@@ -566,6 +574,10 @@
         },
         {
             "ticker": " TLSA",
+            "count": 2
+        },
+        {
+            "ticker": " TDA",
             "count": 2
         },
         {
@@ -670,10 +682,6 @@
         },
         {
             "ticker": " DDOG",
-            "count": 2
-        },
-        {
-            "ticker": " PROF",
             "count": 2
         },
         {
@@ -829,6 +837,10 @@
             "count": 2
         },
         {
+            "ticker": " MSM",
+            "count": 2
+        },
+        {
             "ticker": " HEXO",
             "count": 2
         },
@@ -838,6 +850,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 9579,
-    "datetime": "November 26 2021 at 07:17 EST"
+    "num_comments": 9725,
+    "datetime": "November 26 2021 at 08:17 EST"
 }

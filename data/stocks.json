@@ -2,30 +2,30 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 68
+            "count": 67
         },
         {
             "ticker": " NVDA",
-            "count": 45
+            "count": 43
         },
         {
             "ticker": " AMD",
             "count": 41
         },
         {
-            "ticker": " TSLA",
-            "count": 37
-        },
-        {
             "ticker": " AMC",
             "count": 35
         },
         {
-            "ticker": " PLTR",
-            "count": 29
+            "ticker": " TSLA",
+            "count": 33
         },
         {
             "ticker": " MSFT",
+            "count": 30
+        },
+        {
+            "ticker": " PLTR",
             "count": 29
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "ticker": " AAPL",
-            "count": 20
+            "count": 21
         },
         {
             "ticker": " AMZN",
@@ -54,7 +54,7 @@
         },
         {
             "ticker": " CLOV",
-            "count": 9
+            "count": 10
         },
         {
             "ticker": " PTON",
@@ -89,7 +89,7 @@
             "count": 6
         },
         {
-            "ticker": " NYC",
+            "ticker": " BMI",
             "count": 6
         },
         {
@@ -118,6 +118,10 @@
         },
         {
             "ticker": " SOFI",
+            "count": 5
+        },
+        {
+            "ticker": " NYC",
             "count": 5
         },
         {
@@ -161,15 +165,7 @@
             "count": 4
         },
         {
-            "ticker": " CASI",
-            "count": 4
-        },
-        {
             "ticker": " AFRM",
-            "count": 4
-        },
-        {
-            "ticker": " INTC",
             "count": 4
         },
         {
@@ -265,15 +261,15 @@
             "count": 3
         },
         {
-            "ticker": " EXPE",
-            "count": 3
-        },
-        {
             "ticker": " NVAX",
             "count": 3
         },
         {
             "ticker": " NHS",
+            "count": 3
+        },
+        {
+            "ticker": " CASI",
             "count": 3
         },
         {
@@ -290,10 +286,6 @@
         },
         {
             "ticker": " ABNB",
-            "count": 3
-        },
-        {
-            "ticker": " BMI",
             "count": 3
         },
         {
@@ -393,6 +385,10 @@
             "count": 3
         },
         {
+            "ticker": " INTC",
+            "count": 3
+        },
+        {
             "ticker": " CHWY",
             "count": 3
         },
@@ -453,6 +449,10 @@
             "count": 2
         },
         {
+            "ticker": " EXPE",
+            "count": 2
+        },
+        {
             "ticker": " NEM",
             "count": 2
         },
@@ -486,10 +486,6 @@
         },
         {
             "ticker": " LMFA",
-            "count": 2
-        },
-        {
-            "ticker": " SPOT",
             "count": 2
         },
         {
@@ -846,6 +842,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 9011,
-    "datetime": "November 26 2021 at 01:57 EST"
+    "num_comments": 9063,
+    "datetime": "November 26 2021 at 02:27 EST"
 }

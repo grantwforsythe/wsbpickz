@@ -2,23 +2,23 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 67
-        },
-        {
-            "ticker": " NVDA",
-            "count": 44
+            "count": 68
         },
         {
             "ticker": " AMC",
-            "count": 44
+            "count": 46
+        },
+        {
+            "ticker": " NVDA",
+            "count": 43
         },
         {
             "ticker": " AMD",
-            "count": 41
+            "count": 40
         },
         {
             "ticker": " TSLA",
-            "count": 34
+            "count": 33
         },
         {
             "ticker": " MSFT",
@@ -29,24 +29,24 @@
             "count": 25
         },
         {
-            "ticker": " NIO",
-            "count": 23
-        },
-        {
             "ticker": " AAPL",
             "count": 21
         },
         {
             "ticker": " AMZN",
-            "count": 17
+            "count": 18
         },
         {
             "ticker": " BABA",
-            "count": 15
+            "count": 16
         },
         {
             "ticker": " PYPL",
             "count": 15
+        },
+        {
+            "ticker": " NIO",
+            "count": 14
         },
         {
             "ticker": " PSTH",
@@ -69,10 +69,6 @@
             "count": 8
         },
         {
-            "ticker": " DKNG",
-            "count": 8
-        },
-        {
             "ticker": " RSI",
             "count": 8
         },
@@ -81,12 +77,24 @@
             "count": 8
         },
         {
+            "ticker": " UBER",
+            "count": 7
+        },
+        {
             "ticker": " AGC",
+            "count": 7
+        },
+        {
+            "ticker": " DKNG",
             "count": 7
         },
         {
             "ticker": " QCOM",
             "count": 7
+        },
+        {
+            "ticker": " SHOP",
+            "count": 6
         },
         {
             "ticker": " XPEV",
@@ -107,14 +115,6 @@
         {
             "ticker": " NAKD",
             "count": 6
-        },
-        {
-            "ticker": " NVAX",
-            "count": 5
-        },
-        {
-            "ticker": " SHOP",
-            "count": 5
         },
         {
             "ticker": " SDC",
@@ -161,10 +161,6 @@
             "count": 5
         },
         {
-            "ticker": " UBER",
-            "count": 5
-        },
-        {
             "ticker": " TTD",
             "count": 5
         },
@@ -174,10 +170,6 @@
         },
         {
             "ticker": " XOM",
-            "count": 4
-        },
-        {
-            "ticker": " INVE",
             "count": 4
         },
         {
@@ -265,6 +257,10 @@
             "count": 3
         },
         {
+            "ticker": " NVAX",
+            "count": 3
+        },
+        {
             "ticker": " DTE",
             "count": 3
         },
@@ -278,10 +274,6 @@
         },
         {
             "ticker": " TLRY",
-            "count": 3
-        },
-        {
-            "ticker": " CNA",
             "count": 3
         },
         {
@@ -413,6 +405,10 @@
             "count": 3
         },
         {
+            "ticker": " IAG",
+            "count": 2
+        },
+        {
             "ticker": " TFC",
             "count": 2
         },
@@ -449,6 +445,10 @@
             "count": 2
         },
         {
+            "ticker": " SBUX",
+            "count": 2
+        },
+        {
             "ticker": " CREE",
             "count": 2
         },
@@ -461,10 +461,6 @@
             "count": 2
         },
         {
-            "ticker": " EXPE",
-            "count": 2
-        },
-        {
             "ticker": " NEM",
             "count": 2
         },
@@ -473,11 +469,11 @@
             "count": 2
         },
         {
-            "ticker": " PLAG",
+            "ticker": " USB",
             "count": 2
         },
         {
-            "ticker": " ITT",
+            "ticker": " PLAG",
             "count": 2
         },
         {
@@ -494,6 +490,14 @@
         },
         {
             "ticker": " BBQ",
+            "count": 2
+        },
+        {
+            "ticker": " BIDU",
+            "count": 2
+        },
+        {
+            "ticker": " FSD",
             "count": 2
         },
         {
@@ -741,6 +745,10 @@
             "count": 2
         },
         {
+            "ticker": " INVE",
+            "count": 2
+        },
+        {
             "ticker": " TTCF",
             "count": 2
         },
@@ -850,6 +858,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 9725,
-    "datetime": "November 26 2021 at 08:17 EST"
+    "num_comments": 9827,
+    "datetime": "November 26 2021 at 09:17 EST"
 }

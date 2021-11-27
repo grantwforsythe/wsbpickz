@@ -2,18 +2,22 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 54
+            "count": 56
         },
         {
             "ticker": " AMD",
-            "count": 36
+            "count": 37
+        },
+        {
+            "ticker": " AMC",
+            "count": 30
         },
         {
             "ticker": " MSFT",
             "count": 30
         },
         {
-            "ticker": " AMC",
+            "ticker": " NVDA",
             "count": 29
         },
         {
@@ -21,16 +25,12 @@
             "count": 29
         },
         {
-            "ticker": " NVDA",
-            "count": 28
-        },
-        {
             "ticker": " PLTR",
             "count": 26
         },
         {
             "ticker": " MRNA",
-            "count": 24
+            "count": 25
         },
         {
             "ticker": " AAPL",
@@ -154,10 +154,6 @@
         },
         {
             "ticker": " LOGI",
-            "count": 4
-        },
-        {
-            "ticker": " CGC",
             "count": 4
         },
         {
@@ -373,6 +369,10 @@
             "count": 2
         },
         {
+            "ticker": " GDP",
+            "count": 2
+        },
+        {
             "ticker": " API",
             "count": 2
         },
@@ -410,10 +410,6 @@
         },
         {
             "ticker": " DOOO",
-            "count": 2
-        },
-        {
-            "ticker": " CPA",
             "count": 2
         },
         {
@@ -725,6 +721,10 @@
             "count": 2
         },
         {
+            "ticker": " CGC",
+            "count": 2
+        },
+        {
             "ticker": " LAZR",
             "count": 2
         },
@@ -738,6 +738,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7404,
-    "datetime": "November 27 2021 at 18:17 EST"
+    "num_comments": 7658,
+    "datetime": "November 27 2021 at 19:09 EST"
 }

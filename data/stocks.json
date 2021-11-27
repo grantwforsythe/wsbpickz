@@ -2,18 +2,18 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 61
+            "count": 62
         },
         {
             "ticker": " TSLA",
             "count": 34
         },
         {
-            "ticker": " NVDA",
-            "count": 32
+            "ticker": " MSFT",
+            "count": 33
         },
         {
-            "ticker": " MSFT",
+            "ticker": " NVDA",
             "count": 32
         },
         {
@@ -22,7 +22,7 @@
         },
         {
             "ticker": " AMC",
-            "count": 25
+            "count": 24
         },
         {
             "ticker": " AMD",
@@ -34,7 +34,7 @@
         },
         {
             "ticker": " MRNA",
-            "count": 17
+            "count": 18
         },
         {
             "ticker": " AMZN",
@@ -53,12 +53,12 @@
             "count": 14
         },
         {
-            "ticker": " BABA",
-            "count": 12
+            "ticker": " PFE",
+            "count": 13
         },
         {
-            "ticker": " PFE",
-            "count": 10
+            "ticker": " BABA",
+            "count": 12
         },
         {
             "ticker": " BNTX",
@@ -69,12 +69,12 @@
             "count": 10
         },
         {
-            "ticker": " DIS",
+            "ticker": " DTE",
             "count": 9
         },
         {
-            "ticker": " DTE",
-            "count": 8
+            "ticker": " DIS",
+            "count": 9
         },
         {
             "ticker": " CAT",
@@ -382,6 +382,10 @@
         },
         {
             "ticker": " PVH",
+            "count": 2
+        },
+        {
+            "ticker": " RNG",
             "count": 2
         },
         {
@@ -762,6 +766,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7717,
-    "datetime": "November 27 2021 at 06:17 EST"
+    "num_comments": 7841,
+    "datetime": "November 27 2021 at 07:17 EST"
 }

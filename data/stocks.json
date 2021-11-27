@@ -2,35 +2,35 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 56
+            "count": 54
         },
         {
             "ticker": " AMD",
-            "count": 34
-        },
-        {
-            "ticker": " TSLA",
-            "count": 32
+            "count": 36
         },
         {
             "ticker": " MSFT",
-            "count": 31
+            "count": 30
         },
         {
             "ticker": " AMC",
             "count": 29
         },
         {
-            "ticker": " NVDA",
+            "ticker": " TSLA",
             "count": 29
         },
         {
+            "ticker": " NVDA",
+            "count": 28
+        },
+        {
             "ticker": " PLTR",
-            "count": 24
+            "count": 26
         },
         {
             "ticker": " MRNA",
-            "count": 19
+            "count": 24
         },
         {
             "ticker": " AAPL",
@@ -61,10 +61,6 @@
             "count": 10
         },
         {
-            "ticker": " DIS",
-            "count": 9
-        },
-        {
             "ticker": " RSI",
             "count": 9
         },
@@ -73,11 +69,23 @@
             "count": 8
         },
         {
+            "ticker": " DIS",
+            "count": 8
+        },
+        {
+            "ticker": " NVAX",
+            "count": 7
+        },
+        {
             "ticker": " UPS",
             "count": 7
         },
         {
-            "ticker": " NVAX",
+            "ticker": " TLRY",
+            "count": 6
+        },
+        {
+            "ticker": " DTE",
             "count": 6
         },
         {
@@ -97,11 +105,7 @@
             "count": 6
         },
         {
-            "ticker": " TLRY",
-            "count": 5
-        },
-        {
-            "ticker": " DTE",
+            "ticker": " CRSR",
             "count": 5
         },
         {
@@ -145,19 +149,11 @@
             "count": 5
         },
         {
-            "ticker": " SHOP",
-            "count": 4
-        },
-        {
             "ticker": " CRM",
             "count": 4
         },
         {
             "ticker": " LOGI",
-            "count": 4
-        },
-        {
-            "ticker": " CRSR",
             "count": 4
         },
         {
@@ -170,6 +166,14 @@
         },
         {
             "ticker": " XOM",
+            "count": 4
+        },
+        {
+            "ticker": " MRK",
+            "count": 4
+        },
+        {
+            "ticker": " MSM",
             "count": 4
         },
         {
@@ -241,10 +245,6 @@
             "count": 3
         },
         {
-            "ticker": " CRSP",
-            "count": 3
-        },
-        {
             "ticker": " VIE",
             "count": 3
         },
@@ -254,10 +254,6 @@
         },
         {
             "ticker": " THC",
-            "count": 3
-        },
-        {
-            "ticker": " MSM",
             "count": 3
         },
         {
@@ -282,10 +278,6 @@
         },
         {
             "ticker": " CHWY",
-            "count": 3
-        },
-        {
-            "ticker": " MRK",
             "count": 3
         },
         {
@@ -318,10 +310,6 @@
         },
         {
             "ticker": " HPQ",
-            "count": 3
-        },
-        {
-            "ticker": " TDA",
             "count": 3
         },
         {
@@ -381,7 +369,7 @@
             "count": 2
         },
         {
-            "ticker": " DCF",
+            "ticker": " XLNX",
             "count": 2
         },
         {
@@ -410,6 +398,10 @@
         },
         {
             "ticker": " TWTR",
+            "count": 2
+        },
+        {
+            "ticker": " TSE",
             "count": 2
         },
         {
@@ -509,6 +501,10 @@
             "count": 2
         },
         {
+            "ticker": " SHOP",
+            "count": 2
+        },
+        {
             "ticker": " ASX",
             "count": 2
         },
@@ -530,6 +526,10 @@
         },
         {
             "ticker": " TLSA",
+            "count": 2
+        },
+        {
+            "ticker": " TDA",
             "count": 2
         },
         {
@@ -733,11 +733,11 @@
             "count": 2
         },
         {
-            "ticker": " CTB",
+            "ticker": " ERC",
             "count": 2
         }
     ],
     "num_posts": 160,
-    "num_comments": 7478,
-    "datetime": "November 27 2021 at 17:17 EST"
+    "num_comments": 7404,
+    "datetime": "November 27 2021 at 18:17 EST"
 }

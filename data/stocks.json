@@ -2,14 +2,18 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 56
+            "count": 62
         },
         {
             "ticker": " AMD",
-            "count": 37
+            "count": 39
         },
         {
             "ticker": " AMC",
+            "count": 31
+        },
+        {
+            "ticker": " TSLA",
             "count": 30
         },
         {
@@ -21,28 +25,24 @@
             "count": 29
         },
         {
-            "ticker": " TSLA",
-            "count": 29
-        },
-        {
             "ticker": " PLTR",
-            "count": 26
+            "count": 27
         },
         {
             "ticker": " MRNA",
-            "count": 25
+            "count": 24
         },
         {
             "ticker": " AAPL",
             "count": 19
         },
         {
-            "ticker": " PSTH",
+            "ticker": " PYPL",
             "count": 16
         },
         {
-            "ticker": " PYPL",
-            "count": 15
+            "ticker": " PSTH",
+            "count": 16
         },
         {
             "ticker": " AMZN",
@@ -85,10 +85,6 @@
             "count": 6
         },
         {
-            "ticker": " DTE",
-            "count": 6
-        },
-        {
             "ticker": " GOOG",
             "count": 6
         },
@@ -106,6 +102,10 @@
         },
         {
             "ticker": " CRSR",
+            "count": 5
+        },
+        {
+            "ticker": " DTE",
             "count": 5
         },
         {
@@ -253,6 +253,14 @@
             "count": 3
         },
         {
+            "ticker": " PIPP",
+            "count": 3
+        },
+        {
+            "ticker": " BBQ",
+            "count": 3
+        },
+        {
             "ticker": " AAL",
             "count": 3
         },
@@ -349,6 +357,10 @@
             "count": 3
         },
         {
+            "ticker": " STON",
+            "count": 3
+        },
+        {
             "ticker": " BNGO",
             "count": 3
         },
@@ -362,6 +374,10 @@
         },
         {
             "ticker": " ARCO",
+            "count": 2
+        },
+        {
+            "ticker": " INO",
             "count": 2
         },
         {
@@ -581,10 +597,6 @@
             "count": 2
         },
         {
-            "ticker": " PIPP",
-            "count": 2
-        },
-        {
             "ticker": " FOSL",
             "count": 2
         },
@@ -701,10 +713,6 @@
             "count": 2
         },
         {
-            "ticker": " STON",
-            "count": 2
-        },
-        {
             "ticker": " BBY",
             "count": 2
         },
@@ -735,9 +743,13 @@
         {
             "ticker": " ERC",
             "count": 2
+        },
+        {
+            "ticker": " TTM",
+            "count": 2
         }
     ],
     "num_posts": 160,
-    "num_comments": 7658,
-    "datetime": "November 27 2021 at 19:09 EST"
+    "num_comments": 7949,
+    "datetime": "November 27 2021 at 20:17 EST"
 }

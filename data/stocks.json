@@ -2,19 +2,19 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 63
+            "count": 62
         },
         {
             "ticker": " TSLA",
             "count": 33
         },
         {
-            "ticker": " MSFT",
+            "ticker": " NVDA",
             "count": 31
         },
         {
-            "ticker": " NVDA",
-            "count": 30
+            "ticker": " MSFT",
+            "count": 31
         },
         {
             "ticker": " PLTR",
@@ -22,11 +22,11 @@
         },
         {
             "ticker": " AMC",
-            "count": 27
+            "count": 28
         },
         {
             "ticker": " AAPL",
-            "count": 24
+            "count": 25
         },
         {
             "ticker": " AMD",
@@ -42,11 +42,11 @@
         },
         {
             "ticker": " MRNA",
-            "count": 15
+            "count": 14
         },
         {
             "ticker": " PTON",
-            "count": 13
+            "count": 14
         },
         {
             "ticker": " PSTH",
@@ -57,10 +57,6 @@
             "count": 12
         },
         {
-            "ticker": " BNTX",
-            "count": 9
-        },
-        {
             "ticker": " RSI",
             "count": 9
         },
@@ -69,8 +65,16 @@
             "count": 9
         },
         {
+            "ticker": " BNTX",
+            "count": 8
+        },
+        {
             "ticker": " CAT",
             "count": 8
+        },
+        {
+            "ticker": " PFE",
+            "count": 7
         },
         {
             "ticker": " GOOG",
@@ -91,10 +95,6 @@
         {
             "ticker": " SPR",
             "count": 6
-        },
-        {
-            "ticker": " PFE",
-            "count": 5
         },
         {
             "ticker": " MORN",
@@ -137,7 +137,7 @@
             "count": 5
         },
         {
-            "ticker": " CASI",
+            "ticker": " SNDL",
             "count": 4
         },
         {
@@ -237,19 +237,15 @@
             "count": 3
         },
         {
-            "ticker": " SNDL",
-            "count": 3
-        },
-        {
             "ticker": " NVAX",
             "count": 3
         },
         {
-            "ticker": " TDA",
+            "ticker": " CASI",
             "count": 3
         },
         {
-            "ticker": " PROF",
+            "ticker": " TDOC",
             "count": 3
         },
         {
@@ -317,6 +313,10 @@
             "count": 3
         },
         {
+            "ticker": " TDA",
+            "count": 3
+        },
+        {
             "ticker": " UPST",
             "count": 3
         },
@@ -377,6 +377,10 @@
             "count": 3
         },
         {
+            "ticker": " III",
+            "count": 2
+        },
+        {
             "ticker": " EXPE",
             "count": 2
         },
@@ -386,6 +390,10 @@
         },
         {
             "ticker": " CRUS",
+            "count": 2
+        },
+        {
+            "ticker": " SMBC",
             "count": 2
         },
         {
@@ -577,10 +585,6 @@
             "count": 2
         },
         {
-            "ticker": " TDOC",
-            "count": 2
-        },
-        {
             "ticker": " OKTA",
             "count": 2
         },
@@ -634,6 +638,10 @@
         },
         {
             "ticker": " DDOG",
+            "count": 2
+        },
+        {
+            "ticker": " PROF",
             "count": 2
         },
         {
@@ -733,6 +741,14 @@
             "count": 2
         },
         {
+            "ticker": " MSM",
+            "count": 2
+        },
+        {
+            "ticker": " CTB",
+            "count": 2
+        },
+        {
             "ticker": " IEX",
             "count": 2
         },
@@ -742,6 +758,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7470,
-    "datetime": "November 26 2021 at 23:17 EST"
+    "num_comments": 7732,
+    "datetime": "November 27 2021 at 00:38 EST"
 }

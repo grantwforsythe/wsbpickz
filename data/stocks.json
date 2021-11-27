@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 60
+            "count": 54
         },
         {
             "ticker": " MSFT",
@@ -21,15 +21,15 @@
             "count": 26
         },
         {
-            "ticker": " AMC",
-            "count": 25
-        },
-        {
             "ticker": " AMD",
             "count": 24
         },
         {
             "ticker": " AAPL",
+            "count": 23
+        },
+        {
+            "ticker": " AMC",
             "count": 23
         },
         {
@@ -57,11 +57,11 @@
             "count": 13
         },
         {
-            "ticker": " BABA",
-            "count": 12
+            "ticker": " BNTX",
+            "count": 11
         },
         {
-            "ticker": " BNTX",
+            "ticker": " BABA",
             "count": 11
         },
         {
@@ -81,10 +81,6 @@
             "count": 7
         },
         {
-            "ticker": " DTE",
-            "count": 6
-        },
-        {
             "ticker": " GOOG",
             "count": 6
         },
@@ -99,6 +95,10 @@
         {
             "ticker": " SPR",
             "count": 6
+        },
+        {
+            "ticker": " DTE",
+            "count": 5
         },
         {
             "ticker": " HOOD",
@@ -241,6 +241,10 @@
             "count": 4
         },
         {
+            "ticker": " TLRY",
+            "count": 3
+        },
+        {
             "ticker": " VIE",
             "count": 3
         },
@@ -254,14 +258,6 @@
         },
         {
             "ticker": " ORAN",
-            "count": 3
-        },
-        {
-            "ticker": " BZUN",
-            "count": 3
-        },
-        {
-            "ticker": " PDD",
             "count": 3
         },
         {
@@ -401,6 +397,10 @@
             "count": 2
         },
         {
+            "ticker": " CIA",
+            "count": 2
+        },
+        {
             "ticker": " MIC",
             "count": 2
         },
@@ -526,10 +526,6 @@
         },
         {
             "ticker": " CRM",
-            "count": 2
-        },
-        {
-            "ticker": " TLRY",
             "count": 2
         },
         {
@@ -681,6 +677,10 @@
             "count": 2
         },
         {
+            "ticker": " PDD",
+            "count": 2
+        },
+        {
             "ticker": " BHP",
             "count": 2
         },
@@ -774,6 +774,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7791,
-    "datetime": "November 27 2021 at 10:17 EST"
+    "num_comments": 7798,
+    "datetime": "November 27 2021 at 11:16 EST"
 }

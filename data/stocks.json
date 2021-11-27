@@ -2,39 +2,39 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 52
+            "count": 53
         },
         {
             "ticker": " AMD",
-            "count": 31
+            "count": 32
         },
         {
             "ticker": " MSFT",
             "count": 31
         },
         {
+            "ticker": " TSLA",
+            "count": 30
+        },
+        {
             "ticker": " NVDA",
             "count": 29
-        },
-        {
-            "ticker": " TSLA",
-            "count": 29
-        },
-        {
-            "ticker": " AMC",
-            "count": 24
         },
         {
             "ticker": " PLTR",
             "count": 24
         },
         {
-            "ticker": " AAPL",
-            "count": 18
+            "ticker": " AMC",
+            "count": 24
         },
         {
             "ticker": " MRNA",
-            "count": 17
+            "count": 18
+        },
+        {
+            "ticker": " AAPL",
+            "count": 18
         },
         {
             "ticker": " PSTH",
@@ -57,16 +57,16 @@
             "count": 13
         },
         {
+            "ticker": " BNTX",
+            "count": 11
+        },
+        {
             "ticker": " BABA",
             "count": 10
         },
         {
             "ticker": " RSI",
             "count": 9
-        },
-        {
-            "ticker": " BNTX",
-            "count": 8
         },
         {
             "ticker": " DIS",
@@ -141,6 +141,10 @@
             "count": 5
         },
         {
+            "ticker": " NVAX",
+            "count": 4
+        },
+        {
             "ticker": " XOM",
             "count": 4
         },
@@ -213,7 +217,19 @@
             "count": 3
         },
         {
+            "ticker": " CGC",
+            "count": 3
+        },
+        {
             "ticker": " VIE",
+            "count": 3
+        },
+        {
+            "ticker": " STON",
+            "count": 3
+        },
+        {
+            "ticker": " ORAN",
             "count": 3
         },
         {
@@ -337,15 +353,31 @@
             "count": 2
         },
         {
+            "ticker": " DENN",
+            "count": 2
+        },
+        {
             "ticker": " TWTR",
             "count": 2
         },
         {
-            "ticker": " RNA",
+            "ticker": " CIA",
             "count": 2
         },
         {
-            "ticker": " NVAX",
+            "ticker": " MIC",
+            "count": 2
+        },
+        {
+            "ticker": " III",
+            "count": 2
+        },
+        {
+            "ticker": " STOR",
+            "count": 2
+        },
+        {
+            "ticker": " RNA",
             "count": 2
         },
         {
@@ -673,10 +705,6 @@
             "count": 2
         },
         {
-            "ticker": " STON",
-            "count": 2
-        },
-        {
             "ticker": " BBY",
             "count": 2
         },
@@ -690,10 +718,6 @@
         },
         {
             "ticker": " COO",
-            "count": 2
-        },
-        {
-            "ticker": " CGC",
             "count": 2
         },
         {
@@ -718,6 +742,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6987,
-    "datetime": "November 27 2021 at 13:17 EST"
+    "num_comments": 7528,
+    "datetime": "November 27 2021 at 14:17 EST"
 }

@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 59
+            "count": 57
         },
         {
             "ticker": " AMD",
@@ -10,11 +10,7 @@
         },
         {
             "ticker": " PLTR",
-            "count": 38
-        },
-        {
-            "ticker": " AMC",
-            "count": 33
+            "count": 39
         },
         {
             "ticker": " NVDA",
@@ -29,8 +25,12 @@
             "count": 31
         },
         {
+            "ticker": " AMC",
+            "count": 28
+        },
+        {
             "ticker": " MRNA",
-            "count": 24
+            "count": 25
         },
         {
             "ticker": " AAPL",
@@ -145,6 +145,10 @@
             "count": 5
         },
         {
+            "ticker": " NYC",
+            "count": 5
+        },
+        {
             "ticker": " MORN",
             "count": 5
         },
@@ -233,10 +237,6 @@
             "count": 4
         },
         {
-            "ticker": " NYC",
-            "count": 4
-        },
-        {
             "ticker": " ADSK",
             "count": 4
         },
@@ -294,10 +294,6 @@
         },
         {
             "ticker": " THC",
-            "count": 3
-        },
-        {
-            "ticker": " MSM",
             "count": 3
         },
         {
@@ -458,6 +454,10 @@
         },
         {
             "ticker": " GNRC",
+            "count": 2
+        },
+        {
+            "ticker": " MSM",
             "count": 2
         },
         {
@@ -778,6 +778,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8696,
-    "datetime": "November 28 2021 at 03:17 EST"
+    "num_comments": 8808,
+    "datetime": "November 28 2021 at 04:17 EST"
 }

@@ -2,27 +2,27 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 57
+            "count": 59
         },
         {
             "ticker": " AMD",
-            "count": 47
+            "count": 48
         },
         {
             "ticker": " PLTR",
             "count": 39
         },
         {
+            "ticker": " NVDA",
+            "count": 33
+        },
+        {
             "ticker": " TSLA",
             "count": 32
         },
         {
-            "ticker": " NVDA",
-            "count": 32
-        },
-        {
             "ticker": " MSFT",
-            "count": 31
+            "count": 30
         },
         {
             "ticker": " AMC",
@@ -30,7 +30,7 @@
         },
         {
             "ticker": " MRNA",
-            "count": 24
+            "count": 23
         },
         {
             "ticker": " AAPL",
@@ -201,15 +201,7 @@
             "count": 4
         },
         {
-            "ticker": " PIPP",
-            "count": 4
-        },
-        {
             "ticker": " CHWY",
-            "count": 4
-        },
-        {
-            "ticker": " MRK",
             "count": 4
         },
         {
@@ -313,11 +305,19 @@
             "count": 3
         },
         {
+            "ticker": " PIPP",
+            "count": 3
+        },
+        {
             "ticker": " DAL",
             "count": 3
         },
         {
             "ticker": " ATVI",
+            "count": 3
+        },
+        {
+            "ticker": " MRK",
             "count": 3
         },
         {
@@ -373,6 +373,10 @@
             "count": 3
         },
         {
+            "ticker": " FSD",
+            "count": 2
+        },
+        {
             "ticker": " GOEV",
             "count": 2
         },
@@ -381,7 +385,15 @@
             "count": 2
         },
         {
+            "ticker": " CRIS",
+            "count": 2
+        },
+        {
             "ticker": " INOV",
+            "count": 2
+        },
+        {
+            "ticker": " SRNE",
             "count": 2
         },
         {
@@ -393,15 +405,15 @@
             "count": 2
         },
         {
+            "ticker": " SWBI",
+            "count": 2
+        },
+        {
             "ticker": " SPLK",
             "count": 2
         },
         {
             "ticker": " ULTA",
-            "count": 2
-        },
-        {
-            "ticker": " SWBI",
             "count": 2
         },
         {
@@ -787,9 +799,13 @@
         {
             "ticker": " TTM",
             "count": 2
+        },
+        {
+            "ticker": " LYV",
+            "count": 2
         }
     ],
     "num_posts": 160,
-    "num_comments": 8987,
-    "datetime": "November 28 2021 at 06:17 EST"
+    "num_comments": 9133,
+    "datetime": "November 28 2021 at 07:17 EST"
 }

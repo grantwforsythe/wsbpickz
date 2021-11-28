@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 59
+            "count": 62
         },
         {
             "ticker": " AMD",
@@ -21,16 +21,16 @@
             "count": 32
         },
         {
+            "ticker": " AMC",
+            "count": 30
+        },
+        {
             "ticker": " MSFT",
             "count": 30
         },
         {
-            "ticker": " AMC",
-            "count": 29
-        },
-        {
             "ticker": " MRNA",
-            "count": 24
+            "count": 23
         },
         {
             "ticker": " AAPL",
@@ -49,10 +49,6 @@
             "count": 16
         },
         {
-            "ticker": " PFE",
-            "count": 15
-        },
-        {
             "ticker": " AMZN",
             "count": 15
         },
@@ -61,15 +57,19 @@
             "count": 14
         },
         {
+            "ticker": " PFE",
+            "count": 14
+        },
+        {
+            "ticker": " BABA",
+            "count": 11
+        },
+        {
             "ticker": " BNTX",
             "count": 10
         },
         {
             "ticker": " RSI",
-            "count": 10
-        },
-        {
-            "ticker": " BABA",
             "count": 10
         },
         {
@@ -89,6 +89,10 @@
             "count": 7
         },
         {
+            "ticker": " CRWD",
+            "count": 7
+        },
+        {
             "ticker": " UPS",
             "count": 7
         },
@@ -97,7 +101,7 @@
             "count": 6
         },
         {
-            "ticker": " CRWD",
+            "ticker": " DOCU",
             "count": 6
         },
         {
@@ -123,6 +127,14 @@
         {
             "ticker": " DKNG",
             "count": 6
+        },
+        {
+            "ticker": " SDC",
+            "count": 5
+        },
+        {
+            "ticker": " CRM",
+            "count": 5
         },
         {
             "ticker": " GDP",
@@ -165,10 +177,6 @@
             "count": 5
         },
         {
-            "ticker": " SDC",
-            "count": 4
-        },
-        {
             "ticker": " SNDL",
             "count": 4
         },
@@ -185,15 +193,7 @@
             "count": 4
         },
         {
-            "ticker": " CRM",
-            "count": 4
-        },
-        {
             "ticker": " PVH",
-            "count": 4
-        },
-        {
-            "ticker": " DOCU",
             "count": 4
         },
         {
@@ -377,6 +377,10 @@
             "count": 3
         },
         {
+            "ticker": " JMIA",
+            "count": 2
+        },
+        {
             "ticker": " FSD",
             "count": 2
         },
@@ -422,6 +426,10 @@
         },
         {
             "ticker": " ULTA",
+            "count": 2
+        },
+        {
+            "ticker": " MRVL",
             "count": 2
         },
         {
@@ -806,6 +814,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 9269,
-    "datetime": "November 28 2021 at 08:17 EST"
+    "num_comments": 9390,
+    "datetime": "November 28 2021 at 09:17 EST"
 }

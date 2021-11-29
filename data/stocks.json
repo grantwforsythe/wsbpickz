@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 98
+            "count": 106
         },
         {
             "ticker": " AMC",
-            "count": 43
+            "count": 51
         },
         {
             "ticker": " TSLA",
@@ -25,15 +25,15 @@
             "count": 24
         },
         {
+            "ticker": " PLTR",
+            "count": 20
+        },
+        {
             "ticker": " PTON",
             "count": 20
         },
         {
             "ticker": " BABA",
-            "count": 19
-        },
-        {
-            "ticker": " PLTR",
             "count": 19
         },
         {
@@ -49,11 +49,11 @@
             "count": 16
         },
         {
-            "ticker": " AAPL",
-            "count": 13
+            "ticker": " NIO",
+            "count": 12
         },
         {
-            "ticker": " NIO",
+            "ticker": " AAPL",
             "count": 12
         },
         {
@@ -61,11 +61,11 @@
             "count": 11
         },
         {
-            "ticker": " PYPL",
-            "count": 9
+            "ticker": " DIS",
+            "count": 10
         },
         {
-            "ticker": " DIS",
+            "ticker": " PYPL",
             "count": 9
         },
         {
@@ -123,10 +123,6 @@
         {
             "ticker": " NAV",
             "count": 5
-        },
-        {
-            "ticker": " FUTU",
-            "count": 4
         },
         {
             "ticker": " HAPP",
@@ -226,6 +222,10 @@
         },
         {
             "ticker": " LEVI",
+            "count": 3
+        },
+        {
+            "ticker": " FUTU",
             "count": 3
         },
         {
@@ -329,6 +329,10 @@
             "count": 3
         },
         {
+            "ticker": " SNDL",
+            "count": 3
+        },
+        {
             "ticker": " HYLN",
             "count": 2
         },
@@ -357,15 +361,15 @@
             "count": 2
         },
         {
-            "ticker": " NNN",
-            "count": 2
-        },
-        {
             "ticker": " CBOE",
             "count": 2
         },
         {
             "ticker": " VALU",
+            "count": 2
+        },
+        {
+            "ticker": " INTC",
             "count": 2
         },
         {
@@ -601,10 +605,6 @@
             "count": 2
         },
         {
-            "ticker": " SNDL",
-            "count": 2
-        },
-        {
             "ticker": " RAVE",
             "count": 2
         },
@@ -646,6 +646,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8652,
-    "datetime": "November 29 2021 at 05:17 EST"
+    "num_comments": 8800,
+    "datetime": "November 29 2021 at 06:17 EST"
 }

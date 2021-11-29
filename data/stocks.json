@@ -2,23 +2,23 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 76
+            "count": 89
         },
         {
             "ticker": " TSLA",
             "count": 32
         },
         {
-            "ticker": " NVDA",
-            "count": 29
-        },
-        {
             "ticker": " AMC",
-            "count": 28
+            "count": 31
         },
         {
             "ticker": " MRNA",
-            "count": 28
+            "count": 31
+        },
+        {
+            "ticker": " NVDA",
+            "count": 29
         },
         {
             "ticker": " AMD",
@@ -38,7 +38,7 @@
         },
         {
             "ticker": " BABA",
-            "count": 17
+            "count": 18
         },
         {
             "ticker": " PSTH",
@@ -49,6 +49,14 @@
             "count": 16
         },
         {
+            "ticker": " PFE",
+            "count": 15
+        },
+        {
+            "ticker": " AAPL",
+            "count": 14
+        },
+        {
             "ticker": " NYC",
             "count": 13
         },
@@ -57,7 +65,7 @@
             "count": 12
         },
         {
-            "ticker": " AAPL",
+            "ticker": " INO",
             "count": 12
         },
         {
@@ -65,11 +73,7 @@
             "count": 11
         },
         {
-            "ticker": " INO",
-            "count": 11
-        },
-        {
-            "ticker": " PFE",
+            "ticker": " PYPL",
             "count": 10
         },
         {
@@ -81,15 +85,19 @@
             "count": 9
         },
         {
-            "ticker": " PYPL",
-            "count": 8
-        },
-        {
             "ticker": " RKT",
             "count": 7
         },
         {
             "ticker": " BMI",
+            "count": 6
+        },
+        {
+            "ticker": " VOC",
+            "count": 6
+        },
+        {
+            "ticker": " MRK",
             "count": 6
         },
         {
@@ -157,10 +165,6 @@
             "count": 4
         },
         {
-            "ticker": " MRK",
-            "count": 4
-        },
-        {
             "ticker": " CVS",
             "count": 4
         },
@@ -221,6 +225,10 @@
             "count": 3
         },
         {
+            "ticker": " SPCE",
+            "count": 3
+        },
+        {
             "ticker": " STRA",
             "count": 3
         },
@@ -258,6 +266,14 @@
         },
         {
             "ticker": " RNA",
+            "count": 3
+        },
+        {
+            "ticker": " AMER",
+            "count": 3
+        },
+        {
+            "ticker": " MSM",
             "count": 3
         },
         {
@@ -337,11 +353,7 @@
             "count": 3
         },
         {
-            "ticker": " STON",
-            "count": 3
-        },
-        {
-            "ticker": " SPCE",
+            "ticker": " HYLN",
             "count": 2
         },
         {
@@ -370,10 +382,6 @@
         },
         {
             "ticker": " ROOT",
-            "count": 2
-        },
-        {
-            "ticker": " INSI",
             "count": 2
         },
         {
@@ -409,7 +417,11 @@
             "count": 2
         },
         {
-            "ticker": " PSTG",
+            "ticker": " SRNE",
+            "count": 2
+        },
+        {
+            "ticker": " TIMB",
             "count": 2
         },
         {
@@ -417,7 +429,7 @@
             "count": 2
         },
         {
-            "ticker": " TIMB",
+            "ticker": " PSTG",
             "count": 2
         },
         {
@@ -426,10 +438,6 @@
         },
         {
             "ticker": " OMI",
-            "count": 2
-        },
-        {
-            "ticker": " MSM",
             "count": 2
         },
         {
@@ -541,10 +549,6 @@
             "count": 2
         },
         {
-            "ticker": " AMER",
-            "count": 2
-        },
-        {
             "ticker": " HOLI",
             "count": 2
         },
@@ -637,6 +641,10 @@
             "count": 2
         },
         {
+            "ticker": " STON",
+            "count": 2
+        },
+        {
             "ticker": " BBY",
             "count": 2
         },
@@ -667,17 +675,9 @@
         {
             "ticker": " NAKD",
             "count": 2
-        },
-        {
-            "ticker": " COP",
-            "count": 2
-        },
-        {
-            "ticker": " ERC",
-            "count": 2
         }
     ],
     "num_posts": 160,
-    "num_comments": 9322,
-    "datetime": "November 29 2021 at 02:28 EST"
+    "num_comments": 9607,
+    "datetime": "November 29 2021 at 03:17 EST"
 }

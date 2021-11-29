@@ -2,42 +2,42 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 91
+            "count": 98
         },
         {
             "ticker": " AMC",
-            "count": 33
+            "count": 43
         },
         {
             "ticker": " TSLA",
-            "count": 33
+            "count": 35
         },
         {
             "ticker": " NVDA",
             "count": 31
         },
         {
-            "ticker": " MRNA",
-            "count": 28
-        },
-        {
             "ticker": " AMD",
-            "count": 26
+            "count": 27
         },
         {
             "ticker": " MSFT",
             "count": 24
         },
         {
-            "ticker": " BABA",
-            "count": 20
-        },
-        {
             "ticker": " PTON",
             "count": 20
         },
         {
+            "ticker": " BABA",
+            "count": 19
+        },
+        {
             "ticker": " PLTR",
+            "count": 19
+        },
+        {
+            "ticker": " MRNA",
             "count": 19
         },
         {
@@ -49,15 +49,11 @@
             "count": 16
         },
         {
-            "ticker": " NYC",
-            "count": 14
+            "ticker": " AAPL",
+            "count": 13
         },
         {
             "ticker": " NIO",
-            "count": 12
-        },
-        {
-            "ticker": " AAPL",
             "count": 12
         },
         {
@@ -69,16 +65,16 @@
             "count": 9
         },
         {
-            "ticker": " PFE",
+            "ticker": " DIS",
             "count": 9
+        },
+        {
+            "ticker": " PFE",
+            "count": 8
         },
         {
             "ticker": " BNTX",
-            "count": 9
-        },
-        {
-            "ticker": " DIS",
-            "count": 9
+            "count": 8
         },
         {
             "ticker": " RKT",
@@ -86,6 +82,10 @@
         },
         {
             "ticker": " BMI",
+            "count": 6
+        },
+        {
+            "ticker": " NYC",
             "count": 6
         },
         {
@@ -105,6 +105,10 @@
             "count": 6
         },
         {
+            "ticker": " NVAX",
+            "count": 5
+        },
+        {
             "ticker": " DTE",
             "count": 5
         },
@@ -121,15 +125,7 @@
             "count": 5
         },
         {
-            "ticker": " AAL",
-            "count": 4
-        },
-        {
             "ticker": " FUTU",
-            "count": 4
-        },
-        {
-            "ticker": " CASI",
             "count": 4
         },
         {
@@ -142,18 +138,6 @@
         },
         {
             "ticker": " AFRM",
-            "count": 4
-        },
-        {
-            "ticker": " THC",
-            "count": 4
-        },
-        {
-            "ticker": " NYT",
-            "count": 4
-        },
-        {
-            "ticker": " NVAX",
             "count": 4
         },
         {
@@ -265,6 +249,14 @@
             "count": 3
         },
         {
+            "ticker": " CASI",
+            "count": 3
+        },
+        {
+            "ticker": " THC",
+            "count": 3
+        },
+        {
             "ticker": " CRSR",
             "count": 3
         },
@@ -349,6 +341,10 @@
             "count": 2
         },
         {
+            "ticker": " OMEG",
+            "count": 2
+        },
+        {
             "ticker": " CYBE",
             "count": 2
         },
@@ -362,10 +358,6 @@
         },
         {
             "ticker": " NNN",
-            "count": 2
-        },
-        {
-            "ticker": " WEN",
             "count": 2
         },
         {
@@ -385,39 +377,15 @@
             "count": 2
         },
         {
-            "ticker": " QUOT",
-            "count": 2
-        },
-        {
-            "ticker": " UNIT",
-            "count": 2
-        },
-        {
-            "ticker": " DAUG",
-            "count": 2
-        },
-        {
-            "ticker": " DHR",
-            "count": 2
-        },
-        {
-            "ticker": " HCA",
-            "count": 2
-        },
-        {
-            "ticker": " GDP",
-            "count": 2
-        },
-        {
-            "ticker": " USB",
-            "count": 2
-        },
-        {
             "ticker": " TIMB",
             "count": 2
         },
         {
             "ticker": " III",
+            "count": 2
+        },
+        {
+            "ticker": " NYT",
             "count": 2
         },
         {
@@ -454,6 +422,10 @@
         },
         {
             "ticker": " CLX",
+            "count": 2
+        },
+        {
+            "ticker": " AAL",
             "count": 2
         },
         {
@@ -674,6 +646,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 9478,
-    "datetime": "November 29 2021 at 04:17 EST"
+    "num_comments": 8652,
+    "datetime": "November 29 2021 at 05:17 EST"
 }

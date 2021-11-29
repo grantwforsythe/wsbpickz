@@ -2,14 +2,22 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 94
+            "count": 97
         },
         {
             "ticker": " AMC",
-            "count": 51
+            "count": 52
+        },
+        {
+            "ticker": " AMD",
+            "count": 30
         },
         {
             "ticker": " BABA",
+            "count": 27
+        },
+        {
+            "ticker": " TSLA",
             "count": 26
         },
         {
@@ -17,20 +25,16 @@
             "count": 25
         },
         {
-            "ticker": " AMD",
+            "ticker": " NVDA",
             "count": 24
         },
         {
             "ticker": " MRNA",
-            "count": 23
+            "count": 22
         },
         {
-            "ticker": " TSLA",
-            "count": 23
-        },
-        {
-            "ticker": " NVDA",
-            "count": 21
+            "ticker": " DIS",
+            "count": 20
         },
         {
             "ticker": " PTON",
@@ -45,10 +49,6 @@
             "count": 17
         },
         {
-            "ticker": " DIS",
-            "count": 16
-        },
-        {
             "ticker": " AMZN",
             "count": 15
         },
@@ -61,11 +61,23 @@
             "count": 10
         },
         {
+            "ticker": " TWTR",
+            "count": 9
+        },
+        {
             "ticker": " PFE",
             "count": 9
         },
         {
+            "ticker": " AAPL",
+            "count": 8
+        },
+        {
             "ticker": " NYC",
+            "count": 8
+        },
+        {
+            "ticker": " CRM",
             "count": 8
         },
         {
@@ -81,7 +93,11 @@
             "count": 7
         },
         {
-            "ticker": " TWTR",
+            "ticker": " HOOD",
+            "count": 6
+        },
+        {
+            "ticker": " RKT",
             "count": 6
         },
         {
@@ -101,10 +117,6 @@
             "count": 6
         },
         {
-            "ticker": " AAPL",
-            "count": 6
-        },
-        {
             "ticker": " HPE",
             "count": 6
         },
@@ -113,7 +125,7 @@
             "count": 5
         },
         {
-            "ticker": " HOOD",
+            "ticker": " GOEV",
             "count": 5
         },
         {
@@ -137,10 +149,6 @@
             "count": 5
         },
         {
-            "ticker": " RKT",
-            "count": 5
-        },
-        {
             "ticker": " BMI",
             "count": 5
         },
@@ -153,15 +161,11 @@
             "count": 4
         },
         {
-            "ticker": " CRM",
+            "ticker": " ATVI",
             "count": 4
         },
         {
             "ticker": " BODY",
-            "count": 4
-        },
-        {
-            "ticker": " ATVI",
             "count": 4
         },
         {
@@ -209,15 +213,15 @@
             "count": 4
         },
         {
+            "ticker": " OCGN",
+            "count": 3
+        },
+        {
             "ticker": " CTO",
             "count": 3
         },
         {
             "ticker": " TLRY",
-            "count": 3
-        },
-        {
-            "ticker": " GOEV",
             "count": 3
         },
         {
@@ -237,11 +241,7 @@
             "count": 3
         },
         {
-            "ticker": " ICHR",
-            "count": 3
-        },
-        {
-            "ticker": " UCTT",
+            "ticker": " LMFA",
             "count": 3
         },
         {
@@ -309,7 +309,7 @@
             "count": 3
         },
         {
-            "ticker": " OCGN",
+            "ticker": " API",
             "count": 2
         },
         {
@@ -326,14 +326,6 @@
         },
         {
             "ticker": " TELA",
-            "count": 2
-        },
-        {
-            "ticker": " WINT",
-            "count": 2
-        },
-        {
-            "ticker": " STOR",
             "count": 2
         },
         {
@@ -458,10 +450,6 @@
         },
         {
             "ticker": " OMI",
-            "count": 2
-        },
-        {
-            "ticker": " LMFA",
             "count": 2
         },
         {
@@ -673,11 +661,15 @@
             "count": 2
         },
         {
+            "ticker": " IMAX",
+            "count": 2
+        },
+        {
             "ticker": " OSTK",
             "count": 2
         }
     ],
     "num_posts": 160,
-    "num_comments": 7791,
-    "datetime": "November 29 2021 at 16:19 EST"
+    "num_comments": 8181,
+    "datetime": "November 29 2021 at 17:19 EST"
 }

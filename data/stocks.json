@@ -2,15 +2,11 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 93
+            "count": 91
         },
         {
             "ticker": " AMC",
-            "count": 39
-        },
-        {
-            "ticker": " AMD",
-            "count": 36
+            "count": 46
         },
         {
             "ticker": " TSLA",
@@ -21,16 +17,20 @@
             "count": 25
         },
         {
+            "ticker": " MRNA",
+            "count": 25
+        },
+        {
+            "ticker": " AMD",
+            "count": 24
+        },
+        {
             "ticker": " NVDA",
             "count": 24
         },
         {
             "ticker": " DIS",
             "count": 23
-        },
-        {
-            "ticker": " MRNA",
-            "count": 20
         },
         {
             "ticker": " PTON",
@@ -45,16 +45,12 @@
             "count": 15
         },
         {
+            "ticker": " PFE",
+            "count": 14
+        },
+        {
             "ticker": " AMZN",
             "count": 13
-        },
-        {
-            "ticker": " PFE",
-            "count": 12
-        },
-        {
-            "ticker": " HOOD",
-            "count": 11
         },
         {
             "ticker": " AAPL",
@@ -65,16 +61,16 @@
             "count": 10
         },
         {
+            "ticker": " BABA",
+            "count": 9
+        },
+        {
             "ticker": " CRM",
             "count": 9
         },
         {
             "ticker": " NYC",
             "count": 9
-        },
-        {
-            "ticker": " BABA",
-            "count": 8
         },
         {
             "ticker": " CLOV",
@@ -93,19 +89,27 @@
             "count": 7
         },
         {
-            "ticker": " SOFI",
+            "ticker": " BNTX",
             "count": 7
         },
         {
-            "ticker": " BNTX",
-            "count": 7
+            "ticker": " SOFI",
+            "count": 6
+        },
+        {
+            "ticker": " SNDL",
+            "count": 5
         },
         {
             "ticker": " TDA",
             "count": 5
         },
         {
-            "ticker": " CCL",
+            "ticker": " HOOD",
+            "count": 5
+        },
+        {
+            "ticker": " FUTU",
             "count": 5
         },
         {
@@ -125,7 +129,7 @@
             "count": 5
         },
         {
-            "ticker": " SNDL",
+            "ticker": " DTE",
             "count": 4
         },
         {
@@ -137,7 +141,7 @@
             "count": 4
         },
         {
-            "ticker": " STNE",
+            "ticker": " CCL",
             "count": 4
         },
         {
@@ -201,15 +205,11 @@
             "count": 4
         },
         {
-            "ticker": " DTE",
-            "count": 3
-        },
-        {
-            "ticker": " TLRY",
-            "count": 3
-        },
-        {
             "ticker": " STON",
+            "count": 3
+        },
+        {
+            "ticker": " RETA",
             "count": 3
         },
         {
@@ -309,7 +309,11 @@
             "count": 2
         },
         {
-            "ticker": " FUTU",
+            "ticker": " REGI",
+            "count": 2
+        },
+        {
+            "ticker": " MIDD",
             "count": 2
         },
         {
@@ -322,14 +326,6 @@
         },
         {
             "ticker": " FUBO",
-            "count": 2
-        },
-        {
-            "ticker": " BBQ",
-            "count": 2
-        },
-        {
-            "ticker": " RETA",
             "count": 2
         },
         {
@@ -533,6 +529,10 @@
             "count": 2
         },
         {
+            "ticker": " TLRY",
+            "count": 2
+        },
+        {
             "ticker": " CAT",
             "count": 2
         },
@@ -614,6 +614,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7704,
-    "datetime": "November 30 2021 at 05:09 EST"
+    "num_comments": 7784,
+    "datetime": "November 30 2021 at 06:17 EST"
 }

@@ -2,38 +2,38 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 72
+            "count": 73
         },
         {
             "ticker": " AMC",
-            "count": 45
+            "count": 47
         },
         {
             "ticker": " MRNA",
-            "count": 30
-        },
-        {
-            "ticker": " TSLA",
-            "count": 29
+            "count": 31
         },
         {
             "ticker": " MSFT",
             "count": 29
         },
         {
-            "ticker": " AMD",
-            "count": 22
+            "ticker": " TSLA",
+            "count": 26
         },
         {
-            "ticker": " DIS",
-            "count": 20
+            "ticker": " AMD",
+            "count": 23
         },
         {
             "ticker": " PTON",
-            "count": 19
+            "count": 20
         },
         {
             "ticker": " NVDA",
+            "count": 19
+        },
+        {
+            "ticker": " DIS",
             "count": 18
         },
         {
@@ -41,11 +41,11 @@
             "count": 17
         },
         {
-            "ticker": " PLTR",
-            "count": 14
+            "ticker": " AAPL",
+            "count": 13
         },
         {
-            "ticker": " AAPL",
+            "ticker": " PLTR",
             "count": 13
         },
         {
@@ -61,16 +61,12 @@
             "count": 10
         },
         {
-            "ticker": " NYC",
+            "ticker": " CRM",
             "count": 9
         },
         {
-            "ticker": " CLOV",
-            "count": 8
-        },
-        {
-            "ticker": " CRM",
-            "count": 8
+            "ticker": " NYC",
+            "count": 9
         },
         {
             "ticker": " WMT",
@@ -81,15 +77,23 @@
             "count": 7
         },
         {
+            "ticker": " CLOV",
+            "count": 7
+        },
+        {
             "ticker": " BNTX",
             "count": 7
+        },
+        {
+            "ticker": " ETH",
+            "count": 6
         },
         {
             "ticker": " PYPL",
             "count": 6
         },
         {
-            "ticker": " ETH",
+            "ticker": " SNDL",
             "count": 5
         },
         {
@@ -113,23 +117,7 @@
             "count": 5
         },
         {
-            "ticker": " TLRY",
-            "count": 4
-        },
-        {
-            "ticker": " SDC",
-            "count": 4
-        },
-        {
-            "ticker": " RSI",
-            "count": 4
-        },
-        {
             "ticker": " DTE",
-            "count": 4
-        },
-        {
-            "ticker": " SNDL",
             "count": 4
         },
         {
@@ -205,6 +193,14 @@
             "count": 3
         },
         {
+            "ticker": " SDC",
+            "count": 3
+        },
+        {
+            "ticker": " TLRY",
+            "count": 3
+        },
+        {
             "ticker": " STON",
             "count": 3
         },
@@ -249,6 +245,10 @@
             "count": 3
         },
         {
+            "ticker": " RSI",
+            "count": 3
+        },
+        {
             "ticker": " MORN",
             "count": 3
         },
@@ -281,11 +281,15 @@
             "count": 3
         },
         {
-            "ticker": " BANC",
+            "ticker": " NDAQ",
             "count": 2
         },
         {
-            "ticker": " GOEV",
+            "ticker": " CME",
+            "count": 2
+        },
+        {
+            "ticker": " BANC",
             "count": 2
         },
         {
@@ -297,31 +301,15 @@
             "count": 2
         },
         {
+            "ticker": " GOEV",
+            "count": 2
+        },
+        {
             "ticker": " FUTU",
             "count": 2
         },
         {
-            "ticker": " COMM",
-            "count": 2
-        },
-        {
-            "ticker": " TMUS",
-            "count": 2
-        },
-        {
-            "ticker": " FLGT",
-            "count": 2
-        },
-        {
-            "ticker": " NTRA",
-            "count": 2
-        },
-        {
-            "ticker": " BIDU",
-            "count": 2
-        },
-        {
-            "ticker": " CGC",
+            "ticker": " QCOM",
             "count": 2
         },
         {
@@ -358,6 +346,10 @@
         },
         {
             "ticker": " UNIT",
+            "count": 2
+        },
+        {
+            "ticker": " HSBC",
             "count": 2
         },
         {
@@ -654,6 +646,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8100,
-    "datetime": "November 30 2021 at 12:17 EST"
+    "num_comments": 8293,
+    "datetime": "November 30 2021 at 13:16 EST"
 }

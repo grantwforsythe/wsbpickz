@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 89
+            "count": 91
         },
         {
             "ticker": " AAPL",
-            "count": 48
+            "count": 49
         },
         {
             "ticker": " AMC",
@@ -45,7 +45,7 @@
             "count": 19
         },
         {
-            "ticker": " CRM",
+            "ticker": " PFE",
             "count": 18
         },
         {
@@ -53,7 +53,7 @@
             "count": 18
         },
         {
-            "ticker": " PFE",
+            "ticker": " CRM",
             "count": 17
         },
         {
@@ -65,11 +65,11 @@
             "count": 11
         },
         {
-            "ticker": " BABA",
-            "count": 10
+            "ticker": " PYPL",
+            "count": 11
         },
         {
-            "ticker": " PYPL",
+            "ticker": " BABA",
             "count": 10
         },
         {
@@ -87,6 +87,14 @@
         {
             "ticker": " BNTX",
             "count": 7
+        },
+        {
+            "ticker": " RSI",
+            "count": 6
+        },
+        {
+            "ticker": " NFLX",
+            "count": 6
         },
         {
             "ticker": " HOOD",
@@ -133,19 +141,11 @@
             "count": 5
         },
         {
-            "ticker": " NFLX",
-            "count": 5
-        },
-        {
             "ticker": " BMI",
             "count": 5
         },
         {
             "ticker": " MARA",
-            "count": 4
-        },
-        {
-            "ticker": " RSI",
             "count": 4
         },
         {
@@ -289,6 +289,10 @@
             "count": 3
         },
         {
+            "ticker": " BBIG",
+            "count": 3
+        },
+        {
             "ticker": " ROKU",
             "count": 3
         },
@@ -315,6 +319,10 @@
         {
             "ticker": " CBD",
             "count": 3
+        },
+        {
+            "ticker": " ATR",
+            "count": 2
         },
         {
             "ticker": " GDP",
@@ -361,11 +369,11 @@
             "count": 2
         },
         {
-            "ticker": " RETA",
+            "ticker": " PHD",
             "count": 2
         },
         {
-            "ticker": " PHD",
+            "ticker": " RETA",
             "count": 2
         },
         {
@@ -553,10 +561,6 @@
             "count": 2
         },
         {
-            "ticker": " BBIG",
-            "count": 2
-        },
-        {
             "ticker": " WYNN",
             "count": 2
         },
@@ -713,6 +717,10 @@
             "count": 2
         },
         {
+            "ticker": " PROG",
+            "count": 2
+        },
+        {
             "ticker": " MTN",
             "count": 2
         },
@@ -726,6 +734,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8525,
-    "datetime": "December 01 2021 at 06:17 EST"
+    "num_comments": 8653,
+    "datetime": "December 01 2021 at 07:17 EST"
 }

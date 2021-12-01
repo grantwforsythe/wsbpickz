@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 92
+            "count": 93
         },
         {
             "ticker": " AMC",
-            "count": 40
+            "count": 35
         },
         {
             "ticker": " AAPL",
@@ -113,6 +113,10 @@
             "count": 6
         },
         {
+            "ticker": " MARA",
+            "count": 5
+        },
+        {
             "ticker": " CLF",
             "count": 5
         },
@@ -143,10 +147,6 @@
         {
             "ticker": " NAV",
             "count": 5
-        },
-        {
-            "ticker": " MARA",
-            "count": 4
         },
         {
             "ticker": " CHGG",
@@ -697,6 +697,22 @@
             "count": 2
         },
         {
+            "ticker": " STRO",
+            "count": 2
+        },
+        {
+            "ticker": " XPEV",
+            "count": 2
+        },
+        {
+            "ticker": " CEI",
+            "count": 2
+        },
+        {
+            "ticker": " GEVO",
+            "count": 2
+        },
+        {
             "ticker": " CTB",
             "count": 2
         },
@@ -706,6 +722,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8231,
-    "datetime": "December 01 2021 at 08:17 EST"
+    "num_comments": 8249,
+    "datetime": "December 01 2021 at 09:17 EST"
 }

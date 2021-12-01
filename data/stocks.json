@@ -2,23 +2,23 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 93
+            "count": 96
         },
         {
             "ticker": " AMC",
-            "count": 35
+            "count": 37
         },
         {
             "ticker": " AAPL",
             "count": 32
         },
         {
-            "ticker": " MSFT",
-            "count": 27
+            "ticker": " AMD",
+            "count": 28
         },
         {
-            "ticker": " AMD",
-            "count": 26
+            "ticker": " MSFT",
+            "count": 27
         },
         {
             "ticker": " MRNA",
@@ -61,6 +61,10 @@
             "count": 14
         },
         {
+            "ticker": " BABA",
+            "count": 10
+        },
+        {
             "ticker": " CLOV",
             "count": 10
         },
@@ -69,12 +73,8 @@
             "count": 10
         },
         {
-            "ticker": " BABA",
-            "count": 9
-        },
-        {
             "ticker": " RSI",
-            "count": 7
+            "count": 8
         },
         {
             "ticker": " PBR",
@@ -333,6 +333,18 @@
             "count": 2
         },
         {
+            "ticker": " CME",
+            "count": 2
+        },
+        {
+            "ticker": " PDT",
+            "count": 2
+        },
+        {
+            "ticker": " EDU",
+            "count": 2
+        },
+        {
             "ticker": " VALE",
             "count": 2
         },
@@ -377,11 +389,11 @@
             "count": 2
         },
         {
-            "ticker": " BYSI",
+            "ticker": " FAMI",
             "count": 2
         },
         {
-            "ticker": " FAMI",
+            "ticker": " BYSI",
             "count": 2
         },
         {
@@ -685,10 +697,6 @@
             "count": 2
         },
         {
-            "ticker": " MVIS",
-            "count": 2
-        },
-        {
             "ticker": " PROG",
             "count": 2
         },
@@ -722,6 +730,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8249,
-    "datetime": "December 01 2021 at 09:17 EST"
+    "num_comments": 8288,
+    "datetime": "December 01 2021 at 10:17 EST"
 }

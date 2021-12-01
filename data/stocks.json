@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 81
+            "count": 76
         },
         {
             "ticker": " AAPL",
-            "count": 48
+            "count": 50
         },
         {
             "ticker": " AMC",
@@ -17,12 +17,12 @@
             "count": 28
         },
         {
-            "ticker": " MRNA",
+            "ticker": " MSFT",
             "count": 28
         },
         {
-            "ticker": " MSFT",
-            "count": 26
+            "ticker": " MRNA",
+            "count": 27
         },
         {
             "ticker": " NVDA",
@@ -30,7 +30,7 @@
         },
         {
             "ticker": " TSLA",
-            "count": 21
+            "count": 22
         },
         {
             "ticker": " PTON",
@@ -46,7 +46,7 @@
         },
         {
             "ticker": " PSTH",
-            "count": 18
+            "count": 19
         },
         {
             "ticker": " MRK",
@@ -57,12 +57,12 @@
             "count": 17
         },
         {
-            "ticker": " BABA",
-            "count": 13
+            "ticker": " AMZN",
+            "count": 14
         },
         {
-            "ticker": " AMZN",
-            "count": 13
+            "ticker": " BABA",
+            "count": 10
         },
         {
             "ticker": " CLOV",
@@ -97,11 +97,11 @@
             "count": 7
         },
         {
-            "ticker": " THC",
+            "ticker": " SOFI",
             "count": 6
         },
         {
-            "ticker": " SOFI",
+            "ticker": " THC",
             "count": 6
         },
         {
@@ -162,6 +162,10 @@
         },
         {
             "ticker": " NIO",
+            "count": 4
+        },
+        {
+            "ticker": " PRPL",
             "count": 4
         },
         {
@@ -229,15 +233,11 @@
             "count": 3
         },
         {
-            "ticker": " LSPD",
-            "count": 3
-        },
-        {
             "ticker": " ASAN",
             "count": 3
         },
         {
-            "ticker": " PRPL",
+            "ticker": " SFT",
             "count": 3
         },
         {
@@ -377,6 +377,10 @@
             "count": 2
         },
         {
+            "ticker": " MANU",
+            "count": 2
+        },
+        {
             "ticker": " ETSY",
             "count": 2
         },
@@ -390,10 +394,6 @@
         },
         {
             "ticker": " CRTX",
-            "count": 2
-        },
-        {
-            "ticker": " MANU",
             "count": 2
         },
         {
@@ -629,6 +629,10 @@
             "count": 2
         },
         {
+            "ticker": " LSPD",
+            "count": 2
+        },
+        {
             "ticker": " SHOP",
             "count": 2
         },
@@ -697,6 +701,10 @@
             "count": 2
         },
         {
+            "ticker": " SPRT",
+            "count": 2
+        },
+        {
             "ticker": " FOX",
             "count": 2
         },
@@ -710,6 +718,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7766,
-    "datetime": "December 01 2021 at 02:06 EST"
+    "num_comments": 7868,
+    "datetime": "December 01 2021 at 02:38 EST"
 }

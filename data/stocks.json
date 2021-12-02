@@ -10,15 +10,15 @@
         },
         {
             "ticker": " AAPL",
-            "count": 40
+            "count": 41
+        },
+        {
+            "ticker": " AMD",
+            "count": 26
         },
         {
             "ticker": " MSFT",
             "count": 26
-        },
-        {
-            "ticker": " AMD",
-            "count": 25
         },
         {
             "ticker": " MRNA",
@@ -45,6 +45,10 @@
             "count": 17
         },
         {
+            "ticker": " TSLA",
+            "count": 15
+        },
+        {
             "ticker": " AMZN",
             "count": 15
         },
@@ -53,16 +57,16 @@
             "count": 15
         },
         {
-            "ticker": " TSLA",
-            "count": 14
+            "ticker": " CRSR",
+            "count": 12
         },
         {
             "ticker": " PLTR",
-            "count": 12
+            "count": 11
         },
         {
-            "ticker": " CRSR",
-            "count": 12
+            "ticker": " CLOV",
+            "count": 9
         },
         {
             "ticker": " DKNG",
@@ -85,7 +89,7 @@
             "count": 8
         },
         {
-            "ticker": " CLOV",
+            "ticker": " WMT",
             "count": 7
         },
         {
@@ -118,10 +122,6 @@
         },
         {
             "ticker": " NYC",
-            "count": 6
-        },
-        {
-            "ticker": " WMT",
             "count": 6
         },
         {
@@ -279,6 +279,10 @@
         {
             "ticker": " NATI",
             "count": 3
+        },
+        {
+            "ticker": " CVX",
+            "count": 2
         },
         {
             "ticker": " EDUC",
@@ -654,6 +658,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6920,
-    "datetime": "December 02 2021 at 09:17 EST"
+    "num_comments": 7018,
+    "datetime": "December 02 2021 at 10:17 EST"
 }

@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " GME",
-            "count": 49
+            "count": 50
         },
         {
             "ticker": " AAPL",
@@ -26,7 +26,7 @@
         },
         {
             "ticker": " NVDA",
-            "count": 19
+            "count": 20
         },
         {
             "ticker": " MRNA",
@@ -41,20 +41,20 @@
             "count": 16
         },
         {
-            "ticker": " TSLA",
-            "count": 13
-        },
-        {
             "ticker": " MRK",
             "count": 13
         },
         {
-            "ticker": " CRSR",
+            "ticker": " PLTR",
             "count": 12
         },
         {
-            "ticker": " PLTR",
-            "count": 10
+            "ticker": " TSLA",
+            "count": 12
+        },
+        {
+            "ticker": " CRSR",
+            "count": 12
         },
         {
             "ticker": " BABA",
@@ -65,6 +65,10 @@
             "count": 10
         },
         {
+            "ticker": " SOFI",
+            "count": 9
+        },
+        {
             "ticker": " CLOV",
             "count": 9
         },
@@ -73,16 +77,16 @@
             "count": 9
         },
         {
-            "ticker": " NYC",
-            "count": 8
-        },
-        {
             "ticker": " DKNG",
             "count": 8
         },
         {
-            "ticker": " SOFI",
+            "ticker": " NYC",
             "count": 8
+        },
+        {
+            "ticker": " PYPL",
+            "count": 7
         },
         {
             "ticker": " BBW",
@@ -97,10 +101,6 @@
             "count": 6
         },
         {
-            "ticker": " PYPL",
-            "count": 6
-        },
-        {
             "ticker": " WMT",
             "count": 6
         },
@@ -109,19 +109,7 @@
             "count": 5
         },
         {
-            "ticker": " RSI",
-            "count": 5
-        },
-        {
             "ticker": " JWN",
-            "count": 5
-        },
-        {
-            "ticker": " TDOC",
-            "count": 5
-        },
-        {
-            "ticker": " CCL",
             "count": 5
         },
         {
@@ -139,6 +127,10 @@
         {
             "ticker": " CVS",
             "count": 5
+        },
+        {
+            "ticker": " RSI",
+            "count": 4
         },
         {
             "ticker": " DTE",
@@ -162,6 +154,10 @@
         },
         {
             "ticker": " ATVI",
+            "count": 4
+        },
+        {
+            "ticker": " CCL",
             "count": 4
         },
         {
@@ -197,10 +193,6 @@
             "count": 3
         },
         {
-            "ticker": " SDC",
-            "count": 3
-        },
-        {
             "ticker": " BBBY",
             "count": 3
         },
@@ -210,10 +202,6 @@
         },
         {
             "ticker": " CRWD",
-            "count": 3
-        },
-        {
-            "ticker": " RIOT",
             "count": 3
         },
         {
@@ -249,11 +237,23 @@
             "count": 3
         },
         {
+            "ticker": " TDOC",
+            "count": 3
+        },
+        {
             "ticker": " BBY",
             "count": 3
         },
         {
             "ticker": " UAL",
+            "count": 2
+        },
+        {
+            "ticker": " CTO",
+            "count": 2
+        },
+        {
+            "ticker": " SDC",
             "count": 2
         },
         {
@@ -269,7 +269,11 @@
             "count": 2
         },
         {
-            "ticker": " CAT",
+            "ticker": " MELI",
+            "count": 2
+        },
+        {
+            "ticker": " BKNG",
             "count": 2
         },
         {
@@ -354,6 +358,10 @@
         },
         {
             "ticker": " CRTX",
+            "count": 2
+        },
+        {
+            "ticker": " RIOT",
             "count": 2
         },
         {
@@ -606,6 +614,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6289,
-    "datetime": "December 02 2021 at 18:17 EST"
+    "num_comments": 6434,
+    "datetime": "December 02 2021 at 19:16 EST"
 }

@@ -2,23 +2,23 @@
     "stocks": [
         {
             "ticker": " AMC",
-            "count": 55
+            "count": 56
         },
         {
             "ticker": " GME",
-            "count": 41
+            "count": 42
         },
         {
             "ticker": " AAPL",
             "count": 38
         },
         {
-            "ticker": " MSFT",
+            "ticker": " AMD",
             "count": 23
         },
         {
-            "ticker": " AMD",
-            "count": 22
+            "ticker": " MSFT",
+            "count": 23
         },
         {
             "ticker": " MRNA",
@@ -45,11 +45,11 @@
             "count": 15
         },
         {
-            "ticker": " TSLA",
-            "count": 13
+            "ticker": " AMZN",
+            "count": 14
         },
         {
-            "ticker": " AMZN",
+            "ticker": " PLTR",
             "count": 13
         },
         {
@@ -57,7 +57,7 @@
             "count": 13
         },
         {
-            "ticker": " PLTR",
+            "ticker": " TSLA",
             "count": 12
         },
         {
@@ -69,19 +69,23 @@
             "count": 9
         },
         {
+            "ticker": " CLOV",
+            "count": 8
+        },
+        {
+            "ticker": " CLF",
+            "count": 8
+        },
+        {
+            "ticker": " SOFI",
+            "count": 8
+        },
+        {
             "ticker": " PYPL",
             "count": 8
         },
         {
-            "ticker": " CLOV",
-            "count": 7
-        },
-        {
             "ticker": " RKT",
-            "count": 7
-        },
-        {
-            "ticker": " CLF",
             "count": 7
         },
         {
@@ -89,7 +93,7 @@
             "count": 7
         },
         {
-            "ticker": " SOFI",
+            "ticker": " DKNG",
             "count": 7
         },
         {
@@ -106,10 +110,6 @@
         },
         {
             "ticker": " ZUMZ",
-            "count": 6
-        },
-        {
-            "ticker": " DKNG",
             "count": 6
         },
         {
@@ -285,15 +285,15 @@
             "count": 3
         },
         {
-            "ticker": " SDC",
-            "count": 2
-        },
-        {
             "ticker": " SPCE",
             "count": 2
         },
         {
             "ticker": " INVE",
+            "count": 2
+        },
+        {
+            "ticker": " PROG",
             "count": 2
         },
         {
@@ -662,6 +662,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6571,
-    "datetime": "December 02 2021 at 01:57 EST"
+    "num_comments": 6656,
+    "datetime": "December 02 2021 at 02:28 EST"
 }

@@ -2,7 +2,7 @@
     "stocks": [
         {
             "ticker": " AAPL",
-            "count": 50
+            "count": 52
         },
         {
             "ticker": " GME",
@@ -14,23 +14,23 @@
         },
         {
             "ticker": " AMD",
-            "count": 29
+            "count": 30
         },
         {
             "ticker": " CRM",
             "count": 27
         },
         {
+            "ticker": " NVDA",
+            "count": 26
+        },
+        {
             "ticker": " MSFT",
             "count": 26
         },
         {
-            "ticker": " NVDA",
-            "count": 25
-        },
-        {
             "ticker": " BABA",
-            "count": 21
+            "count": 20
         },
         {
             "ticker": " TSLA",
@@ -81,6 +81,10 @@
             "count": 8
         },
         {
+            "ticker": " HOOD",
+            "count": 7
+        },
+        {
             "ticker": " ASAN",
             "count": 7
         },
@@ -95,10 +99,6 @@
         {
             "ticker": " BBW",
             "count": 7
-        },
-        {
-            "ticker": " HOOD",
-            "count": 6
         },
         {
             "ticker": " PTON",
@@ -289,11 +289,19 @@
             "count": 2
         },
         {
+            "ticker": " GOEV",
+            "count": 2
+        },
+        {
             "ticker": " CMG",
             "count": 2
         },
         {
             "ticker": " VIE",
+            "count": 2
+        },
+        {
+            "ticker": " GLOB",
             "count": 2
         },
         {
@@ -678,6 +686,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 6910,
-    "datetime": "December 03 2021 at 05:17 EST"
+    "num_comments": 7000,
+    "datetime": "December 03 2021 at 06:17 EST"
 }

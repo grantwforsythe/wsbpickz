@@ -2,51 +2,51 @@
     "stocks": [
         {
             "ticker": " AAPL",
-            "count": 51
+            "count": 52
         },
         {
             "ticker": " GME",
-            "count": 44
+            "count": 41
         },
         {
-            "ticker": " DOCU",
-            "count": 36
-        },
-        {
-            "ticker": " AMD",
-            "count": 35
+            "ticker": " TSLA",
+            "count": 31
         },
         {
             "ticker": " MSFT",
             "count": 31
         },
         {
-            "ticker": " NVDA",
-            "count": 31
+            "ticker": " DOCU",
+            "count": 30
         },
         {
-            "ticker": " AMC",
-            "count": 28
+            "ticker": " NVDA",
+            "count": 29
+        },
+        {
+            "ticker": " AMD",
+            "count": 27
         },
         {
             "ticker": " CRM",
             "count": 27
         },
         {
-            "ticker": " TSLA",
-            "count": 23
+            "ticker": " AMC",
+            "count": 22
         },
         {
             "ticker": " MRNA",
             "count": 17
         },
         {
-            "ticker": " BABA",
+            "ticker": " DIS",
             "count": 16
         },
         {
-            "ticker": " DIS",
-            "count": 16
+            "ticker": " BABA",
+            "count": 15
         },
         {
             "ticker": " PFE",
@@ -69,27 +69,19 @@
             "count": 10
         },
         {
-            "ticker": " PLTR",
-            "count": 9
-        },
-        {
-            "ticker": " HOOD",
-            "count": 9
-        },
-        {
-            "ticker": " DKNG",
-            "count": 9
-        },
-        {
             "ticker": " ZUMZ",
             "count": 9
         },
         {
-            "ticker": " PTON",
+            "ticker": " DTE",
             "count": 8
         },
         {
-            "ticker": " DTE",
+            "ticker": " DKNG",
+            "count": 8
+        },
+        {
+            "ticker": " PLTR",
             "count": 8
         },
         {
@@ -101,40 +93,16 @@
             "count": 7
         },
         {
+            "ticker": " HOOD",
+            "count": 6
+        },
+        {
             "ticker": " WMT",
             "count": 6
         },
         {
             "ticker": " PYPL",
             "count": 6
-        },
-        {
-            "ticker": " TLRY",
-            "count": 5
-        },
-        {
-            "ticker": " TDOC",
-            "count": 5
-        },
-        {
-            "ticker": " XLNX",
-            "count": 5
-        },
-        {
-            "ticker": " MRVL",
-            "count": 5
-        },
-        {
-            "ticker": " CHWY",
-            "count": 5
-        },
-        {
-            "ticker": " PDT",
-            "count": 5
-        },
-        {
-            "ticker": " PRPL",
-            "count": 5
         },
         {
             "ticker": " TDA",
@@ -153,6 +121,22 @@
             "count": 4
         },
         {
+            "ticker": " PDT",
+            "count": 4
+        },
+        {
+            "ticker": " IBKR",
+            "count": 4
+        },
+        {
+            "ticker": " TDOC",
+            "count": 4
+        },
+        {
+            "ticker": " TLRY",
+            "count": 4
+        },
+        {
             "ticker": " BGFV",
             "count": 4
         },
@@ -166,6 +150,10 @@
         },
         {
             "ticker": " CLF",
+            "count": 4
+        },
+        {
+            "ticker": " PRPL",
             "count": 4
         },
         {
@@ -201,15 +189,15 @@
             "count": 4
         },
         {
-            "ticker": " INTC",
+            "ticker": " PTON",
             "count": 3
         },
         {
-            "ticker": " LULU",
+            "ticker": " ULTA",
             "count": 3
         },
         {
-            "ticker": " CVNA",
+            "ticker": " MRVL",
             "count": 3
         },
         {
@@ -217,15 +205,11 @@
             "count": 3
         },
         {
-            "ticker": " IBKR",
+            "ticker": " SNAP",
             "count": 3
         },
         {
             "ticker": " ETSY",
-            "count": 3
-        },
-        {
-            "ticker": " SNAP",
             "count": 3
         },
         {
@@ -281,7 +265,11 @@
             "count": 3
         },
         {
-            "ticker": " SDC",
+            "ticker": " CRSP",
+            "count": 2
+        },
+        {
+            "ticker": " CATC",
             "count": 2
         },
         {
@@ -293,7 +281,7 @@
             "count": 2
         },
         {
-            "ticker": " ADBE",
+            "ticker": " LUV",
             "count": 2
         },
         {
@@ -305,7 +293,15 @@
             "count": 2
         },
         {
-            "ticker": " AMRS",
+            "ticker": " CHWY",
+            "count": 2
+        },
+        {
+            "ticker": " INTC",
+            "count": 2
+        },
+        {
+            "ticker": " CCIV",
             "count": 2
         },
         {
@@ -338,10 +334,6 @@
         },
         {
             "ticker": " LEVI",
-            "count": 2
-        },
-        {
-            "ticker": " ULTA",
             "count": 2
         },
         {
@@ -446,10 +438,6 @@
         },
         {
             "ticker": " FANG",
-            "count": 2
-        },
-        {
-            "ticker": " CCI",
             "count": 2
         },
         {
@@ -569,6 +557,10 @@
             "count": 2
         },
         {
+            "ticker": " XLNX",
+            "count": 2
+        },
+        {
             "ticker": " API",
             "count": 2
         },
@@ -659,13 +651,9 @@
         {
             "ticker": " ATNF",
             "count": 2
-        },
-        {
-            "ticker": " TRIL",
-            "count": 2
         }
     ],
     "num_posts": 160,
-    "num_comments": 7283,
-    "datetime": "December 03 2021 at 19:16 EST"
+    "num_comments": 6978,
+    "datetime": "December 03 2021 at 20:17 EST"
 }

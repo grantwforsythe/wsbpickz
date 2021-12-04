@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " AAPL",
-            "count": 57
+            "count": 58
         },
         {
             "ticker": " GME",
-            "count": 44
+            "count": 45
         },
         {
             "ticker": " AMC",
@@ -14,7 +14,7 @@
         },
         {
             "ticker": " DOCU",
-            "count": 32
+            "count": 31
         },
         {
             "ticker": " AMD",
@@ -37,20 +37,20 @@
             "count": 17
         },
         {
+            "ticker": " MRNA",
+            "count": 17
+        },
+        {
             "ticker": " TSLA",
+            "count": 16
+        },
+        {
+            "ticker": " PFE",
             "count": 16
         },
         {
             "ticker": " DIS",
             "count": 16
-        },
-        {
-            "ticker": " MRNA",
-            "count": 16
-        },
-        {
-            "ticker": " PFE",
-            "count": 15
         },
         {
             "ticker": " CRSR",
@@ -62,7 +62,7 @@
         },
         {
             "ticker": " AMZN",
-            "count": 12
+            "count": 11
         },
         {
             "ticker": " PLTR",
@@ -85,15 +85,15 @@
             "count": 9
         },
         {
-            "ticker": " IBKR",
-            "count": 8
-        },
-        {
             "ticker": " DKNG",
             "count": 8
         },
         {
             "ticker": " PYPL",
+            "count": 7
+        },
+        {
+            "ticker": " IBKR",
             "count": 7
         },
         {
@@ -103,10 +103,6 @@
         {
             "ticker": " NYC",
             "count": 7
-        },
-        {
-            "ticker": " WMT",
-            "count": 6
         },
         {
             "ticker": " TLRY",
@@ -129,8 +125,16 @@
             "count": 5
         },
         {
+            "ticker": " WMT",
+            "count": 5
+        },
+        {
             "ticker": " LOGI",
             "count": 5
+        },
+        {
+            "ticker": " TWTR",
+            "count": 4
         },
         {
             "ticker": " PROG",
@@ -197,11 +201,15 @@
             "count": 4
         },
         {
-            "ticker": " TGT",
-            "count": 4
+            "ticker": " MGM",
+            "count": 3
         },
         {
             "ticker": " NNN",
+            "count": 3
+        },
+        {
+            "ticker": " PTON",
             "count": 3
         },
         {
@@ -253,11 +261,11 @@
             "count": 3
         },
         {
-            "ticker": " DOOO",
+            "ticker": " TGT",
             "count": 3
         },
         {
-            "ticker": " TWTR",
+            "ticker": " DOOO",
             "count": 3
         },
         {
@@ -277,11 +285,19 @@
             "count": 3
         },
         {
+            "ticker": " VIE",
+            "count": 2
+        },
+        {
             "ticker": " WEN",
             "count": 2
         },
         {
             "ticker": " INVE",
+            "count": 2
+        },
+        {
+            "ticker": " SHAK",
             "count": 2
         },
         {
@@ -298,6 +314,14 @@
         },
         {
             "ticker": " LYB",
+            "count": 2
+        },
+        {
+            "ticker": " UUUU",
+            "count": 2
+        },
+        {
+            "ticker": " REPL",
             "count": 2
         },
         {
@@ -342,10 +366,6 @@
         },
         {
             "ticker": " PIPP",
-            "count": 2
-        },
-        {
-            "ticker": " PTON",
             "count": 2
         },
         {
@@ -617,10 +637,6 @@
             "count": 2
         },
         {
-            "ticker": " UPS",
-            "count": 2
-        },
-        {
             "ticker": " LMT",
             "count": 2
         },
@@ -658,6 +674,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7440,
-    "datetime": "December 04 2021 at 03:17 EST"
+    "num_comments": 7642,
+    "datetime": "December 04 2021 at 04:17 EST"
 }

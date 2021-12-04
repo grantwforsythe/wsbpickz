@@ -1,16 +1,16 @@
 {
     "stocks": [
         {
+            "ticker": " GME",
+            "count": 58
+        },
+        {
             "ticker": " AAPL",
             "count": 56
         },
         {
-            "ticker": " GME",
-            "count": 48
-        },
-        {
             "ticker": " AMC",
-            "count": 39
+            "count": 42
         },
         {
             "ticker": " DOCU",
@@ -21,6 +21,10 @@
             "count": 29
         },
         {
+            "ticker": " CRM",
+            "count": 28
+        },
+        {
             "ticker": " NVDA",
             "count": 28
         },
@@ -29,20 +33,16 @@
             "count": 27
         },
         {
-            "ticker": " CRM",
-            "count": 27
-        },
-        {
             "ticker": " BABA",
             "count": 19
         },
         {
-            "ticker": " DIS",
+            "ticker": " TSLA",
             "count": 16
         },
         {
-            "ticker": " TSLA",
-            "count": 15
+            "ticker": " DIS",
+            "count": 16
         },
         {
             "ticker": " PFE",
@@ -85,6 +85,10 @@
             "count": 8
         },
         {
+            "ticker": " HOOD",
+            "count": 7
+        },
+        {
             "ticker": " IBKR",
             "count": 7
         },
@@ -98,10 +102,6 @@
         },
         {
             "ticker": " CLOV",
-            "count": 6
-        },
-        {
-            "ticker": " HOOD",
             "count": 6
         },
         {
@@ -183,6 +183,10 @@
         {
             "ticker": " THC",
             "count": 4
+        },
+        {
+            "ticker": " CRWD",
+            "count": 3
         },
         {
             "ticker": " PTON",
@@ -283,10 +287,6 @@
         {
             "ticker": " BBY",
             "count": 3
-        },
-        {
-            "ticker": " SCHW",
-            "count": 2
         },
         {
             "ticker": " SPCE",
@@ -573,10 +573,6 @@
             "count": 2
         },
         {
-            "ticker": " CRWD",
-            "count": 2
-        },
-        {
             "ticker": " OXY",
             "count": 2
         },
@@ -610,18 +606,6 @@
         },
         {
             "ticker": " MTG",
-            "count": 2
-        },
-        {
-            "ticker": " SOL",
-            "count": 2
-        },
-        {
-            "ticker": " ETH",
-            "count": 2
-        },
-        {
-            "ticker": " MSP",
             "count": 2
         },
         {
@@ -662,6 +646,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7276,
-    "datetime": "December 04 2021 at 11:16 EST"
+    "num_comments": 7346,
+    "datetime": "December 04 2021 at 12:18 EST"
 }

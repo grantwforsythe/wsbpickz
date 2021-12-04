@@ -2,19 +2,19 @@
     "stocks": [
         {
             "ticker": " AAPL",
-            "count": 58
+            "count": 57
         },
         {
             "ticker": " GME",
-            "count": 45
+            "count": 46
         },
         {
             "ticker": " AMC",
-            "count": 32
+            "count": 33
         },
         {
             "ticker": " DOCU",
-            "count": 31
+            "count": 32
         },
         {
             "ticker": " AMD",
@@ -61,12 +61,12 @@
             "count": 12
         },
         {
-            "ticker": " AMZN",
+            "ticker": " PLTR",
             "count": 11
         },
         {
-            "ticker": " PLTR",
-            "count": 10
+            "ticker": " AMZN",
+            "count": 11
         },
         {
             "ticker": " SOFI",
@@ -77,6 +77,10 @@
             "count": 10
         },
         {
+            "ticker": " DKNG",
+            "count": 9
+        },
+        {
             "ticker": " DTE",
             "count": 9
         },
@@ -85,24 +89,20 @@
             "count": 9
         },
         {
-            "ticker": " DKNG",
+            "ticker": " ASAN",
             "count": 8
-        },
-        {
-            "ticker": " PYPL",
-            "count": 7
         },
         {
             "ticker": " IBKR",
             "count": 7
         },
         {
-            "ticker": " ASAN",
+            "ticker": " NYC",
             "count": 7
         },
         {
-            "ticker": " NYC",
-            "count": 7
+            "ticker": " PYPL",
+            "count": 6
         },
         {
             "ticker": " TLRY",
@@ -285,6 +285,14 @@
             "count": 3
         },
         {
+            "ticker": " FVRR",
+            "count": 2
+        },
+        {
+            "ticker": " JNJ",
+            "count": 2
+        },
+        {
             "ticker": " VIE",
             "count": 2
         },
@@ -305,11 +313,15 @@
             "count": 2
         },
         {
-            "ticker": " SAVA",
+            "ticker": " PENN",
             "count": 2
         },
         {
             "ticker": " VERI",
+            "count": 2
+        },
+        {
+            "ticker": " SAVA",
             "count": 2
         },
         {
@@ -674,6 +686,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7642,
-    "datetime": "December 04 2021 at 04:17 EST"
+    "num_comments": 7846,
+    "datetime": "December 04 2021 at 05:17 EST"
 }

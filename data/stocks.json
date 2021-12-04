@@ -1,20 +1,20 @@
 {
     "stocks": [
         {
-            "ticker": " AAPL",
-            "count": 50
+            "ticker": " GME",
+            "count": 71
         },
         {
-            "ticker": " GME",
-            "count": 48
+            "ticker": " AAPL",
+            "count": 56
         },
         {
             "ticker": " DOCU",
-            "count": 43
+            "count": 47
         },
         {
             "ticker": " AMC",
-            "count": 43
+            "count": 45
         },
         {
             "ticker": " NVDA",
@@ -34,7 +34,7 @@
         },
         {
             "ticker": " BABA",
-            "count": 18
+            "count": 19
         },
         {
             "ticker": " TSLA",
@@ -97,6 +97,10 @@
             "count": 7
         },
         {
+            "ticker": " MDB",
+            "count": 6
+        },
+        {
             "ticker": " JPM",
             "count": 6
         },
@@ -109,11 +113,15 @@
             "count": 6
         },
         {
-            "ticker": " TDA",
+            "ticker": " CHWY",
             "count": 5
         },
         {
             "ticker": " MRVL",
+            "count": 5
+        },
+        {
+            "ticker": " ATVI",
             "count": 5
         },
         {
@@ -125,7 +133,11 @@
             "count": 5
         },
         {
-            "ticker": " CHWY",
+            "ticker": " VIE",
+            "count": 4
+        },
+        {
+            "ticker": " SNOW",
             "count": 4
         },
         {
@@ -141,7 +153,15 @@
             "count": 4
         },
         {
+            "ticker": " POWW",
+            "count": 4
+        },
+        {
             "ticker": " LMFA",
+            "count": 4
+        },
+        {
+            "ticker": " ZNGA",
             "count": 4
         },
         {
@@ -154,6 +174,10 @@
         },
         {
             "ticker": " TDOC",
+            "count": 4
+        },
+        {
+            "ticker": " TDA",
             "count": 4
         },
         {
@@ -173,10 +197,6 @@
             "count": 4
         },
         {
-            "ticker": " ATVI",
-            "count": 4
-        },
-        {
             "ticker": " CCL",
             "count": 4
         },
@@ -187,6 +207,14 @@
         {
             "ticker": " THC",
             "count": 4
+        },
+        {
+            "ticker": " ULTA",
+            "count": 3
+        },
+        {
+            "ticker": " SNDL",
+            "count": 3
         },
         {
             "ticker": " CRWD",
@@ -209,6 +237,10 @@
             "count": 3
         },
         {
+            "ticker": " NNN",
+            "count": 3
+        },
+        {
             "ticker": " BBBY",
             "count": 3
         },
@@ -221,7 +253,7 @@
             "count": 3
         },
         {
-            "ticker": " POWW",
+            "ticker": " PHD",
             "count": 3
         },
         {
@@ -293,11 +325,19 @@
             "count": 3
         },
         {
-            "ticker": " CTRM",
+            "ticker": " TTD",
             "count": 2
         },
         {
-            "ticker": " MDB",
+            "ticker": " OKTA",
+            "count": 2
+        },
+        {
+            "ticker": " CPB",
+            "count": 2
+        },
+        {
+            "ticker": " HRL",
             "count": 2
         },
         {
@@ -325,10 +365,6 @@
             "count": 2
         },
         {
-            "ticker": " SNOW",
-            "count": 2
-        },
-        {
             "ticker": " JNJ",
             "count": 2
         },
@@ -337,11 +373,7 @@
             "count": 2
         },
         {
-            "ticker": " VIE",
-            "count": 2
-        },
-        {
-            "ticker": " HPS",
+            "ticker": " WEN",
             "count": 2
         },
         {
@@ -354,6 +386,14 @@
         },
         {
             "ticker": " LYB",
+            "count": 2
+        },
+        {
+            "ticker": " NKE",
+            "count": 2
+        },
+        {
+            "ticker": " WWE",
             "count": 2
         },
         {
@@ -402,10 +442,6 @@
         },
         {
             "ticker": " LEVI",
-            "count": 2
-        },
-        {
-            "ticker": " ULTA",
             "count": 2
         },
         {
@@ -593,10 +629,6 @@
             "count": 2
         },
         {
-            "ticker": " NNN",
-            "count": 2
-        },
-        {
             "ticker": " AFRM",
             "count": 2
         },
@@ -645,10 +677,6 @@
             "count": 2
         },
         {
-            "ticker": " SNDL",
-            "count": 2
-        },
-        {
             "ticker": " RAVE",
             "count": 2
         },
@@ -666,6 +694,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 7184,
-    "datetime": "December 04 2021 at 14:17 EST"
+    "num_comments": 7812,
+    "datetime": "December 04 2021 at 15:17 EST"
 }

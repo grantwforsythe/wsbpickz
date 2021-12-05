@@ -1,36 +1,36 @@
 {
     "stocks": [
         {
-            "ticker": " AMC",
-            "count": 71
+            "ticker": " DOCU",
+            "count": 67
         },
         {
-            "ticker": " DOCU",
-            "count": 66
+            "ticker": " AMC",
+            "count": 62
         },
         {
             "ticker": " GME",
-            "count": 60
+            "count": 55
         },
         {
             "ticker": " AAPL",
             "count": 46
         },
         {
-            "ticker": " BABA",
-            "count": 35
+            "ticker": " TSLA",
+            "count": 38
         },
         {
-            "ticker": " TSLA",
-            "count": 34
+            "ticker": " BABA",
+            "count": 36
         },
         {
             "ticker": " NVDA",
-            "count": 32
+            "count": 33
         },
         {
             "ticker": " AMD",
-            "count": 24
+            "count": 25
         },
         {
             "ticker": " MSFT",
@@ -61,11 +61,23 @@
             "count": 11
         },
         {
+            "ticker": " IBKR",
+            "count": 9
+        },
+        {
             "ticker": " DTE",
             "count": 9
         },
         {
-            "ticker": " IBKR",
+            "ticker": " PTON",
+            "count": 8
+        },
+        {
+            "ticker": " NIO",
+            "count": 8
+        },
+        {
+            "ticker": " TDA",
             "count": 8
         },
         {
@@ -73,7 +85,11 @@
             "count": 8
         },
         {
-            "ticker": " PDT",
+            "ticker": " SOFI",
+            "count": 7
+        },
+        {
+            "ticker": " ASAN",
             "count": 7
         },
         {
@@ -109,27 +125,19 @@
             "count": 6
         },
         {
-            "ticker": " PTON",
-            "count": 6
-        },
-        {
             "ticker": " LULU",
             "count": 6
         },
         {
-            "ticker": " TDA",
+            "ticker": " HOOD",
             "count": 6
         },
         {
-            "ticker": " SOFI",
+            "ticker": " CLF",
             "count": 6
         },
         {
-            "ticker": " ASAN",
-            "count": 6
-        },
-        {
-            "ticker": " NIO",
+            "ticker": " PDT",
             "count": 5
         },
         {
@@ -157,12 +165,12 @@
             "count": 5
         },
         {
-            "ticker": " HOOD",
+            "ticker": " LOGI",
             "count": 5
         },
         {
-            "ticker": " LOGI",
-            "count": 5
+            "ticker": " LUV",
+            "count": 4
         },
         {
             "ticker": " IBM",
@@ -178,6 +186,10 @@
         },
         {
             "ticker": " UBS",
+            "count": 4
+        },
+        {
+            "ticker": " SNDL",
             "count": 4
         },
         {
@@ -217,10 +229,6 @@
             "count": 4
         },
         {
-            "ticker": " TSM",
-            "count": 3
-        },
-        {
             "ticker": " LAC",
             "count": 3
         },
@@ -241,11 +249,11 @@
             "count": 3
         },
         {
-            "ticker": " SNDL",
+            "ticker": " SNAP",
             "count": 3
         },
         {
-            "ticker": " SNAP",
+            "ticker": " DOC",
             "count": 3
         },
         {
@@ -254,10 +262,6 @@
         },
         {
             "ticker": " LMFA",
-            "count": 3
-        },
-        {
-            "ticker": " LUV",
             "count": 3
         },
         {
@@ -285,10 +289,6 @@
             "count": 3
         },
         {
-            "ticker": " CLF",
-            "count": 3
-        },
-        {
             "ticker": " PSTH",
             "count": 3
         },
@@ -301,7 +301,15 @@
             "count": 3
         },
         {
+            "ticker": " GOEV",
+            "count": 2
+        },
+        {
             "ticker": " NEO",
+            "count": 2
+        },
+        {
+            "ticker": " TSM",
             "count": 2
         },
         {
@@ -385,6 +393,18 @@
             "count": 2
         },
         {
+            "ticker": " LITE",
+            "count": 2
+        },
+        {
+            "ticker": " ACCO",
+            "count": 2
+        },
+        {
+            "ticker": " CPA",
+            "count": 2
+        },
+        {
             "ticker": " TWIN",
             "count": 2
         },
@@ -454,10 +474,6 @@
         },
         {
             "ticker": " CCIV",
-            "count": 2
-        },
-        {
-            "ticker": " DOC",
             "count": 2
         },
         {
@@ -642,6 +658,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8494,
-    "datetime": "December 05 2021 at 16:17 EST"
+    "num_comments": 8918,
+    "datetime": "December 05 2021 at 17:18 EST"
 }

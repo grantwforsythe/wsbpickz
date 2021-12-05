@@ -2,11 +2,11 @@
     "stocks": [
         {
             "ticker": " DOCU",
-            "count": 68
+            "count": 71
         },
         {
             "ticker": " GME",
-            "count": 64
+            "count": 62
         },
         {
             "ticker": " AAPL",
@@ -18,7 +18,7 @@
         },
         {
             "ticker": " TSLA",
-            "count": 40
+            "count": 41
         },
         {
             "ticker": " NVDA",
@@ -50,7 +50,7 @@
         },
         {
             "ticker": " PLTR",
-            "count": 14
+            "count": 15
         },
         {
             "ticker": " PFE",
@@ -63,10 +63,6 @@
         {
             "ticker": " AMZN",
             "count": 11
-        },
-        {
-            "ticker": " DKNG",
-            "count": 9
         },
         {
             "ticker": " IBKR",
@@ -85,12 +81,16 @@
             "count": 8
         },
         {
+            "ticker": " AZO",
+            "count": 8
+        },
+        {
             "ticker": " DIS",
             "count": 8
         },
         {
-            "ticker": " AZO",
-            "count": 7
+            "ticker": " DKNG",
+            "count": 8
         },
         {
             "ticker": " ASAN",
@@ -325,10 +325,6 @@
             "count": 2
         },
         {
-            "ticker": " NFLX",
-            "count": 2
-        },
-        {
             "ticker": " RAD",
             "count": 2
         },
@@ -406,6 +402,10 @@
         },
         {
             "ticker": " ACCO",
+            "count": 2
+        },
+        {
+            "ticker": " CPA",
             "count": 2
         },
         {
@@ -730,6 +730,6 @@
         }
     ],
     "num_posts": 160,
-    "num_comments": 8892,
-    "datetime": "December 05 2021 at 05:17 EST"
+    "num_comments": 9003,
+    "datetime": "December 05 2021 at 06:17 EST"
 }

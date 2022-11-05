@@ -29,7 +29,21 @@ with open('data/curated_stock_tickers.txt', 'r') as file:
     TICKERS = {line.strip() for line in file.readlines()}
 
 
-def parse_subreddit(subreddit, regex = r'[$]? [A-Z]{3,4}'):
+def main():
+    global stocks
+
+    for subreddit in SUBREDDITS:
+        parse_subreddit(subreddit)
+
+    # covert to json format
+    list_of_stock = [{"ticker": key, "count": value} for key, value in stocks.items()]
+    stocks = sorted(list_of_stock, key=lambda item: item['count'], reverse=True)
+
+    obj = {"stocks": stocks, "num_posts": num_posts, "num_comments": num_comments, "datetime": datetime.now().strftime('%B %d %Y at %H:%M EST')}
+    with open('data/stocks.json', 'w') as file:
+        json.dump(obj, file, indent=4)
+
+def parse_subreddit(subreddit, regex= r'[$]? [A-Z]{3,4}'):
     """
     Count the number stocks mentioned in comments across a number of new posts on a subreddit
 
@@ -52,19 +66,6 @@ stocks = dict()
 num_posts = 0
 num_comments = 0 
 
-def main():
-    global stocks
-
-    for subreddit in SUBREDDITS:
-        parse_subreddit(subreddit)
-
-    # covert to json format
-    list_of_stock = [{"ticker": key, "count": value} for key, value in stocks.items()]
-    stocks = sorted(list_of_stock, key=lambda item: item['count'], reverse=True)
-
-    obj = {"stocks": stocks, "num_posts": num_posts, "num_comments": num_comments, "datetime": datetime.now().strftime('%B %d %Y at %H:%M EST')}
-    with open('data/stocks.json', 'w') as file:
-        json.dump(obj, file, indent=4)
 
 if __name__ == '__main__':
     main()

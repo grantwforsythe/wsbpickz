@@ -12,12 +12,12 @@ reddit = praw.Reddit(
     user_agent=os.getenv('USER_AGENT'),
 )
 
-SUBREDDITS = (
+SUBREDDITS = {
     'wallstreetbets',
     'wallstreetbetsOGs',
     'wallstreetbetsnew',
     'wallstreetbetsELITE'
-)
+}
 
 LIMIT = 40
 

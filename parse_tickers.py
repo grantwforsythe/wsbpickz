@@ -43,7 +43,7 @@ def main():
     with open('data/stocks.json', 'w') as file:
         json.dump(obj, file, indent=4)
 
-def parse_subreddit(subreddit, regex= r'[$]? [A-Z]{3,4}'):
+def parse_subreddit(subreddit, regex= r'[$]? [A-Z]{1,4}'):
     """
     Count the number stocks mentioned in comments across a number of new posts on a subreddit
 

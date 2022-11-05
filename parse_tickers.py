@@ -6,12 +6,14 @@ import json
 import praw
 from datetime import datetime
 
+# create client
 reddit = praw.Reddit(
     client_id=os.getenv('CLIENT_ID'),
     client_secret=os.getenv('CLIENT_SECRET'),
     user_agent=os.getenv('USER_AGENT'),
 )
 
+# subreddits to be parsed
 SUBREDDITS = {
     'wallstreetbets',
     'wallstreetbetsOGs',
@@ -19,9 +21,10 @@ SUBREDDITS = {
     'wallstreetbetsELITE'
 }
 
+# number of posts
 LIMIT = 40
 
-# a text file containing all of the current tickers on the NYSE
+# parse tickers from text file
 with open('data/curated_stock_tickers.txt', 'r') as file:
     TICKERS = {line.strip() for line in file.readlines()}
 

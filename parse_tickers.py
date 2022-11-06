@@ -4,7 +4,11 @@ import os
 import re
 import json
 import praw
+import functools
+import numpy as np
+import pandas as pd
 from datetime import datetime
+
 
 # create client
 reddit = praw.Reddit(
@@ -30,42 +34,59 @@ with open('data/curated_stock_tickers.txt', 'r') as file:
 
 
 def main():
-    global stocks
+    regex = r'[$]? [A-Z]{3,4}'
 
-    for subreddit in SUBREDDITS:
-        parse_subreddit(subreddit)
+    dfs = [
+        parse_subreddit(subreddit, regex)
+        for subreddit in SUBREDDITS
+    ]
 
-    # covert to json format
-    list_of_stock = [{"ticker": key, "count": value} for key, value in stocks.items()]
-    stocks = sorted(list_of_stock, key=lambda item: item['count'], reverse=True)
+    # add the DataFrames together
+    df = functools.reduce(pd.DataFrame.add, dfs)
+    # save the results to a json file
+    df[df['count'] != 0].sort_values(
+        by=['count'],
+        ascending=False
+    ).to_json(
+        os.path.join(os.path.dirname(__file__), 'data', 'stocks.json'),
+        orient='index',
+        indent=4
+    )
 
-    obj = {"stocks": stocks, "num_posts": num_posts, "num_comments": num_comments, "datetime": datetime.now().strftime('%B %d %Y at %H:%M EST')}
-    with open('data/stocks.json', 'w') as file:
-        json.dump(obj, file, indent=4)
-
-def parse_subreddit(subreddit, regex= r'[$]? [A-Z]{1,4}'):
+def parse_subreddit(subreddit: str, regex: str) -> pd.DataFrame:
     """
-    Count the number stocks mentioned in comments across a number of new posts on a subreddit
+    Count the number stocks mentioned in comments across a number of hot posts on a subreddit.
 
     :param str subreddit: The subreddit to be parsed
-    :param str regex: The expression of interest 
-    :param int limit: The number of posts to be parsed
+    :param str regex: The regular expression to match
+    :return: A DataFrame of the frequency of stock tickers
     """
-    global num_posts
-    global num_comments
+    df = pd.DataFrame(
+        data=0,
+        index=pd.Index(TICKERS, name='ticker'),
+        columns=['count'],
+        dtype=np.int32
+    )
+
     for post in reddit.subreddit(subreddit).new(limit=LIMIT):
-        num_posts += 1
+        # remove MoreComments object(s)
         post.comments.replace_more(limit=0)
         for comment in post.comments.list():
-            num_comments += 1
             for ticker in re.findall(regex, comment.body.strip()):
-                if ticker.strip() in TICKERS:
-                    stocks[ticker] = stocks.get(ticker, 1) + 1
+                try:
+                    df.loc[ticker.strip()] += 1
+                except KeyError:
+                    # We only care about tickers that recognize
+                    pass
+    return df
     
-stocks = dict()
-num_posts = 0
-num_comments = 0 
-
 
 if __name__ == '__main__':
-    main()
+    print('Starting...')
+
+    try:
+        main()
+    except KeyboardInterrupt:
+        print('Interupted')
+    finally:
+        print('Fini')

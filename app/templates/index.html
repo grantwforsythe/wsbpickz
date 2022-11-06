@@ -6,9 +6,6 @@
 {% endblock header %}
 
 {% block subheading %}
-  <p class="lead text-center text-secondary">
-    Parsed <span class="text-primary">{{ num_comments }}</span> comments across <span class="text-primary">{{ num_posts }}</span> posts on {{ date_time }}. This list is updated every hour.
-  </p>
   <p class="text-center">
     Subreddits parsed:
     {% for subreddit in subreddits %}
@@ -29,12 +26,12 @@
         </tr>
       </thead>
       <tbody>
-        {% for stock in stocks %}
-        <tr class="text-center">
-          <th scope="row">{{ loop.index }}</th>
-          <td><a href="https://finance.yahoo.com/quote/{{ stock['ticker'] }}" class="btn btn-link">{{ stock["ticker"] }}</a></td>
-          <td>{{ stock["count"] }}</td>
-        </tr>
+        {% for ticker, value in stocks.items() %}
+          <tr class="text-center">
+            <th scope="row">{{ loop.index }}</th>
+            <td><a href="https://finance.yahoo.com/quote/{{ ticker }}" class="btn btn-link">{{ ticker }}</a></td>
+            <td>{{ value["count"] }}</td>
+          </tr>
         {% endfor %}
       </tbody>
     </table>
@@ -52,8 +49,8 @@
 
 {% block scripts %}
   <script>
-    $(document).ready( function () {
-      $('#table-stocks').DataTable()
+    document.ready(() => {
+        document.querySelector('#table-stocks').DataTable()
     });
   </script>
 {% endblock scripts %}

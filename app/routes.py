@@ -17,11 +17,8 @@ def index():
 
     return render_template(
         'index.html', 
-        stocks=stocks['stocks'],
-        subreddits=SUBREDDITS,
-        num_comments=stocks['num_comments'],
-        num_posts=stocks['num_posts'],
-        date_time=stocks['datetime']
+        stocks=stocks,
+        subreddits=SUBREDDITS
     )
 
 

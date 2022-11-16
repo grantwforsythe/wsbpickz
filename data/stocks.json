@@ -17,32 +17,35 @@
     "GME":{
         "count":19
     },
-    "TWTR":{
+    "DTE":{
         "count":14
     },
-    "DTE":{
+    "TWTR":{
         "count":14
     },
     "PDT":{
         "count":13
     },
-    "AMZN":{
+    "GPRO":{
         "count":12
     },
-    "GPRO":{
+    "AMZN":{
         "count":12
     },
     "AMC":{
         "count":11
     },
-    "LULU":{
+    "UPST":{
         "count":10
     },
     "NVDA":{
         "count":10
     },
-    "UPST":{
+    "LULU":{
         "count":10
+    },
+    "CVNA":{
+        "count":9
     },
     "MSFT":{
         "count":9
@@ -50,34 +53,31 @@
     "WMT":{
         "count":9
     },
-    "CVNA":{
-        "count":9
-    },
-    "SOL":{
-        "count":8
-    },
-    "TSM":{
+    "HOOD":{
         "count":8
     },
     "JPM":{
         "count":8
     },
-    "HOOD":{
+    "TSM":{
         "count":8
     },
-    "COMM":{
-        "count":7
+    "SOL":{
+        "count":8
     },
     "TWLO":{
+        "count":7
+    },
+    "COMM":{
         "count":7
     },
     "BABA":{
         "count":6
     },
-    "LITE":{
+    "MORN":{
         "count":6
     },
-    "GEO":{
+    "LITE":{
         "count":6
     },
     "PTON":{
@@ -86,16 +86,31 @@
     "ETSY":{
         "count":6
     },
-    "MORN":{
+    "GEO":{
         "count":6
     },
     "LAC":{
         "count":6
     },
+    "EXPE":{
+        "count":5
+    },
     "RSI":{
         "count":5
     },
+    "GDP":{
+        "count":5
+    },
+    "IBKR":{
+        "count":5
+    },
     "SHOP":{
+        "count":5
+    },
+    "HAPP":{
+        "count":5
+    },
+    "ROKU":{
         "count":5
     },
     "BYND":{
@@ -104,43 +119,13 @@
     "ATVI":{
         "count":5
     },
-    "HAPP":{
-        "count":5
-    },
-    "EXPE":{
-        "count":5
-    },
-    "ROKU":{
-        "count":5
-    },
-    "IBKR":{
-        "count":5
-    },
-    "FUTU":{
-        "count":4
-    },
     "CLF":{
-        "count":4
-    },
-    "XOM":{
         "count":4
     },
     "LLY":{
         "count":4
     },
-    "MSTR":{
-        "count":4
-    },
-    "OXY":{
-        "count":4
-    },
-    "FDX":{
-        "count":4
-    },
-    "PANW":{
-        "count":4
-    },
-    "INTU":{
+    "CCL":{
         "count":4
     },
     "WTI":{
@@ -149,28 +134,49 @@
     "CASI":{
         "count":4
     },
-    "CCL":{
+    "FUTU":{
         "count":4
     },
-    "GDP":{
+    "PANW":{
+        "count":4
+    },
+    "XOM":{
+        "count":4
+    },
+    "MSTR":{
+        "count":4
+    },
+    "FDX":{
+        "count":4
+    },
+    "INTU":{
+        "count":4
+    },
+    "OXY":{
+        "count":4
+    },
+    "MSM":{
         "count":3
     },
-    "HIMX":{
+    "UNIT":{
         "count":3
     },
-    "CAT":{
+    "CRM":{
         "count":3
     },
-    "CMBM":{
+    "CPG":{
         "count":3
     },
     "SNOW":{
         "count":3
     },
-    "POWW":{
+    "AMER":{
         "count":3
     },
-    "BBBY":{
+    "CMBM":{
+        "count":3
+    },
+    "EHT":{
         "count":3
     },
     "PHAT":{
@@ -179,67 +185,121 @@
     "ADC":{
         "count":3
     },
-    "MSM":{
+    "AFRM":{
         "count":3
     },
-    "CPG":{
+    "BBBY":{
         "count":3
     },
     "LRCX":{
         "count":3
     },
+    "POWW":{
+        "count":3
+    },
+    "HIMX":{
+        "count":3
+    },
     "CROX":{
         "count":3
     },
-    "UNIT":{
+    "CAT":{
         "count":3
     },
-    "EHT":{
-        "count":3
+    "NVAX":{
+        "count":2
     },
-    "AMER":{
-        "count":3
+    "TTWO":{
+        "count":2
     },
-    "AFRM":{
-        "count":3
-    },
-    "CRM":{
-        "count":3
-    },
-    "PPT":{
+    "VOD":{
         "count":2
     },
     "CME":{
         "count":2
     },
-    "SAVA":{
+    "CBOE":{
         "count":2
     },
-    "INVE":{
+    "NOG":{
         "count":2
     },
-    "PIXY":{
+    "ABNB":{
         "count":2
     },
-    "NFLX":{
+    "TDA":{
         "count":2
     },
-    "STOR":{
+    "STRO":{
         "count":2
     },
-    "MTG":{
+    "CMG":{
         "count":2
     },
-    "ROG":{
+    "VMW":{
+        "count":2
+    },
+    "HSBC":{
+        "count":2
+    },
+    "DKNG":{
+        "count":2
+    },
+    "FISV":{
         "count":2
     },
     "ECOR":{
         "count":2
     },
-    "MUH":{
+    "CRSR":{
         "count":2
     },
-    "TTWO":{
+    "NTNX":{
+        "count":2
+    },
+    "PIXY":{
+        "count":2
+    },
+    "AMRS":{
+        "count":2
+    },
+    "STAF":{
+        "count":2
+    },
+    "MTG":{
+        "count":2
+    },
+    "LMFA":{
+        "count":2
+    },
+    "POLA":{
+        "count":2
+    },
+    "SAVA":{
+        "count":2
+    },
+    "PPT":{
+        "count":2
+    },
+    "USB":{
+        "count":2
+    },
+    "INVE":{
+        "count":2
+    },
+    "CTO":{
+        "count":2
+    },
+    "ROG":{
+        "count":2
+    },
+    "STOR":{
+        "count":2
+    },
+    "BTU":{
+        "count":2
+    },
+    "FSLR":{
         "count":2
     },
     "NKLA":{
@@ -248,445 +308,382 @@
     "LYFT":{
         "count":2
     },
-    "BTU":{
+    "REDU":{
+        "count":2
+    },
+    "NFLX":{
+        "count":2
+    },
+    "MUH":{
         "count":2
     },
     "ENPH":{
         "count":2
     },
-    "VMW":{
-        "count":2
-    },
-    "NTNX":{
-        "count":2
-    },
-    "REDU":{
-        "count":2
-    },
-    "NVAX":{
-        "count":2
-    },
-    "CMG":{
-        "count":2
-    },
-    "STAF":{
-        "count":2
-    },
-    "STRO":{
-        "count":2
-    },
-    "NOG":{
-        "count":2
-    },
-    "BYD":{
-        "count":2
-    },
-    "AMRS":{
-        "count":2
-    },
-    "VOD":{
-        "count":2
-    },
     "STON":{
-        "count":2
-    },
-    "FSLR":{
-        "count":2
-    },
-    "USB":{
-        "count":2
-    },
-    "TDA":{
-        "count":2
-    },
-    "DKNG":{
-        "count":2
-    },
-    "CRSR":{
-        "count":2
-    },
-    "FISV":{
-        "count":2
-    },
-    "CBOE":{
-        "count":2
-    },
-    "CTO":{
-        "count":2
-    },
-    "LMFA":{
-        "count":2
-    },
-    "HSBC":{
         "count":2
     },
     "IRL":{
         "count":2
     },
-    "POLA":{
+    "BYD":{
         "count":2
     },
-    "ABNB":{
-        "count":2
-    },
-    "RKT":{
-        "count":1
-    },
-    "COLL":{
-        "count":1
-    },
-    "RES":{
+    "PACE":{
         "count":1
     },
     "ABC":{
         "count":1
     },
-    "BASI":{
-        "count":1
-    },
-    "PROG":{
-        "count":1
-    },
-    "AGEN":{
-        "count":1
-    },
-    "CLNE":{
-        "count":1
-    },
-    "HAL":{
-        "count":1
-    },
-    "OCC":{
-        "count":1
-    },
-    "PATI":{
-        "count":1
-    },
-    "RIOT":{
-        "count":1
-    },
-    "SENS":{
-        "count":1
-    },
-    "DOX":{
-        "count":1
-    },
-    "GIS":{
-        "count":1
-    },
-    "BERY":{
-        "count":1
-    },
-    "RCL":{
-        "count":1
-    },
-    "LTHM":{
-        "count":1
-    },
-    "BBY":{
-        "count":1
-    },
-    "CRIS":{
-        "count":1
-    },
-    "FNKO":{
-        "count":1
-    },
-    "TRIL":{
-        "count":1
-    },
-    "DOCT":{
-        "count":1
-    },
-    "TTD":{
-        "count":1
-    },
-    "SOFI":{
-        "count":1
-    },
-    "TOUR":{
-        "count":1
-    },
-    "FCX":{
-        "count":1
-    },
-    "NYT":{
-        "count":1
-    },
-    "IMAB":{
-        "count":1
-    },
-    "WYNN":{
-        "count":1
-    },
-    "RAMP":{
-        "count":1
-    },
-    "REGI":{
-        "count":1
-    },
-    "KALA":{
-        "count":1
-    },
-    "DAUG":{
-        "count":1
-    },
-    "BCOR":{
-        "count":1
-    },
-    "FIS":{
-        "count":1
-    },
-    "PYPL":{
-        "count":1
-    },
-    "OGS":{
-        "count":1
-    },
-    "ARCH":{
-        "count":1
-    },
-    "WIRE":{
-        "count":1
-    },
-    "KLAC":{
-        "count":1
-    },
-    "NXPI":{
-        "count":1
-    },
-    "RAD":{
-        "count":1
-    },
-    "MCD":{
-        "count":1
-    },
-    "INTC":{
-        "count":1
-    },
-    "JNJ":{
-        "count":1
-    },
-    "WEN":{
-        "count":1
-    },
-    "PLTR":{
-        "count":1
-    },
-    "AMAT":{
-        "count":1
-    },
-    "XPO":{
-        "count":1
-    },
-    "TAL":{
-        "count":1
-    },
-    "FPI":{
-        "count":1
-    },
-    "BLI":{
-        "count":1
-    },
-    "RCI":{
-        "count":1
-    },
-    "MIDD":{
-        "count":1
-    },
-    "CONN":{
-        "count":1
-    },
-    "BTO":{
-        "count":1
-    },
-    "CARR":{
-        "count":1
-    },
-    "POR":{
+    "VERU":{
         "count":1
     },
     "FIII":{
         "count":1
     },
-    "ACCO":{
+    "IEX":{
         "count":1
     },
-    "LNG":{
+    "SOFI":{
         "count":1
     },
-    "PACE":{
+    "SENS":{
         "count":1
     },
-    "SACH":{
+    "AMAT":{
         "count":1
     },
-    "GLOB":{
+    "JNJ":{
         "count":1
     },
-    "GIB":{
-        "count":1
-    },
-    "MCY":{
-        "count":1
-    },
-    "MCK":{
-        "count":1
-    },
-    "OPRA":{
-        "count":1
-    },
-    "APH":{
-        "count":1
-    },
-    "RTX":{
-        "count":1
-    },
-    "SURF":{
-        "count":1
-    },
-    "ACH":{
-        "count":1
-    },
-    "SQM":{
-        "count":1
-    },
-    "BOE":{
-        "count":1
-    },
-    "RBC":{
-        "count":1
-    },
-    "SNPS":{
-        "count":1
-    },
-    "CRSP":{
-        "count":1
-    },
-    "TGT":{
-        "count":1
-    },
-    "RDFN":{
-        "count":1
-    },
-    "CXW":{
-        "count":1
-    },
-    "COO":{
+    "TOUR":{
         "count":1
     },
     "TRMD":{
         "count":1
     },
-    "PEG":{
+    "TRIL":{
         "count":1
     },
-    "CRAI":{
+    "FCX":{
         "count":1
     },
-    "BCE":{
+    "ARCH":{
         "count":1
     },
-    "UAVS":{
+    "CONN":{
         "count":1
     },
-    "HUM":{
-        "count":1
-    },
-    "NPA":{
-        "count":1
-    },
-    "SHAK":{
-        "count":1
-    },
-    "ENR":{
-        "count":1
-    },
-    "FSLY":{
-        "count":1
-    },
-    "VERU":{
-        "count":1
-    },
-    "NAV":{
-        "count":1
-    },
-    "MERC":{
-        "count":1
-    },
-    "IEX":{
-        "count":1
-    },
-    "PARR":{
-        "count":1
-    },
-    "CHWY":{
-        "count":1
-    },
-    "GENE":{
-        "count":1
-    },
-    "STRA":{
-        "count":1
-    },
-    "FCF":{
-        "count":1
-    },
-    "IPA":{
-        "count":1
-    },
-    "FATE":{
-        "count":1
-    },
-    "MELI":{
-        "count":1
-    },
-    "SMIT":{
-        "count":1
-    },
-    "SAR":{
-        "count":1
-    },
-    "WING":{
-        "count":1
-    },
-    "INFI":{
-        "count":1
-    },
-    "PRPL":{
-        "count":1
-    },
-    "CLOV":{
-        "count":1
-    },
-    "TMO":{
-        "count":1
-    },
-    "TDOC":{
-        "count":1
-    },
-    "BMRN":{
-        "count":1
-    },
-    "COF":{
+    "BCOR":{
         "count":1
     },
     "NKE":{
         "count":1
     },
-    "DHI":{
+    "WIRE":{
         "count":1
     },
-    "BFS":{
+    "BMRN":{
+        "count":1
+    },
+    "TAL":{
+        "count":1
+    },
+    "PYPL":{
+        "count":1
+    },
+    "SQM":{
+        "count":1
+    },
+    "LTHM":{
+        "count":1
+    },
+    "CRIS":{
+        "count":1
+    },
+    "RDFN":{
+        "count":1
+    },
+    "BCE":{
+        "count":1
+    },
+    "IMAB":{
+        "count":1
+    },
+    "GIB":{
+        "count":1
+    },
+    "MERC":{
+        "count":1
+    },
+    "WEN":{
+        "count":1
+    },
+    "RES":{
+        "count":1
+    },
+    "RCL":{
+        "count":1
+    },
+    "OGS":{
+        "count":1
+    },
+    "ACCO":{
+        "count":1
+    },
+    "SMIT":{
+        "count":1
+    },
+    "NYT":{
         "count":1
     },
     "TCI":{
         "count":1
     },
-    "ASH":{
+    "GENE":{
+        "count":1
+    },
+    "XPO":{
+        "count":1
+    },
+    "KALA":{
+        "count":1
+    },
+    "MIDD":{
         "count":1
     },
     "PLL":{
+        "count":1
+    },
+    "RAD":{
+        "count":1
+    },
+    "PARR":{
+        "count":1
+    },
+    "TMO":{
+        "count":1
+    },
+    "MELI":{
+        "count":1
+    },
+    "CRAI":{
+        "count":1
+    },
+    "RAMP":{
+        "count":1
+    },
+    "CRSP":{
+        "count":1
+    },
+    "COO":{
+        "count":1
+    },
+    "OCC":{
+        "count":1
+    },
+    "SURF":{
+        "count":1
+    },
+    "NAV":{
+        "count":1
+    },
+    "ENR":{
+        "count":1
+    },
+    "COF":{
+        "count":1
+    },
+    "POR":{
+        "count":1
+    },
+    "TGT":{
+        "count":1
+    },
+    "GIS":{
+        "count":1
+    },
+    "SACH":{
+        "count":1
+    },
+    "OPRA":{
+        "count":1
+    },
+    "INFI":{
+        "count":1
+    },
+    "NXPI":{
+        "count":1
+    },
+    "ASH":{
+        "count":1
+    },
+    "FPI":{
+        "count":1
+    },
+    "PATI":{
+        "count":1
+    },
+    "HAL":{
+        "count":1
+    },
+    "MCD":{
+        "count":1
+    },
+    "NPA":{
+        "count":1
+    },
+    "RIOT":{
+        "count":1
+    },
+    "MCK":{
+        "count":1
+    },
+    "BOE":{
+        "count":1
+    },
+    "DAUG":{
+        "count":1
+    },
+    "PROG":{
+        "count":1
+    },
+    "CARR":{
+        "count":1
+    },
+    "BBY":{
+        "count":1
+    },
+    "AGEN":{
+        "count":1
+    },
+    "PLTR":{
+        "count":1
+    },
+    "IPA":{
+        "count":1
+    },
+    "BLI":{
+        "count":1
+    },
+    "FIS":{
+        "count":1
+    },
+    "CXW":{
+        "count":1
+    },
+    "WYNN":{
+        "count":1
+    },
+    "GLOB":{
+        "count":1
+    },
+    "RTX":{
+        "count":1
+    },
+    "DOX":{
+        "count":1
+    },
+    "KLAC":{
+        "count":1
+    },
+    "RBC":{
+        "count":1
+    },
+    "FATE":{
+        "count":1
+    },
+    "HUM":{
+        "count":1
+    },
+    "CLOV":{
+        "count":1
+    },
+    "STRA":{
+        "count":1
+    },
+    "SNPS":{
+        "count":1
+    },
+    "INTC":{
+        "count":1
+    },
+    "SAR":{
+        "count":1
+    },
+    "ACH":{
+        "count":1
+    },
+    "LNG":{
+        "count":1
+    },
+    "CHWY":{
+        "count":1
+    },
+    "FNKO":{
+        "count":1
+    },
+    "WING":{
+        "count":1
+    },
+    "RKT":{
+        "count":1
+    },
+    "APH":{
+        "count":1
+    },
+    "TDOC":{
+        "count":1
+    },
+    "FCF":{
+        "count":1
+    },
+    "DHI":{
+        "count":1
+    },
+    "UAVS":{
+        "count":1
+    },
+    "PRPL":{
+        "count":1
+    },
+    "BTO":{
+        "count":1
+    },
+    "COLL":{
+        "count":1
+    },
+    "PEG":{
+        "count":1
+    },
+    "TTD":{
+        "count":1
+    },
+    "SHAK":{
+        "count":1
+    },
+    "DOCT":{
+        "count":1
+    },
+    "RCI":{
+        "count":1
+    },
+    "FSLY":{
+        "count":1
+    },
+    "REGI":{
+        "count":1
+    },
+    "CLNE":{
+        "count":1
+    },
+    "BASI":{
+        "count":1
+    },
+    "BERY":{
+        "count":1
+    },
+    "MCY":{
         "count":1
     }
 }
